@@ -14,6 +14,8 @@ auf - on
 
 bei - for, at 
 
+besserung - improvement
+
 # D
 
 dachte - thought
@@ -57,6 +59,9 @@ geschaftaddres - business address
 
 glei - same 
 (habs glei) - its the same
+
+gute - quality 
+gute besserung - get well soon
 
 # H
 
