@@ -57,6 +57,8 @@ nicht geht - doesn't work
 
 geschaftaddres - business address
 
+gestern - yesterday
+
 glei - same 
 (habs glei) - its the same
 
@@ -134,6 +136,10 @@ soll - should
 uber - above
 
 ubernehmen - take over
+
+uhr - clock
+
+um - around
 
 und - and 
 
