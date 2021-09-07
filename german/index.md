@@ -6,6 +6,8 @@ aber - but
 
 allen - all 
 
+antwort - answer
+
 auch - also, even 
 
 auf - on 
@@ -29,6 +31,8 @@ das - that
 der - that 
 
 die - the 
+
+direktnacrichten - notify directly 
 
 doch - but  
 
@@ -79,13 +83,15 @@ jetzt - now
 
 # K
 
-kaputt - broken 
-kaputt gemach - destroyed
+kanale - channel
 
 kann - can 
 
 kannst - can 
-kannst du - can you 
+kannst du - can you
+
+kaputt - broken 
+kaputt gemach - destroyed 
 
 klicken - click 
 
