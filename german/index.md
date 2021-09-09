@@ -10,7 +10,11 @@ antwort - answer
 
 auch - also, even 
 
+autsch - ouch
+
 auf - on 
+
+aus - from 
 
 # B 
 
@@ -44,6 +48,8 @@ du - you
 
 # E
 
+einer - a 
+
 einloggen - login
 
 erstellt - created
@@ -59,6 +65,8 @@ gemacht - made
 geht - goes/work
 nicht geht - doesn't work 
 
+geht ja um submit - about to submit
+
 geschaftaddres - business address
 
 gestern - yesterday
@@ -68,6 +76,8 @@ glei - same
 
 gute - quality 
 gute besserung - get well soon
+
+guten - good
 
 # H
 
@@ -94,6 +104,14 @@ kaputt - broken
 kaputt gemach - destroyed 
 
 klicken - click 
+
+kommen - come (plural)
+
+konstanten - constants 
+
+# L
+
+liste - list 
 
 # M
 
@@ -132,10 +150,16 @@ schreiben - write
 
 sichtbar - visible
 
+sprachen - languages
+
 stimmt - true, right
 
 soll - should
 (oder) soll - or should
+
+# T
+
+tatsachlich - in fact, actually
 
 # U 
 
