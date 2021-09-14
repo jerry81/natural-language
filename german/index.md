@@ -32,6 +32,8 @@ dann - then
 
 das - that
 
+deaktiviert - deactivated 
+
 der - that 
 
 die - the 
@@ -83,6 +85,8 @@ guten - good
 
 habe - have 
 
+hat - has 
+
 # I
 
 ist - is 
@@ -102,6 +106,8 @@ kannst du - can you
 
 kaputt - broken 
 kaputt gemach - destroyed 
+
+keinen - none
 
 klicken - click 
 
@@ -148,7 +154,11 @@ schlecht - bad
 
 schreiben - write
 
+schon - do 
+
 sichtbar - visible
+
+somit - Consequently 
 
 sprachen - languages
 
@@ -173,6 +183,9 @@ um - around
 
 und - and 
 
+# V
+
+von - from 
 # W 
 
 war - was 
@@ -184,4 +197,10 @@ wenn - if
 
 welchem - which
 
+wir - we 
+
 wissen - to know 
+
+# Z
+
+Zugriff - access
