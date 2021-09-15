@@ -8,6 +8,8 @@ allen - all
 
 antwort - answer
 
+anzeigen - show 
+
 auch - also, even 
 
 autsch - ouch
@@ -53,6 +55,8 @@ du - you
 einer - a 
 
 einloggen - login
+
+erste - first 
 
 erstellt - created
 
@@ -134,9 +138,13 @@ muss nur - just have to
 
 # N
 
+nachtricht - news
+
 ne - a, no 
 
 nehmen - to take
+
+neue - new
 
 nicht - negation 
 
@@ -155,6 +163,8 @@ schlecht - bad
 schreiben - write
 
 schon - do 
+
+seit - since
 
 sichtbar - visible
 
@@ -182,6 +192,10 @@ uhr - clock
 um - around
 
 und - and 
+
+ungelesene - unread 
+
+unser - ours
 
 # V
 
