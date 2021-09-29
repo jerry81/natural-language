@@ -138,7 +138,11 @@ muss nur - just have to
 
 # N
 
+nachher - later
+
 nachtricht - news
+
+nachste - next
 
 ne - a, no 
 
@@ -155,6 +159,10 @@ nur - only, just
 # O
 
 oder - or 
+
+# R 
+
+reden - talk
 
 # S
 
@@ -218,3 +226,5 @@ wissen - to know
 # Z
 
 Zugriff - access
+
+zum - to the
