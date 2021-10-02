@@ -18,9 +18,13 @@ auf - on
 
 aus - from 
 
+ausliefern - deliver
+
 # B 
 
 bei - for, at 
+
+besprechung - meeting
 
 besserung - improvement
 
@@ -33,6 +37,8 @@ da - there
 dann - then 
 
 das - that
+
+davor - before
 
 deaktiviert - deactivated 
 
@@ -56,6 +62,8 @@ einer - a
 
 einloggen - login
 
+enderen - others
+
 erste - first 
 
 erstellt - created
@@ -66,12 +74,16 @@ falsche - false, wrong
 
 # G 
 
-gemacht - made
+ganz - quite 
+
+gehen - walk 
 
 geht - goes/work
 nicht geht - doesn't work 
 
 geht ja um submit - about to submit
+
+gemacht - made
 
 geschaftaddres - business address
 
@@ -79,6 +91,8 @@ gestern - yesterday
 
 glei - same 
 (habs glei) - its the same
+
+glauber - believe
 
 gute - quality 
 gute besserung - get well soon
@@ -89,9 +103,13 @@ guten - good
 
 habe - have 
 
-hat - has 
+hat - has
+
+horen - hear
 
 # I
+
+irgend - any
 
 ist - is 
 
@@ -121,15 +139,23 @@ konstanten - constants
 
 # L
 
+lassen - permit, let
+
+laufen - run 
+
 liste - list 
 
 # M
 
 machen - do
 
+mehr - more
+
 meinem - my 
 
 mich - me 
+
+mir - me 
 
 mit - with
 
@@ -172,7 +198,11 @@ schreiben - write
 
 schon - do 
 
+schones - nice
+
 seit - since
+
+sicher - for sure
 
 sichtbar - visible
 
@@ -223,8 +253,12 @@ wir - we
 
 wissen - to know 
 
+wochenende (WE) - weekend
+
 # Z
 
 Zugriff - access
+
+zu - to 
 
 zum - to the
