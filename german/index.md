@@ -6,6 +6,8 @@ aber - but
 
 allen - all 
 
+anderes - other
+
 antwort - answer
 
 anzeigen - show 
@@ -22,11 +24,15 @@ ausliefern - deliver
 
 # B 
 
+beantwortet - answered
+
 bei - for, at 
 
 besprechung - meeting
 
 besserung - improvement
+
+bist du - are you
 
 # D
 
@@ -36,7 +42,9 @@ da - there
 
 dann - then 
 
-das - that
+das - that/the
+
+dass - that
 
 davor - before
 
@@ -60,6 +68,8 @@ du - you
 
 einer - a 
 
+eingeladen - invited
+
 einloggen - login
 
 enderen - others
@@ -67,6 +77,8 @@ enderen - others
 erste - first 
 
 erstellt - created
+
+evtl - possibly
 
 # F
 
@@ -83,14 +95,18 @@ nicht geht - doesn't work
 
 geht ja um submit - about to submit
 
+geladen - loaded
+
 gemacht - made
 
 geschaftaddres - business address
 
 gestern - yesterday
 
-glei - same 
-(habs glei) - its the same
+gibt es - is there
+
+glei/gleich - same 
+(habs glei/gleich) - its the same
 
 glauber - believe
 
@@ -105,6 +121,8 @@ habe - have
 
 hat - has
 
+hoch - high
+
 horen - hear
 
 # I
@@ -115,7 +133,7 @@ ist - is
 
 # J 
 
-jetzt - now 
+jetzt - now (pronounced "yetz")
 
 # K
 
@@ -143,11 +161,15 @@ lassen - permit, let
 
 laufen - run 
 
+leider - unfortunately
+
 liste - list 
 
 # M
 
 machen - do
+
+mal - time(s)
 
 mehr - more
 
@@ -178,6 +200,8 @@ neue - new
 
 nicht - negation 
 
+noch - still 
+
 nochmal - once again
 
 nur - only, just
@@ -190,7 +214,13 @@ oder - or
 
 reden - talk
 
+reichen - are sufficent
+
+richtige - right one
+
 # S
+
+sag - say
 
 schlecht - bad 
 
@@ -219,6 +249,10 @@ soll - should
 
 tatsachlich - in fact, actually
 
+termin - meeting 
+
+Tschuss - bye 
+
 # U 
 
 uber - above
@@ -233,17 +267,29 @@ und - and
 
 ungelesene - unread 
 
+uns - us
+
 unser - ours
 
 # V
 
+vielles - a lot of 
+
+vom - from 
 von - from 
+
 # W 
 
 war - was 
 
 was - what 
 was rein - something in 
+
+weider - again
+
+weis - know
+
+weiss - white
 
 wenn - if 
 
@@ -262,3 +308,5 @@ Zugriff - access
 zu - to 
 
 zum - to the
+
+zusammen - together
