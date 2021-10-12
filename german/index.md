@@ -84,6 +84,8 @@ evtl - possibly
 
 falsche - false, wrong 
 
+freuen - be happy 
+
 # G 
 
 ganz - quite 
@@ -121,6 +123,8 @@ habe - have
 
 hat - has
 
+helfen - help 
+
 hoch - high
 
 horen - hear
@@ -154,6 +158,8 @@ klicken - click
 kommen - come (plural)
 
 konstanten - constants 
+
+kunden - customer 
 
 # L
 
@@ -224,13 +230,19 @@ sag - say
 
 schlecht - bad 
 
+schneller - faster
+
 schreiben - write
 
 schon - do 
 
+schoon - beautiful
+
 schones - nice
 
 seit - since
+
+sich - themselves
 
 sicher - for sure
 
@@ -273,6 +285,8 @@ unser - ours
 
 # V
 
+viel - much 
+
 vielles - a lot of 
 
 vom - from 
@@ -287,6 +301,8 @@ was rein - something in
 
 weider - again
 
+weil - because
+
 weis - know
 
 weiss - white
@@ -294,6 +310,8 @@ weiss - white
 wenn - if 
 
 welchem - which
+
+werden - will
 
 wir - we 
 
