@@ -101,6 +101,8 @@ geladen - loaded
 
 gemacht - made
 
+genau - precisely
+
 geschaftaddres - business address
 
 gestern - yesterday
