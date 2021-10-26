@@ -323,6 +323,8 @@ wochenende (WE) - weekend
 
 # Z
 
+zeichen - sign
+
 Zugriff - access
 
 zu - to 
