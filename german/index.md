@@ -4,15 +4,21 @@
 
 aber - but
 
+abrufen - retrieve 
+
 allen - all 
 
 anderes - other
+
+Angabe - specificaiton 
 
 antwort - answer
 
 anzeigen - show 
 
 auch - also, even 
+
+automatisch - automatic 
 
 autsch - ouch
 
@@ -22,23 +28,38 @@ aus - from
 
 ausliefern - deliver
 
+Auswirkung - effect
+
 # B 
 
 beantwortet - answered
 
 bei - for, at 
 
+berarbeitet - working on it 
+
+Bearbeitergruppe - editor group 
+
+Berarbeitungsstand - processing status 
+
+bereits - already 
+
 besprechung - meeting
+
+Beschreibung - description 
 
 besserung - improvement
 
-bist du - are you
+Betreffzeile - subject
 
+bist du - are you
 # D
 
 dachte - thought
 
 da - there
+
+damit - in order that 
 
 dann - then 
 
@@ -46,13 +67,17 @@ das - that/the
 
 dass - that
 
+daten - data 
+
 davor - before
 
 deaktiviert - deactivated 
 
 der - that 
 
-die - the 
+die/dem/den - the 
+
+dies - this 
 
 direktnacrichten - notify directly 
 
@@ -62,9 +87,13 @@ dort - there
 
 drin - inside 
 
+Dringlichkeit - urgency 
+
 du - you 
 
 # E
+
+erfasst - on target
 
 einer - a 
 
@@ -74,9 +103,13 @@ einloggen - login
 
 enderen - others
 
+Ergänzungen - Supplements
+
 erste - first 
 
 erstellt - created
+
+erzeugte - generated
 
 evtl - possibly
 
@@ -84,11 +117,15 @@ evtl - possibly
 
 falsche - false, wrong 
 
+Folgende - following 
+
 freuen - be happy 
 
 # G 
 
 ganz - quite 
+
+geehrter - Dear
 
 gehen - walk 
 
@@ -127,6 +164,8 @@ hat - has
 
 helfen - help 
 
+hinterlegt - stored/deposited 
+
 hoch - high
 
 horen - hear
@@ -138,6 +177,8 @@ irgend - any
 ist - is 
 
 # J 
+
+jederzeit - anytime 
 
 jetzt - now (pronounced "yetz")
 
@@ -159,9 +200,11 @@ klicken - click
 
 kommen - come (plural)
 
+können - can 
+
 konstanten - constants 
 
-kunden - customer 
+kunden/Kundin/Kunde - customer 
 
 # L
 
@@ -182,6 +225,8 @@ mal - time(s)
 mehr - more
 
 meinem - my 
+
+melden - announce 
 
 mich - me 
 
@@ -242,6 +287,8 @@ schoon - beautiful
 
 schones - nice
 
+Sehr - Very much
+
 seit - since
 
 sich - themselves
@@ -250,11 +297,17 @@ sicher - for sure
 
 sichtbar - visible
 
+Sollten - should 
+
 somit - Consequently 
 
 sprachen - languages
 
+stattfinden - happen 
+
 stimmt - true, right
+
+Störung - disturbance 
 
 soll - should
 (oder) soll - or should
@@ -315,11 +368,15 @@ welchem - which
 
 werden - will
 
+widerrufen - revoke 
+
 wir - we 
 
 wissen - to know 
 
 wochenende (WE) - weekend
+
+wurde - became
 
 # Z
 
@@ -331,4 +388,10 @@ zu - to
 
 zum - to the
 
+Zuordnung - assignment 
+
 zusammen - together
+
+Zusammenfassung - summary 
+
+zuständigen - competent 
