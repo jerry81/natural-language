@@ -172,6 +172,8 @@ horen - hear
 
 # I
 
+infiltrieren - infiltrate
+
 irgend - any
 
 ist - is 
@@ -275,6 +277,8 @@ richtige - right one
 
 sag - say
 
+schadcode - malicious code
+
 schlecht - bad 
 
 schneller - faster
@@ -330,6 +334,8 @@ uhr - clock
 
 um - around
 
+unbekannte - unknown 
+
 und - and 
 
 ungelesene - unread 
@@ -339,6 +345,8 @@ uns - us
 unser - ours
 
 # V
+
+verseuchen - contaminate
 
 viel - much 
 
