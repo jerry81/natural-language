@@ -364,6 +364,9 @@ von - from
 
 war - was 
 
+warum - why 
+(fragum warum) - ask why 
+
 was - what 
 was rein - something in 
 
