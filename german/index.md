@@ -115,6 +115,8 @@ evtl - possibly
 
 # F
 
+fallt aus heute - cancelled today 
+
 falsche - false, wrong 
 
 Folgende - following 
@@ -266,6 +268,9 @@ nur - only, just
 oder - or 
 
 # R 
+
+raus - out 
+(ich muss leider raus) - i unfortunately must go out 
 
 reden - talk
 
