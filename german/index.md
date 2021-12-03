@@ -18,11 +18,15 @@ anzeigen - show
 
 auch - also, even 
 
+Auswahl - selection 
+
 automatisch - automatic 
 
 autsch - ouch
 
 auf - on 
+
+aufgabe - task
 
 aus - from 
 
@@ -34,7 +38,11 @@ Auswirkung - effect
 
 beantwortet - answered
 
+beheben - remedy, fix
+
 bei - for, at 
+
+beim - at the 
 
 berarbeitet - working on it 
 
@@ -50,6 +58,14 @@ Beschreibung - description
 
 besserung - improvement
 
+besteht darin - consists in 
+
+bestenhend - consisting
+
+(beim) besuch - visiting 
+
+betrachten - regard
+
 Betreffzeile - subject
 
 bist du - are you
@@ -58,6 +74,10 @@ bist du - are you
 dachte - thought
 
 da - there
+
+dabei - included in 
+
+dadurch - through this 
 
 damit - in order that 
 
@@ -74,6 +94,8 @@ davor - before
 deaktiviert - deactivated 
 
 der - that 
+
+deswegen - because of this
 
 die/dem/den - the 
 
@@ -93,9 +115,13 @@ du - you
 
 # E
 
+erfassen - capture
+
 erfasst - on target
 
 einer - a 
+
+einfach - simply 
 
 eingeladen - invited
 
@@ -119,15 +145,25 @@ fallt aus heute - cancelled today
 
 falsche - false, wrong 
 
+festellen konnen - can determine
+
+fehler - error
+
 Folgende - following 
 
 freuen - be happy 
+
+fuhrt es dazu - it leads to 
 
 # G 
 
 ganz - quite 
 
+gar - at all 
+
 geehrter - Dear
+
+geniale - brilliant
 
 gehen - walk 
 
@@ -142,6 +178,8 @@ gemacht - made
 
 genau - precisely
 
+gesehen - be seen
+
 geschaftaddres - business address
 
 gestern - yesterday
@@ -151,7 +189,13 @@ gibt es - is there
 glei/gleich - same 
 (habs glei/gleich) - its the same
 
+gleichzeitig - at the same time 
+
 glauber - believe
+
+grundsatzlich - basically 
+
+(ein) grossteil - a big part of 
 
 gute - quality 
 gute besserung - get well soon
@@ -182,7 +226,11 @@ ist - is
 
 # J 
 
+jeder - everyone 
+
 jederzeit - anytime 
+
+jedoch - however
 
 jetzt - now (pronounced "yetz")
 
@@ -204,6 +252,9 @@ klicken - click
 
 kommen - come (plural)
 
+komplett - completely 
+komplett leeres - completely empty one 
+
 können - can 
 
 konstanten - constants 
@@ -215,6 +266,10 @@ kunden/Kundin/Kunde - customer
 lassen - permit, let
 
 laufen - run 
+
+laufzeit-fehler - runtime error
+
+leeres - empty
 
 leider - unfortunately
 
@@ -230,13 +285,17 @@ mehr - more
 
 meinem - my 
 
-melden - announce 
+meist - mostly 
+
+melden - announce, reports
 
 mich - me 
 
 mir - me 
 
 mit - with
+
+moglich - possible
 
 muss - got to  
 muss nur - just have to 
@@ -255,13 +314,21 @@ nehmen - to take
 
 neue - new
 
-nicht - negation 
+nicht - negation
+  nicht mehr - no longer
+  nicht nur - not only 
+
+nie - never
 
 noch - still 
 
 nochmal - once again
 
 nur - only, just
+
+nutzung - the use of 
+
+Nutzerseite - user side
 
 # O
 
@@ -271,6 +338,10 @@ oder - or
 
 raus - out 
 (ich muss leider raus) - i unfortunately must go out 
+
+realistisch - realistic
+
+reargieren - react 
 
 reden - talk
 
@@ -306,6 +377,10 @@ sicher - for sure
 
 sichtbar - visible
 
+siehe - see
+
+solange - as long as 
+
 Sollten - should 
 
 somit - Consequently 
@@ -333,11 +408,16 @@ Tschuss - bye
 
 uber - above
 
+uberfragt - questioned
+ich bin uberfragt - you've got me stumped
+
 ubernehmen - take over
 
 uhr - clock
 
 um - around
+
+umfeld - environment 
 
 unbekannte - unknown 
 
@@ -347,11 +427,15 @@ ungelesene - unread
 
 uns - us
 
-unser - ours
+unser, unserem - ours
 
 # V
 
+verschiedenen - different 
+
 verseuchen - contaminate
+
+verursacht - caused
 
 viel - much 
 
@@ -364,8 +448,12 @@ von - from
 
 war - was 
 
+ware - was
+
 warum - why 
 (fragum warum) - ask why 
+
+warten - wait 
 
 was - what 
 was rein - something in 
@@ -396,11 +484,17 @@ wurde - became
 
 # Z
 
+z.b. - e.g.
+
 zeichen - sign
+
+zeil - goal 
 
 Zugriff - access
 
 zu - to 
+
+zufalligen - accidental/random
 
 zum - to the
 
