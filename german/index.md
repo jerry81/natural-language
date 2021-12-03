@@ -115,9 +115,7 @@ du - you
 
 # E
 
-erfassen - capture
-
-erfasst - on target
+eigentlich - actually 
 
 einer - a 
 
@@ -130,6 +128,10 @@ einloggen - login
 enderen - others
 
 Ergänzungen - Supplements
+
+erfassen - capture
+
+erfasst - on target
 
 erste - first 
 
@@ -174,6 +176,8 @@ geht ja um submit - about to submit
 
 geladen - loaded
 
+geloscht - turned off/deleted
+
 gemacht - made
 
 genau - precisely
@@ -183,6 +187,8 @@ gesehen - be seen
 geschaftaddres - business address
 
 gestern - yesterday
+
+g.g.f - possibly (gegebenenfalls)
 
 gibt es - is there
 
@@ -207,6 +213,8 @@ guten - good
 habe - have 
 
 hat - has
+
+hatten - would have
 
 helfen - help 
 
@@ -261,6 +269,8 @@ konstanten - constants
 
 kunden/Kundin/Kunde - customer 
 
+kurzen - short 
+
 # L
 
 lassen - permit, let
@@ -302,6 +312,8 @@ muss nur - just have to
 
 # N
 
+nach - after
+
 nachher - later
 
 nachtricht - news
@@ -338,6 +350,10 @@ oder - or
 
 raus - out 
 (ich muss leider raus) - i unfortunately must go out 
+
+rausch - quickly 
+
+rauschen - noise 
 
 realistisch - realistic
 
@@ -385,6 +401,10 @@ Sollten - should
 
 somit - Consequently 
 
+sondern - but, however
+
+spater - later 
+
 sprachen - languages
 
 stattfinden - happen 
@@ -425,11 +445,15 @@ und - and
 
 ungelesene - unread 
 
+unnötige - unnecessary
+
 uns - us
 
 unser, unserem - ours
 
 # V
+
+verfolgen - pursue, follow
 
 verschiedenen - different 
 
@@ -438,6 +462,8 @@ verseuchen - contaminate
 verursacht - caused
 
 viel - much 
+
+vielleicht - maybe
 
 vielles - a lot of 
 
@@ -458,6 +484,8 @@ warten - wait
 was - what 
 was rein - something in 
 
+wegarbeiten - work away 
+
 weider - again
 
 weil - because
@@ -472,6 +500,8 @@ welchem - which
 
 werden - will
 
+Wichtigkeit - importance
+
 widerrufen - revoke 
 
 wir - we 
@@ -481,6 +511,8 @@ wissen - to know
 wochenende (WE) - weekend
 
 wurde - became
+
+wurden - would
 
 # Z
 
@@ -505,3 +537,7 @@ zusammen - together
 Zusammenfassung - summary 
 
 zuständigen - competent 
+
+zwar - though 
+
+zwei - two 
