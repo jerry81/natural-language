@@ -93,6 +93,8 @@ davor - before
 
 deaktiviert - deactivated 
 
+denke - think
+
 der - that 
 
 deswegen - because of this
@@ -138,6 +140,8 @@ erste - first
 erstellt - created
 
 erzeugte - generated
+
+etwas - something
 
 evtl - possibly
 
@@ -269,7 +273,7 @@ konstanten - constants
 
 kunden/Kundin/Kunde - customer 
 
-kurzen - short 
+kurz/kurzen - short 
 
 # L
 
