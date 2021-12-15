@@ -10,6 +10,8 @@ allen - all
 
 anderes - other
 
+anfrage - inquiry
+
 Angabe - specificaiton 
 
 antwort - answer
