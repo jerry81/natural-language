@@ -7,3 +7,8 @@
 无畏 - fearlessness
 境遇 - circumstances
 执念 - obsessiveness
+彩排 - rehearse
+陪审 - serve in jury 
+拍板 - clinch a deal
+一鼓作气 - make a push 
+反响 - reverb
