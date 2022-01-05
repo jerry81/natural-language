@@ -4,6 +4,8 @@
 
 aber - but
 
+abhaut - skin off 
+
 abrufen - retrieve 
 
 allen - all 
@@ -40,6 +42,10 @@ Auswirkung - effect
 
 beantwortet - answered
 
+bedenken - misgivings
+
+begeistert - excited
+
 beheben - remedy, fix
 
 bei - for, at 
@@ -53,6 +59,8 @@ Bearbeitergruppe - editor group
 Berarbeitungsstand - processing status 
 
 bereits - already 
+
+beruhight - calmed down 
 
 besprechung - meeting
 
@@ -70,6 +78,8 @@ betrachten - regard
 
 Betreffzeile - subject
 
+bisschen - little
+
 bist du - are you
 # D
 
@@ -80,6 +90,8 @@ da - there
 dabei - included in 
 
 dadurch - through this 
+
+daher - hence
 
 damit - in order that 
 
@@ -93,6 +105,8 @@ daten - data
 
 davor - before
 
+dazu - to 
+
 deaktiviert - deactivated 
 
 denke - think
@@ -103,7 +117,7 @@ deswegen - because of this
 
 die/dem/den - the 
 
-dies - this 
+dies, diese - this 
 
 direktnacrichten - notify directly 
 
@@ -119,7 +133,9 @@ du - you
 
 # E
 
-eigentlich - actually 
+eigentlich - actually
+
+eindruck - impression
 
 einer - a 
 
@@ -128,6 +144,8 @@ einfach - simply
 eingeladen - invited
 
 einloggen - login
+
+einstellen - to adjust
 
 enderen - others
 
@@ -169,11 +187,15 @@ ganz - quite
 
 gar - at all 
 
+geblieben - remained
+
 geehrter - Dear
 
 geniale - brilliant
 
 gehen - walk 
+
+gehort - heard
 
 geht - goes/work
 nicht geht - doesn't work 
@@ -191,6 +213,10 @@ genau - precisely
 gesehen - be seen
 
 geschaftaddres - business address
+
+geschult - trained
+
+gestellt - placed
 
 gestern - yesterday
 
@@ -232,6 +258,10 @@ horen - hear
 
 # I
 
+ihm - him
+
+ihr - her
+
 infiltrieren - infiltrate
 
 irgend - any
@@ -266,10 +296,12 @@ klicken - click
 
 kommen - come (plural)
 
+kompentenzen - compentencies
+
 komplett - completely 
 komplett leeres - completely empty one 
 
-können - can 
+können, konnt - can 
 
 konstanten - constants 
 
@@ -285,9 +317,13 @@ laufen - run
 
 laufzeit-fehler - runtime error
 
+leben - life
+
 leeres - empty
 
 leider - unfortunately
+
+liegt - located
 
 liste - list 
 
@@ -301,6 +337,10 @@ mehr - more
 
 meinem - my 
 
+meinung - opinion
+
+meinte - meant 
+
 meist - mostly 
 
 melden - announce, reports
@@ -311,7 +351,11 @@ mir - me
 
 mit - with
 
+miteinander - together
+
 moglich - possible
+
+muhe - effort 
 
 muss - got to  
 muss nur - just have to 
@@ -369,13 +413,23 @@ reden - talk
 
 reichen - are sufficent
 
+reinbringt - brings in 
+
 richtige - right one
+
+ruhe - quiet 
 
 # S
 
 sag - say
 
+sagen - to say
+
 schadcode - malicious code
+
+schatzen - treasure
+
+scheint - seems
 
 schlecht - bad 
 
@@ -389,13 +443,25 @@ schoon - beautiful
 
 schones - nice
 
+schuchtern - shy 
+
 Sehr - Very much
+
+sehen - to see
+
+sein - being
+
+seinem - his 
 
 seit - since
 
 sich - themselves
 
+sich - himself
+
 sicher - for sure
+
+sicherheit - safety
 
 sichtbar - visible
 
@@ -422,6 +488,8 @@ Störung - disturbance
 soll - should
 (oder) soll - or should
 
+sucht - seeks
+
 # T
 
 tatsachlich - in fact, actually
@@ -438,6 +506,8 @@ uberfragt - questioned
 ich bin uberfragt - you've got me stumped
 
 ubernehmen - take over
+
+uberrascht - suprised
 
 uhr - clock
 
@@ -476,7 +546,11 @@ vielles - a lot of
 vom - from 
 von - from 
 
+vorstellung - performance
+
 # W 
+
+wahrnehmung - perception 
 
 war - was 
 
@@ -491,6 +565,8 @@ was - what
 was rein - something in 
 
 wegarbeiten - work away 
+
+weiche - soft
 
 weider - again
 
@@ -517,6 +593,7 @@ wissen - to know
 wochenende (WE) - weekend
 
 wurde - became
+wurde - would
 
 wurden - would
 
@@ -534,16 +611,25 @@ zu - to
 
 zufalligen - accidental/random
 
+zugehort - listened
+
+zugehorigkeitszeit - membership time 
+
 zum - to the
 
 Zuordnung - assignment 
 
 zusammen - together
 
+zusammenarbeiten - work together 
+
 Zusammenfassung - summary 
 
 zuständigen - competent 
 
+zuverstehen - to understand 
+
 zwar - though 
+zwar - that is 
 
 zwei - two 
