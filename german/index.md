@@ -139,11 +139,15 @@ eindruck - impression
 
 einer - a 
 
+eindruck - impression
+
 einfach - simply 
 
 eingeladen - invited
 
 einloggen - login
+
+einschatzen - assess
 
 einstellen - to adjust
 
@@ -396,6 +400,10 @@ Nutzerseite - user side
 
 oder - or 
 
+# P
+
+passen - fit
+
 # R 
 
 raus - out 
@@ -493,6 +501,8 @@ sucht - seeks
 # T
 
 tatsachlich - in fact, actually
+
+technisch - technically 
 
 termin - meeting 
 
