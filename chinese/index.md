@@ -29,6 +29,10 @@
 往昔 wang3xi1 - in the past
 无畏 - fearlessness
 
+# X
+
+下属 - subordinate - not 下手, 手下 - assistant 
+
 # Y 
 
 一鼓作气 - make a push
