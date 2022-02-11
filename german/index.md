@@ -8,6 +8,8 @@ abhaut - skin off
 
 abrufen - retrieve 
 
+abschalten - switch off 
+
 allen - all 
 
 anderes - other
