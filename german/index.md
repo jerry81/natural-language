@@ -123,7 +123,7 @@ dies, diese - this
 
 direktnacrichten - notify directly 
 
-doch - but  
+doch - but, indeed 
 
 dort - there 
 
@@ -134,6 +134,8 @@ Dringlichkeit - urgency
 du - you 
 
 # E
+
+einbringen - bring in 
 
 eigentlich - actually
 
@@ -195,6 +197,8 @@ gar - at all
 
 geblieben - remained
 
+gedacht - thought
+
 geehrter - Dear
 
 geniale - brilliant
@@ -240,6 +244,8 @@ glauber - believe
 grundsatzlich - basically 
 
 (ein) grossteil - a big part of 
+
+gut - well 
 
 gute - quality 
 gute besserung - get well soon
@@ -329,6 +335,8 @@ leeres - empty
 
 leider - unfortunately
 
+letztes - last
+
 liegt - located
 
 liste - list 
@@ -356,6 +364,8 @@ mich - me
 mir - me 
 
 mit - with
+
+mitarbeiter - employee
 
 miteinander - together
 
@@ -540,6 +550,8 @@ uns - us
 unser, unserem - ours
 
 # V
+
+verbinde - associate, connect
 
 verfolgen - pursue, follow
 
