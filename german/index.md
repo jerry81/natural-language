@@ -4,6 +4,8 @@
 
 aber - but
 
+aberfragt - queried
+
 abhaut - skin off 
 
 abrufen - retrieve 
@@ -24,7 +26,11 @@ anzeigen - show
 
 auch - also, even 
 
+aufgefallen - noticed
+
 Auswahl - selection 
+
+auswahle - select
 
 automatisch - automatic 
 
@@ -35,6 +41,8 @@ auf - on
 aufgabe - task
 
 aus - from 
+
+ausgeloggt - logged out
 
 ausliefern - deliver
 
@@ -85,6 +93,8 @@ bisschen - little
 bist du - are you
 # D
 
+dabei - included 
+
 dachte - thought
 
 da - there
@@ -99,11 +109,15 @@ damit - in order that
 
 dann - then 
 
+daraus - from it 
+
 das - that/the
 
 dass - that
 
 daten - data 
+
+dauerschleife - loop
 
 davor - before
 
@@ -163,6 +177,8 @@ erfassen - capture
 
 erfasst - on target
 
+erscheint - appears
+
 erste - first 
 
 erstellt - created
@@ -170,6 +186,8 @@ erstellt - created
 erzeugte - generated
 
 etwas - something
+
+eurem - your
 
 evtl - possibly
 
@@ -230,6 +248,8 @@ gestellt - placed
 
 gestern - yesterday
 
+gewohnt - used
+
 g.g.f - possibly (gegebenenfalls)
 
 gibt es - is there
@@ -262,6 +282,8 @@ hatten - would have
 
 helfen - help 
 
+hier - here
+
 hinterlegt - stored/deposited 
 
 hoch - high
@@ -277,6 +299,8 @@ ihr - her
 infiltrieren - infiltrate
 
 irgend - any
+
+irgendwas - anything
 
 ist - is 
 
@@ -351,6 +375,8 @@ mehr - more
 
 meinem - my 
 
+meinst - mean 
+
 meinung - opinion
 
 meinte - meant 
@@ -403,6 +429,8 @@ noch - still
 nochmal - once again
 
 nur - only, just
+
+nutzen - to use
 
 nutzung - the use of 
 
@@ -561,6 +589,8 @@ verseuchen - contaminate
 
 verursacht - caused
 
+verwenden - use
+
 viel - much 
 
 vielleicht - maybe
@@ -609,6 +639,8 @@ werden - will
 Wichtigkeit - importance
 
 widerrufen - revoke 
+
+wie - how 
 
 wir - we 
 
