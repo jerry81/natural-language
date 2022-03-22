@@ -58,7 +58,7 @@ begeistert - excited
 
 beheben - remedy, fix
 
-bei - for, at 
+bei (pronounced "bai") - for, at 
 
 beim - at the 
 
@@ -87,6 +87,8 @@ bestenhend - consisting
 betrachten - regard
 
 Betreffzeile - subject
+
+bisher - so far 
 
 bisschen - little
 
@@ -169,6 +171,8 @@ einschatzen - assess
 
 einstellen - to adjust
 
+einzige - only
+
 enderen - others
 
 Ergänzungen - Supplements
@@ -243,6 +247,8 @@ gesehen - be seen
 geschaftaddres - business address
 
 geschult - trained
+
+gestartet - started
 
 gestellt - placed
 
@@ -351,6 +357,8 @@ lassen - permit, let
 
 laufen - run 
 
+lauft (pronounced "loift") - running
+
 laufzeit-fehler - runtime error
 
 leben - life
@@ -394,6 +402,8 @@ mit - with
 mitarbeiter - employee
 
 miteinander - together
+
+mittagpause - lunch break 
 
 moglich - possible
 
@@ -600,6 +610,8 @@ vielles - a lot of
 vom - from 
 von - from 
 
+vorgestern - day before yesterday
+
 vorstellung - performance
 
 # W 
@@ -672,6 +684,8 @@ zugehort - listened
 zugehorigkeitszeit - membership time 
 
 zum - to the
+
+zumindest - at least
 
 Zuordnung - assignment 
 
