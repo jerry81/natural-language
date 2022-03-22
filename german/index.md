@@ -8,9 +8,13 @@ aberfragt - queried
 
 abhaut - skin off 
 
-abrufen - retrieve 
+abrufen - retrieve  
 
 abschalten - switch off 
+
+absenden - send off
+
+Abstimmung - poll 
 
 allen - all 
 
@@ -19,6 +23,8 @@ anderes - other
 anfrage - inquiry
 
 Angabe - specificaiton 
+
+Anrede - salutation
 
 antwort - answer
 
@@ -141,6 +147,8 @@ direktnacrichten - notify directly
 
 doch - but, indeed 
 
+doppelpunkt - colon
+
 dort - there 
 
 drin - inside 
@@ -177,6 +185,8 @@ enderen - others
 
 Ergänzungen - Supplements
 
+ergebnisse - results
+
 erfassen - capture
 
 erfasst - on target
@@ -185,7 +195,7 @@ erscheint - appears
 
 erste - first 
 
-erstellt - created
+erstellt, erstelt - created
 
 erzeugte - generated
 
@@ -196,6 +206,8 @@ eurem - your
 evtl - possibly
 
 # F
+
+fall - case
 
 fallt aus heute - cancelled today 
 
@@ -222,6 +234,8 @@ geblieben - remained
 gedacht - thought
 
 geehrter - Dear
+
+gelegentlich - occasionally 
 
 geniale - brilliant
 
@@ -253,6 +267,8 @@ gestartet - started
 gestellt - placed
 
 gestern - yesterday
+
+geteilt - shared
 
 gewohnt - used
 
@@ -311,6 +327,8 @@ irgendwas - anything
 ist - is 
 
 # J 
+
+jedem - each
 
 jeder - everyone 
 
@@ -389,7 +407,7 @@ meinung - opinion
 
 meinte - meant 
 
-meist - mostly 
+meist - mostly, usually 
 
 melden - announce, reports
 
@@ -539,6 +557,8 @@ sprachen - languages
 
 stattfinden - happen 
 
+steht - there is 
+
 stimmt - true, right
 
 Störung - disturbance 
@@ -574,6 +594,8 @@ uhr - clock
 um - around
 
 umfeld - environment 
+
+umfrage - opinion poll 
 
 unbekannte - unknown 
 
@@ -655,6 +677,8 @@ widerrufen - revoke
 wie - how 
 
 wir - we 
+
+wird - become 
 
 wissen - to know 
 
