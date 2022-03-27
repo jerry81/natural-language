@@ -21,10 +21,12 @@
 # F 
 
 反响 - reverb
+废寝忘食 - forget to eat or sleep 
 
 # G
 
 咯咯笑ge1ge1xiao4 - chortle
+皈依 gui1yi1 - bhuddist commencement 
 
 # H
 
@@ -39,18 +41,22 @@
 境遇 - circumstances
 酒铺 - winery
 
+# K
+
+空空如也 - empty 
+
+# L 
+
+獠牙liao2ya2 - fang 
+轮番 lun2fan1 - successively 
+屡屡 lv3 lv3 - repeatedly
+
 # M
 
 密谋 - conspire
 
 # N
 内敛 - introverted s
-
-# L 
-
-獠牙 - fang 
-轮番 lun2fan1 - successively 
-屡屡 lv3 lv3 - repeatedly
 
 # P 
 
@@ -63,11 +69,13 @@
 # Q
 
 窃笑qie4xiao4 - snicker 
+翘首以盼 - 
 
 # S
 
 失禁 - incontinence 
 瘆人 shen4ren2 - creepy 
+生疏 - unfamiliar 
 宿敌 su4di2 - old enemy 
 随从 - entourage 
 
@@ -89,11 +97,13 @@
 
 下属 - subordinate - not 下手, 手下 - assistant 
 宵禁 - curfew 
+
 # Y 
 
 一鼓作气 - make a push
 阴森 - gloomy 
 萦绕 ying2rao4 - linger
+罂粟 ying1su4 - opium poppy 
 踊跃 yong3yue4 - eager 
 臃肿 yong1zhong3 - obese 
 越发 - increasingly 
