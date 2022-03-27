@@ -5,11 +5,13 @@
 # B
 
 巴比妥酸盐 - barbituate 
+濒死 bin1si3 - near death 
 # C 
 
 彩排 - rehearse
 称职 - be competent 
 戳脊梁骨 - accuse 
+揣测 chuai3ce4 - guess
 粗粝 - coarse 
 
 # D
@@ -50,13 +52,16 @@
 獠牙liao2ya2 - fang 
 轮番 lun2fan1 - successively 
 屡屡 lv3 lv3 - repeatedly
+履行 lv3 xing2 - carry out 
 
 # M
 
 密谋 - conspire
+蔑视 - show contempt for 
 
 # N
 内敛 - introverted s
+年鉴 nian2jian4 - yearbook 
 
 # P 
 
@@ -68,14 +73,18 @@
 
 # Q
 
+切磋 qie1cuo1 - compare notes 
 窃笑qie4xiao4 - snicker 
-翘首以盼 - 
+翘首以盼 - look forward to 
 
 # S
 
+杀戒 - bhuddist prohibition on killing
 失禁 - incontinence 
 瘆人 shen4ren2 - creepy 
 生疏 - unfamiliar 
+始作俑者 shi3zuo4yong3zhe3 - starter of the evil 
+誓死捍卫 - defend with your life 
 宿敌 su4di2 - old enemy 
 随从 - entourage 
 
@@ -97,7 +106,7 @@
 
 下属 - subordinate - not 下手, 手下 - assistant 
 宵禁 - curfew 
-
+旋即 - immediately 
 # Y 
 
 一鼓作气 - make a push
@@ -106,12 +115,18 @@
 罂粟 ying1su4 - opium poppy 
 踊跃 yong3yue4 - eager 
 臃肿 yong1zhong3 - obese 
+有朝一日  - one day 
 越发 - increasingly 
 
 # Z
 
 赞许 - speak favourably 
+憎恨 zeng1hen4 - detest
+震撼 zhen4han4 - shake
+真挚 zhen1zhi2 - genuine 
 征求 - solicit
 争相 - strive together
 执念 - obsessiveness
 直言不讳 - forthright 
+众目睽睽 zhong4mu4kui2kui2 - be in full view of everyone
+拙劣 zhuo2 lie4 - poor 
