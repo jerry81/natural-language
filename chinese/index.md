@@ -1,6 +1,8 @@
 # C 
 
 彩排 - rehearse
+称职 - be competent 
+戳脊梁骨 - accuse 
  
 # F 
 
@@ -9,6 +11,7 @@
 # H
 
 寒暄 - engage in small talk
+活蹦乱跳 - lively and energetic 
 # J
 
 境遇 - circumstances
@@ -24,11 +27,15 @@
 拍板 - clinch a deal
 陪审 - serve in jury 
 
+# T
+
+听证会 - hearing
+托付 - entrust
 # W
 
 往昔 wang3xi1 - in the past
 无畏 - fearlessness
-
+毋庸 - needlessly
 # X
 
 下属 - subordinate - not 下手, 手下 - assistant 
@@ -41,4 +48,5 @@
 
 # Z
 
+争相 - strive together
 执念 - obsessiveness
