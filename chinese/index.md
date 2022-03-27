@@ -1,3 +1,7 @@
+# A
+
+爱不释手 - be attached 
+
 # B
 
 巴比妥酸盐 - barbituate 
@@ -11,6 +15,9 @@
 # D
 
 丁丙诺啡 - buprenorphine
+嘟囔 du1 nang2 - mumble 
+对峙 dui4zhi4 - confront 
+
 # F 
 
 反响 - reverb
@@ -28,6 +35,7 @@
 
 加冕 jia1mian3 - crown
 交恶 - fall out with 
+惊惶 jing1huang2 - fear and dread
 境遇 - circumstances
 酒铺 - winery
 
@@ -41,6 +49,7 @@
 # L 
 
 獠牙 - fang 
+轮番 lun2fan1 - successively 
 屡屡 lv3 lv3 - repeatedly
 
 # P 
@@ -61,9 +70,11 @@
 瘆人 shen4ren2 - creepy 
 宿敌 su4di2 - old enemy 
 随从 - entourage 
+
 # T
 
 听证会 - hearing
+头目 - leader 
 头绪 - clue 
 推搡 tui1sang3 - push with all strength 
 托付 - entrust
