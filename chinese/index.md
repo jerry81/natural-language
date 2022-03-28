@@ -33,10 +33,12 @@
 # H
 
 寒暄 - engage in small talk
+晦涩 hui4se4 - obscure 
 活蹦乱跳 - lively and energetic 
 
 # J
 
+汲取 - derive 
 加冕 jia1mian3 - crown
 交恶 - fall out with 
 惊惶 jing1huang2 - fear and dread
@@ -57,7 +59,8 @@
 # M
 
 密谋 - conspire
-蔑视 - show contempt for 
+蔑视 - show contempt for
+摩拳擦掌 - itch to  
 
 # N
 内敛 - introverted s
