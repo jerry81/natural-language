@@ -28,7 +28,9 @@
 # G
 
 咯咯笑ge1ge1xiao4 - chortle
+拐弯抹角 - twist and turn 
 皈依 gui1yi1 - bhuddist commencement 
+
 
 # H
 
@@ -55,6 +57,7 @@
 轮番 lun2fan1 - successively 
 屡屡 lv3 lv3 - repeatedly
 履行 lv3 xing2 - carry out 
+绿野仙踪 - wizard of oz 
 
 # M
 
@@ -76,6 +79,7 @@
 
 # Q
 
+脐带 - umbilical cord 
 切磋 qie1cuo1 - compare notes 
 窃笑qie4xiao4 - snicker 
 翘首以盼 - look forward to 
@@ -97,19 +101,25 @@
 头目 - leader 
 头绪 - clue 
 推搡 tui1sang3 - push with all strength 
+吞噬 - tun1shi4 - devour 
 托付 - entrust
 
 # W
 
 往昔 wang3xi1 - in the past
-斡旋 wo4xuan2 - meditate 
+斡旋 wo4xuan2 - meditate
+舞会 - ball, dancing party  
 无畏 - fearlessness
 毋庸 - needlessly
+
+
 # X
 
 下属 - subordinate - not 下手, 手下 - assistant 
+相提并论 - lump together
 宵禁 - curfew 
 旋即 - immediately 
+
 # Y 
 
 一鼓作气 - make a push
