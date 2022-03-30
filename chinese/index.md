@@ -24,6 +24,7 @@
 
 反响 - reverb
 废寝忘食 - forget to eat or sleep 
+分道扬镳 - fen1dao4yang2biao1 - each go their own way 
 
 # G
 
@@ -46,6 +47,7 @@
 惊惶 jing1huang2 - fear and dread
 境遇 - circumstances
 酒铺 - winery
+居功 - take credit for 
 
 # K
 
@@ -74,6 +76,7 @@
 拍板 - clinch a deal
 蹒跚 pan2shan1 - limp
 陪审 - serve in jury 
+胚胎 pei1tai1 - embryo 
 砰 peng1 - bang
 抨击 peng1ji1 - attack/slander
 
@@ -97,6 +100,7 @@
 
 # T
 
+腾出 - make room for 
 听证会 - hearing
 头目 - leader 
 头绪 - clue 
@@ -118,6 +122,7 @@
 下属 - subordinate - not 下手, 手下 - assistant 
 相提并论 - lump together
 宵禁 - curfew 
+欣喜若狂 - ecstatic 
 旋即 - immediately 
 
 # Y 
@@ -130,6 +135,7 @@
 臃肿 yong1zhong3 - obese 
 有朝一日  - one day 
 越发 - increasingly 
+约法 - provisional rule 
 
 # Z
 
