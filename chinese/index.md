@@ -6,10 +6,12 @@
 
 巴比妥酸盐 - barbituate 
 濒死 bin1si3 - near death 
+
 # C 
 
 彩排 - rehearse
 称职 - be competent 
+嗤之以鼻 chi4zhi1yi3bi2 - turn up one's nose 
 重塑 - remodel 
 戳脊梁骨 - accuse 
 揣测 chuai3ce4 - guess
@@ -58,6 +60,7 @@
 # L 
 
 獠牙liao2ya2 - fang 
+灵媒 - psychic
 轮番 lun2fan1 - successively 
 屡屡 lv3 lv3 - repeatedly
 履行 lv3 xing2 - carry out 
@@ -70,7 +73,10 @@
 摩拳擦掌 - itch to  
 
 # N
-内敛 - introverted s
+
+纳洛酮 - naloxone
+内敛 - introverted 
+念叨 - nag
 年鉴 nian2jian4 - yearbook 
 
 # P 
@@ -86,6 +92,7 @@
 # Q
 
 脐带 - umbilical cord 
+起居 - daily life 
 切磋 qie1cuo1 - compare notes 
 窃笑qie4xiao4 - snicker 
 翘首以盼 - look forward to 
@@ -96,15 +103,18 @@
 杀戒 - bhuddist prohibition on killing
 失禁 - incontinence 
 瘆人 shen4ren2 - creepy 
+盛怒 - rage
 生疏 - unfamiliar 
 矢口 shi3kou3 - allege 
 始作俑者 shi3zuo4yong3zhe3 - starter of the evil 
+司空见惯 - commonplace
 誓死捍卫 - defend with your life 
 宿敌 su4di2 - old enemy 
 随从 - entourage 
 
 # T
 
+逃过一劫 - let off the hook 
 腾出 - make room for 
 听证会 - hearing
 头目 - leader 
