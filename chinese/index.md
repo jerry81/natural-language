@@ -10,6 +10,7 @@
 
 彩排 - rehearse
 称职 - be competent 
+重塑 - remodel 
 戳脊梁骨 - accuse 
 揣测 chuai3ce4 - guess
 粗粝 - coarse 
@@ -43,6 +44,7 @@
 
 汲取 - derive 
 加冕 jia1mian3 - crown
+见风使舵 jian4feng1shi3duo4 - sail with the wind
 交恶 - fall out with 
 惊惶 jing1huang2 - fear and dread
 境遇 - circumstances
@@ -79,6 +81,7 @@
 胚胎 pei1tai1 - embryo 
 砰 peng1 - bang
 抨击 peng1ji1 - attack/slander
+篇幅 pian1fu2 - length, space
 
 # Q
 
@@ -86,6 +89,7 @@
 切磋 qie1cuo1 - compare notes 
 窃笑qie4xiao4 - snicker 
 翘首以盼 - look forward to 
+屈从 qu1cong2 - give way 
 
 # S
 
@@ -93,6 +97,7 @@
 失禁 - incontinence 
 瘆人 shen4ren2 - creepy 
 生疏 - unfamiliar 
+矢口 shi3kou3 - allege 
 始作俑者 shi3zuo4yong3zhe3 - starter of the evil 
 誓死捍卫 - defend with your life 
 宿敌 su4di2 - old enemy 
@@ -143,8 +148,10 @@
 憎恨 zeng1hen4 - detest
 震撼 zhen4han4 - shake
 真挚 zhen1zhi2 - genuine 
+争端 - dispute
 征求 - solicit
 争相 - strive together
+指称 - to address someone with a title 
 执念 - obsessiveness
 直言不讳 - forthright 
 众目睽睽 zhong4mu4kui2kui2 - be in full view of everyone
