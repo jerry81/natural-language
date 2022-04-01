@@ -26,6 +26,7 @@
 # F 
 
 反响 - reverb
+放逐 - banish, exile 
 废寝忘食 - forget to eat or sleep 
 分道扬镳 - fen1dao4yang2biao1 - each go their own way 
 
@@ -40,6 +41,7 @@
 
 寒暄 - engage in small talk
 晦涩 hui4se4 - obscure 
+核实 - verifications
 活蹦乱跳 - lively and energetic 
 
 # J
@@ -48,6 +50,7 @@
 加冕 jia1mian3 - crown
 见风使舵 jian4feng1shi3duo4 - sail with the wind
 交恶 - fall out with 
+缴获 - seize
 惊惶 jing1huang2 - fear and dread
 境遇 - circumstances
 酒铺 - winery
@@ -56,6 +59,7 @@
 # K
 
 空空如也 - empty 
+苦修 - penance 
 
 # L 
 
@@ -127,7 +131,8 @@
 
 往昔 wang3xi1 - in the past
 斡旋 wo4xuan2 - meditate
-舞会 - ball, dancing party  
+舞会 - ball, dancing party
+无巧不成书 - no story without coincidences   
 无畏 - fearlessness
 毋庸 - needlessly
 
@@ -149,6 +154,7 @@
 踊跃 yong3yue4 - eager 
 臃肿 yong1zhong3 - obese 
 有朝一日  - one day 
+游说 - persuade, lobby for 
 越发 - increasingly 
 约法 - provisional rule 
 
@@ -162,7 +168,9 @@
 征求 - solicit
 争相 - strive together
 指称 - to address someone with a title 
+指控 - accuse, charge, indict 
 执念 - obsessiveness
 直言不讳 - forthright 
 众目睽睽 zhong4mu4kui2kui2 - be in full view of everyone
+琢磨 - crunch, ponder
 拙劣 zhuo2 lie4 - poor 
