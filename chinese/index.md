@@ -20,6 +20,7 @@
 # D
 
 丁丙诺啡 - buprenorphine
+洞见 - insight 
 嘟囔 du1 nang2 - mumble 
 对峙 dui4zhi4 - confront 
 
@@ -119,6 +120,7 @@
 # T
 
 逃过一劫 - let off the hook 
+滔滔不绝 tao1tao1yanbu4jue2 - ramble
 腾出 - make room for 
 听证会 - hearing
 头目 - leader 
@@ -147,6 +149,7 @@
 
 # Y 
 
+言归正传 - all joking aside 
 一鼓作气 - make a push
 阴森 - gloomy 
 萦绕 ying2rao4 - linger
