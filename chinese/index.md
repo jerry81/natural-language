@@ -1,10 +1,12 @@
 # A
 
 爱不释手 - be attached 
+懊悔 - regret
 
 # B
 
 巴比妥酸盐 - barbituate 
+表里如一 - consistent inside and out 
 濒死 bin1si3 - near death 
 
 # C 
@@ -13,6 +15,7 @@
 称职 - be competent 
 嗤之以鼻 chi4zhi1yi3bi2 - turn up one's nose 
 重塑 - remodel 
+触底 - hit rock bottom 
 戳脊梁骨 - accuse 
 揣测 chuai3ce4 - guess
 粗粝 - coarse 
@@ -28,8 +31,10 @@
 
 反响 - reverb
 放逐 - banish, exile 
+费解 - incomprehensible 
 废寝忘食 - forget to eat or sleep 
 分道扬镳 - fen1dao4yang2biao1 - each go their own way 
+俘获 fu2huo4 - capture 
 
 # G
 
@@ -43,6 +48,7 @@
 寒暄 - engage in small talk
 晦涩 hui4se4 - obscure 
 核实 - verifications
+荒谬 - ridiculous
 活蹦乱跳 - lively and energetic 
 
 # J
@@ -88,11 +94,13 @@
 
 拍板 - clinch a deal
 蹒跚 pan2shan1 - limp
+旁骛 pang2wu4 - pursue a different field 
 陪审 - serve in jury 
 胚胎 pei1tai1 - embryo 
 砰 peng1 - bang
 抨击 peng1ji1 - attack/slander
 篇幅 pian1fu2 - length, space
+扑哧 pu1chi1 - chuckle 
 
 # Q
 
@@ -112,6 +120,7 @@
 生疏 - unfamiliar 
 矢口 shi3kou3 - allege 
 始作俑者 shi3zuo4yong3zhe3 - starter of the evil 
+死党 - diehard supporters 
 司空见惯 - commonplace
 誓死捍卫 - defend with your life 
 宿敌 su4di2 - old enemy 
@@ -142,6 +151,7 @@
 # X
 
 下属 - subordinate - not 下手, 手下 - assistant 
+乡绅 - country gentleman, squire 
 相提并论 - lump together
 宵禁 - curfew 
 欣喜若狂 - ecstatic 
