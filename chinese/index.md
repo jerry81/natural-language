@@ -93,6 +93,7 @@
 # P 
 
 拍板 - clinch a deal
+盘踞 - occupy
 蹒跚 pan2shan1 - limp
 旁骛 pang2wu4 - pursue a different field 
 陪审 - serve in jury 
@@ -131,6 +132,7 @@
 逃过一劫 - let off the hook 
 滔滔不绝 tao1tao1yanbu4jue2 - ramble
 腾出 - make room for 
+体征 - pathological sign 
 听证会 - hearing
 头目 - leader 
 头绪 - clue 
@@ -168,6 +170,7 @@
 臃肿 yong1zhong3 - obese 
 有朝一日  - one day 
 游说 - persuade, lobby for 
+有条不紊 you3tiao2buwen3 - methodical 
 越发 - increasingly 
 约法 - provisional rule 
 
