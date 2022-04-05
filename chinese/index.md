@@ -39,6 +39,7 @@
 # G
 
 咯咯笑ge1ge1xiao4 - chortle
+功底 - foundation 
 拐弯抹角 - twist and turn 
 皈依 gui1yi1 - bhuddist commencement 
 
@@ -60,6 +61,7 @@
 缴获 - seize
 惊惶 jing1huang2 - fear and dread
 境遇 - circumstances
+精湛 jing1zhan4 - exquisite 
 酒铺 - winery
 居功 - take credit for 
 
@@ -114,6 +116,10 @@
 翘首以盼 - look forward to 
 屈从 qu1cong2 - give way 
 
+# R
+
+入不敷出 ru4bufu1chu1 - live beyond one's means
+
 # S
 
 杀戒 - bhuddist prohibition on killing
@@ -147,6 +153,7 @@
 
 往昔 wang3xi1 - in the past
 斡旋 wo4xuan2 - meditate
+我自岿然不动 - unaffected
 舞会 - ball, dancing party
 无巧不成书 - no story without coincidences   
 无畏 - fearlessness
@@ -174,6 +181,7 @@
 有朝一日  - one day 
 游说 - persuade, lobby for 
 有条不紊 you3tiao2buwen3 - methodical 
+圆场 - mediate 
 越发 - increasingly 
 约法 - provisional rule 
 
