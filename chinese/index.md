@@ -29,6 +29,7 @@
 
 # F 
 
+法兰绒 - flannel 
 反响 - reverb
 放逐 - banish, exile 
 费解 - incomprehensible 
@@ -54,8 +55,10 @@
 
 # J
 
+伎俩 ji4liang3 - trick
 汲取 - derive 
 加冕 jia1mian3 - crown
+交涉 - negotiate 
 见风使舵 jian4feng1shi3duo4 - sail with the wind
 交恶 - fall out with 
 缴获 - seize
@@ -111,6 +114,7 @@
 
 脐带 - umbilical cord 
 起居 - daily life 
+期许 - expecations 
 切磋 qie1cuo1 - compare notes 
 窃笑qie4xiao4 - snicker 
 翘首以盼 - look forward to 
@@ -143,6 +147,7 @@
 腾出 - make room for 
 体征 - pathological sign 
 听证会 - hearing
+同僚 - colleague 
 头目 - leader 
 头绪 - clue 
 推搡 tui1sang3 - push with all strength 
@@ -173,6 +178,7 @@
 
 言归正传 - all joking aside 
 一鼓作气 - make a push
+疑虑 - misgivings
 阴森 - gloomy 
 萦绕 ying2rao4 - linger
 罂粟 ying1su4 - opium poppy 
@@ -200,4 +206,5 @@
 直言不讳 - forthright 
 众目睽睽 zhong4mu4kui2kui2 - be in full view of everyone
 琢磨 - crunch, ponder
+装束 - outfit
 拙劣 zhuo2 lie4 - poor 
