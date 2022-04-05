@@ -81,6 +81,7 @@
 
 密谋 - conspire
 蔑视 - show contempt for
+谬误 - falsehood
 摩拳擦掌 - itch to  
 
 # N
@@ -101,6 +102,7 @@
 砰 peng1 - bang
 抨击 peng1ji1 - attack/slander
 篇幅 pian1fu2 - length, space
+破天荒 - unprecedented 
 扑哧 pu1chi1 - chuckle 
 
 # Q
@@ -129,6 +131,7 @@
 
 # T
 
+袒露 tan3lu4 - expose
 逃过一劫 - let off the hook 
 滔滔不绝 tao1tao1yanbu4jue2 - ramble
 腾出 - make room for 
