@@ -197,6 +197,8 @@ erste - first
 
 erstellt, erstelt - created
 
+erstmal - for now
+
 erzeugte - generated
 
 etwas - something
@@ -220,6 +222,8 @@ fehler - error
 Folgende - following 
 
 freuen - be happy 
+
+fuge - gap 
 
 fuhrt es dazu - it leads to 
 
@@ -256,9 +260,11 @@ gemacht - made
 
 genau - precisely
 
-gesehen - be seen
+geschaft - business
 
 geschaftaddres - business address
+
+gesehen - be seen
 
 geschult - trained
 
@@ -307,6 +313,8 @@ helfen - help
 hier - here
 
 hinterlegt - stored/deposited 
+
+hinzu - added 
 
 hoch - high
 
@@ -371,6 +379,8 @@ kurz/kurzen - short
 
 # L
 
+langweilt - bored
+
 lassen - permit, let
 
 laufen - run 
@@ -422,6 +432,8 @@ mitarbeiter - employee
 miteinander - together
 
 mittagpause - lunch break 
+
+mitteilen - communicate 
 
 moglich - possible
 
@@ -543,6 +555,8 @@ sichtbar - visible
 
 siehe - see
 
+sobalt - as soon as 
+
 solange - as long as 
 
 Sollten - should 
@@ -550,6 +564,8 @@ Sollten - should
 somit - Consequently 
 
 sondern - but, however
+
+sonst - otherwise
 
 spater - later 
 
@@ -560,6 +576,8 @@ stattfinden - happen
 steht - there is 
 
 stimmt - true, right
+
+stort - disturbs
 
 Störung - disturbance 
 
