@@ -14,15 +14,21 @@ asunder - into separate parts
 
 # b
 
+besotted - drunk
+
 bruited - rumor 
 
 # c
 
 caprice - sudden unpredictable change 
 
+carousal - noisy feast
+
 casement - covering, window sash 
 
 commingled - to mix together 
+
+coxcombry - conceited
 
 credulity - willingness to believe 
 
@@ -40,7 +46,11 @@ egression - going out
 
 engender - produce, give rise to 
 
+evincing - to show clearly 
+
 exergues - space below device on a coin or medal 
+
+expeditious - promptness, quick 
 
 # f
 
@@ -49,6 +59,8 @@ fain - gladly, willingly
 faucial - cavity in back of mouth 
 
 ferule - a rod for punishing children 
+
+florid - reddish 
 
 # g
 
@@ -66,7 +78,13 @@ hearken - to listen (old)
 
 imperiousness - haughty, domineering
 
+indemnity - protection against damage 
+
 interment - the act of burial 
+
+# k
+
+kerseymere - full woolen cloth 
 
 # l
 
@@ -90,9 +108,13 @@ outre - bizzare
 
 # p
 
+parvenu - person who has suddenly acquired wealth 
+
 patronymic - from name of father 
 
 perambulate - to traverse 
+
+pertinaciously - resolute 
 
 plebeian - of the common people
 
@@ -110,6 +132,8 @@ quarto - book of a particular size
 
 # r
 
+raiment - clothing 
+
 restive - impatient
 
 # s 
@@ -118,11 +142,17 @@ sooth - truth
 
 sublunary - situated beneath the moon 
 
+supererogatory - going beyond duty 
+
+supine - lying down 
+
 # t
 
 tarn - small mountain lake or pool 
 
 thronging - crowded 
+
+tottering - unsteady steps 
 
 turpitude - vile, shameful, base character, depravity 
 
@@ -130,6 +160,14 @@ turpitude - vile, shameful, base character, depravity
 
 usher - doorkeeper 
 
+# v
+
+vestibule - passage, hall 
+
 # w
 
+wainscoting - paneling 
+
 withal - with it all 
+
+wonted - accustomed 
