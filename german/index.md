@@ -191,6 +191,8 @@ erfassen - capture
 
 erfasst - on target
 
+"er lasst sich nict lesen" - he cannot be read
+
 erscheint - appears
 
 erste - first 

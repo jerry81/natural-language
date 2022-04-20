@@ -10,6 +10,8 @@ adventitious - by chance
 
 appellation - a name, title or designation 
 
+appetency - appetence - intence desire
+
 asunder - into separate parts
 
 # b
@@ -66,6 +68,10 @@ florid - reddish
 
 galled - sore from rubbing, vexed 
 
+gesticulate - use gestures 
+
+Gorgias - greek philosopher 
+
 gradation - a gradual process 
 
 # h
@@ -95,6 +101,8 @@ lustrum - 5 years
 # M 
 
 miasma - noxious exhalations from organic matter
+
+momently - moment to moment
 
 # n
 
@@ -150,6 +158,8 @@ supine - lying down
 
 tarn - small mountain lake or pool 
 
+thoroughfare - road/street 
+
 thronging - crowded 
 
 tottering - unsteady steps 
@@ -167,6 +177,8 @@ vestibule - passage, hall
 # w
 
 wainscoting - paneling 
+
+wayfarer - traveler 
 
 withal - with it all 
 
