@@ -56,11 +56,15 @@ dissolute - indifferent to morals
 
 doughty - steadfastly courageous, valiant 
 
+draughts - checkers 
+
 # e
 
 egression - going out 
 
 engender - produce, give rise to 
+
+eschew - abstain from 
 
 eupatrid - hereditary aristocrat of Athens
 
@@ -110,9 +114,13 @@ imperiousness - haughty, domineering
 
 indemnity - protection against damage 
 
+inordinate - not in proper limits 
+
 intemperance - excessive in drinking 
 
 interment - the act of burial 
+
+involute - intricate 
 
 # k
 
@@ -125,6 +133,8 @@ lineament - feature of face or body w.r.t outline
 lustrum - 5 years
 
 # M 
+
+manifold - of many kinds 
 
 mendicant - begging 
 
@@ -160,6 +170,8 @@ plenitude - fullness
 
 praenomen - first or personal name 
 
+preternatural - abnormal 
+
 prolixity - being too wordy 
 
 pulpit - platform in a church 
@@ -171,6 +183,8 @@ quarto - book of a particular size
 # r
 
 raiment - clothing 
+
+recherche - very rare 
 
 restive - impatient
 
