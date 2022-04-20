@@ -18,6 +18,8 @@ asunder - into separate parts
 
 besotted - drunk
 
+bon ton (french) - good style 
+
 bruited - rumor 
 
 # c
@@ -31,6 +33,8 @@ casement - covering, window sash
 commingled - to mix together 
 
 coxcombry - conceited
+
+cravat - necktie 
 
 credulity - willingness to believe 
 
@@ -47,6 +51,8 @@ doughty - steadfastly courageous, valiant
 egression - going out 
 
 engender - produce, give rise to 
+
+eupatrid - hereditary aristocrat of Athens
 
 evincing - to show clearly 
 
@@ -66,7 +72,11 @@ florid - reddish
 
 # g
 
+gaiter - covering of cloth for ankle 
+
 galled - sore from rubbing, vexed 
+
+gentry - well bred people
 
 gesticulate - use gestures 
 
@@ -148,7 +158,11 @@ restive - impatient
 
 sooth - truth 
 
+staunch - firm/steadfast in principle 
+
 sublunary - situated beneath the moon 
+
+supercilious - naughty 
 
 supererogatory - going beyond duty 
 
