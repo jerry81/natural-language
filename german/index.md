@@ -684,6 +684,8 @@ weis - know
 
 weiss - white
 
+weitergeleitet - forwarded 
+
 wenn - if 
 
 welchem - which
