@@ -34,6 +34,8 @@ buskin - thick soled laced boot
 
 # c
 
+casement - window sash opening on hinges 
+
 caoutchouc - rubber 
 
 caprice - sudden unpredictable change 
@@ -121,6 +123,8 @@ gentility - good breeding or refinement
 gentry - well bred people
 
 gesticulate - use gestures 
+
+gimlet - tool for boring holes 
 
 Gorgias - greek philosopher 
 
@@ -245,6 +249,8 @@ stereotomy - technique of cutting solids
 sublunary - situated beneath the moon 
 
 supercilious - naughty 
+
+supererogation - performance of work in excess of that is required 
 
 superfluity - superflous 
 
