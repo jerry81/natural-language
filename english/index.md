@@ -4,9 +4,13 @@
 
 abasement - state of being degraded 
 
+abstruse - hard to understand
+
 actuate - motivate 
 
 adventitious - by chance 
+
+advert - remark or comment 
 
 appellation - a name, title or designation 
 
@@ -54,6 +58,8 @@ credulity - willingness to believe
 
 dandy - man concerned about his appearance 
 
+denizen - inhabitant, resident 
+
 depose - give sworn testimony 
 
 descry - to see, discern 
@@ -78,7 +84,7 @@ eupatrid - hereditary aristocrat of Athens
 
 evincing - to show clearly 
 
-excoriate - denounce 
+excoriate - denounce, flay
 
 exergues - space below device on a coin or medal 
 
@@ -95,6 +101,8 @@ faucial - cavity in back of mouth
 ferule - a rod for punishing children 
 
 filigree - ornamental work of silver, gold
+
+firmament - vault of heaveane
 
 florid - reddish 
 
@@ -226,6 +234,8 @@ sidle - to move sideways or obiquely
 
 sodden - soaked 
 
+soliloquy - discourse by a person who is talking to himself 
+
 sooth - truth 
 
 staunch - firm/steadfast in principle 
@@ -261,6 +271,8 @@ tottering - unsteady steps
 turpitude - vile, shameful, base character, depravity 
 
 # u
+
+unavailing - ineffectual 
 
 untoward - unfavorable 
 
