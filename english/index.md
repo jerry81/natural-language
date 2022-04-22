@@ -24,6 +24,8 @@ bon ton (french) - good style
 
 bruited - rumor 
 
+buskin - thick soled laced boot
+
 # c
 
 caoutchouc - rubber 
@@ -37,6 +39,8 @@ casement - covering, window sash
 commingled - to mix together 
 
 coquetry - flirtation
+
+cosmogony - theory of origin and development of universe 
 
 coxcombry - conceited
 
@@ -91,6 +95,8 @@ florid - reddish
 gaiter - covering of cloth for ankle 
 
 galled - sore from rubbing, vexed 
+
+gendarme - police officer (french)
 
 gentility - good breeding or refinement 
 
@@ -158,11 +164,15 @@ Parian - related to Paros
 
 parvenu - person who has suddenly acquired wealth 
 
+Pasquinade - a satire in a public place 
+
 patronymic - from name of father 
 
 perambulate - to traverse 
 
 pertinaciously - resolute 
+
+phrenology - theory that mental faculties and character traits deterimned by configurations of skull 
 
 plebeian - of the common people
 
@@ -180,11 +190,17 @@ pulpit - platform in a church
 
 quarto - book of a particular size 
 
+quondam - former, onetime 
+
 # r
 
 raiment - clothing 
 
 recherche - very rare 
+
+rencontre - rencounter - a hostile meeting 
+
+resolvent - causing solution 
 
 restive - impatient
 
@@ -204,9 +220,13 @@ sooth - truth
 
 staunch - firm/steadfast in principle 
 
+stereotomy - technique of cutting solids
+
 sublunary - situated beneath the moon 
 
 supercilious - naughty 
+
+superfluity - superflous 
 
 supererogatory - going beyond duty 
 
@@ -232,6 +252,8 @@ turpitude - vile, shameful, base character, depravity
 
 # u
 
+untoward - unfavorable 
+
 usher - doorkeeper 
 
 # v
@@ -249,5 +271,7 @@ wayfarer - traveler
 wayward - turned away from the proper 
 
 withal - with it all 
+
+wont - accustomed, use to 
 
 wonted - accustomed 
