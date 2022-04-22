@@ -16,6 +16,8 @@ asunder - into separate parts
 
 # b
 
+bedstead - framework of bed 
+
 beldam - old woman, hag, ugly 
 
 besotted - drunk
@@ -52,6 +54,8 @@ credulity - willingness to believe
 
 dandy - man concerned about his appearance 
 
+depose - give sworn testimony 
+
 descry - to see, discern 
 
 detestation - hatred 
@@ -74,9 +78,13 @@ eupatrid - hereditary aristocrat of Athens
 
 evincing - to show clearly 
 
+excoriate - denounce 
+
 exergues - space below device on a coin or medal 
 
 expeditious - promptness, quick 
+
+expostulate - reason with someone, remonstrate 
 
 # f
 
@@ -95,6 +103,8 @@ florid - reddish
 gaiter - covering of cloth for ankle 
 
 galled - sore from rubbing, vexed 
+
+garret - attic 
 
 gendarme - police officer (french)
 
