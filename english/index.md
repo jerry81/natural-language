@@ -18,6 +18,8 @@ appetency - appetence - intence desire
 
 arabesque - ballet position - one leg back 
 
+ardent - enthusiastic 
+
 asunder - into separate parts
 
 august - respected 
@@ -49,6 +51,8 @@ caprice - sudden unpredictable change
 carousal - noisy feast
 
 casement - covering, window sash 
+
+censer - container for incense 
 
 cerements - wrapping cloth for a corpse 
 
@@ -91,6 +95,8 @@ draughts - checkers
 egression - going out 
 
 engender - produce, give rise to 
+
+ephemeron - insect that lives breifly 
 
 eschew - abstain from 
 
@@ -157,6 +163,8 @@ hearken - to listen (old)
 imperiousness - haughty, domineering
 
 indemnity - protection against damage 
+
+ineffable - unable to be expressed in words 
 
 inordinate - not in proper limits 
 
@@ -226,6 +234,8 @@ plebeian - of the common people
 
 plenitude - fullness
 
+pomp - a ceremony 
+
 praenomen - first or personal name 
 
 preternatural - abnormal 
@@ -246,7 +256,9 @@ quondam - former, onetime
 
 raiment - clothing 
 
-recherche - very rare 
+recherche - very rare
+
+recreant - cowardly 
 
 rencontre - rencounter - a hostile meeting 
 
@@ -319,6 +331,8 @@ usher - doorkeeper
 # v
 
 vestibule - passage, hall 
+
+vignette - brief evocative description 
 
 visage - the face, features, countenance 
 
