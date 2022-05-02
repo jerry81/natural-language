@@ -26,6 +26,8 @@ august - respected
 
 # b
 
+bauble - a trinket 
+
 bedstead - framework of bed 
 
 beetling - overhanging 
@@ -176,11 +178,15 @@ hermetically - airtight
 
 imperiousness - haughty, domineering
 
+inanition - exhaustion from malnutrition 
+
 indemnity - protection against damage 
 
 ineffable - unable to be expressed in words 
 
 inordinate - not in proper limits 
+
+insuperable - impossible to overcome 
 
 intemperance - excessive in drinking 
 
@@ -284,6 +290,8 @@ recherche - very rare
 
 recreant - cowardly 
 
+recusant - a person who refuses to submit to authority 
+
 remonstrance - forceful protest 
 
 rencontre - rencounter - a hostile meeting 
@@ -301,6 +309,8 @@ rubicund - reddish
 # s 
 
 scrupulous - having moral standards 
+
+serge - durable fabric 
 
 sidle - to move sideways or obiquely 
 
@@ -329,6 +339,8 @@ superfluity - superflous
 supererogatory - going beyond duty 
 
 supine - lying down 
+
+surcingle - strap on back of a horse 
 
 swarthy - dark 
 
