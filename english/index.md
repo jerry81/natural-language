@@ -28,6 +28,8 @@ august - respected
 
 bedstead - framework of bed 
 
+beetling - overhanging 
+
 beldam - old woman, hag, ugly 
 
 besotted - drunk
@@ -55,6 +57,8 @@ casement - covering, window sash
 censer - container for incense 
 
 cerements - wrapping cloth for a corpse 
+
+commensurate - corresponing in size, in proportion 
 
 commingled - to mix together 
 
@@ -85,6 +89,8 @@ descry - to see, discern
 detestation - hatred 
 
 dissolute - indifferent to morals 
+
+divest - to deprive of power 
 
 doughty - steadfastly courageous, valiant 
 
@@ -125,6 +131,8 @@ filigree - ornamental work of silver, gold
 firmament - vault of heaveane
 
 florid - reddish 
+
+foundered - (ship filled with water)
 
 # g
 
@@ -238,6 +246,8 @@ pomp - a ceremony
 
 praenomen - first or personal name 
 
+precipitous - dangerously high, steep 
+
 preternatural - abnormal 
 
 prolixity - being too wordy 
@@ -277,6 +287,8 @@ rubicund - reddish
 scrupulous - having moral standards 
 
 sidle - to move sideways or obiquely 
+
+smack - exactly 
 
 sodden - soaked 
 
