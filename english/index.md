@@ -12,6 +12,8 @@ adventitious - by chance
 
 advert - remark or comment 
 
+anoint - rub or smear with oil 
+
 appellation - a name, title or designation 
 
 appetency - appetence - intence desire
@@ -21,6 +23,8 @@ arabesque - ballet position - one leg back
 ardent - enthusiastic 
 
 asunder - into separate parts
+
+athwart - side to side 
 
 august - respected 
 
@@ -208,6 +212,8 @@ livid - furious but also dark bluish gray
 
 locution - word or phrase 
 
+lozenge - rhombus or diamond shape 
+
 lustrum - 5 years
 
 # M 
@@ -217,6 +223,8 @@ manifold - of many kinds
 mendicant - begging 
 
 miasma - noxious exhalations from organic matter
+
+moiety - each of two parts which a thing can be divided 
 
 momently - moment to moment
 
@@ -330,6 +338,8 @@ stereotomy - technique of cutting solids
 
 sublunary - situated beneath the moon 
 
+sunder - split apart 
+
 supercilious - naughty 
 
 supererogation - performance of work in excess of that is required 
@@ -373,6 +383,8 @@ usher - doorkeeper
 # v
 
 vestibule - passage, hall 
+
+viand - an item of food 
 
 vignette - brief evocative description 
 
