@@ -16,7 +16,11 @@ appellation - a name, title or designation
 
 appetency - appetence - intence desire
 
+arabesque - ballet position - one leg back 
+
 asunder - into separate parts
+
+august - respected 
 
 # b
 
@@ -29,6 +33,8 @@ besotted - drunk
 bon ton (french) - good style 
 
 bruited - rumor 
+
+burr - whirring sound, rough edge left on object 
 
 buskin - thick soled laced boot
 
@@ -44,11 +50,15 @@ carousal - noisy feast
 
 casement - covering, window sash 
 
+cerements - wrapping cloth for a corpse 
+
 commingled - to mix together 
 
 coquetry - flirtation
 
 cosmogony - theory of origin and development of universe 
+
+courtier - one who attends a royal court 
 
 coxcombry - conceited
 
@@ -59,6 +69,8 @@ credulity - willingness to believe
 # d
 
 dandy - man concerned about his appearance 
+
+dauntless - fearless 
 
 denizen - inhabitant, resident 
 
@@ -128,11 +140,15 @@ gimlet - tool for boring holes
 
 Gorgias - greek philosopher 
 
+gossamer - fine, filmy substance made from spiderwebs 
+
 gradation - a gradual process 
 
 # h
 
 habiliment - clothes
+
+hale - strong and healthy 
 
 hearken - to listen (old)
 
@@ -158,6 +174,8 @@ kerseymere - full woolen cloth
 
 lineament - feature of face or body w.r.t outline
 
+locution - word or phrase 
+
 lustrum - 5 years
 
 # M 
@@ -169,6 +187,8 @@ mendicant - begging
 miasma - noxious exhalations from organic matter
 
 momently - moment to moment
+
+mummer - acter in traditional masked mine 
 
 # n
 
@@ -190,9 +210,15 @@ Pasquinade - a satire in a public place
 
 patronymic - from name of father 
 
+peal - loud ringing of bells 
+
 perambulate - to traverse 
 
+perforce - inevitablility, necessity
+
 pertinaciously - resolute 
+
+phantasm - figment of the imagination 
 
 phrenology - theory that mental faculties and character traits deterimned by configurations of skull 
 
@@ -205,6 +231,8 @@ praenomen - first or personal name
 preternatural - abnormal 
 
 prolixity - being too wordy 
+
+propriety - proper
 
 pulpit - platform in a church 
 
@@ -221,6 +249,8 @@ raiment - clothing
 recherche - very rare 
 
 rencontre - rencounter - a hostile meeting 
+
+revery - state of thoughtfulness 
 
 resolvent - causing solution 
 
@@ -259,6 +289,8 @@ supererogatory - going beyond duty
 supine - lying down 
 
 swarthy - dark 
+
+swoon - go unconscious 
 
 # t
 
