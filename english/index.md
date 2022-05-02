@@ -74,6 +74,8 @@ cravat - necktie
 
 credulity - willingness to believe 
 
+cursory - hasty 
+
 # d
 
 dandy - man concerned about his appearance 
@@ -134,6 +136,8 @@ florid - reddish
 
 foundered - (ship filled with water)
 
+fulvous - reddish yellow 
+
 # g
 
 gaiter - covering of cloth for ankle 
@@ -166,6 +170,8 @@ hale - strong and healthy
 
 hearken - to listen (old)
 
+hermetically - airtight 
+
 # i
 
 imperiousness - haughty, domineering
@@ -180,6 +186,8 @@ intemperance - excessive in drinking
 
 interment - the act of burial 
 
+intractable - hard to control 
+
 involute - intricate 
 
 # k
@@ -189,6 +197,8 @@ kerseymere - full woolen cloth
 # l
 
 lineament - feature of face or body w.r.t outline
+
+livid - furious but also dark bluish gray 
 
 locution - word or phrase 
 
@@ -220,6 +230,8 @@ outre - bizzare
 
 Parian - related to Paros 
 
+paroxysm - sudden attack of violence or emotion 
+
 parvenu - person who has suddenly acquired wealth 
 
 Pasquinade - a satire in a public place 
@@ -248,6 +260,8 @@ praenomen - first or personal name
 
 precipitous - dangerously high, steep 
 
+prepossessing - attractive 
+
 preternatural - abnormal 
 
 prolixity - being too wordy 
@@ -270,6 +284,8 @@ recherche - very rare
 
 recreant - cowardly 
 
+remonstrance - forceful protest 
+
 rencontre - rencounter - a hostile meeting 
 
 revery - state of thoughtfulness 
@@ -291,6 +307,8 @@ sidle - to move sideways or obiquely
 smack - exactly 
 
 sodden - soaked 
+
+solicitude - care or concern for someone or something 
 
 soliloquy - discourse by a person who is talking to himself 
 
