@@ -18,6 +18,8 @@ anoint - rub or smear with oil
 
 appellation - a name, title or designation 
 
+appertain - to belong as a part, right, possession 
+
 appetency - appetence - intence desire
 
 arabesque - ballet position - one leg back 
@@ -27,6 +29,8 @@ ardent - enthusiastic
 asunder - into separate parts
 
 athwart - side to side 
+
+avoirdupois - body weight 
 
 au fait - expert 
 
@@ -48,7 +52,11 @@ besotted - drunk
 
 bon ton (french) - good style 
 
+bramble - thorny shrub 
+
 bruited - rumor 
+
+burnish - to polish 
 
 burr - whirring sound, rough edge left on object 
 
@@ -57,6 +65,8 @@ buskin - thick soled laced boot
 # c
 
 cant - insensere expressions of high ideals 
+
+caprice - sudden change 
 
 casement - window sash opening on hinges 
 
@@ -72,9 +82,17 @@ censer - container for incense
 
 cerements - wrapping cloth for a corpse 
 
+coadjutor - assistant 
+
+colloquy - conversation 
+
 commensurate - corresponing in size, in proportion 
 
 commingled - to mix together 
+
+contrivance - plan, scheme
+
+coppice - corpse 
 
 coquetry - flirtation
 
@@ -160,6 +178,8 @@ fulvous - reddish yellow
 
 gaiter - covering of cloth for ankle 
 
+gambol - to skip about, frolic 
+
 galled - sore from rubbing, vexed 
 
 garret - attic 
@@ -232,11 +252,17 @@ lustrum - 5 years
 
 manifold - of many kinds 
 
+manumit - to release from slavery 
+
+mattock - tool similar to pick axe 
+
 meerschaum - pipe for tobacco made from this material 
 
 mendicant - begging 
 
 miasma - noxious exhalations from organic matter
+
+mirth - gaiety
 
 moiety - each of two parts which a thing can be divided 
 
@@ -250,7 +276,11 @@ nativity - birth
 
 Neapolitan - relating to Naples 
 
+nettle - a plant with stingers, to annoy 
+
 # o
+
+obstreperous - unruly 
 
 officious - aggressively meddlesome 
 
@@ -291,6 +321,8 @@ pomp - a ceremony
 praenomen - first or personal name 
 
 precipitous - dangerously high, steep 
+
+preconcert - arrange beforehand 
 
 Prefect - person in command 
 
@@ -337,6 +369,10 @@ roister - boisterous
 rubicund - reddish 
 
 # s 
+
+sally - sudden rush forth 
+
+sanguine - cheerfully optimistic 
 
 scrupulous - having moral standards 
 
@@ -408,6 +444,10 @@ usher - doorkeeper
 
 # v
 
+vagary - unpredictable action 
+
+vellum - skin used for writing 
+
 vestibule - passage, hall 
 
 viand - an item of food 
@@ -415,6 +455,8 @@ viand - an item of food
 vignette - brief evocative description 
 
 visage - the face, features, countenance 
+
+vouchsafe - to grant as favor 
 
 # w
 
@@ -427,6 +469,8 @@ waylay - intercept
 wayward - turned away from the proper 
 
 withal - with it all 
+
+wrought - worked, not crude 
 
 wont - accustomed, use to 
 
