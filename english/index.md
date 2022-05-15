@@ -8,6 +8,8 @@ abstruse - hard to understand
 
 actuate - motivate 
 
+admeasurement - process of measurement or the measurement of something 
+
 adventitious - by chance 
 
 advert - remark or comment 
@@ -25,6 +27,8 @@ ardent - enthusiastic
 asunder - into separate parts
 
 athwart - side to side 
+
+au fait - expert 
 
 august - respected 
 
@@ -49,6 +53,8 @@ burr - whirring sound, rough edge left on object
 buskin - thick soled laced boot
 
 # c
+
+cant - insensere expressions of high ideals 
 
 casement - window sash opening on hinges 
 
@@ -88,6 +94,8 @@ dandy - man concerned about his appearance
 
 dauntless - fearless 
 
+decamp - depart from a camp 
+
 denizen - inhabitant, resident 
 
 depose - give sworn testimony 
@@ -99,6 +107,8 @@ detestation - hatred
 dissolute - indifferent to morals 
 
 divest - to deprive of power 
+
+doggerel - rude, crude, poor verse in poem or something 
 
 doughty - steadfastly courageous, valiant 
 
@@ -220,6 +230,8 @@ lustrum - 5 years
 
 manifold - of many kinds 
 
+meerschaum - pipe for tobacco made from this material 
+
 mendicant - begging 
 
 miasma - noxious exhalations from organic matter
@@ -233,6 +245,8 @@ mummer - acter in traditional masked mine
 # n
 
 nativity - birth 
+
+Neapolitan - relating to Naples 
 
 # o
 
@@ -274,6 +288,8 @@ praenomen - first or personal name
 
 precipitous - dangerously high, steep 
 
+Prefect - person in command 
+
 prepossessing - attractive 
 
 preternatural - abnormal 
@@ -283,6 +299,8 @@ prolixity - being too wordy
 propriety - proper
 
 pulpit - platform in a church 
+
+purloin - steal 
 
 # q
 
@@ -395,6 +413,8 @@ visage - the face, features, countenance
 wainscoting - paneling 
 
 wayfarer - traveler 
+
+waylay - intercept 
 
 wayward - turned away from the proper 
 
