@@ -34,6 +34,8 @@ august - respected
 
 # b
 
+baroque - ornate 
+
 bauble - a trinket 
 
 bedstead - framework of bed 
@@ -174,7 +176,7 @@ gimlet - tool for boring holes
 
 Gorgias - greek philosopher 
 
-gossamer - fine, filmy substance made from spiderwebs 
+gossamer - fine, filmy substance made from spiderwebs , also delicate, flimsy 
 
 gradation - a gradual process 
 
@@ -268,6 +270,8 @@ patronymic - from name of father
 
 peal - loud ringing of bells 
 
+peevish - cross, querelous, annoyed 
+
 perambulate - to traverse 
 
 perforce - inevitablility, necessity
@@ -340,6 +344,8 @@ serge - durable fabric
 
 sidle - to move sideways or obiquely 
 
+singular - extraordinary 
+
 smack - exactly 
 
 sodden - soaked 
@@ -385,6 +391,8 @@ Tertullian - Charthaginian theoligan
 thoroughfare - road/street 
 
 thronging - crowded 
+
+tincture - solution of alcohol and water 
 
 tottering - unsteady steps 
 
