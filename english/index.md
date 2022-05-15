@@ -124,6 +124,8 @@ descry - to see, discern
 
 detestation - hatred 
 
+dissimulate - act of feigning 
+
 dissolute - indifferent to morals 
 
 divest - to deprive of power 
