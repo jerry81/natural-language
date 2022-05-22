@@ -8,6 +8,8 @@ abstruse - hard to understand
 
 actuate - motivate 
 
+acumen - ability to make quick decisions 
+
 admeasurement - process of measurement or the measurement of something 
 
 adventitious - by chance 
@@ -25,6 +27,8 @@ appetency - appetence - intence desire
 arabesque - ballet position - one leg back 
 
 ardent - enthusiastic 
+
+arrant - complete 
 
 asunder - into separate parts
 
@@ -124,6 +128,8 @@ descry - to see, discern
 
 detestation - hatred 
 
+dignitary - person who holds high rank 
+
 dissimulate - act of feigning 
 
 dissolute - indifferent to morals 
@@ -135,6 +141,8 @@ doggerel - rude, crude, poor verse in poem or something
 doughty - steadfastly courageous, valiant 
 
 draughts - checkers 
+
+ducal - relating to a duke 
 
 # e
 
@@ -150,9 +158,13 @@ eupatrid - hereditary aristocrat of Athens
 
 evincing - to show clearly 
 
+exactions - extortion 
+
 excoriate - denounce, flay
 
 exergues - space below device on a coin or medal 
+
+expectoration - ejecting or expelling  
 
 expeditious - promptness, quick 
 
@@ -240,6 +252,8 @@ kerseymere - full woolen cloth
 
 # l
 
+lament - to regret
+
 lineament - feature of face or body w.r.t outline
 
 livid - furious but also dark bluish gray 
@@ -280,11 +294,16 @@ Neapolitan - relating to Naples
 
 nettle - a plant with stingers, to annoy 
 
+non distributio medii - the fallacy of the undistributed middle 
 # o
 
 obstreperous - unruly 
 
+obstrusive - noticeable or prominent in an unwelcome way 
+
 officious - aggressively meddlesome 
+
+ossified - hardened like bone or drunk 
 
 outre - bizzare 
 
@@ -314,6 +333,8 @@ phantasm - figment of the imagination
 
 phrenology - theory that mental faculties and character traits deterimned by configurations of skull 
 
+phthisis - wasting away 
+
 plebeian - of the common people
 
 plenitude - fullness
@@ -332,6 +353,10 @@ prepossessing - attractive
 
 preternatural - abnormal 
 
+Procrustean - enforcing uniformity without regard to individuality or natural variation 
+
+promulgte - to promote or make widely known 
+
 prolixity - being too wordy 
 
 propriety - proper
@@ -339,6 +364,8 @@ propriety - proper
 pulpit - platform in a church 
 
 purloin - steal 
+
+purulent - full of pus 
 
 # q
 
@@ -365,6 +392,8 @@ revery - state of thoughtfulness
 resolvent - causing solution 
 
 restive - impatient
+
+riveted - fastened in place like with rivets 
 
 roister - boisterous 
 
@@ -393,6 +422,10 @@ solicitude - care or concern for someone or something
 soliloquy - discourse by a person who is talking to himself 
 
 sooth - truth 
+
+spareness - thinness 
+
+spurious - fake 
 
 staunch - firm/steadfast in principle 
 
@@ -434,11 +467,15 @@ tincture - solution of alcohol and water
 
 tottering - unsteady steps 
 
+trumpery - something without use or value 
+
 turpitude - vile, shameful, base character, depravity 
 
 # u
 
 unavailing - ineffectual 
+
+unceremoniously - lacking courtesy 
 
 untoward - unfavorable 
 
