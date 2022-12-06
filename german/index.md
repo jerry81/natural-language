@@ -6,47 +6,47 @@ aber - but
 
 aberfragt - queried
 
-abhaut - skin off 
+abhaut - skin off
 
-abrufen - retrieve  
+abrufen - retrieve
 
-abschalten - switch off 
+abschalten - switch off
 
 absenden - send off
 
-Abstimmung - poll 
+Abstimmung - poll
 
-allen - all 
+allen - all
 
 anderes - other
 
 anfrage - inquiry
 
-Angabe - specificaiton 
+Angabe - specificaiton
 
 Anrede - salutation
 
 antwort - answer
 
-anzeigen - show 
+anzeigen - show
 
-auch - also, even 
+auch - also, even
 
 aufgefallen - noticed
 
-Auswahl - selection 
+Auswahl - selection
 
 auswahle - select
 
-automatisch - automatic 
+automatisch - automatic
 
 autsch - ouch
 
-auf - on 
+auf - on
 
 aufgabe - task
 
-aus - from 
+aus - from
 
 ausgeloggt - logged out
 
@@ -54,7 +54,7 @@ ausliefern - deliver
 
 Auswirkung - effect
 
-# B 
+# B
 
 beantwortet - answered
 
@@ -64,112 +64,112 @@ begeistert - excited
 
 beheben - remedy, fix
 
-bei (pronounced "bai") - for, at 
+bei (pronounced "bai") - for, at
 
-beim - at the 
+beim - at the
 
-berarbeitet - working on it 
+berarbeitet - working on it
 
-Bearbeitergruppe - editor group 
+Bearbeitergruppe - editor group
 
-Berarbeitungsstand - processing status 
+Berarbeitungsstand - processing status
 
-bereits - already 
+bereits - already
 
-beruhight - calmed down 
+beruhight - calmed down
 
 besprechung - meeting
 
-Beschreibung - description 
+Beschreibung - description
 
 besserung - improvement
 
-besteht darin - consists in 
+besteht darin - consists in
 
 bestenhend - consisting
 
-(beim) besuch - visiting 
+(beim) besuch - visiting
 
 betrachten - regard
 
 Betreffzeile - subject
 
-bisher - so far 
+bisher - so far
 
 bisschen - little
 
 bist du - are you
 # D
 
-dabei - included 
+dabei - included
 
 dachte - thought
 
 da - there
 
-dabei - included in 
+dabei - included in
 
-dadurch - through this 
+dadurch - through this
 
 daher - hence
 
-damit - in order that 
+damit - in order that
 
-dann - then 
+dann - then
 
-daraus - from it 
+daraus - from it
 
 das - that/the
 
 dass - that
 
-daten - data 
+daten - data
 
 dauerschleife - loop
 
 davor - before
 
-dazu - to 
+dazu - to
 
-deaktiviert - deactivated 
+deaktiviert - deactivated
 
 denke - think
 
-der - that 
+der - that
 
 deswegen - because of this
 
-die/dem/den - the 
+die/dem/den - the
 
-dies, diese - this 
+dies, diese - this
 
-direktnacrichten - notify directly 
+direktnacrichten - notify directly
 
-doch - but, indeed 
+doch - but, indeed
 
 doppelpunkt - colon
 
-dort - there 
+dort - there
 
-drin - inside 
+drin - inside
 
-Dringlichkeit - urgency 
+Dringlichkeit - urgency
 
-du - you 
+du - you
 
 # E
 
-einbringen - bring in 
+einbringen - bring in
 
 eigentlich - actually
 
 eindruck - impression
 
-einer - a 
+einer - a
 
 eindruck - impression
 
-einfach - simply 
+einfach - simply
 
 eingeladen - invited
 
@@ -195,7 +195,7 @@ erfasst - on target
 
 erscheint - appears
 
-erste - first 
+erste - first
 
 erstellt, erstelt - created
 
@@ -213,27 +213,27 @@ evtl - possibly
 
 fall - case
 
-fallt aus heute - cancelled today 
+fallt aus heute - cancelled today
 
-falsche - false, wrong 
+falsche - false, wrong
 
 festellen konnen - can determine
 
 fehler - error
 
-Folgende - following 
+Folgende - following
 
-freuen - be happy 
+freuen - be happy
 
-fuge - gap 
+fuge - gap
 
-fuhrt es dazu - it leads to 
+fuhrt es dazu - it leads to
 
-# G 
+# G
 
-ganz - quite 
+ganz - quite
 
-gar - at all 
+gar - at all
 
 geblieben - remained
 
@@ -241,16 +241,16 @@ gedacht - thought
 
 geehrter - Dear
 
-gelegentlich - occasionally 
+gelegentlich - occasionally
 
 geniale - brilliant
 
-gehen - walk 
+gehen - walk
 
 gehort - heard
 
 geht - goes/work
-nicht geht - doesn't work 
+nicht geht - doesn't work
 
 geht ja um submit - about to submit
 
@@ -284,39 +284,43 @@ g.g.f - possibly (gegebenenfalls)
 
 gibt es - is there
 
-glei/gleich - same 
-(habs glei/gleich) - its the same
-
-gleichzeitig - at the same time 
-
 glauber - believe
 
-grundsatzlich - basically 
+glei/gleich - same
+(habs glei/gleich) - its the same
 
-(ein) grossteil - a big part of 
+gleichzeitig - at the same time
 
-gut - well 
+glieder - limbs
 
-gute - quality 
+grundsatzlich - basically
+
+(ein) grossteil - a big part of
+
+gut - well
+
+gute - quality
 gute besserung - get well soon
 
 guten - good
 
 # H
 
-habe - have 
+habe - have
+
+hals - throat
 
 hat - has
 
 hatten - would have
 
-helfen - help 
+helfen - help
 
 hier - here
 
-hinterlegt - stored/deposited 
+hinterlegt - stored/deposited
 
-hinzu - added 
+hinzu - added
 
 hoch - high
 
@@ -334,15 +338,15 @@ irgend - any
 
 irgendwas - anything
 
-ist - is 
+ist - is
 
-# J 
+# J
 
 jedem - each
 
-jeder - everyone 
+jeder - everyone
 
-jederzeit - anytime 
+jederzeit - anytime
 
 jedoch - however
 
@@ -352,32 +356,32 @@ jetzt - now (pronounced "yetz")
 
 kanale - channel
 
-kann - can 
+kann - can
 
-kannst - can 
+kannst - can
 kannst du - can you
 
-kaputt - broken 
-kaputt gemach - destroyed 
+kaputt - broken
+kaputt gemach - destroyed
 
 keinen - none
 
-klicken - click 
+klicken - click
 
 kommen - come (plural)
 
 kompentenzen - compentencies
 
-komplett - completely 
-komplett leeres - completely empty one 
+komplett - completely
+komplett leeres - completely empty one
 
-können, konnt - can 
+können, konnt - can
 
-konstanten - constants 
+konstanten - constants
 
-kunden/Kundin/Kunde - customer 
+kunden/Kundin/Kunde - customer
 
-kurz/kurzen - short 
+kurz/kurzen - short
 
 # L
 
@@ -385,7 +389,7 @@ langweilt - bored
 
 lassen - permit, let
 
-laufen - run 
+laufen - run
 
 lauft (pronounced "loift") - running
 
@@ -401,7 +405,7 @@ letztes - last
 
 liegt - located
 
-liste - list 
+liste - list
 
 # M
 
@@ -411,21 +415,21 @@ mal - time(s)
 
 mehr - more
 
-meinem - my 
+meinem - my
 
-meinst - mean 
+meinst - mean
 
 meinung - opinion
 
-meinte - meant 
+meinte - meant
 
-meist - mostly, usually 
+meist - mostly, usually
 
 melden - announce, reports
 
-mich - me 
+mich - me
 
-mir - me 
+mir - me
 
 mit - with
 
@@ -433,16 +437,16 @@ mitarbeiter - employee
 
 miteinander - together
 
-mittagpause - lunch break 
+mittagpause - lunch break
 
-mitteilen - communicate 
+mitteilen - communicate
 
 moglich - possible
 
-muhe - effort 
+muhe - effort
 
-muss - got to  
-muss nur - just have to 
+muss - got to
+muss nur - just have to
 
 # N
 
@@ -454,7 +458,7 @@ nachtricht - news
 
 nachste - next
 
-ne - a, no 
+ne - a, no
 
 nehmen - to take
 
@@ -462,11 +466,11 @@ neue - new
 
 nicht - negation
   nicht mehr - no longer
-  nicht nur - not only 
+  nicht nur - not only
 
 nie - never
 
-noch - still 
+noch - still
 
 nochmal - once again
 
@@ -474,40 +478,40 @@ nur - only, just
 
 nutzen - to use
 
-nutzung - the use of 
+nutzung - the use of
 
 Nutzerseite - user side
 
 # O
 
-oder - or 
+oder - or
 
 # P
 
 passen - fit
 
-# R 
+# R
 
-raus - out 
-(ich muss leider raus) - i unfortunately must go out 
+raus - out
+(ich muss leider raus) - i unfortunately must go out
 
-rausch - quickly 
+rausch - quickly
 
-rauschen - noise 
+rauschen - noise
 
 realistisch - realistic
 
-reargieren - react 
+reargieren - react
 
 reden - talk
 
 reichen - are sufficent
 
-reinbringt - brings in 
+reinbringt - brings in
 
 richtige - right one
 
-ruhe - quiet 
+ruhe - quiet
 
 # S
 
@@ -521,19 +525,21 @@ schatzen - treasure
 
 scheint - seems
 
-schlecht - bad 
+schlecht - bad
+
+schmerze - pain
 
 schneller - faster
 
 schreiben - write
 
-schon - do 
+schon - do
 
 schoon - beautiful
 
 schones - nice
 
-schuchtern - shy 
+schuchtern - shy
 
 Sehr - Very much
 
@@ -541,7 +547,7 @@ sehen - to see
 
 sein - being
 
-seinem - his 
+seinem - his
 
 seit - since
 
@@ -557,31 +563,31 @@ sichtbar - visible
 
 siehe - see
 
-sobalt - as soon as 
+sobalt - as soon as
 
-solange - as long as 
+solange - as long as
 
-Sollten - should 
+Sollten - should
 
-somit - Consequently 
+somit - Consequently
 
 sondern - but, however
 
 sonst - otherwise
 
-spater - later 
+spater - later
 
 sprachen - languages
 
-stattfinden - happen 
+stattfinden - happen
 
-steht - there is 
+steht - there is
 
 stimmt - true, right
 
 stort - disturbs
 
-Störung - disturbance 
+Störung - disturbance
 
 soll - should
 (oder) soll - or should
@@ -592,13 +598,13 @@ sucht - seeks
 
 tatsachlich - in fact, actually
 
-technisch - technically 
+technisch - technically
 
-termin - meeting 
+termin - meeting
 
-Tschuss - bye 
+Tschuss - bye
 
-# U 
+# U
 
 uber - above
 
@@ -613,15 +619,15 @@ uhr - clock
 
 um - around
 
-umfeld - environment 
+umfeld - environment
 
-umfrage - opinion poll 
+umfrage - opinion poll
 
-unbekannte - unknown 
+unbekannte - unknown
 
-und - and 
+und - and
 
-ungelesene - unread 
+ungelesene - unread
 
 unnötige - unnecessary
 
@@ -635,7 +641,7 @@ verbinde - associate, connect
 
 verfolgen - pursue, follow
 
-verschiedenen - different 
+verschiedenen - different
 
 verseuchen - contaminate
 
@@ -643,36 +649,36 @@ verursacht - caused
 
 verwenden - use
 
-viel - much 
+viel - much
 
 vielleicht - maybe
 
-vielles - a lot of 
+vielles - a lot of
 
-vom - from 
-von - from 
+vom - from
+von - from
 
 vorgestern - day before yesterday
 
 vorstellung - performance
 
-# W 
+# W
 
-wahrnehmung - perception 
+wahrnehmung - perception
 
-war - was 
+war - was
 
 ware - was
 
-warum - why 
-(fragum warum) - ask why 
+warum - why
+(fragum warum) - ask why
 
-warten - wait 
+warten - wait
 
-was - what 
-was rein - something in 
+was - what
+was rein - something in
 
-wegarbeiten - work away 
+wegarbeiten - work away
 
 weiche - soft
 
@@ -684,9 +690,9 @@ weis - know
 
 weiss - white
 
-weitergeleitet - forwarded 
+weitergeleitet - forwarded
 
-wenn - if 
+wenn - if
 
 welchem - which
 
@@ -694,15 +700,15 @@ werden - will
 
 Wichtigkeit - importance
 
-widerrufen - revoke 
+widerrufen - revoke
 
-wie - how 
+wie - how
 
-wir - we 
+wir - we
 
-wird - become 
+wird - become
 
-wissen - to know 
+wissen - to know
 
 wochenende (WE) - weekend
 
@@ -717,35 +723,35 @@ z.b. - e.g.
 
 zeichen - sign
 
-zeil - goal 
+zeil - goal
 
 Zugriff - access
 
-zu - to 
+zu - to
 
 zufalligen - accidental/random
 
 zugehort - listened
 
-zugehorigkeitszeit - membership time 
+zugehorigkeitszeit - membership time
 
 zum - to the
 
 zumindest - at least
 
-Zuordnung - assignment 
+Zuordnung - assignment
 
 zusammen - together
 
-zusammenarbeiten - work together 
+zusammenarbeiten - work together
 
-Zusammenfassung - summary 
+Zusammenfassung - summary
 
-zuständigen - competent 
+zuständigen - competent
 
-zuverstehen - to understand 
+zuverstehen - to understand
 
-zwar - though 
-zwar - that is 
+zwar - though
+zwar - that is
 
-zwei - two 
+zwei - two

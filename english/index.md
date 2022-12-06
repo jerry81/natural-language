@@ -2,253 +2,253 @@
 
 # a
 
-abasement - state of being degraded 
+abasement - state of being degraded
 
 abstruse - hard to understand
 
-actuate - motivate 
+actuate - motivate
 
-acumen - ability to make quick decisions 
+acumen - ability to make quick decisions
 
-admeasurement - process of measurement or the measurement of something 
+admeasurement - process of measurement or the measurement of something
 
-adventitious - by chance 
+adventitious - by chance
 
-advert - remark or comment 
+advert - remark or comment
 
-anoint - rub or smear with oil 
+anoint - rub or smear with oil
 
-appellation - a name, title or designation 
+appellation - a name, title or designation
 
-appertain - to belong as a part, right, possession 
+appertain - to belong as a part, right, possession
 
 appetency - appetence - intence desire
 
-arabesque - ballet position - one leg back 
+arabesque - ballet position - one leg back
 
-ardent - enthusiastic 
+ardent - enthusiastic
 
-arrant - complete 
+arrant - complete
 
 asunder - into separate parts
 
-athwart - side to side 
+athwart - side to side
 
-avoirdupois - body weight 
+avoirdupois - body weight
 
-au fait - expert 
+au fait - expert
 
-august - respected 
+august - respected
 
 # b
 
-baroque - ornate 
+baroque - ornate
 
-bauble - a trinket 
+bauble - a trinket
 
-bedstead - framework of bed 
+bedstead - framework of bed
 
-beetling - overhanging 
+beetling - overhanging
 
-beldam - old woman, hag, ugly 
+beldam - old woman, hag, ugly
 
 besotted - drunk
 
-bon ton (french) - good style 
+bon ton (french) - good style
 
-bramble - thorny shrub 
+bramble - thorny shrub
 
-bruited - rumor 
+bruited - rumor
 
-burnish - to polish 
+burnish - to polish
 
-burr - whirring sound, rough edge left on object 
+burr - whirring sound, rough edge left on object
 
 buskin - thick soled laced boot
 
 # c
 
-cant - insensere expressions of high ideals 
+cant - insensere expressions of high ideals
 
-caprice - sudden change 
+caprice - sudden change
 
-casement - window sash opening on hinges 
+casement - window sash opening on hinges
 
-caoutchouc - rubber 
+caoutchouc - rubber
 
-caprice - sudden unpredictable change 
+caprice - sudden unpredictable change
 
 carousal - noisy feast
 
-casement - covering, window sash 
+casement - covering, window sash
 
-censer - container for incense 
+censer - container for incense
 
-cerements - wrapping cloth for a corpse 
+cerements - wrapping cloth for a corpse
 
-coadjutor - assistant 
+coadjutor - assistant
 
-colloquy - conversation 
+colloquy - conversation
 
-commensurate - corresponing in size, in proportion 
+commensurate - corresponing in size, in proportion
 
-commingled - to mix together 
+commingled - to mix together
 
 contrivance - plan, scheme
 
-coppice - corpse 
+coppice - corpse
 
 coquetry - flirtation
 
-cosmogony - theory of origin and development of universe 
+cosmogony - theory of origin and development of universe
 
-courtier - one who attends a royal court 
+courtier - one who attends a royal court
 
 coxcombry - conceited
 
-cravat - necktie 
+cravat - necktie
 
-credulity - willingness to believe 
+credulity - willingness to believe
 
-cursory - hasty 
+cursory - hasty
 
 # d
 
-dandy - man concerned about his appearance 
+dandy - man concerned about his appearance
 
-dauntless - fearless 
+dauntless - fearless
 
-decamp - depart from a camp 
+decamp - depart from a camp
 
-denizen - inhabitant, resident 
+denizen - inhabitant, resident
 
-depose - give sworn testimony 
+depose - give sworn testimony
 
-descry - to see, discern 
+descry - to see, discern
 
-detestation - hatred 
+detestation - hatred
 
-dignitary - person who holds high rank 
+dignitary - person who holds high rank
 
-dissimulate - act of feigning 
+dissimulate - act of feigning
 
-dissolute - indifferent to morals 
+dissolute - indifferent to morals
 
-divest - to deprive of power 
+divest - to deprive of power
 
-doggerel - rude, crude, poor verse in poem or something 
+doggerel - rude, crude, poor verse in poem or something
 
-doughty - steadfastly courageous, valiant 
+doughty - steadfastly courageous, valiant
 
-draughts - checkers 
+draughts - checkers
 
-ducal - relating to a duke 
+ducal - relating to a duke
 
 # e
 
-egression - going out 
+egression - going out
 
-engender - produce, give rise to 
+engender - produce, give rise to
 
-ephemeron - insect that lives breifly 
+ephemeron - insect that lives breifly
 
-eschew - abstain from 
+eschew - abstain from
 
 eupatrid - hereditary aristocrat of Athens
 
-evincing - to show clearly 
+evincing - to show clearly
 
-exactions - extortion 
+exactions - extortion
 
 excoriate - denounce, flay
 
-exergues - space below device on a coin or medal 
+exergues - space below device on a coin or medal
 
-expectoration - ejecting or expelling  
+expectoration - ejecting or expelling
 
-expeditious - promptness, quick 
+expeditious - promptness, quick
 
-expostulate - reason with someone, remonstrate 
+expostulate - reason with someone, remonstrate
 
 # f
 
-fain - gladly, willingly 
+fain - gladly, willingly
 
-faucial - cavity in back of mouth 
+faucial - cavity in back of mouth
 
-ferule - a rod for punishing children 
+ferule - a rod for punishing children
 
 filigree - ornamental work of silver, gold
 
 firmament - vault of heaveane
 
-florid - reddish 
+florid - reddish
 
 foundered - (ship filled with water)
 
-fulvous - reddish yellow 
+fulvous - reddish yellow
 
 # g
 
-gaiter - covering of cloth for ankle 
+gaiter - covering of cloth for ankle
 
-gambol - to skip about, frolic 
+gambol - to skip about, frolic
 
-galled - sore from rubbing, vexed 
+galled - sore from rubbing, vexed
 
-garret - attic 
+garret - attic
 
 gendarme - police officer (french)
 
-gentility - good breeding or refinement 
+gentility - good breeding or refinement
 
 gentry - well bred people
 
-gesticulate - use gestures 
+gesticulate - use gestures
 
-gimlet - tool for boring holes 
+gimlet - tool for boring holes
 
-Gorgias - greek philosopher 
+Gorgias - greek philosopher
 
-gossamer - fine, filmy substance made from spiderwebs , also delicate, flimsy 
+gossamer - fine, filmy substance made from spiderwebs , also delicate, flimsy
 
-gradation - a gradual process 
+gradation - a gradual process
 
 # h
 
 habiliment - clothes
 
-hale - strong and healthy 
+hale - strong and healthy
 
 hearken - to listen (old)
 
-hermetically - airtight 
+hermetically - airtight
 
 # i
 
 imperiousness - haughty, domineering
 
-inanition - exhaustion from malnutrition 
+inanition - exhaustion from malnutrition
 
-indemnity - protection against damage 
+indemnity - protection against damage
 
-ineffable - unable to be expressed in words 
+ineffable - unable to be expressed in words
 
-inordinate - not in proper limits 
+inordinate - not in proper limits
 
-insuperable - impossible to overcome 
+insuperable - impossible to overcome
 
-intemperance - excessive in drinking 
+intemperance - excessive in drinking
 
-interment - the act of burial 
+interment - the act of burial
 
-intractable - hard to control 
+intractable - hard to control
 
-involute - intricate 
+involute - intricate
 
 # k
 
-kerseymere - full woolen cloth 
+kerseymere - full woolen cloth
 
 # l
 
@@ -256,261 +256,261 @@ lament - to regret
 
 lineament - feature of face or body w.r.t outline
 
-livid - furious but also dark bluish gray 
+livid - furious but also dark bluish gray
 
-locution - word or phrase 
+locution - word or phrase
 
-lozenge - rhombus or diamond shape 
+lozenge - rhombus or diamond shape
 
 lustrum - 5 years
 
-# M 
+# M
 
-manifold - of many kinds 
+manifold - of many kinds
 
-manumit - to release from slavery 
+manumit - to release from slavery
 
-mattock - tool similar to pick axe 
+mattock - tool similar to pick axe
 
-meerschaum - pipe for tobacco made from this material 
+meerschaum - pipe for tobacco made from this material
 
-mendicant - begging 
+mendicant - begging
 
 miasma - noxious exhalations from organic matter
 
 mirth - gaiety
 
-moiety - each of two parts which a thing can be divided 
+moiety - each of two parts which a thing can be divided
 
 momently - moment to moment
 
-mummer - acter in traditional masked mine 
+mummer - acter in traditional masked mine
 
 # n
 
-nativity - birth 
+nativity - birth
 
-Neapolitan - relating to Naples 
+Neapolitan - relating to Naples
 
-nettle - a plant with stingers, to annoy 
+nettle - a plant with stingers, to annoy
 
-non distributio medii - the fallacy of the undistributed middle 
+non distributio medii - the fallacy of the undistributed middle
 # o
 
-obstreperous - unruly 
+obstreperous - unruly
 
-obstrusive - noticeable or prominent in an unwelcome way 
+obstrusive - noticeable or prominent in an unwelcome way
 
-officious - aggressively meddlesome 
+officious - aggressively meddlesome
 
-ossified - hardened like bone or drunk 
+ossified - hardened like bone or drunk
 
-outre - bizzare 
+outre - bizzare
 
 # p
 
-Parian - related to Paros 
+Parian - related to Paros
 
-paroxysm - sudden attack of violence or emotion 
+paroxysm - sudden attack of violence or emotion
 
-parvenu - person who has suddenly acquired wealth 
+parvenu - person who has suddenly acquired wealth
 
-Pasquinade - a satire in a public place 
+Pasquinade - a satire in a public place
 
-patronymic - from name of father 
+patronymic - from name of father
 
-peal - loud ringing of bells 
+peal - loud ringing of bells
 
-peevish - cross, querelous, annoyed 
+peevish - cross, querelous, annoyed
 
-perambulate - to traverse 
+perambulate - to traverse
 
 perforce - inevitablility, necessity
 
-pertinaciously - resolute 
+pertinaciously - resolute
 
-phantasm - figment of the imagination 
+phantasm - figment of the imagination
 
-phrenology - theory that mental faculties and character traits deterimned by configurations of skull 
+phrenology - theory that mental faculties and character traits deterimned by configurations of skull
 
-phthisis - wasting away 
+phthisis - wasting away
 
 plebeian - of the common people
 
 plenitude - fullness
 
-pomp - a ceremony 
+pomp - a ceremony
 
-praenomen - first or personal name 
+praenomen - first or personal name
 
-precipitous - dangerously high, steep 
+precipitous - dangerously high, steep
 
-preconcert - arrange beforehand 
+preconcert - arrange beforehand
 
-Prefect - person in command 
+Prefect - person in command
 
-prepossessing - attractive 
+prepossessing - attractive
 
-preternatural - abnormal 
+preternatural - abnormal
 
-Procrustean - enforcing uniformity without regard to individuality or natural variation 
+Procrustean - enforcing uniformity without regard to individuality or natural variation
 
-promulgte - to promote or make widely known 
+promulgte - to promote or make widely known
 
-prolixity - being too wordy 
+prolixity - being too wordy
 
 propriety - proper
 
-pulpit - platform in a church 
+pulpit - platform in a church
 
-purloin - steal 
+purloin - steal
 
-purulent - full of pus 
+purulent - full of pus
 
 # q
 
-quarto - book of a particular size 
+quarto - book of a particular size
 
-quondam - former, onetime 
+quondam - former, onetime
 
 # r
 
-raiment - clothing 
+raiment - clothing
 
 recherche - very rare
 
-recreant - cowardly 
+recreant - cowardly
 
-recusant - a person who refuses to submit to authority 
+recusant - a person who refuses to submit to authority
 
-remonstrance - forceful protest 
+remonstrance - forceful protest
 
-rencontre - rencounter - a hostile meeting 
+rencontre - rencounter - a hostile meeting
 
-revery - state of thoughtfulness 
+revery - state of thoughtfulness
 
-resolvent - causing solution 
+resolvent - causing solution
 
 restive - impatient
 
-riveted - fastened in place like with rivets 
+riveted - fastened in place like with rivets
 
-roister - boisterous 
+roister - boisterous
 
-rubicund - reddish 
+rubicund - reddish
 
-# s 
+# s
 
-sally - sudden rush forth 
+sally - sudden rush forth
 
-sanguine - cheerfully optimistic 
+sanguine - cheerfully optimistic
 
-scrupulous - having moral standards 
+scrupulous - having moral standards
 
-serge - durable fabric 
+serge - durable fabric
 
-sidle - to move sideways or obiquely 
+sidle - to move sideways or obiquely
 
-singular - extraordinary 
+singular - extraordinary
 
-smack - exactly 
+smack - exactly
 
-sodden - soaked 
+sodden - soaked
 
-solicitude - care or concern for someone or something 
+solicitude - care or concern for someone or something
 
-soliloquy - discourse by a person who is talking to himself 
+soliloquy - discourse by a person who is talking to himself
 
-sooth - truth 
+sooth - truth
 
-spareness - thinness 
+spareness - thinness
 
-spurious - fake 
+spurious - fake
 
-staunch - firm/steadfast in principle 
+staunch - firm/steadfast in principle
 
 stereotomy - technique of cutting solids
 
-sublunary - situated beneath the moon 
+sublunary - situated beneath the moon
 
-sunder - split apart 
+sunder - split apart
 
-supercilious - naughty 
+supercilious - naughty
 
-supererogation - performance of work in excess of that is required 
+supererogation - performance of work in excess of that is required
 
-superfluity - superflous 
+superfluity - superflous
 
-supererogatory - going beyond duty 
+supererogatory - going beyond duty
 
-supine - lying down 
+supine - lying down
 
-surcingle - strap on back of a horse 
+surcingle - strap on back of a horse
 
-swarthy - dark 
+swarthy - dark
 
-swoon - go unconscious 
+swoon - go unconscious
 
 # t
 
-tarn - small mountain lake or pool 
+tarn - small mountain lake or pool
 
-tenement - run down apartment 
+tenement - run down apartment
 
-Tertullian - Charthaginian theoligan 
+Tertullian - Charthaginian theoligan
 
-thoroughfare - road/street 
+thoroughfare - road/street
 
-thronging - crowded 
+thronging - crowded
 
-tincture - solution of alcohol and water 
+tincture - solution of alcohol and water
 
-tottering - unsteady steps 
+tottering - unsteady steps
 
-trumpery - something without use or value 
+trumpery - something without use or value
 
-turpitude - vile, shameful, base character, depravity 
+turpitude - vile, shameful, base character, depravity
 
 # u
 
-unavailing - ineffectual 
+unavailing - ineffectual
 
-unceremoniously - lacking courtesy 
+unceremoniously - lacking courtesy
 
-untoward - unfavorable 
+untoward - unfavorable
 
-usher - doorkeeper 
+usher - doorkeeper
 
 # v
 
-vagary - unpredictable action 
+vagary - unpredictable action
 
-vellum - skin used for writing 
+vellum - skin used for writing
 
-vestibule - passage, hall 
+vestibule - passage, hall
 
-viand - an item of food 
+viand - an item of food
 
-vignette - brief evocative description 
+vignette - brief evocative description
 
-visage - the face, features, countenance 
+visage - the face, features, countenance
 
-vouchsafe - to grant as favor 
+vouchsafe - to grant as favor
 
 # w
 
-wainscoting - paneling 
+wainscoting - paneling
 
-wayfarer - traveler 
+wayfarer - traveler
 
-waylay - intercept 
+waylay - intercept
 
-wayward - turned away from the proper 
+wayward - turned away from the proper
 
-withal - with it all 
+withal - with it all
 
-wrought - worked, not crude 
+wrought - worked, not crude
 
-wont - accustomed, use to 
+wont - accustomed, use to
 
-wonted - accustomed 
+wonted - accustomed
