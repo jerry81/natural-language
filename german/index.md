@@ -74,6 +74,8 @@ Bearbeitergruppe - editor group
 
 Berarbeitungsstand - processing status
 
+bereite - ready
+
 bereits - already
 
 beruhight - calmed down
@@ -112,6 +114,8 @@ dabei - included in
 dadurch - through this
 
 daher - hence
+
+dahin - there
 
 damit - in order that
 
@@ -183,6 +187,9 @@ einzige - only
 
 enderen - others
 
+entwicklung - development
+  - (softwareentwicklung - software development)
+
 Ergänzungen - Supplements
 
 ergebnisse - results
@@ -216,6 +223,10 @@ fall - case
 fallt aus heute - cancelled today
 
 falsche - false, wrong
+
+fertig - complete
+
+fertigstellen - complete
 
 festellen konnen - can determine
 
@@ -262,9 +273,13 @@ gemacht - made
 
 genau - precisely
 
+gerät - device
+
 geschaft - business
 
 geschaftaddres - business address
+
+geschafttermin - business appointment
 
 gesehen - be seen
 
@@ -406,6 +421,8 @@ letztes - last
 liegt - located
 
 liste - list
+
+Lösung - solution
 
 # M
 
@@ -644,6 +661,8 @@ verfolgen - pursue, follow
 verschiedenen - different
 
 verseuchen - contaminate
+
+vertrag - contract
 
 verursacht - caused
 
