@@ -6,6 +6,8 @@ aber - but
 
 aberfragt - queried
 
+abgeschlossen - completed
+
 abhaut - skin off
 
 abrufen - retrieve
@@ -16,7 +18,11 @@ absenden - send off
 
 Abstimmung - poll
 
+aktuellen - current
+
 allen - all
+
+allerseits - everyone
 
 anderes - other
 
@@ -27,6 +33,8 @@ Angabe - specificaiton
 Anrede - salutation
 
 antwort - answer
+
+Anwendungen - applications
 
 anzeigen - show
 
@@ -80,9 +88,13 @@ bereits - already
 
 beruhight - calmed down
 
+beschäftigt - occupied
+
 besprechung - meeting
 
 Beschreibung - description
+
+besondere - special
 
 besserung - improvement
 
@@ -120,6 +132,8 @@ dahin - there
 damit - in order that
 
 dann - then
+
+daran - on it (to it)
 
 daraus - from it
 
@@ -190,6 +204,8 @@ enderen - others
 entwicklung - development
   - (softwareentwicklung - software development)
 
+Erfahrung - experience
+
 Ergänzungen - Supplements
 
 ergebnisse - results
@@ -207,6 +223,8 @@ erste - first
 erstellt, erstelt - created
 
 erstmal - for now
+
+erzählen - tell
 
 erzeugte - generated
 
@@ -230,9 +248,13 @@ fertigstellen - complete
 
 festellen konnen - can determine
 
+festgestellt - established
+
 fehler - error
 
 Folgende - following
+
+Fortschritt - progress
 
 freuen - be happy
 
@@ -331,6 +353,8 @@ hatten - would have
 
 helfen - help
 
+Herausforderungen - challenges
+
 hier - here
 
 hinterlegt - stored/deposited
@@ -383,6 +407,8 @@ keinen - none
 
 klicken - click
 
+klingt - sounds
+
 kommen - come (plural)
 
 kompentenzen - compentencies
@@ -395,6 +421,8 @@ können, konnt - can
 konstanten - constants
 
 kunden/Kundin/Kunde - customer
+
+Künstlicher - artificial
 
 kurz/kurzen - short
 
@@ -429,6 +457,8 @@ Lösung - solution
 machen - do
 
 mal - time(s)
+
+maßgeschneidert - tailor-made
 
 mehr - more
 
@@ -558,6 +588,8 @@ schones - nice
 
 schuchtern - shy
 
+Schwierigkeiten - difficulties
+
 Sehr - Very much
 
 sehen - to see
@@ -613,6 +645,8 @@ sucht - seeks
 
 # T
 
+tätig - employed
+
 tatsachlich - in fact, actually
 
 technisch - technically
@@ -636,6 +670,8 @@ uhr - clock
 
 um - around
 
+umfangreiche - extensive
+
 umfeld - environment
 
 umfrage - opinion poll
@@ -654,7 +690,11 @@ unser, unserem - ours
 
 # V
 
+verbessern - improve
+
 verbinde - associate, connect
+
+verbindungs - connection
 
 verfolgen - pursue, follow
 
@@ -730,6 +770,8 @@ wird - become
 wissen - to know
 
 wochenende (WE) - weekend
+
+wollte - wanted
 
 wurde - became
 wurde - would
