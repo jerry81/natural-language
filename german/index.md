@@ -108,6 +108,8 @@ betrachten - regard
 
 Betreffzeile - subject
 
+Bewerbung - application
+
 bisher - so far
 
 bisschen - little
@@ -201,6 +203,8 @@ einzige - only
 
 enderen - others
 
+Entscheidung - decision
+
 entwicklung - development
   - (softwareentwicklung - software development)
 
@@ -236,11 +240,15 @@ evtl - possibly
 
 # F
 
+Fähigkeiten - skills, cap
+
 fall - case
 
 fallt aus heute - cancelled today
 
 falsche - false, wrong
+
+Fehler - mistake
 
 fertig - complete
 
@@ -252,7 +260,11 @@ festgestellt - established
 
 fehler - error
 
+Flugzeug - airplane
+
 Folgende - following
+
+Fortbildung - training
 
 Fortschritt - progress
 
@@ -273,6 +285,8 @@ geblieben - remained
 gedacht - thought
 
 geehrter - Dear
+
+gehalt - salary
 
 gelegentlich - occasionally
 
@@ -405,6 +419,8 @@ kaputt gemach - destroyed
 
 keinen - none
 
+kleidung - clothing
+
 klicken - click
 
 klingt - sounds
@@ -421,6 +437,8 @@ können, konnt - can
 konstanten - constants
 
 kunden/Kundin/Kunde - customer
+
+Kundenbetreuung - customer service
 
 Künstlicher - artificial
 
@@ -549,6 +567,8 @@ rauschen - noise
 realistisch - realistic
 
 reargieren - react
+
+rechnung - bill, The invoice
 
 reden - talk
 
@@ -690,6 +710,8 @@ unser, unserem - ours
 
 # V
 
+Verantwortung - responsibility
+
 verbessern - improve
 
 verbinde - associate, connect
@@ -697,6 +719,10 @@ verbinde - associate, connect
 verbindungs - connection
 
 verfolgen - pursue, follow
+
+Verhandlung - negotiation
+
+Verkauf - sale
 
 verschiedenen - different
 
@@ -724,6 +750,8 @@ vorstellung - performance
 # W
 
 wahrnehmung - perception
+
+Wandern - hiking
 
 war - was
 
@@ -785,6 +813,10 @@ z.b. - e.g.
 zeichen - sign
 
 zeil - goal
+
+zeitung - newspaper
+
+Zug - train
 
 Zugriff - access
 
