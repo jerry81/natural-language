@@ -22,6 +22,8 @@ aktuellen - current
 
 allen - all
 
+allgemeine - general
+
 allerseits - everyone
 
 anderes - other
@@ -32,6 +34,8 @@ Angabe - specificaiton
 
 Anrede - salutation
 
+ansprechen - to address/approach
+
 antwort - answer
 
 Anwendungen - applications
@@ -41,6 +45,8 @@ anzeigen - show
 auch - also, even
 
 aufgefallen - noticed
+
+Ausdrücke - expressions/phrases
 
 Auswahl - selection
 
@@ -153,6 +159,8 @@ dazu - to
 
 deaktiviert - deactivated
 
+dienen - serve
+
 denke - think
 
 der - that
@@ -192,6 +200,8 @@ eindruck - impression
 einfach - simply
 
 eingeladen - invited
+
+einige - some
 
 einloggen - login
 
@@ -343,6 +353,12 @@ glei/gleich - same
 gleichzeitig - at the same time
 
 glieder - limbs
+
+großartig - great
+
+Grundlage - basis
+
+grundlegende - basic, fundamental
 
 grundsatzlich - basically
 
@@ -586,6 +602,8 @@ sag - say
 
 sagen - to say
 
+Sätze - sentences
+
 schadcode - malicious code
 
 schatzen - treasure
@@ -676,6 +694,8 @@ termin - meeting
 Tschuss - bye
 
 # U
+
+Uben - practice
 
 uber - above
 
@@ -833,6 +853,8 @@ zum - to the
 zumindest - at least
 
 Zuordnung - assignment
+
+zurechtzufinden - find your way
 
 zusammen - together
 
