@@ -1,3 +1,7 @@
-[learning plan](learningplan.md)
+[learning plan](./learningplan.md)
 
-[hirigana](hirigana.md)
+[hirigana](./hirigana.md)
+
+[grammar](./grammar.md)
+
+[vocab](./vocab.md)
