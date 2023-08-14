@@ -26,6 +26,7 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 # か
 
 傘　(かさ)
+歌詞　(かし)
 
 # お
 
