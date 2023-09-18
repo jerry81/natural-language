@@ -5,3 +5,5 @@
 [grammar](./grammar.md)
 
 [vocab](./vocab.md)
+
+[kanji](./kanji.md)

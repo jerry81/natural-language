@@ -6,3 +6,5 @@ For storing language vocab
 [Chinese](./chinese/index.md)
 
 [English](./english/index.md)
+
+[Japanese](./japanese/index.md)
