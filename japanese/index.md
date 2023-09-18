@@ -7,3 +7,5 @@
 [vocab](./vocab.md)
 
 [kanji](./kanji.md)
+
+[katakana](./katakana.md)
