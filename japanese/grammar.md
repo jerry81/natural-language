@@ -26,6 +26,11 @@ The particle "が" (ga) is often used to mark the subject when it is introducing
 Example: 彼が来ました。 (Kare ga kimashita.)
 "彼" (kare) is the subject, and "が" (ga) marks it. The sentence means "He came."
 
+### は　vs が
+
+は (wa) is used to set the stage, establish a topic, or provide general information about a subject. It's like saying, "Regarding this..."
+が (ga) is used to pinpoint and highlight the subject, making it more specific and focused. It's like saying, "It is this (and not something else) that..."
+
 ## after object
 
 ### に
