@@ -80,7 +80,13 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - passive of 食べる
   - 食べられている - is eaten
 
+- conditional form of する
+　- すれば - if you do
+
+- potential form of 鍛える
+ - 鍛えられる - can strengthen
 ## だ　at end of sentence
 
 - like the english "is"
 - informal form of です
+
