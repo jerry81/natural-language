@@ -69,3 +69,18 @@ Example: 本を読みます。 (Hon o yomimasu.)
 The particle "へ" (e) is similar to "に" (ni) and is used to indicate the direction or destination of an action.
 Example: 東京へ行きます。 (Tokyo e ikimasu.)
 "東京" (Tokyo) is the destination, and "へ" (e) marks it. The sentence means "I will go to Tokyo."
+
+## で　after place
+
+- indicates where action takes place
+
+
+# verb conjugation
+
+- passive of 食べる
+  - 食べられている - is eaten
+
+## だ　at end of sentence
+
+- like the english "is"
+- informal form of です

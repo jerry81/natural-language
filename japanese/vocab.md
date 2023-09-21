@@ -47,6 +47,9 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 # s
 
+## し
+
+しゃっくりをしながら　- while hiccupping (from しゃっくりをする)
 ## す
 すぎて - too much
 
