@@ -19,6 +19,11 @@ The character "着" (ki) in the example "今日、東京に着きました" (Kyo
 
 So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "今日、東京に着きました" translates to "Today, I arrived in Tokyo." The character "に" (ni) indicates the destination ("in Tokyo").
 
+# a
+
+## あ
+
+あごひげ - beard
 # f
 ## ふ
 

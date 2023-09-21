@@ -90,3 +90,11 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - like the english "is"
 - informal form of です
 
+
+## connecting adjective/verbs
+
+
+- サンタクロースは、長くて白いあごひげがある
+- 長くて (nagakute): This is a combination of two elements:
+- "長い" (nagai): This is an adjective meaning "long."
+- "て" (te): This is the te-form of the auxiliary verb "だ" (da) or "です" (desu), which is used to connect adjectives and verbs to other elements in a sentence.
