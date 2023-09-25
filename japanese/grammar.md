@@ -90,6 +90,13 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - like the english "is"
 - informal form of です
 
+## turn verb into noun form (gerund)
+
+食べる　-> 食べるの
+
+## connecting
+
+本と鉛筆、そして紙 books, pencil, and paper
 
 ## connecting adjective/verbs
 

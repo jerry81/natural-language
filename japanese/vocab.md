@@ -36,6 +36,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 歌詞　(かし)
 
+キノコ mushroom
+
 # o
 ## お
 おねがいします - please
@@ -51,6 +53,10 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 もっと - more, like "-er" suffix (comparison)
 
 # s
+
+## そ
+
+そして - and
 
 ## し
 
