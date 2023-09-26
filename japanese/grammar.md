@@ -85,6 +85,12 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 
 - potential form of 鍛える
  - 鍛えられる - can strengthen
+
+- continuous form of 揃う
+ - そろっている - is available
+
+ - polite imperative form of つける (to apply)
+   - つけなさい - please apply
 ## だ　at end of sentence
 
 - like the english "is"
@@ -93,6 +99,10 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 ## turn verb into noun form (gerund)
 
 食べる　-> 食べるの
+
+## turn verb to noun 2
+
+電卓を使う - use a calculator -> 電卓を使うこと -> using a calculator
 
 ## connecting
 
