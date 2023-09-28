@@ -80,6 +80,9 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - passive of 食べる
   - 食べられている - is eaten
 
+- passive of　覆う
+  - 覆われている - is covered
+
 - conditional form of する
 　- すれば - if you do
 
@@ -88,6 +91,9 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 
 - continuous form of 揃う
  - そろっている - is available
+
+- continuous form of 登る
+ - 登っている - is hiking/climbing
 
  - polite imperative form of つける (to apply)
    - つけなさい - please apply
@@ -115,3 +121,6 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - 長くて (nagakute): This is a combination of two elements:
 - "長い" (nagai): This is an adjective meaning "long."
 - "て" (te): This is the te-form of the auxiliary verb "だ" (da) or "です" (desu), which is used to connect adjectives and verbs to other elements in a sentence.
+
+- その川は広くて深い
+- くてacts as connector for the two -i adjectives.
