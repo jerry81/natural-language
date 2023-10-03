@@ -95,6 +95,9 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - continuous form of 登る
  - 登っている - is hiking/climbing
 
+- causative of 乾燥
+  - 乾燥させる
+
  - polite imperative form of つける (to apply)
    - つけなさい - please apply
 ## だ　at end of sentence
@@ -114,8 +117,13 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 
 本と鉛筆、そして紙 books, pencil, and paper
 
-## connecting adjective/verbs
+健康的で手軽なスナック - connected with な
 
+## cause and effect
+
+乾燥させると、長持ちする - と　is the connector
+
+## connecting adjective/verbs
 
 - サンタクロースは、長くて白いあごひげがある
 - 長くて (nagakute): This is a combination of two elements:
