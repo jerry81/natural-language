@@ -133,6 +133,9 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - その川は広くて深い
 - くてacts as connector for the two -i adjectives.
 
+- 甘くて歯応えのあるモヤシを...
+- sweet and crunchy bean sprouts...
+
 ## comparison
 
 - セロリーを食べて得るカロリーより、セロリを食べる為に使うカロリーの方が多い。
