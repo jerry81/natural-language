@@ -141,3 +141,9 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - 方が - more/less than
 - A 方が B より大きい - A bigger than B
 - A より　B 方が大きい - B bigger than A
+
+## listing items
+
+- and so on... など
+- A や　B、C など,
+  - a,b,c and so on...
