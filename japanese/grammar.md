@@ -132,3 +132,12 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 
 - その川は広くて深い
 - くてacts as connector for the two -i adjectives.
+
+## comparison
+
+- セロリーを食べて得るカロリーより、セロリを食べる為に使うカロリーの方が多い。
+- it takes more calories to eat celery than to digest it.
+- より　- than
+- 方が - more/less than
+- A 方が B より大きい - A bigger than B
+- A より　B 方が大きい - B bigger than A
