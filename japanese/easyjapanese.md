@@ -45,3 +45,11 @@
 ## loesson 10 - how much is...
 - このドライアはいくらですか
 - how much is this dryer?
+
+## lesson 11 - do you have...
+- お守りはありますか
+- do you have lucky charms?
+
+## lesson 12 - isn't it?
+- 可愛いお守りですね
+- this is a cute amulet, isn't it?
