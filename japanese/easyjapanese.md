@@ -29,3 +29,19 @@
 
 - この電車は池袋に行きますか?
 - does this train go to ikebukuro?
+
+## lesson 7 - て form
+- ゆっくり話してください
+- please speak slowly
+
+## lesson 8 - introduction
+- 友達のAさんです
+- this is my friend, A
+
+## lesson 9 - what is this?
+- これは何ですか
+- what is this / それ　that / あれ　that over there?
+
+## loesson 10 - how much is...
+- このドライアはいくらですか
+- how much is this dryer?

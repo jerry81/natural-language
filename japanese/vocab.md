@@ -83,3 +83,7 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
   - well, like pairs well
   - often
   - skillfully/thoroughly
+
+## ゆ
+
+ゆっくり - slowly
