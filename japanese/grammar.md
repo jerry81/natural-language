@@ -116,6 +116,11 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - 行ってみたい
 - 見ってみたい
 
+- negative form
+- 入れる　→ 入れない
+ー　ワサビ入れないでください
+- please dont put wasabi in.
+
 ## だ　 at end of sentence
 
 - like the english "is"
@@ -208,3 +213,7 @@ Use Before Nouns: "-な" adjectives need the particle "な" when placed before n
 Predominantly Non-Attributive: "-な" adjectives are often used in non-attributive positions, such as after the noun, as a predicate, or in the te-form. For example, you might say "元気です" (genki desu) to mean "I am lively" or "I am healthy."
 
 In summary, the main difference is in their conjugation, usage before nouns, and whether a particle is needed. "-い" adjectives can directly modify nouns and require conjugation in some cases, while "-な" adjectives are often used in non-attributive positions, require the "な" particle before nouns, and do not undergo extensive conjugation. Understanding the type of adjective you're dealing with is crucial for constructing grammatically correct sentences in Japanese.
+
+## colloquial
+
+- んですが - polite way of explaining situation - prompting someone to respond

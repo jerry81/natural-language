@@ -83,3 +83,11 @@
 ## lesson 18 - past tense i-adjectives
 - すごく楽しかったです
 - it was very fun
+
+## lesson 19 - が　-んですが
+- 手袋が欲しいんですが
+- i would like gloves
+
+## lesson 20 - ない　form
+ー　ワサビ入れないでください
+- please don't put wasabi in.
