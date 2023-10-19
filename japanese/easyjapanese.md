@@ -71,3 +71,7 @@
 ## lesson 15 - please go to ...
 - 猿の温泉までお願いします
 - please go to the monkey hotspring.
+
+## lesson 16 - な adjectives
+- 有名な温泉です
+- this is a famooose hotspring.
