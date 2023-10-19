@@ -91,3 +91,7 @@
 ## lesson 20 - ない　form
 ー　ワサビ入れないでください
 - please don't put wasabi in.
+
+## lesson 21 - i'm in/at...
+- 時計台の中にいます
+- i'm in the clock tower.
