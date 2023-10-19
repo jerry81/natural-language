@@ -75,3 +75,11 @@
 ## lesson 16 - な adjectives
 - 有名な温泉です
 - this is a famooose hotspring.
+
+## lesson 17 - present continous - ています form
+- 日本を旅行しています　
+- i am travelling japan.
+
+## lesson 18 - past tense i-adjectives
+- すごく楽しかったです
+- it was very fun

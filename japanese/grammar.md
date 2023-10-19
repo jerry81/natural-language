@@ -96,6 +96,10 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - continuous form of 登る
 - 登っている - is hiking/climbing
 
+- continous form of 旅行する
+- 旅行しています
+- 旅行している
+
 - causative of 乾燥
   - 乾燥させる
 
@@ -170,6 +174,10 @@ Aまでお願いします
 - to A, please
 
 ## adjectives
+
+- past tense
+- い -> -かった
+- 楽しかった
 
 - い vs な
 
