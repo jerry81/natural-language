@@ -53,3 +53,21 @@
 ## lesson 12 - isn't it?
 - 可愛いお守りですね
 - this is a cute amulet, isn't it?
+
+## lesson 13 - x-たい form
+- 雪見ったいです
+- i want to see snow
+- 食べたい　
+- i want to eat
+
+## lesson 14 - x-みたい　form
+- 食べみたい
+- i want to try eating...
+- 行ってみたい
+- i would like to go someday...
+- 見ってみたい
+- i would like to see for the first time
+
+## lesson 15 - please go to ...
+- 猿の温泉までお願いします
+- please go to the monkey hotspring.

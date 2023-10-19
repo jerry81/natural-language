@@ -26,7 +26,7 @@ The particle "が" (ga) is often used to mark the subject when it is introducing
 Example: 彼が来ました。 (Kare ga kimashita.)
 "彼" (kare) is the subject, and "が" (ga) marks it. The sentence means "He came."
 
-### は　vs が
+### は　 vs が
 
 は (wa) is used to set the stage, establish a topic, or provide general information about a subject. It's like saying, "Regarding this..."
 が (ga) is used to pinpoint and highlight the subject, making it more specific and focused. It's like saying, "It is this (and not something else) that..."
@@ -70,37 +70,49 @@ The particle "へ" (e) is similar to "に" (ni) and is used to indicate the dire
 Example: 東京へ行きます。 (Tokyo e ikimasu.)
 "東京" (Tokyo) is the destination, and "へ" (e) marks it. The sentence means "I will go to Tokyo."
 
-## で　after place
+## で　 after place
 
 - indicates where action takes place
-
 
 # verb conjugation
 
 - passive of 食べる
+
   - 食べられている - is eaten
 
-- passive of　覆う
+- passive of 　覆う
+
   - 覆われている - is covered
 
 - conditional form of する
-　- すれば - if you do
+  　- すれば - if you do
 
 - potential form of 鍛える
- - 鍛えられる - can strengthen
+- 鍛えられる - can strengthen
 
 - continuous form of 揃う
- - そろっている - is available
+- そろっている - is available
 
 - continuous form of 登る
- - 登っている - is hiking/climbing
+- 登っている - is hiking/climbing
 
 - causative of 乾燥
   - 乾燥させる
 
- - polite imperative form of つける (to apply)
-   - つけなさい - please apply
-## だ　at end of sentence
+- polite imperative form of つける (to apply)
+  - つけなさい - please apply
+
+- "want to" - tai
+- 食べたい
+- 行きたい
+- 見ったい
+
+- "want to someday" or do something for the first time - mitai
+- 食べみたい
+- 行ってみたい
+- 見ってみたい
+
+## だ　 at end of sentence
 
 - like the english "is"
 - informal form of です
@@ -121,7 +133,7 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 
 ## cause and effect
 
-乾燥させると、長持ちする - と　is the connector
+乾燥させると、長持ちする - と　 is the connector
 
 ## connecting adjective/verbs
 
@@ -131,7 +143,7 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - "て" (te): This is the te-form of the auxiliary verb "だ" (da) or "です" (desu), which is used to connect adjectives and verbs to other elements in a sentence.
 
 - その川は広くて深い
-- くてacts as connector for the two -i adjectives.
+- くて acts as connector for the two -i adjectives.
 
 - 甘くて歯応えのあるモヤシを...
 - sweet and crunchy bean sprouts...
@@ -143,10 +155,16 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - より　- than
 - 方が - more/less than
 - A 方が B より大きい - A bigger than B
-- A より　B 方が大きい - B bigger than A
+- A より　 B 方が大きい - B bigger than A
 
 ## listing items
 
 - and so on... など
-- A や　B、C など,
+- A や　 B、C など,
   - a,b,c and so on...
+
+## propsitions
+
+- まで
+Aまでお願いします
+- to A, please
