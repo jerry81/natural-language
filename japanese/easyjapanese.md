@@ -95,3 +95,12 @@
 ## lesson 21 - i'm in/at...
 - 時計台の中にいます
 - i'm in the clock tower.
+
+## lesson 22 - ましょ form - inviting
+-　写真を撮りましょ
+- let's take a photo.
+
+## lesson 23 - i like...が
+- 私はこの猫が好きです
+- i like this cat.
+- が　over を because 好き is an adj, 好きな

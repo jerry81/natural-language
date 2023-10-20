@@ -121,6 +121,11 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 ー　ワサビ入れないでください
 - please dont put wasabi in.
 
+- let's/invitation - ましょ　form
+- 撮る　→ 撮りましょ
+- 写真を撮りましょ
+- let's take a photo.
+
 ## だ　 at end of sentence
 
 - like the english "is"
