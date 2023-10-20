@@ -70,6 +70,12 @@ The particle "へ" (e) is similar to "に" (ni) and is used to indicate the dire
 Example: 東京へ行きます。 (Tokyo e ikimasu.)
 "東京" (Tokyo) is the destination, and "へ" (e) marks it. The sentence means "I will go to Tokyo."
 
+### が　exception
+
+- use が　after object when using な adjective to describe the noun being described.
+- この猫が好きです
+- i like this cat
+
 ## で　 after place
 
 - indicates where action takes place
@@ -89,6 +95,10 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 
 - potential form of 鍛える
 - 鍛えられる - can strengthen
+
+-　potential of 食べる
+ー　食べられる
+- can eat
 
 - continuous form of 揃う
 - そろっている - is available

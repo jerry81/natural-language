@@ -104,3 +104,7 @@
 - 私はこの猫が好きです
 - i like this cat.
 - が　over を because 好き is an adj, 好きな
+
+## lesson 24 - negative potential form ーられません
+- 生卵は食べられません
+- i can't eat raw eggs.
