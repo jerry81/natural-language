@@ -108,3 +108,7 @@
 ## lesson 24 - negative potential form ーられません
 - 生卵は食べられません
 - i can't eat raw eggs.
+
+## lesson 25 - x hurts
+- 喉が痛いんです
+- my throat hurts.

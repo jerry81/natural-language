@@ -172,6 +172,9 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - 甘くて歯応えのあるモヤシを...
 - sweet and crunchy bean sprouts...
 
+- この卵焼き甘くて美味しいです
+- this fried egg is sweet and delicious.
+
 ## comparison
 
 - セロリーを食べて得るカロリーより、セロリを食べる為に使うカロリーの方が多い。
@@ -232,3 +235,4 @@ In summary, the main difference is in their conjugation, usage before nouns, and
 ## colloquial
 
 - んですが - polite way of explaining situation - prompting someone to respond
+- んです - contraction　of のです　- explaining something (tone)
