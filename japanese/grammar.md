@@ -236,3 +236,9 @@ In summary, the main difference is in their conjugation, usage before nouns, and
 
 - んですが - polite way of explaining situation - prompting someone to respond
 - んです - contraction　of のです　- explaining something (tone)
+
+## asking permission
+
+- A -てもいいですか
+- 食べてもいいですか
+- can i eat

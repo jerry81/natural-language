@@ -112,3 +112,15 @@
 ## lesson 25 - x hurts
 - 喉が痛いんです
 - my throat hurts.
+
+## lesson 26 - adj and adj
+- この卵焼甘くて美味しいです
+- this tamagoyaki is sweet and delicious
+
+## lesson 27 - most, which
+- どれが一番美味しいですか
+- which one is the most delicious?
+
+## lesson 28 - asking permission
+-　写真を撮ってもいいですか
+- may i take photos?
