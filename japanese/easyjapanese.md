@@ -124,3 +124,7 @@
 ## lesson 28 - asking permission
 -　写真を撮ってもいいですか
 - may i take photos?
+
+## lesson 29 - continuative form?
+- ピアノ演奏聴き行きました
+- i went to see a piano recital
