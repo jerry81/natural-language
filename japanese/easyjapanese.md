@@ -128,3 +128,15 @@
 ## lesson 29 - continuative form?
 - ピアノ演奏聴き行きました
 - i went to see a piano recital
+
+## lesson 30 - たり　form, listing verbs
+- 一緒に歌ったり、踊ったりしました
+- we sang and danced together
+
+## lesson 31 - invitations with ー　ませんか
+ー　一緒に行きませんか
+- why dont we go together
+
+## lesson 32 - conditional form たら
+- 忍者博物館まで、どう行ったらいいですか
+- if i want to go to the ninja museum, how should i go.

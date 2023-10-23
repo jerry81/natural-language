@@ -93,6 +93,9 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - conditional form of する
   　- すれば - if you do
 
+- conditional　past form of 行く
+　　ー　行ったら
+
 - potential form of 鍛える
 - 鍛えられる - can strengthen
 
@@ -135,6 +138,14 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - 撮る　→ 撮りましょ
 - 写真を撮りましょ
 - let's take a photo.
+
+- たり　form for connecting
+- 歌ったり、踊ったりしました
+- sang and danced
+
+- invitational
+- 一緒に行きませんか
+- shall we go together?
 
 ## だ　 at end of sentence
 
