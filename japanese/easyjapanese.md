@@ -148,3 +148,24 @@
 ## lesson 34 - past experiences (present perfect tense)
 - 読んだことあります
 - i've read it.
+
+## lesson 35 - connecting verbs　use te form
+- 大涌谷に行って、黒卵が食べたいです.
+- i want to go to owakudani and eat black eggs.
+
+## lesson 36 - asking from when to when
+- お風呂は何時から何時までですか
+- from what time to what time can we use the bath?
+
+## lesson 37 - prompting for responses
+- テレビがつかないんですが
+- the tv wont turn on...
+- んですが - explain and prompt to help
+
+## lesson 38 - comparisons
+- 外の方がいいです
+- i prefer outside
+
+## lesson 39 - regret form (lol)
+- 財布を落としてしまいました
+- i lost my wallet

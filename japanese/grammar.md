@@ -119,7 +119,7 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - polite imperative form of つける (to apply)
   - つけなさい - please apply
 
-- "want to" - tai
+- "want to" - tai (desire form)
 - 食べたい
 - 行きたい
 - 見ったい
@@ -146,6 +146,10 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - invitational
 - 一緒に行きませんか
 - shall we go together?
+
+- regret form of 落とす
+ー　落としてしまいました
+- lost my ...
 
 ## だ　 at end of sentence
 
