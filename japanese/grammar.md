@@ -156,6 +156,8 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 
 食べる　-> 食べるの
 
+読んだ　→ 読んだこと　- the experience of reading
+
 ## turn verb to noun 2
 
 電卓を使う - use a calculator -> 電卓を使うこと -> using a calculator

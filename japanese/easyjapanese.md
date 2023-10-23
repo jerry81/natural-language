@@ -140,3 +140,11 @@
 ## lesson 32 - conditional form たら
 - 忍者博物館まで、どう行ったらいいですか
 - if i want to go to the ninja museum, how should i go.
+
+## lesson 33 - how long must we wait
+- どのくらい待ちますか
+- how long do i wait?
+
+## lesson 34 - past experiences (present perfect tense)
+- 読んだことあります
+- i've read it.

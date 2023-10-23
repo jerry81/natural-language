@@ -24,6 +24,13 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 ## あ
 
 あごひげ - beard
+
+# d
+
+## ど
+
+どのくらい - how much
+
 # f
 ## ふ
 
