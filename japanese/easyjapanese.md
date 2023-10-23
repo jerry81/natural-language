@@ -169,3 +169,7 @@
 ## lesson 39 - regret form (lol)
 - 財布を落としてしまいました
 - i lost my wallet
+
+## lesson 40 - giving reasons
+- 初めてだったから、ひっくりしました
+- i was startled because it was my first time.
