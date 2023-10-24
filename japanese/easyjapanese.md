@@ -173,3 +173,11 @@
 ## lesson 40 - giving reasons
 - 初めてだったから、ひっくりしました
 - i was startled because it was my first time.
+
+## lesson 41 - asking permission, more uses of こと
+- チケットを買うができますか
+- can i buy a ticket?
+
+## lesson 42 - plans
+- 悠輝さんに渡す積もりです
+- i plan to give them to yuki

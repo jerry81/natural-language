@@ -166,6 +166,11 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 
 電卓を使う - use a calculator -> 電卓を使うこと -> using a calculator
 
+- and then asking for permission
+
+チケットを買うことができますか
+- can we buy a ticket
+
 ## connecting
 
 本と鉛筆、そして紙 books, pencil, and paper
