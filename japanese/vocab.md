@@ -63,6 +63,10 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 # m
 
+## ま
+
+また　- again, another
+
 ## も
 
 もっと - more, like "-er" suffix (comparison)

@@ -181,3 +181,11 @@
 ## lesson 42 - plans
 - 悠輝さんに渡す積もりです
 - i plan to give them to yuki
+
+## lesson 43 - me thinks そうです
+- 元気そうですね
+- you look well
+
+## lesson 44 - i heard そうです
+- またコンサートがあるそうです
+- i hear he's giving another concert.
