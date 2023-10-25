@@ -93,6 +93,9 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - conditional form of する
   　- すれば - if you do
 
+- conditional past form of する
+　　ー　したら
+
 - conditional　past form of 行く
 　　ー　行ったら
 
@@ -123,6 +126,7 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - 食べたい
 - 行きたい
 - 見ったい
+- 働きたい - want to work
 
 - "want to someday" or do something for the first time - mitai
 - 食べみたい

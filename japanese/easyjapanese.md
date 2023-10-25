@@ -193,3 +193,15 @@
 ## lesson 45 - could you ... (polite)
 - 日本語をチェックしてもらえませんか
 - could you not check the japanese?
+
+## lesson 46 - "but" けど
+ー　小さいけど綺麗です
+- it's small but beautiful
+
+## lesson 47 - んですか、　どうやって
+ー　どうやってするんですか
+ー　how do you do it?
+
+## lesson 48 - たら　たい　pattern - after i ... i want to ...
+- 卒業したら、日本で働きたいです
+- after graduation i want to work in japan

@@ -37,12 +37,16 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 どのくらい - how much
 
+どうやって - how
+
 # f
+
 ## ふ
 
 降(ふ)っている - falling
 
 # k
+
 ## か
 
 から　ー　since
@@ -53,7 +57,12 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 キノコ mushroom
 
+## け
+
+けど　→ but
+
 # o
+
 ## お
 おねがいします - please
 
