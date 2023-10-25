@@ -189,3 +189,7 @@
 ## lesson 44 - i heard そうです
 - またコンサートがあるそうです
 - i hear he's giving another concert.
+
+## lesson 45 - could you ... (polite)
+- 日本語をチェックしてもらえませんか
+- could you not check the japanese?

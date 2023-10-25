@@ -69,6 +69,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 ## も
 
+もらえます - i can get
+
 もっと - more, like "-er" suffix (comparison)
 
 # s
