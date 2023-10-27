@@ -102,6 +102,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 とよく - often
 
+と　→ and
+
 ## つ
 
 つもり　- intention

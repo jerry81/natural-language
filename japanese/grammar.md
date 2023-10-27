@@ -155,6 +155,9 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 ー　落としてしまいました
 - lost my ...
 
+- volitional
+- 会いましょう - let's meet
+
 ## だ　 at end of sentence
 
 - like the english "is"
