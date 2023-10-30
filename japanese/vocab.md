@@ -39,6 +39,9 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 どうやって - how
 
+ど　→ emphasis particle
+  -　ど真ん中 - right in the middle
+
 # f
 
 ## ふ
