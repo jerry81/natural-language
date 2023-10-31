@@ -271,3 +271,8 @@ In summary, the main difference is in their conjugation, usage before nouns, and
 - A -てもいいですか
 - 食べてもいいですか
 - can i eat
+
+## plural
+
+- 彼　- he
+- 彼ら　- they
