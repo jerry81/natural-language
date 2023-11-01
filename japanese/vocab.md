@@ -85,6 +85,20 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 もっと - more, like "-er" suffix (comparison)
 
+もう　→ already, now
+
+# n
+
+## な
+
+なる、なりましよ　→　become
+
+# p
+
+## パ
+
+パッと　→ suddenly (colloquial)
+
 # s
 
 ## そ
