@@ -123,7 +123,15 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 ## つ
 
+つながっている　→ is connected
+
 つもり　- intention
+
+# u
+
+## う
+
+うるさい　→ loud
 
 # y
 
