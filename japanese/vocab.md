@@ -115,6 +115,10 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 # t
 
+## た
+
+ために -> in order to 為に
+
 ## と
 
 とも　- same
