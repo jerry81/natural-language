@@ -119,6 +119,9 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - 旅行しています
 - 旅行している
 
+- progressive/continuous of 行く
+-　行っています
+
 - causative of 乾燥
   - 乾燥させる
 
@@ -161,9 +164,13 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - volitional
 - 会いましょう - let's meet
 
+- past progressive of 通う
+- 通っていた　→ were attending, was attending
+
 ## だ　 at end of sentence
 
 - like the english "is"
+
 - informal form of です
 
 ## turn verb into noun form (gerund)
