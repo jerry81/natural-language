@@ -133,6 +133,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 つもり　- intention
 
+つけたら　→ if one puts on, if one turns on　(conditional form)
+
 # u
 
 ## う

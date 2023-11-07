@@ -99,6 +99,9 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - conditional　past form of 行く
 　　ー　行ったら
 
+- conditional form of つける
+  - つけたら
+
 - potential form of 鍛える
 - 鍛えられる - can strengthen
 
