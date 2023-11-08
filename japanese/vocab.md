@@ -125,7 +125,7 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 とよく - often
 
-と　→ and
+と　→ and, when/if
 
 ## つ
 
@@ -149,6 +149,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
   - well, like pairs well
   - often
   - skillfully/thoroughly
+
+より　→ more, further
 
 ## ゆ
 

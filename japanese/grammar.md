@@ -122,6 +122,9 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - progressive/continuous of 行く
 -　行っています
 
+- progressive/continuous of 使う
+-　使っている -> is using
+
 - causative of 乾燥
   - 乾燥させる
 
@@ -166,6 +169,9 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 
 - past progressive of 通う
 - 通っていた　→ were attending, was attending
+
+- past progressive of 着る
+- 着ていた -> was wearing
 
 ## だ　 at end of sentence
 
@@ -240,6 +246,9 @@ Aまでお願いします
 - past tense
 - い -> -かった
 - 楽しかった
+
+- past tense of 壊れ
+- 壊れた
 
 - い vs な
 
