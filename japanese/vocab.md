@@ -48,6 +48,12 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 降(ふ)っている - falling
 
+# h
+
+## ひ
+
+ひねる　→ to sprain
+
 # k
 
 ## か
