@@ -119,6 +119,9 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - 旅行しています
 - 旅行している
 
+- continuous form of 来て
+- 来ている
+
 - progressive/continuous of 行く
 -　行っています
 　
@@ -166,6 +169,9 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - regret form of 落とす
 ー　落としてしまいました
 - lost my ...
+
+- regret form, dried up 枯れて
+-　枯れてしまった
 
 - volitional
 - 会いましょう - let's meet
