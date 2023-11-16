@@ -121,9 +121,12 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 
 - progressive/continuous of 行く
 -　行っています
-
+　
 - progressive/continuous of 使う
 -　使っている -> is using
+
+- present progressive of 進む
+- 進んでいる　-> is pushing
 
 - causative of 乾燥
   - 乾燥させる

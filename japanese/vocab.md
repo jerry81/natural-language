@@ -101,6 +101,10 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 なる、なりましよ　→　become
 
+ので　→ because, so
+
+何とか　→ なんとか　→ somehow
+
 # p
 
 ## パ
