@@ -90,6 +90,9 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 
   - 覆われている - is covered
 
+- passive past of 創始する
+- 創始されました -> was founded
+
 - conditional form of する
   　- すれば - if you do
 
