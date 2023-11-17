@@ -56,3 +56,10 @@
   - memory
   - network card
   - poe port (power over ethernet)
+
+### 2.1.3 power adapter
+
+-  has a custom-made on-off
+- 4B runs at 4 amperes
+
+### 2.1.4 Breadboard
