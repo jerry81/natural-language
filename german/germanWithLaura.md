@@ -38,3 +38,7 @@
 - build specific foundation
   - also referring to grammar
   - learn 20% of the grammar to benefit 80%
+  - important
+    - noun gender
+      - know the patterns, principles
+    - declensions
