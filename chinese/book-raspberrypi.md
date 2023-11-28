@@ -63,3 +63,6 @@
 - 4B runs at 4 amperes
 
 ### 2.1.4 Breadboard
+
+- 分立元器件
+- 跳线

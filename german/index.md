@@ -121,6 +121,9 @@ bisher - so far
 bisschen - little
 
 bist du - are you
+
+büchlein - booklet
+
 # D
 
 dabei - included
@@ -211,6 +214,8 @@ einstellen - to adjust
 
 einzige - only
 
+Eitelkeit - vanity
+
 enderen - others
 
 Entscheidung - decision
@@ -241,6 +246,8 @@ erstmal - for now
 erzählen - tell
 
 erzeugte - generated
+
+Etikett - label
 
 etwas - something
 
@@ -453,6 +460,8 @@ komplett leeres - completely empty one
 können, konnt - can
 
 konstanten - constants
+
+Krankheit - illness
 
 kunden/Kundin/Kunde - customer
 

@@ -42,3 +42,42 @@
     - noun gender
       - know the patterns, principles
     - declensions
+
+## noun gender
+
+- der, die, das
+- rules
+- noun gender tips
+  - work with noun endings
+    - masculine noun endings:  fäustling (mitten), Essig (vinegar), Teppich (carpet) - these use der, also der diamant, der motor, der campus
+      - ling, ig, ich - always masculine
+      - ant, or, us - with some exceptions
+    - feminine
+      - heit, schaft, ung, keit - always feminine die, die krankheit (illness), die freundschaft (friendship), die eitelkeit (vanity)
+      - ion, ge, za, ik, ur - with some exceptions
+    - neuter
+      - chen, lein, ett, il - always use das
+        - das madchen, das büchlein (booklet), das Etikett (label), das Fossil
+      - ment, eum, ier, ma - with exceptions
+  - work with noun groups
+    - masculine groups
+      - months & seasons
+        - der September, der Herbst
+      - weather elements
+        - der wind, der Schnee, der Regen
+      - currency
+        - der Dollar, der Euro
+    - feminine groups
+      - Trees
+        - die Kiefer - pine
+      - Fruits
+        - die Melone
+      - Flowers
+        - die Rose
+    - neuter groups
+      - metals - das Gold
+      - countries - das Kanada
+      - hotels - das Ritz
+
+  - approach systematically
+  - use memory aids
