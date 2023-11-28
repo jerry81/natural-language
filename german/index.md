@@ -441,6 +441,8 @@ klicken - click
 
 klingt - sounds
 
+Knochen - bone
+
 kommen - come (plural)
 
 kompentenzen - compentencies
