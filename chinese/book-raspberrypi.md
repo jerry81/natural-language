@@ -64,5 +64,40 @@
 
 ### 2.1.4 Breadboard
 
-- 分立元器件
-- 跳线
+- the breadboard is for prototyping electronic circuits
+- you can easily stick the following into it
+- 分立元器件 - discrete components
+  - electronic devices that are distinct and separate, (non integrated)
+    - capacitors
+    - resistors
+    - inductors
+    - transistors
+    - diodes
+- 跳线 - jumper wire
+  - short wire connect two points on circuit board or electronic component
+- two types of breadboards - single and double sided, we use single sided
+
+- 引脚 - pin, pinout - pins of device, component or IC.  metal connectors extending from body of component used to electrically connect component to circuit
+  - connect for transmit
+    - recieve
+    - power
+    - grounding
+      - fundamental concept - connect device to earth
+        - safety, stabilization, reference point
+        - allow excess current to flow safely into the ground preventing accumulation
+
+- resistor - limits flow
+- capacitor - store and release electrical energy as electric field
+  - two conductors seperated by insulator
+  - for filtering, smoothing, energy storage
+- inductor - coil of wire - resists changes in flow of electric current
+  - stores in magnetic field
+  - releases when current changes
+  - used for filters, transformers, energy storage
+- transistor - semiconductor that amplifies or switches electronic signals
+  - 3 layers: emitter, base, collector
+  - fundamental building block in digital logic circuits
+- diode - semiconductor - current flows in one direction
+  - anode + cathode
+  - used for rectification (AC to DC)
+  - signal demodulation, protection vs voltage spikes
