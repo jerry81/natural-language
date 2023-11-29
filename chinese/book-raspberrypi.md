@@ -5,7 +5,7 @@
 - this book will introduce various fundamentals of embedded programming, like what is rp, breadboard, how to install and use rp, sensor modules, learning projects, etc.
 - in the experimental chapter
 
-- for the reader's understanding, we give detailed descriptions of each sensor modul.  in the practical chapter, each lab includes pictures, the theory behind the circuits and the 实物接线图 - physical wiring document, and we also offer an accompanying instructional video
+- for the reader's understanding, we give detailed descriptions of each sensor modul. in the practical chapter, each lab includes pictures, the theory behind the circuits and the 实物接线图 - physical wiring document, and we also offer an accompanying instructional video
 
 ## chapter 2 : understanding raspberry pi
 
@@ -30,11 +30,12 @@
   - 电源线 power cable
   - TF 卡 -> transflash card - aka microSD card from sandisk
   - 读卡器 -> card reader
-  - 简单的排线引出I/O口 - simple cable that leads to io port
+  - 简单的排线引出 I/O 口 - simple cable that leads to io port
 
 ### 2.1.1 - 3B+ (not mine)
 
 ### 2.1.2 4B
+
 - traditional BCM2711 processor
   - broadcom
   - ARM
@@ -59,7 +60,7 @@
 
 ### 2.1.3 power adapter
 
--  has a custom-made on-off
+- has a custom-made on-off
 - 4B runs at 4 amperes
 
 ### 2.1.4 Breadboard
@@ -77,7 +78,8 @@
   - short wire connect two points on circuit board or electronic component
 - two types of breadboards - single and double sided, we use single sided
 
-- 引脚 - pin, pinout - pins of device, component or IC.  metal connectors extending from body of component used to electrically connect component to circuit
+- 引脚 - pin, pinout - pins of device, component or IC. metal connectors extending from body of component used to electrically connect component to circuit
+
   - connect for transmit
     - recieve
     - power
@@ -98,6 +100,7 @@
   - 3 layers: emitter, base, collector
   - fundamental building block in digital logic circuits
 - diode - semiconductor - current flows in one direction
+
   - anode + cathode
   - used for rectification (AC to DC)
   - signal demodulation, protection vs voltage spikes
@@ -126,6 +129,7 @@
 - when burning the tf card into the system a matching card reader is needed and the burning operation needs to be carried out on the computer.
 
 ### 2.1.6 跳线
+
 - jump wire - make temp connection between two points on circuit
 
 - 行 row 列 column
@@ -133,13 +137,25 @@
 - although wire colors are not the same, it doesn't mean their functionality are not the same.
 - the colors are for organizational and asthetic purposes.
 
-### 2.1.7 T shaped adapter T形转接板
+### 2.1.7 T shaped adapter T 形转接板
 
-- RBP has 40 I/O ports.  Usually, when breadboarding, you will use a T shaped adapter to connect the rbp i/o ports to transfer out signals.
+- RBP has 40 I/O ports. Usually, when breadboarding, you will use a T shaped adapter to connect the rbp i/o ports to transfer out signals.
 
 ### 2.1.8 monitor
+
 - optionally, a display monitor can be provided, we obviously didn't get one
 
 ## 2.2 - installing raspbery pi system
+
 - RBP supports Raspbian, Windows 10 IoT, Ubuntu Mate, etc.
 - most common Raspbian
+- recommended Raspbian
+- go to official site to download newest version and install
+- download a zip
+
+- raspbian rebranded to Raspberry pi os
+- latest version bookworm
+
+### 2.2.1 in windows, format SD card
+
+- the usb thumb drive has a slot for the sd card meaning it acts as the adapter too.
