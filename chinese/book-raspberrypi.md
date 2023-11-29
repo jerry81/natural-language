@@ -101,3 +101,45 @@
   - anode + cathode
   - used for rectification (AC to DC)
   - signal demodulation, protection vs voltage spikes
+
+- 起见 - for the sake of
+- let blue wire be GND,
+- let the red cable be Vcc.
+  - means voltage supply
+- every 5 holes are connected by a metal plate vertically
+- metal plates cannot touch metal plates
+- user can use wires or components to horizontally connect to the metal plate
+
+- let's experiment with the breadboard!
+  - breadboard allows you to avoid soldering
+  - connect led and watch it light!
+  - their picture has a 9v battery with a connector that gives two wire outputs
+  - connect one wire at + row
+  - connect another from battery to - row and next column
+
+### 2.1.5 TF 卡 (transflash)
+
+- RBP has no disk. MicroSD acts as the disk.
+- in their example it is a thumb drive
+- ours is a 2TB thumb (microSDXC)
+- and a chip 32GB (microSDHC)
+- when burning the tf card into the system a matching card reader is needed and the burning operation needs to be carried out on the computer.
+
+### 2.1.6 跳线
+- jump wire - make temp connection between two points on circuit
+
+- 行 row 列 column
+
+- although wire colors are not the same, it doesn't mean their functionality are not the same.
+- the colors are for organizational and asthetic purposes.
+
+### 2.1.7 T shaped adapter T形转接板
+
+- RBP has 40 I/O ports.  Usually, when breadboarding, you will use a T shaped adapter to connect the rbp i/o ports to transfer out signals.
+
+### 2.1.8 monitor
+- optionally, a display monitor can be provided, we obviously didn't get one
+
+## 2.2 - installing raspbery pi system
+- RBP supports Raspbian, Windows 10 IoT, Ubuntu Mate, etc.
+- most common Raspbian
