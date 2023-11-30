@@ -159,3 +159,16 @@
 ### 2.2.1 in windows, format SD card
 
 - the usb thumb drive has a slot for the sd card meaning it acts as the adapter too.
+
+### 2.2.2 - install on windows (not applicable)
+
+- they use balena-Etcher tool
+- tells us to stick the usb stick in
+- after installation, there are two partitions:
+FAT32 - boot partition which is the FS read by both windows and linux
+- Ext4 Linux Main Partition - commonly used in Linux, formatted with Ext4 File system.
+contians core OS files, user data, applications
+
+- FAT32 - File allocation table 32
+
+### 2.2.3 - rbp power up and connect!
