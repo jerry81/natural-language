@@ -12,3 +12,6 @@
 なんか起こってる　→ something is up
 
 今日何かだるい　→ i feel sluggish today.
+
+しょうがない　→ it cant be helped
+仕方ない　→ it can't be helped.
