@@ -172,3 +172,15 @@ contians core OS files, user data, applications
 - FAT32 - File allocation table 32
 
 ### 2.2.3 - rbp power up and connect!
+
+- if you have both display and rbp, operations are easier.  otherwise you need remote login to work on rbp.
+- to use remote display minotor andrbp must be on the same network.
+
+- if you don't have a monitor (me)
+  - ssh
+  - vnc remote connection
+    - needs to setup system successfully first
+
+- note: raspbian default user/pswd
+- pi/raspberry
+-
