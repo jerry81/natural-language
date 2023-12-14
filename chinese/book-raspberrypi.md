@@ -160,7 +160,7 @@
 
 - the usb thumb drive has a slot for the sd card meaning it acts as the adapter too.
 
-### 2.2.2 - install on windows (not applicable)
+### 2.2.2 - install on windows (not applicable but worth understanding)
 
 - they use balena-Etcher tool
 - tells us to stick the usb stick in
@@ -170,6 +170,18 @@ FAT32 - boot partition which is the FS read by both windows and linux
 contians core OS files, user data, applications
 
 - FAT32 - File allocation table 32
+
+### instead
+
+- we used Raspberry Pi Imager
+- chose rbp 4
+- chose 64 bit
+- chose to flash storage
+- settings: general checked configure wirelessLAN SSID, Password
+- hostname not set
+- uname password not set
+- services check Enable SSH
+- set uname/password jerrytann/netilionrocks
 
 ### 2.2.3 - rbp power up and connect!
 
@@ -183,4 +195,34 @@ contians core OS files, user data, applications
 
 - note: raspbian default user/pswd
 - pi/raspberry
--
+1.  start SSH
+  - in official raspbian, system logs show ssh is not on by default
+  - in sd card boot (root folder) make a ssh folder
+  - 1 option - ethernet cable
+2.  connect the rbp (wifi, tf card and power)
+ - after turning on power, there might be a green light that flashes
+   - yes the lights are there.  u must remove cover to see them.
+3.  get the rbp's ip address
+  - gives instructions for wired connection and windows
+  - [from this link](https://pimylifeup.com/raspberry-pi-ip-address/)
+    - login to router (hmm)
+    - view router devices list
+    - ping command to test
+    - method 2: network manager
+    - nmap in linux
+    - sudo apt install nmap if not installed
+    - in macOS
+      - system pref
+      - network
+      - status of this conneciton
+      - we have our device
+
+  ### [from this site](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up/3)
+
+  - insert SD card into rbp
+  - connect power source usbc (5V input and 3A current)
+
+
+  ### glossary
+  -nmap - used to scan network
+  - install on mac
