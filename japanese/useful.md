@@ -3,3 +3,12 @@
 前はね　→ i used to
 
 部屋を片付けて　→ tidy up your room
+
+精一杯やった　→ i did my best
+せいいっぱいやった　→ i did my best
+
+入ろう　→ lets enter
+
+なんか起こってる　→ something is up
+
+今日何かだるい　→ i feel sluggish today.

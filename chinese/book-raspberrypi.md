@@ -224,5 +224,6 @@ contians core OS files, user data, applications
 
 
   ### glossary
+
   -nmap - used to scan network
   - install on mac
