@@ -30,3 +30,29 @@
 注文お願いします　→ i'd like to order please
 
 お勧めは何ですか　→ what do you recommend
+
+X 付きますか　→ does it come with X?
+
+ご馳走様でした　→ thank you for the meal (it was like a feast)
+
+他にご注文はよろしいですか　→ would you like to order anything else?
+
+以上です　→ that's all
+
+料理は如何でしたか　→ how was the food?
+
+お会計お願いします　→ check please
+
+カード払います　→ pay by card
+
+まだ来たいです　→ i want to come again
+
+写真を撮って貰えますか　→ would you take a photo for me
+
+手伝いましようか　→ may i help?
+
+聞いたことがありません　→ i've never heard of it
+
+知りませんでした　→ i didn't know that
+
+切符売り場どこですか　→ where's the ticket office
