@@ -114,7 +114,7 @@ betrachten - regard
 
 Betreffzeile - subject
 
-Bewerbung - application
+Bewerbung - application(form)
 
 bisher - so far
 
@@ -147,6 +147,8 @@ dann - then
 daran - on it (to it)
 
 daraus - from it
+
+darum - relative to
 
 das - that/the
 
@@ -219,6 +221,8 @@ Eitelkeit - vanity
 enderen - others
 
 Entscheidung - decision
+
+enttäuscht - disappointed
 
 entwicklung - development
   - (softwareentwicklung - software development)
@@ -463,6 +467,8 @@ konstanten - constants
 
 Krankheit - illness
 
+Kühlschrank - fridge
+
 kunden/Kundin/Kunde - customer
 
 Kundenbetreuung - customer service
@@ -472,6 +478,8 @@ Künstlicher - artificial
 kurz/kurzen - short
 
 # L
+
+Landsleute - person from same hometown
 
 langweilt - bored
 
@@ -554,6 +562,8 @@ ne - a, no
 
 nehmen - to take
 
+nennen - say
+
 neue - new
 
 nicht - negation
@@ -582,6 +592,8 @@ oder - or
 
 passen - fit
 
+praktisch - practical
+
 # R
 
 raus - out
@@ -604,6 +616,8 @@ reichen - are sufficent
 reinbringt - brings in
 
 richtige - right one
+
+riechen - smell
 
 ruhe - quiet
 
@@ -673,6 +687,8 @@ sondern - but, however
 
 sonst - otherwise
 
+Sorge - worry (noun)
+
 spater - later
 
 sprachen - languages
@@ -693,6 +709,8 @@ soll - should
 sucht - seeks
 
 # T
+
+Tasche - bag
 
 tätig - employed
 
@@ -741,6 +759,8 @@ unser, unserem - ours
 
 # V
 
+verändern - change
+
 Verantwortung - responsibility
 
 verbessern - improve
@@ -754,6 +774,8 @@ verfolgen - pursue, follow
 Verhandlung - negotiation
 
 Verkauf - sale
+
+Verkaufer - salesperson
 
 verschiedenen - different
 
@@ -770,6 +792,8 @@ viel - much
 vielleicht - maybe
 
 vielles - a lot of
+
+Vorurteil - bias
 
 vom - from
 von - from
@@ -842,6 +866,8 @@ wurden - would
 z.b. - e.g.
 
 zeichen - sign
+
+zeigen - point to
 
 zeil - goal
 

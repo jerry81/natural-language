@@ -56,3 +56,11 @@ X 付きますか　→ does it come with X?
 知りませんでした　→ i didn't know that
 
 切符売り場どこですか　→ where's the ticket office
+
+喧嘩はやめよう　→ let's not fight
+
+どうしたの　→ what happened?
+
+それで足りる　→ is that enough?
+
+それ何に使うの　→ what's that for?
