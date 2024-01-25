@@ -142,6 +142,8 @@ dahin - there
 
 damit - in order that
 
+danach - and then
+
 dann - then
 
 daran - on it (to it)
@@ -294,6 +296,8 @@ freuen - be happy
 fuge - gap
 
 fuhrt es dazu - it leads to
+
+fußgängerzone - pedestrian zone
 
 # G
 
@@ -872,6 +876,8 @@ zeigen - point to
 zeil - goal
 
 zeitung - newspaper
+
+Zettel - note
 
 Zug - train
 
