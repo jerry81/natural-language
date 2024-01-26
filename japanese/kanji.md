@@ -175,6 +175,12 @@
 
 ## い
 
+幾つ　→ いくつ　→ how many
+
+行ってらしゃい　→ take it easy
+
+入らっしゃいませ　→ welcome!
+
 稲　→ いね　→ rice plant
 
 息　→ いき　→ breath
@@ -266,13 +272,15 @@
 
 ## き
 
+着る　→ きる　→ to wear
+
 islam教　→ きょう
 
 来ている　→ coming from
 
 休日　→ きゅうじつ
 
-着ていた　 → きていた (past progressive)
+着ていた　 → きていた (past progressive) → was wearing
 
 北　 → きた
 
@@ -341,7 +349,9 @@ islam教　→ きょう
 
 ## ま
 
-町　→ town
+不味い　→ まずい　→ tastes bad
+
+町　→ machi → town
 
 増　 → ます　 → increase
 
@@ -376,6 +386,8 @@ islam教　→ きょう
 道　 → みち
 
 ## も
+
+勿論 → もちろん　→ of course
 
 桃色　 → ももいろ
 

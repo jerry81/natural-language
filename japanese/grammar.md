@@ -292,6 +292,11 @@ Predominantly Non-Attributive: "-な" adjectives are often used in non-attributi
 
 In summary, the main difference is in their conjugation, usage before nouns, and whether a particle is needed. "-い" adjectives can directly modify nouns and require conjugation in some cases, while "-な" adjectives are often used in non-attributive positions, require the "な" particle before nouns, and do not undergo extensive conjugation. Understanding the type of adjective you're dealing with is crucial for constructing grammatically correct sentences in Japanese.
 
+## negating ajectives
+
+adj + じゃない
+e.g. 好きじゃないです　-> i don't like
+
 ## adjective to adverb
 
 明るい　→ adjective
@@ -312,3 +317,7 @@ In summary, the main difference is in their conjugation, usage before nouns, and
 
 - 彼　- he
 - 彼ら　- they
+
+## sentence enders
+
+- よ　i.e. ですよ　→ like　啊
