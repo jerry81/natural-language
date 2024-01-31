@@ -1,5 +1,17 @@
 # [ref](https://www.youtube.com/watch?v=Dy-DmYCcyzA&t=1554s)
 
+ちょっと少ない　→ i'm not sure
+
+良かったね　→ よかったね　→ good for you
+
+正解　→ せいかい　→ that's correct
+
+恥ずかしがらないで → はずかしがらないで → don't be shy
+
+またね　→ see you later
+
+どうぞ入って　→ どうぞはいって　→ please come in
+
 前はね　→ i used to
 
 部屋を片付けて　→ tidy up your room
