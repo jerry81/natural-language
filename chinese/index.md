@@ -5,6 +5,7 @@
 
 # B
 
+暴君 - tyrant
 巴比妥酸盐 - barbituate
 表里如一 - consistent inside and out
 濒死 bin1si3 - near death
@@ -52,6 +53,7 @@
 核实 - verifications
 荒谬 - ridiculous
 活蹦乱跳 - lively and energetic
+互惠互利 - mutually benefitial
 
 # J
 
@@ -84,7 +86,10 @@
 
 # M
 
+马克。吐温 - mark twain
+魅惑 - charm
 密谋 - conspire
+谬误 - error
 蔑视 - show contempt for
 谬误 - falsehood
 摩拳擦掌 - itch to
@@ -115,10 +120,12 @@
 脐带 - umbilical cord
 起居 - daily life
 期许 - expecations
+迄今 - so far
 切磋 qie1cuo1 - compare notes
 窃笑qie4xiao4 - snicker
 翘首以盼 - look forward to
 屈从 qu1cong2 - give way
+诠释 - quan2shi4 - interpretation
 
 # R
 
@@ -141,6 +148,7 @@
 
 # T
 
+昙花 - tan2hua1 - epiphyllum (type of flower)
 袒露 tan3lu4 - expose
 逃过一劫 - let off the hook
 滔滔不绝 tao1tao1yanbu4jue2 - ramble
@@ -156,6 +164,7 @@
 
 # W
 
+往复 - back and forth
 往昔 wang3xi1 - in the past
 斡旋 wo4xuan2 - meditate
 我自岿然不动 - unaffected
@@ -180,6 +189,7 @@
 一鼓作气 - make a push
 疑虑 - misgivings
 阴森 - gloomy
+隐含 - implicit
 萦绕 ying2rao4 - linger
 罂粟 ying1su4 - opium poppy
 踊跃 yong3yue4 - eager
