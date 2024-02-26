@@ -116,6 +116,8 @@ Betreffzeile - subject
 
 Bewerbung - application(form)
 
+bezahlen - pay
+
 bisher - so far
 
 bisschen - little
@@ -196,7 +198,7 @@ du - you
 
 einbringen - bring in
 
-eigentlich - actually
+eigentlich - actually, originally
 
 eindruck - impression
 
@@ -596,6 +598,8 @@ oder - or
 
 passen - fit
 
+plötzlich - suddenly
+
 praktisch - practical
 
 # R
@@ -724,6 +728,10 @@ technisch - technically
 
 termin - meeting
 
+tragen - to move, to wear
+
+trocknen - make dry
+
 Tschuss - bye
 
 # U
@@ -749,6 +757,8 @@ umfeld - environment
 
 umfrage - opinion poll
 
+umzug - to move (house)
+
 unbekannte - unknown
 
 und - and
@@ -772,6 +782,8 @@ verbessern - improve
 verbinde - associate, connect
 
 verbindungs - connection
+
+verdienen - make money
 
 verfolgen - pursue, follow
 
@@ -898,6 +910,8 @@ zumindest - at least
 Zuordnung - assignment
 
 zurechtzufinden - find your way
+
+zurzeit - present
 
 zusammen - together
 
