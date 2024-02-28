@@ -489,6 +489,8 @@ Landsleute - person from same hometown
 
 langweilt - bored
 
+Lärm - noise
+
 lassen - permit, let
 
 laufen - run
@@ -550,6 +552,8 @@ mitteilen - communicate
 moglich - possible
 
 muhe - effort
+
+Müll - trash
 
 muss - got to
 muss nur - just have to
@@ -618,6 +622,8 @@ reargieren - react
 rechnung - bill, The invoice
 
 reden - talk
+
+reinigen - clean
 
 reichen - are sufficent
 
@@ -705,6 +711,8 @@ stattfinden - happen
 
 steht - there is
 
+Speicher - storage
+
 stimmt - true, right
 
 stort - disturbs
@@ -729,6 +737,10 @@ technisch - technically
 termin - meeting
 
 tragen - to move, to wear
+
+trennen - to seperate
+
+Treppe - staircase
 
 trocknen - make dry
 
@@ -782,6 +794,8 @@ verbessern - improve
 verbinde - associate, connect
 
 verbindungs - connection
+
+verboten - prohibited
 
 verdienen - make money
 
