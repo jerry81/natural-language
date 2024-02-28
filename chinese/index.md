@@ -31,44 +31,77 @@
 # F
 
 法兰绒 - flannel
+
 反响 - reverb
+
 放逐 - banish, exile
+
 费解 - incomprehensible
+
 废寝忘食 - forget to eat or sleep
+
 分道扬镳 - fen1dao4yang2biao1 - each go their own way
+
 俘获 fu2huo4 - capture
+
+富饶 - fu2rao2 - rich
 
 # G
 
 咯咯笑ge1ge1xiao4 - chortle
+
 功底 - foundation
+
 拐弯抹角 - twist and turn
+
 皈依 gui1yi1 - bhuddist commencement
 
 
 # H
 
 寒暄 - engage in small talk
+
 晦涩 hui4se4 - obscure
+
 核实 - verifications
+
+恒定 - heng2ding4 - constant
+
 荒谬 - ridiculous
+
 活蹦乱跳 - lively and energetic
+
 互惠互利 - mutually benefitial
+
 
 # J
 
+
 伎俩 ji4liang3 - trick
+
 汲取 - derive
+
 加冕 jia1mian3 - crown
+
 交涉 - negotiate
+
 见风使舵 jian4feng1shi3duo4 - sail with the wind
+
 交恶 - fall out with
+
 缴获 - seize
+
 惊惶 jing1huang2 - fear and dread
+
 境遇 - circumstances
+
 精湛 jing1zhan4 - exquisite
+
 酒铺 - winery
+
 居功 - take credit for
+
+具象 - concrete
 
 # K
 
@@ -177,10 +210,17 @@
 # X
 
 下属 - subordinate - not 下手, 手下 - assistant
+
 乡绅 - country gentleman, squire
+
+象皮病 - elephantitis
+
 相提并论 - lump together
+
 宵禁 - curfew
+
 欣喜若狂 - ecstatic
+
 旋即 - immediately
 
 # Y
@@ -203,18 +243,35 @@
 
 # Z
 
+
 赞许 - speak favourably
+
 憎恨 zeng1hen4 - detest
+
 震撼 zhen4han4 - shake
+
 真挚 zhen1zhi2 - genuine
+
 争端 - dispute
+
 征求 - solicit
+
 争相 - strive together
+
+执意 - insist
+
 指称 - to address someone with a title
+
 指控 - accuse, charge, indict
+
 执念 - obsessiveness
+
 直言不讳 - forthright
+
 众目睽睽 zhong4mu4kui2kui2 - be in full view of everyone
+
 琢磨 - crunch, ponder
+
 装束 - outfit
+
 拙劣 zhuo2 lie4 - poor
