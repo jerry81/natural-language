@@ -349,6 +349,8 @@ islam教　→ きょう
 
 ## ま
 
+窓　→ まど　→ window
+
 不味い　→ まずい　→ tastes bad
 
 町　→ machi → town
@@ -479,6 +481,8 @@ islam教　→ きょう
 # s
 
 ## さ
+
+再来週　→ さらいしゅう　→ next next week
 
 皿　 → さら　 → plate
 
