@@ -114,6 +114,8 @@ betrachten - regard
 
 Betreffzeile - subject
 
+Bewegung - exercise
+
 Bewerbung - application(form)
 
 bezahlen - pay
@@ -197,6 +199,8 @@ du - you
 # E
 
 einbringen - bring in
+
+eigen - own, self
 
 eigentlich - actually, originally
 
@@ -343,6 +347,8 @@ geschaft - business
 geschaftaddres - business address
 
 geschafttermin - business appointment
+
+Geschichte - story
 
 gesehen - be seen
 
@@ -775,6 +781,8 @@ unbekannte - unknown
 
 und - and
 
+Unfall - accident
+
 ungelesene - unread
 
 unnötige - unnecessary
@@ -849,6 +857,8 @@ warten - wait
 
 was - what
 was rein - something in
+
+Wecker - alarm clock
 
 wegarbeiten - work away
 
