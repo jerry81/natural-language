@@ -896,6 +896,8 @@ wochenende (WE) - weekend
 
 wollte - wanted
 
+Wortschatz - vocabulary
+
 wurde - became
 wurde - would
 
