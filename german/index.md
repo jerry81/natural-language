@@ -277,6 +277,8 @@ fallt aus heute - cancelled today
 
 falsche - false, wrong
 
+Familienfeier - family day
+
 Fehler - mistake
 
 fertig - complete
@@ -505,9 +507,13 @@ lauft (pronounced "loift") - running
 
 laufzeit-fehler - runtime error
 
+Laut - sound
+
 leben - life
 
 leeres - empty
+
+Lehergang - course
 
 leider - unfortunately
 
@@ -741,6 +747,8 @@ tatsachlich - in fact, actually
 technisch - technically
 
 termin - meeting
+
+Textabschnitt - text section
 
 tragen - to move, to wear
 

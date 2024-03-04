@@ -13,19 +13,34 @@
 # C
 
 彩排 - rehearse
+
 称职 - be competent
+
 嗤之以鼻 chi4zhi1yi3bi2 - turn up one's nose
+
 重塑 - remodel
+
+筹募 - raise funds
+
 触底 - hit rock bottom
+
 戳脊梁骨 - accuse
+
 揣测 chuai3ce4 - guess
+
 粗粝 - coarse
 
 # D
 
+
 丁丙诺啡 - buprenorphine
+
+颠覆 - subversion
+
 洞见 - insight
+
 嘟囔 du1 nang2 - mumble
+
 对峙 dui4zhi4 - confront
 
 # F
@@ -76,10 +91,11 @@
 
 # J
 
-
 伎俩 ji4liang3 - trick
 
 汲取 - derive
+
+近似 - approximate
 
 加冕 jia1mian3 - crown
 
@@ -151,14 +167,24 @@
 # Q
 
 脐带 - umbilical cord
+
 起居 - daily life
+
 期许 - expecations
+
 迄今 - so far
+
 切磋 qie1cuo1 - compare notes
+
 窃笑qie4xiao4 - snicker
+
 翘首以盼 - look forward to
+
 屈从 qu1cong2 - give way
+
 诠释 - quan2shi4 - interpretation
+
+取而代之 - instead of
 
 # R
 
