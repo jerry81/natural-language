@@ -126,12 +126,20 @@
 
 # L
 
+
 獠牙liao2ya2 - fang
+
 灵媒 - psychic
+
 轮番 lun2fan1 - successively
+
 屡屡 lv3 lv3 - repeatedly
+
 履行 lv3 xing2 - carry out
+
 绿野仙踪 - wizard of oz
+
+论证 - argument
 
 # M
 
