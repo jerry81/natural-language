@@ -172,6 +172,8 @@
 
 起居 - daily life
 
+欺凌者 - bully
+
 期许 - expecations
 
 迄今 - so far
@@ -194,44 +196,79 @@
 
 # S
 
+
 杀戒 - bhuddist prohibition on killing
+
 失禁 - incontinence
+
 瘆人 shen4ren2 - creepy
+
 盛怒 - rage
+
 生疏 - unfamiliar
+
 矢口 shi3kou3 - allege
+
 始作俑者 shi3zuo4yong3zhe3 - starter of the evil
+
 死党 - diehard supporters
+
+肆意 - si4yi4 - wanton
+
 司空见惯 - commonplace
+
 誓死捍卫 - defend with your life
+
 宿敌 su4di2 - old enemy
+
 随从 - entourage
 
 # T
 
+
 昙花 - tan2hua1 - epiphyllum (type of flower)
+
 袒露 tan3lu4 - expose
+
 逃过一劫 - let off the hook
+
 滔滔不绝 tao1tao1yanbu4jue2 - ramble
+
 腾出 - make room for
+
 体征 - pathological sign
+
 听证会 - hearing
+
 同僚 - colleague
+
 头目 - leader
+
 头绪 - clue
+
 推搡 tui1sang3 - push with all strength
+
 吞噬 - tun1shi4 - devour
+
 托付 - entrust
 
 # W
 
+
 往复 - back and forth
+
 往昔 wang3xi1 - in the past
+
 斡旋 wo4xuan2 - meditate
+
 我自岿然不动 - unaffected
+
 舞会 - ball, dancing party
+
 无巧不成书 - no story without coincidences
+
 无畏 - fearlessness
+
 毋庸 - needlessly
 
 
@@ -251,22 +288,41 @@
 
 旋即 - immediately
 
+血清素 - serotonin
+
 # Y
 
+
 言归正传 - all joking aside
+
 一鼓作气 - make a push
+
 疑虑 - misgivings
+
 阴森 - gloomy
+
 隐含 - implicit
+
+应激反应 - ying4ji1fan3ying4 - stress response
+
 萦绕 ying2rao4 - linger
+
 罂粟 ying1su4 - opium poppy
+
 踊跃 yong3yue4 - eager
+
 臃肿 yong1zhong3 - obese
+
 有朝一日  - one day
+
 游说 - persuade, lobby for
+
 有条不紊 you3tiao2buwen3 - methodical
+
 圆场 - mediate
+
 越发 - increasingly
+
 约法 - provisional rule
 
 # Z
