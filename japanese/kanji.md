@@ -482,6 +482,8 @@ islam教　→ きょう
 
 ## さ
 
+砂糖　→ さとう　→ sugar
+
 再来週　→ さらいしゅう　→ next next week
 
 皿　 → さら　 → plate

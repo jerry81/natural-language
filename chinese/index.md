@@ -168,6 +168,8 @@
 
 脐带 - umbilical cord
 
+起色 - improve
+
 起居 - daily life
 
 期许 - expecations

@@ -88,11 +88,15 @@ Bearbeitergruppe - editor group
 
 Berarbeitungsstand - processing status
 
+beraten - to discuss, advise
+
 bereite - ready
 
 bereits - already
 
 beruhight - calmed down
+
+beruflich - professional
 
 beschäftigt - occupied
 
@@ -259,6 +263,8 @@ erzählen - tell
 
 erzeugte - generated
 
+erziehen - educate
+
 Etikett - label
 
 etwas - something
@@ -318,6 +324,8 @@ geblieben - remained
 gedacht - thought
 
 geehrter - Dear
+
+gefallen - to like
 
 gehalt - salary
 
@@ -460,6 +468,10 @@ kaputt gemach - destroyed
 
 keinen - none
 
+Kellner - waiter
+
+Kellnerin - waitress
+
 kleidung - clothing
 
 klicken - click
@@ -516,6 +528,8 @@ leeres - empty
 Lehergang - course
 
 leider - unfortunately
+
+leise - soft
 
 letztes - last
 
@@ -634,6 +648,8 @@ reargieren - react
 rechnung - bill, The invoice
 
 reden - talk
+
+Regen - rule
 
 reinigen - clean
 
