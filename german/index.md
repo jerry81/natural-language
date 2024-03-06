@@ -118,6 +118,8 @@ betrachten - regard
 
 Betreffzeile - subject
 
+Betrieb - enterprise
+
 Bewegung - exercise
 
 Bewerbung - application(form)
@@ -179,6 +181,8 @@ dienen - serve
 denke - think
 
 der - that
+
+deshalb - because of this
 
 deswegen - because of this
 
@@ -428,6 +432,8 @@ hinzu - added
 
 hoch - high
 
+hoffentlich - but we hope
+
 horen - hear
 
 # I
@@ -473,6 +479,8 @@ keinen - none
 Kellner - waiter
 
 Kellnerin - waitress
+
+klappen - successful
 
 kleidung - clothing
 
@@ -563,6 +571,8 @@ meinte - meant
 
 meist - mostly, usually
 
+meister - master
+
 melden - announce, reports
 
 mich - me
@@ -633,6 +643,8 @@ oder - or
 # P
 
 passen - fit
+
+pflegen - be responsible for
 
 plötzlich - suddenly
 
@@ -711,6 +723,8 @@ seinem - his
 
 seit - since
 
+selbstständig - independent
+
 sich - themselves
 
 sich - himself
@@ -755,6 +769,8 @@ stort - disturbs
 
 Störung - disturbance
 
+Stundenlohn - hourly wage
+
 soll - should
 (oder) soll - or should
 
@@ -798,6 +814,8 @@ ich bin uberfragt - you've got me stumped
 ubernehmen - take over
 
 uberrascht - suprised
+
+Überstunde - overtime
 
 uhr - clock
 
