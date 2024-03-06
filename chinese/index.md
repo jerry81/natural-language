@@ -32,6 +32,7 @@
 
 # D
 
+悼念 - dao4nian4 - mourn
 
 丁丙诺啡 - buprenorphine
 
@@ -106,6 +107,8 @@
 交恶 - fall out with
 
 缴获 - seize
+
+戒备 - alert
 
 惊惶 jing1huang2 - fear and dread
 
@@ -206,6 +209,8 @@
 
 
 杀戒 - bhuddist prohibition on killing
+
+社交手腕 - social skills
 
 失禁 - incontinence
 
