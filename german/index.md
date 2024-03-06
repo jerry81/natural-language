@@ -253,6 +253,8 @@ erfasst - on target
 
 erscheint - appears
 
+ersetzen - substitute
+
 erste - first
 
 erstellt, erstelt - created
@@ -525,6 +527,8 @@ leben - life
 
 leeres - empty
 
+ledig - single (not married)
+
 Lehergang - course
 
 leider - unfortunately
@@ -612,6 +616,8 @@ noch - still
 
 nochmal - once again
 
+nun - present time
+
 nur - only, just
 
 nutzen - to use
@@ -661,7 +667,7 @@ richtige - right one
 
 riechen - smell
 
-ruhe - quiet
+Ruhe - quiet
 
 # S
 
@@ -733,6 +739,8 @@ Sorge - worry (noun)
 
 spater - later
 
+Speicher - warehouse, storage
+
 sprachen - languages
 
 stattfinden - happen
@@ -765,6 +773,8 @@ technisch - technically
 termin - meeting
 
 Textabschnitt - text section
+
+tot - dead
 
 tragen - to move, to wear
 
