@@ -30,6 +30,8 @@ anderes - other
 
 anfrage - inquiry
 
+angstrengend - tiring
+
 Angabe - specificaiton
 
 Anrede - salutation
