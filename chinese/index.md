@@ -5,14 +5,20 @@
 
 # B
 
+
 暴君 - tyrant
+
 巴比妥酸盐 - barbituate
+
 表里如一 - consistent inside and out
+
 濒死 bin1si3 - near death
 
 # C
 
 彩排 - rehearse
+
+残羹 - can3geng1 - leftovers
 
 称职 - be competent
 
@@ -62,6 +68,8 @@
 
 富饶 - fu2rao2 - rich
 
+浮躁 - f2zao4 - impetuous
+
 # G
 
 咯咯笑ge1ge1xiao4 - chortle
@@ -109,6 +117,8 @@
 缴获 - seize
 
 戒备 - alert
+
+接踵而至 - jie1zhong3er3zhi4 - one after another
 
 惊惶 jing1huang2 - fear and dread
 
