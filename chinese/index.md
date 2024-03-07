@@ -1,6 +1,8 @@
 # A
 
+
 爱不释手 - be attached
+
 懊悔 - regret
 
 # B
@@ -134,7 +136,9 @@
 
 # K
 
+
 空空如也 - empty
+
 苦修 - penance
 
 # L
@@ -156,33 +160,55 @@
 
 # M
 
+
 马克。吐温 - mark twain
+
 魅惑 - charm
+
 密谋 - conspire
+
 谬误 - error
+
 蔑视 - show contempt for
+
 谬误 - falsehood
+
 摩拳擦掌 - itch to
 
 # N
 
+
 纳洛酮 - naloxone
+
 内敛 - introverted
+
 念叨 - nag
+
 年鉴 nian2jian4 - yearbook
 
 # P
 
+
 拍板 - clinch a deal
+
 盘踞 - occupy
+
 蹒跚 pan2shan1 - limp
+
 旁骛 pang2wu4 - pursue a different field
+
 陪审 - serve in jury
+
 胚胎 pei1tai1 - embryo
+
 砰 peng1 - bang
+
 抨击 peng1ji1 - attack/slander
+
 篇幅 pian1fu2 - length, space
+
 破天荒 - unprecedented
+
 扑哧 pu1chi1 - chuckle
 
 # Q
