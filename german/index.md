@@ -230,6 +230,8 @@ einschatzen - assess
 
 einstellen - to adjust
 
+einverstandeden - agree
+
 einzige - only
 
 Eitelkeit - vanity
@@ -254,6 +256,8 @@ erfassen - capture
 erfasst - on target
 
 "er lasst sich nict lesen" - he cannot be read
+
+erfinden - invent
 
 erscheint - appears
 
@@ -312,6 +316,8 @@ Fortbildung - training
 Fortschritt - progress
 
 freuen - be happy
+
+frisch - fresh
 
 fuge - gap
 
@@ -551,6 +557,8 @@ liste - list
 
 Lösung - solution
 
+Luft - air
+
 # M
 
 machen - do
@@ -739,6 +747,8 @@ siehe - see
 
 sobalt - as soon as
 
+sogar - as far as, even
+
 solange - as long as
 
 Sollten - should
@@ -894,6 +904,8 @@ vorstellung - performance
 
 # W
 
+wahr - true
+
 wahrnehmung - perception
 
 Wandern - hiking
@@ -909,6 +921,8 @@ warten - wait
 
 was - what
 was rein - something in
+
+wechseln - exchange
 
 Wecker - alarm clock
 
