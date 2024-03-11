@@ -208,6 +208,8 @@ du - you
 
 # E
 
+egal - doesn't matter
+
 einbringen - bring in
 
 eigen - own, self
@@ -378,6 +380,8 @@ gesehen - be seen
 
 geschult - trained
 
+Gesicht - face
+
 gestartet - started
 
 gestellt - placed
@@ -431,6 +435,8 @@ hatten - would have
 helfen - help
 
 Herausforderungen - challenges
+
+Herz - heart
 
 hier - here
 
@@ -510,6 +516,8 @@ können, konnt - can
 konstanten - constants
 
 Krankheit - illness
+
+Krankmeldung - doctor's note
 
 Kühlschrank - fridge
 
@@ -775,6 +783,8 @@ steht - there is
 
 Speicher - storage
 
+stimmen - correct
+
 stimmt - true, right
 
 stort - disturbs
@@ -828,6 +838,8 @@ ubernehmen - take over
 uberrascht - suprised
 
 Überstunde - overtime
+
+überweisen - transfer money
 
 uhr - clock
 
