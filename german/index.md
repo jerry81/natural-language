@@ -341,7 +341,7 @@ gedacht - thought
 
 geehrter - Dear
 
-gefallen - to like
+gefallen - to satisfy
 
 gehalt - salary
 
@@ -611,6 +611,8 @@ moglich - possible
 
 muhe - effort
 
+Mund - mouth
+
 Müll - trash
 
 muss - got to
@@ -656,6 +658,8 @@ Nutzerseite - user side
 
 # O
 
+oben - upper, top, over
+
 oder - or
 
 # P
@@ -665,6 +669,8 @@ passen - fit
 pflegen - be responsible for
 
 plötzlich - suddenly
+
+Po - bottom, butt
 
 praktisch - practical
 
@@ -685,6 +691,8 @@ rechnung - bill, The invoice
 
 reden - talk
 
+regelmäßig - regularly
+
 Regen - rule
 
 reinigen - clean
@@ -697,6 +705,8 @@ richtige - right one
 
 riechen - smell
 
+Röntgen - X-ray
+
 Ruhe - quiet
 
 # S
@@ -705,6 +715,8 @@ sag - say
 
 sagen - to say
 
+Salbe - salve
+
 Sätze - sentences
 
 schadcode - malicious code
@@ -712,6 +724,8 @@ schadcode - malicious code
 schatzen - treasure
 
 scheint - seems
+
+schicken - to send
 
 schlecht - bad
 
