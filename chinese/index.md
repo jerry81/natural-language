@@ -243,7 +243,6 @@
 
 # S
 
-
 杀戒 - bhuddist prohibition on killing
 
 社交手腕 - social skills
@@ -257,6 +256,8 @@
 生疏 - unfamiliar
 
 矢口 shi3kou3 - allege
+
+拾取 shi2qu3 - pick up
 
 始作俑者 shi3zuo4yong3zhe3 - starter of the evil
 
@@ -376,7 +377,6 @@
 
 # Z
 
-
 赞许 - speak favourably
 
 憎恨 zeng1hen4 - detest
@@ -386,6 +386,8 @@
 真挚 zhen1zhi2 - genuine
 
 争端 - dispute
+
+正反馈环 - positive feedback loop
 
 征求 - solicit
 
