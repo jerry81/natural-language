@@ -263,6 +263,10 @@ erfasst - on target
 
 erfinden - invent
 
+Erkältung - cold, flu
+
+Ernährung - feed
+
 erscheint - appears
 
 ersetzen - substitute
@@ -322,6 +326,8 @@ Fortschritt - progress
 freuen - be happy
 
 frisch - fresh
+
+früher - in the past
 
 fuge - gap
 
@@ -881,6 +887,8 @@ uns - us
 
 unser, unserem - ours
 
+untersuchen - checkup
+
 # V
 
 verändern - change
@@ -897,6 +905,8 @@ verboten - prohibited
 
 verdienen - make money
 
+vereinbaren - appointment
+
 verfolgen - pursue, follow
 
 Verhandlung - negotiation
@@ -908,6 +918,8 @@ Verkaufer - salesperson
 verschiedenen - different
 
 verseuchen - contaminate
+
+Versichertenkarte - health insurance card
 
 vertrag - contract
 
@@ -927,6 +939,8 @@ vom - from
 von - from
 
 vorgestern - day before yesterday
+
+Vorsicht - careful
 
 vorstellung - performance
 
@@ -1000,6 +1014,8 @@ wurden - would
 # Z
 
 z.b. - e.g.
+
+Zehe - toe
 
 zeichen - sign
 

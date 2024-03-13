@@ -82,6 +82,8 @@
 
 皈依 gui1yi1 - bhuddist commencement
 
+广场恐惧症 - agoraphobia
+
 
 # H
 
@@ -116,6 +118,8 @@
 
 交恶 - fall out with
 
+家中酒近 - be drunk at home
+
 缴获 - seize
 
 戒备 - alert
@@ -133,6 +137,8 @@
 居功 - take credit for
 
 具象 - concrete
+
+绝经期 - menopause
 
 # K
 
@@ -250,6 +256,8 @@
 失禁 - incontinence
 
 瘆人 shen4ren2 - creepy
+
+身无分文 - penniless
 
 盛怒 - rage
 
@@ -410,3 +418,5 @@
 装束 - outfit
 
 拙劣 zhuo2 lie4 - poor
+
+罪魁祸首 - zui4kui3huo4shou3 - culprit
