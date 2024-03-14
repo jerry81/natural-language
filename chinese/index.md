@@ -16,6 +16,8 @@
 
 濒死 bin1si3 - near death
 
+不堪重负　bu4kan1zhong4fu4 - overwhelmed
+
 # C
 
 彩排 - rehearse
@@ -243,6 +245,8 @@
 
 取而代之 - instead of
 
+蜷缩 - quan2suo1 - curl up
+
 # R
 
 入不敷出 ru4bufu1chu1 - live beyond one's means
@@ -268,6 +272,8 @@
 拾取 shi2qu3 - pick up
 
 始作俑者 shi3zuo4yong3zhe3 - starter of the evil
+
+释怀 - shi4huai2 - relieve
 
 死党 - diehard supporters
 
