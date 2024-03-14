@@ -74,6 +74,8 @@ Auswirkung - effect
 
 beantwortet - answered
 
+Der Bedarf - need
+
 bedenken - misgivings
 
 begeistert - excited
@@ -101,6 +103,8 @@ beruhight - calmed down
 beruflich - professional
 
 beschäftigt - occupied
+
+Die Beschwerde - complaint
 
 besprechung - meeting
 
@@ -255,6 +259,8 @@ Ergänzungen - Supplements
 
 ergebnisse - results
 
+erlauben - allow
+
 erfassen - capture
 
 erfasst - on target
@@ -314,6 +320,8 @@ festellen konnen - can determine
 festgestellt - established
 
 fehler - error
+
+Das Fieber - fever
 
 Flugzeug - airplane
 
@@ -413,6 +421,8 @@ glieder - limbs
 
 großartig - great
 
+Die Grippe - flu
+
 Grundlage - basis
 
 grundlegende - basic, fundamental
@@ -455,6 +465,8 @@ hoch - high
 hoffentlich - but we hope
 
 horen - hear
+
+Der Husten - cough
 
 # I
 
@@ -735,9 +747,13 @@ schicken - to send
 
 schlecht - bad
 
+schlank - slim
+
 schmerze - pain
 
 schneller - faster
+
+Der Schnupfen - the cold
 
 schreiben - write
 
@@ -813,6 +829,8 @@ Störung - disturbance
 
 Stundenlohn - hourly wage
 
+stündlich - hourly
+
 soll - should
 (oder) soll - or should
 
@@ -841,6 +859,8 @@ trennen - to seperate
 Treppe - staircase
 
 trocknen - make dry
+
+Der Tropfen - drop
 
 Tschuss - bye
 
