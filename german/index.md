@@ -34,6 +34,8 @@ angstrengend - tiring
 
 Angabe - specificaiton
 
+Ankunft - arrival
+
 Anrede - salutation
 
 ansprechen - to address/approach
@@ -209,6 +211,8 @@ drin - inside
 Dringlichkeit - urgency
 
 du - you
+
+Durchsage - broadcast
 
 # E
 

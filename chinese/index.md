@@ -86,6 +86,7 @@
 
 广场恐惧症 - agoraphobia
 
+古稀 - ancient
 
 # H
 
@@ -97,7 +98,7 @@
 
 恒定 - heng2ding4 - constant
 
-荒谬 - ridiculous
+荒谬 - ridiculous, absurd
 
 活蹦乱跳 - lively and energetic
 
@@ -238,6 +239,8 @@
 窃笑qie4xiao4 - snicker
 
 翘首以盼 - look forward to
+
+情何以堪 - how shameful
 
 屈从 qu1cong2 - give way
 
@@ -388,6 +391,8 @@
 越发 - increasingly
 
 约法 - provisional rule
+
+阅历 - experience
 
 # Z
 
