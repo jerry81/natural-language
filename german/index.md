@@ -248,6 +248,8 @@ einzige - only
 
 Eitelkeit - vanity
 
+emfehlen - recommend
+
 enderen - others
 
 Entscheidung - decision
@@ -349,6 +351,8 @@ fußgängerzone - pedestrian zone
 
 # G
 
+Gang - hall
+
 ganz - quite
 
 gar - at all
@@ -423,6 +427,8 @@ gleichzeitig - at the same time
 
 glieder - limbs
 
+Der Grad - degree celcius
+
 großartig - great
 
 Die Grippe - flu
@@ -434,6 +440,8 @@ grundlegende - basic, fundamental
 grundsatzlich - basically
 
 (ein) grossteil - a big part of
+
+günstig - cheap
 
 gut - well
 
@@ -479,6 +487,8 @@ ihm - him
 ihr - her
 
 infiltrieren - infiltrate
+
+Internetanschluss - internet conneciton
 
 irgend - any
 
@@ -650,6 +660,8 @@ nachtricht - news
 
 nachste - next
 
+nass - wet
+
 ne - a, no
 
 nehmen - to take
@@ -805,6 +817,8 @@ Sollten - should
 
 somit - Consequently
 
+Sonderangebot - discount goods
+
 sondern - but, however
 
 sonst - otherwise
@@ -830,6 +844,8 @@ stimmt - true, right
 stort - disturbs
 
 Störung - disturbance
+
+Strecke - route
 
 Stundenlohn - hourly wage
 
@@ -880,6 +896,8 @@ ich bin uberfragt - you've got me stumped
 ubernehmen - take over
 
 uberrascht - suprised
+
+Übernachtung - overnight stay
 
 Überstunde - overtime
 
