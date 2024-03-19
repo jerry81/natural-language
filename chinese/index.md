@@ -68,6 +68,8 @@
 
 分道扬镳 - fen1dao4yang2biao1 - each go their own way
 
+分区 - partition
+
 俘获 fu2huo4 - capture
 
 富饶 - fu2rao2 - rich
@@ -120,6 +122,8 @@
 见风使舵 jian4feng1shi3duo4 - sail with the wind
 
 交恶 - fall out with
+
+校验 - check
 
 家中酒近 - be drunk at home
 
@@ -197,7 +201,6 @@
 
 # P
 
-
 拍板 - clinch a deal
 
 盘踞 - occupy
@@ -209,6 +212,8 @@
 陪审 - serve in jury
 
 胚胎 pei1tai1 - embryo
+
+配套 - supporting
 
 砰 peng1 - bang
 
@@ -252,6 +257,8 @@
 
 # R
 
+热插拔的 - hot-swappable
+
 入不敷出 ru4bufu1chu1 - live beyond one's means
 
 # S
@@ -277,6 +284,8 @@
 始作俑者 shi3zuo4yong3zhe3 - starter of the evil
 
 释怀 - shi4huai2 - relieve
+
+示意图 - schematic diagram
 
 死党 - diehard supporters
 
