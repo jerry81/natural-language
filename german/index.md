@@ -80,6 +80,8 @@ Der Bedarf - need
 
 bedenken - misgivings
 
+Das Befinden - condition
+
 begeistert - excited
 
 beheben - remedy, fix
@@ -337,6 +339,8 @@ Fortbildung - training
 
 Fortschritt - progress
 
+Der Föhn - the hairdryer
+
 freuen - be happy
 
 frisch - fresh
@@ -359,6 +363,10 @@ gar - at all
 
 geblieben - remained
 
+Die Gebühr - fee
+
+Das Geräusch - noise
+
 gedacht - thought
 
 geehrter - Dear
@@ -368,6 +376,8 @@ gefallen - to satisfy
 gehalt - salary
 
 gelegentlich - occasionally
+
+gelten - apply
 
 geniale - brilliant
 
@@ -743,6 +753,8 @@ Röntgen - X-ray
 
 Ruhe - quiet
 
+Die Rückkehr - return trip
+
 # S
 
 sag - say
@@ -764,6 +776,8 @@ schicken - to send
 schlecht - bad
 
 schlank - slim
+
+Das Schloss - castle/lock
 
 schmerze - pain
 
@@ -898,6 +912,8 @@ ubernehmen - take over
 uberrascht - suprised
 
 Übernachtung - overnight stay
+
+Die Ubersicht - overview
 
 Überstunde - overtime
 
