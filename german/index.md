@@ -2,6 +2,8 @@
 
 # A
 
+Die/Der Alleinstehende - single person lit. standing alone
+
 aber - but
 
 aberfragt - queried
@@ -73,6 +75,8 @@ ausliefern - deliver
 Auswirkung - effect
 
 # B
+
+Der Besitzer - owner
 
 beantwortet - answered
 
@@ -150,6 +154,8 @@ dabei - included
 
 dachte - thought
 
+Die Dachterrasse - rooftop balcony
+
 da - there
 
 dabei - included in
@@ -187,6 +193,10 @@ dazu - to
 deaktiviert - deactivated
 
 dienen - serve
+
+dich - you (accusative form) - when you is object or verb
+  - analagous to ich and mich
+  - and er/ihr
 
 denke - think
 
@@ -262,6 +272,8 @@ entwicklung - development
   - (softwareentwicklung - software development)
 
 Erfahrung - experience
+
+Das Ergebnis - result
 
 Ergänzungen - Supplements
 

@@ -9,3 +9,27 @@
 -  Man soll __ - everyone should ___
 
 - Wie ist dein __ - how is your __
+
+- _a_ _b_ ihn sehr
+  - _a_ _b_ him a lot.
+  - Dieses Ergebnis verwundert ihn sehr.
+
+## suffixes
+
+- schaft - -ship or -hood
+- er - like english - person who does
+
+## prefixes
+
+- Be-
+  - intensification
+  - make transitive verb
+  - create/produce
+  - movement, change
+- Ge-
+  - make past participle
+  - completion
+- Er-
+  - completion
+  - reversal
+  - change
