@@ -82,6 +82,8 @@
 
 功底 - foundation
 
+功耗 - power consumption
+
 拐弯抹角 - twist and turn
 
 皈依 gui1yi1 - bhuddist commencement
@@ -224,6 +226,8 @@
 破天荒 - unprecedented
 
 扑哧 pu1chi1 - chuckle
+
+批次 - batch
 
 # Q
 
