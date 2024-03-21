@@ -6,6 +6,8 @@ Die/Der Alleinstehende - single person lit. standing alone
 
 aber - but
 
+Änwaltin - lawyer
+
 aberfragt - queried
 
 abgeschlossen - completed
@@ -367,6 +369,8 @@ fußgängerzone - pedestrian zone
 
 # G
 
+Gern gesehen - you're welcome
+
 Gang - hall
 
 ganz - quite
@@ -625,6 +629,8 @@ Luft - air
 
 # M
 
+malen - to paint
+
 machen - do
 
 mal - time(s)
@@ -720,6 +726,8 @@ oder - or
 
 # P
 
+Polizist - police officer
+
 passen - fit
 
 pflegen - be responsible for
@@ -769,6 +777,8 @@ Die Rückkehr - return trip
 
 # S
 
+schuler - student
+
 sag - say
 
 sagen - to say
@@ -780,6 +790,8 @@ Sätze - sentences
 schadcode - malicious code
 
 schatzen - treasure
+
+Schach - chess
 
 scheint - seems
 
@@ -1046,7 +1058,11 @@ weider - again
 
 weil - because
 
+Wein - Vienna
+
 weis - know
+
+weit weg - far away
 
 weiss - white
 
