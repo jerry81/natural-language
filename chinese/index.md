@@ -409,6 +409,8 @@
 
 # Z
 
+赘述 - zhui4shu4 - repeat
+
 赞许 - speak favourably
 
 憎恨 zeng1hen4 - detest
