@@ -24,3 +24,6 @@
 
 - Es war keine echte Wahl
   - there was no real choice
+
+- Putin hatte keine echten Wahl-Gegner.
+  - putin didn't really have an opponent
