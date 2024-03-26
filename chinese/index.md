@@ -56,6 +56,8 @@
 
 # F
 
+仿真 - simulation
+
 法兰绒 - flannel
 
 反响 - reverb
@@ -110,6 +112,8 @@
 
 
 # J
+
+精要所在 - the essense of it, the gist
 
 伎俩 ji4liang3 - trick
 
@@ -261,6 +265,8 @@
 
 蜷缩 - quan2suo1 - curl up
 
+启发式 - heuristic
+
 # R
 
 热插拔的 - hot-swappable
@@ -304,6 +310,8 @@
 宿敌 su4di2 - old enemy
 
 随从 - entourage
+
+随机抽样 - random sampling
 
 # T
 
