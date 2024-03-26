@@ -29,6 +29,10 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 # b
 
+## ば
+
+ばかり　→ just/only
+
 ## び
 
 びっくり - suprised
@@ -104,6 +108,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 # n
 
 ## な
+
+など　→ such
 
 なる、なりましよ　→　become
 

@@ -357,6 +357,8 @@ islam教　→ きょう
 
 ## ま
 
+幕内　→ まくのうち　→ highest level rank in sumo
+
 窓　→ まど　→ window
 
 不味い　→ まずい　→ tastes bad
@@ -504,6 +506,8 @@ islam教　→ きょう
 
 ## さ
 
+災害　→ さいがい　→  disasters
+
 砂糖　→ さとう　→ sugar
 
 再来週　→ さらいしゅう　→ next next week
@@ -544,6 +548,8 @@ islam教　→ きょう
 
 ## し
 
+出身　→ しゅっしん　→ birthplace
+
 指導者　→ しどうしゃ
 
 宗教　→ しゅうきょう
@@ -574,6 +580,8 @@ islam教　→ きょう
 
 植物　 → しょくぶつ
 
+優勝　→ ゆうしょう　→ win
+
 ## そ
 
 創始　→ そうし
@@ -599,6 +607,8 @@ islam教　→ きょう
 # t
 
 ## た
+
+尊　→ たける
 
 竜巻　→ tornado
 
@@ -696,6 +706,8 @@ islam教　→ きょう
 野菜　 → やさい
 
 ## よ
+
+横綱　→ よこずな　→ highest rank in sumo
 
 八日　→ ようか　→ the 8th
 
