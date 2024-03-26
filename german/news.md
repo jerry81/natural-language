@@ -21,3 +21,6 @@
 
 - Er darf jetzt bis zum Jahr 2030 ...
   - he is now allowed to ... until the year 2030
+
+- Es war keine echte Wahl
+  - there was no real choice
