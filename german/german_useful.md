@@ -18,6 +18,7 @@
 
 - schaft - -ship or -hood
 - er - like english - person who does
+- -erin - female person who does
 
 ## prefixes
 
