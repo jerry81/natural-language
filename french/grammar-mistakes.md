@@ -1,0 +1,3 @@
+- A baby bear
+- un bébé ours
+- un ours bébé (wrong)
