@@ -379,6 +379,8 @@ gar - at all
 
 geblieben - remained
 
+gestimmt - voted
+
 Die Gebühr - fee
 
 Das Geräusch - noise
@@ -648,6 +650,8 @@ meinung - opinion
 meinte - meant
 
 meist - mostly, usually
+
+meisten - majority
 
 meister - master
 
@@ -1027,6 +1031,8 @@ Vorsicht - careful
 vorstellung - performance
 
 # W
+
+Eine Wahl - election
 
 wahr - true
 
