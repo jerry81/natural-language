@@ -149,6 +149,8 @@
 
 绝经期 - menopause
 
+均为 - are all
+
 # K
 
 
@@ -446,3 +448,5 @@
 拙劣 zhuo2 lie4 - poor
 
 罪魁祸首 - zui4kui3huo4shou3 - culprit
+
+组合键 - keyboard shortcut or keyboard combination
