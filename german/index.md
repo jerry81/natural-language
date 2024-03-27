@@ -270,6 +270,9 @@ emfehlen - recommend
 
 enderen - others
 
+enge - tight
+enger - tighter, closer
+
 Entscheidung - decision
 
 enttäuscht - disappointed
@@ -675,7 +678,7 @@ mittagpause - lunch break
 
 mitteilen - communicate
 
-moglich - possible
+möglich - possible
 
 muhe - effort
 
@@ -766,6 +769,8 @@ reden - talk
 regelmäßig - regularly
 
 Regen - rule
+
+Regierungs - govt.
 
 reinigen - clean
 

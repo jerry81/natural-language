@@ -14,6 +14,9 @@
   - _a_ _b_ him a lot.
   - Dieses Ergebnis verwundert ihn sehr.
 
+- so _adj_ _v_ wie möglich -> _v_  as _adj_ as possible.
+  - so lange helfen wie möglich.
+
 ## suffixes
 
 - schaft - -ship or -hood

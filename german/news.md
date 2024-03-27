@@ -27,3 +27,19 @@
 
 - Putin hatte keine echten Wahl-Gegner.
   - putin didn't really have an opponent
+
+
+## 3/27
+
+- Bundes-Kanzler Scholz will dem Land Ukraine lange helfen
+  - Federal Chancellor Scholz wants to help Ukr for a long time.
+- Der Bundes-Kanzler von Deutschland ist Olaf Scholz.
+  - the federal chancellor of Germany is OS
+- Scholz erklärt regelmäßig seine Politik im Bundes-Tag.
+  - scholz regularly explains his politics in the Bundes-Tag.
+- Das nennt man Regierungs-Eklärung.
+  - one calls this a government statement
+- Jetzt hat er gesagt: Europa soll enger zusammen arbeiten
+  - now he has said: europe should work more closely together
+- Scholz hat gesagt: Wir müssen dem Land Ukraine im Krieg gegen Russland so lange helfen wie möglich.
+  - he has said: we must help UKr in their war against russia for as long as possible.
