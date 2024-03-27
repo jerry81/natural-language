@@ -34,6 +34,8 @@ anderes - other
 
 anfrage - inquiry
 
+angenehm - pleasant
+
 angstrengend - tiring
 
 Angabe - specificaiton
@@ -103,6 +105,8 @@ Bearbeitergruppe - editor group
 Berarbeitungsstand - processing status
 
 beraten - to discuss, advise
+
+Der Bereich - the area
 
 bereite - ready
 
