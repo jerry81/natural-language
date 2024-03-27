@@ -43,3 +43,7 @@
   - now he has said: europe should work more closely together
 - Scholz hat gesagt: Wir müssen dem Land Ukraine im Krieg gegen Russland so lange helfen wie möglich.
   - he has said: we must help UKr in their war against russia for as long as possible.
+- Das Land Russland ist nicht so stark, wie man denkt.
+  Russia is not as strong as one thinks.
+- Scholz meint: Europa muss gemeinsam Stärke zeigen gegen Russland.
+  - S says: Europe must show strength together against R

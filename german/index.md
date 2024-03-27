@@ -404,6 +404,8 @@ gelegentlich - occasionally
 
 gelten - apply
 
+gemeinsam - together
+
 geniale - brilliant
 
 gehen - walk
@@ -650,11 +652,11 @@ mehr - more
 
 meinem - my
 
+meint - say, mean
 meinst - mean
+meinte - meant
 
 meinung - opinion
-
-meinte - meant
 
 meist - mostly, usually
 
@@ -1120,7 +1122,7 @@ Zehe - toe
 
 zeichen - sign
 
-zeigen - point to
+zeigen - point to, show
 
 zeil - goal
 
