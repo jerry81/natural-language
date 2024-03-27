@@ -112,6 +112,7 @@
 
 互惠互利 - mutually benefitial
 
+厚生劳动省 - ministry of health, labor and welfare
 
 # J
 
@@ -238,6 +239,7 @@
 批次 - batch
 
 # Q
+
 
 脐带 - umbilical cord
 
