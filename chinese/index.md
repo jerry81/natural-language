@@ -14,6 +14,8 @@
 
 表里如一 - consistent inside and out
 
+便捷 - convenient
+
 濒死 bin1si3 - near death
 
 不堪重负　bu4kan1zhong4fu4 - overwhelmed
@@ -273,6 +275,8 @@
 
 入不敷出 ru4bufu1chu1 - live beyond one's means
 
+软排线 - soft cable
+
 # S
 
 杀戒 - bhuddist prohibition on killing
@@ -404,6 +408,8 @@
 臃肿 yong1zhong3 - obese
 
 有朝一日  - one day
+
+引脚 - pin
 
 游说 - persuade, lobby for
 

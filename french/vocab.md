@@ -8,6 +8,9 @@ aime - to like
 chat - cat
 - (pronounced "sha")
 
+chien - dog
+- pronounced "shun"
+
 # e
 
 et - and
@@ -17,6 +20,13 @@ et - and
 
 fils - son
 - pronounced "fees"
+
+# g
+
+garçon - boy
+
+gáteau - cake
+- pronounced gatoo
 
 # j
 
@@ -28,6 +38,8 @@ mange - eats
 - pronounced "mohnja"
 
 # o
+
+ou - or
 
 ours - bear
 - (r silent)

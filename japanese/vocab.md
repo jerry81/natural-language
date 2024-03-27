@@ -39,6 +39,10 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 # d
 
+## だ
+
+だと　→ shorthand for であると → meaning "to be"
+
 ## ど
 
 どのくらい - how much
@@ -173,6 +177,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
   - skillfully/thoroughly
 
 より　→ more, further
+
+よると　→ according to
 
 ## ゆ
 
