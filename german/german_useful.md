@@ -34,3 +34,9 @@
   - completion
   - reversal
   - change
+
+## essentials
+
+Gern geschehen - you're welcome
+
+Vielen Dank - thank you very much

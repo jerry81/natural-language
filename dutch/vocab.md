@@ -26,6 +26,10 @@ jongen - boy
 
 meisje - girl
 
+# o
+
+of - or
+
 # s
 
 sap - juice
@@ -33,3 +37,7 @@ sap - juice
 # v
 
 vrouw - woman
+
+# z
+
+ze - she

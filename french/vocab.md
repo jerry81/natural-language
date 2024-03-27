@@ -8,6 +8,11 @@ aime - to like
 chat - cat
 - (pronounced "sha")
 
+# e
+
+et - and
+- pronounced "eh"
+
 # f
 
 fils - son
@@ -30,3 +35,6 @@ ours - bear
 # t
 
 ton - your
+
+un thé - tea
+(pronounced "tea")
