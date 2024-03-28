@@ -3,6 +3,10 @@
 aime - to like
 - (pronounced "ehm")
 
+# b
+
+bon - good
+
 # c
 
 chat - cat
@@ -28,14 +32,27 @@ garçon - boy
 gáteau - cake
 - pronounced gatoo
 
+# h
+
+- un homme - man
+- pronounced "ohm"
+
 # j
 
 joli - pretty
+
+# l
+
+livre - book
 
 # m
 
 mange - eats
 - pronounced "mohnja"
+
+# n
+
+nouveau - new
 
 # o
 

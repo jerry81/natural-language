@@ -1,3 +1,12 @@
+# b
+
+ben - (i) am
+
+bent - (you) are
+
+brood - bread
+- pronounced "brot"
+
 # d
 
 de - the
@@ -7,6 +16,7 @@ de - the
 een - a
 
 eet - eats
+- pronounced "ate"
 
 en - and
 
