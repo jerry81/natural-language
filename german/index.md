@@ -6,6 +6,8 @@ Die/Der Alleinstehende - single person lit. standing alone
 
 aber - but
 
+Abgeordnete - Member
+
 Änwaltin - lawyer
 
 aberfragt - queried
@@ -220,6 +222,8 @@ direktnacrichten - notify directly
 
 doch - but, indeed
 
+Dolmetscher - Interpreter
+
 doppelpunkt - colon
 
 dort - there
@@ -384,6 +388,8 @@ ganz - quite
 
 gar - at all
 
+Gebärden - signs
+
 geblieben - remained
 
 gestimmt - voted
@@ -399,6 +405,8 @@ geehrter - Dear
 gefallen - to satisfy
 
 gehalt - salary
+
+gehörlose - deaf
 
 gelegentlich - occasionally
 
@@ -1029,6 +1037,12 @@ viel - much
 vielleicht - maybe
 
 vielles - a lot of
+
+Die Vorbereitung - the preperation
+
+Die Voraussetzung - the prerequisite
+
+Der Vorteil - advantage
 
 Vorurteil - bias
 

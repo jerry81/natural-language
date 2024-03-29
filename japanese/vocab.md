@@ -113,7 +113,7 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 ## な
 
-など　→ such
+など　→ such, etc.
 
 なる、なりましよ　→　become
 
@@ -128,6 +128,10 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 パッと　→ suddenly (colloquial)
 
 # s
+
+## さ
+
+(傘を)さします　- open an umbrella
 
 ## そ
 

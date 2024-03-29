@@ -47,3 +47,14 @@
   Russia is not as strong as one thinks.
 - Scholz meint: Europa muss gemeinsam Stärke zeigen gegen Russland.
   - S says: Europe must show strength together against R
+
+## 3/28
+
+- Die erste gehörlose Abgeordnete im Bundestag
+  - the first deaf MP in the gov.
+- Im Bundestag ist zum 1.  Mal eine gehörlose Abgeordnete.  Sie Heißt Heike Heubach.  Die Politikerin braucht Hilfe, damit sie im Bundestag arbeiten kann.
+  There is a deaf member for the first time in Parliment in the Bundestag.  Her name is Heike Heubach.  The politician needs help so she can work in the BT.
+- Ein Mensch übersetzt ihre Worte mit den Handen.
+  - a person translates their with their hands.
+Das ist ein Gebärden-Dolmetscher
+  - that is a sign-interpreter

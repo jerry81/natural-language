@@ -29,7 +29,7 @@ fils - son
 
 garçon - boy
 
-gáteau - cake
+gâteau - cake
 - pronounced gatoo
 
 # h
@@ -57,6 +57,7 @@ nouveau - new
 # o
 
 ou - or
+- "oo" like "moo"
 
 ours - bear
 - (r silent)

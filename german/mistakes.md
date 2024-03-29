@@ -1,0 +1,2 @@
+- Der Kaffee kostet wirklich fünf Euro
+- Der Kaffee wirklich kostet fünf Euro. - WRONG

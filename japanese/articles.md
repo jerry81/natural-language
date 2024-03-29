@@ -18,3 +18,12 @@
      - among these, 303 were recognized by the government as refugees
     - 今までで一番多くなりました
       - has set a new record.
+
+- 小林製薬の健康食品を食べた人　４人亡くなった
+  - kobayashi pharma's health supplements, led to 4 people's deaths
+- 紅麹が入った健康食品を食べた人が、腎臓の病気などになって、問題になっています。
+  - people who ate red yeast rice have developed conditions such as kidney disease
+- 会社によると、２８日までに４人が亡くなって、１０６人入院したことが分かりました。
+  - according to the company, as of the 28th, 4 are dead, 106 have been hospitalized
+- 亡くなった４人は紅麹これステヘルプを食べていました
+  - the 4 who died were eating red yeast rice CholestHelp (name of prod).
