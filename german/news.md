@@ -58,3 +58,62 @@
   - a person translates their with their hands.
 Das ist ein Gebärden-Dolmetscher
   - that is a sign-interpreter
+
+## 4/2
+
+- Viele tote bei Terror-Anschlag auf Konzert-Halle bei Moskau
+  - many dead at the terrorist attack in the concert hall in moscow
+- In dem Land russland hat es einen Terror-Anschlag gegeben.
+  - there was a terrorist attack in russia
+  - notice "hat es x gegeben" pattern for present perfect
+  - gegeben is past participle of geben (gives but also occured or happened)
+- Angreifer haben eine Konzert-Halle bei der Stadt Moskau gestürmt.
+  - attackers stormed the concert hall in moscow
+  - haben ...... gesturmt
+  - have complex noun past participle
+- Sie haben um sich geschossen.
+  - they shot around
+  - sich - self
+  - um - around
+  - schossen - shot
+- Mindestens 143 Menschen wurden getötet.
+  - at least 143 people were killed.
+
+- In der Halle war gerade ein Konzert von einer Rock-Band.
+  - there was a rock concert in progress in the hall.
+  - here, gerade - currently, just
+
+- Es waren viele Besucherinnen und Besucher da.
+  - there were many visitors there
+  - had to account for females and males, common in journalism
+
+- Bei dem Angriff gab es ein großes Feuer.
+  - at the attack there was a large fire.
+  - Angriff - attack
+  - gab - past tense of "geben"
+
+- Es gab auch Explosionen
+  - there were also explosions
+
+- Viele Menschen wurden verletz.
+  - verletz - injured, but also violate
+
+- Nach dem Angriff hat die Terror-Gruppe, Islamischer Staat" gesagt:
+  - after the attack, terror group "islamic state" said:
+
+- Wir haben den Anschlag gemacht
+  - we made the attack
+
+- Russland hat mehrere Verdächtige festgenommen.
+  - RU has arrested several suspects.
+  - festgenommen - arrested
+  - Verdächtige - suspects
+
+- 4 Verdächtige sind in Untersuchungs-Haft.
+  - 4 suspects are in custody
+
+- Ru sagt: Die Täter hatten Kontakte in das Land Ukraine.
+  - RU says the perpetrators had contacts in ukraine
+
+- Und sie hatten auch Kontakte in andere westlich Länder
+  - and they had contacts in other western countries

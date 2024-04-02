@@ -54,6 +54,8 @@ Anwendungen - applications
 
 anzeigen - show
 
+Angriff - attack
+
 auch - also, even
 
 aufgefallen - noticed
@@ -356,6 +358,8 @@ festellen konnen - can determine
 
 festgestellt - established
 
+festgenommen - arrested
+
 fehler - error
 
 Das Fieber - fever
@@ -439,6 +443,8 @@ genau - precisely
 
 gerät - device
 
+gerade - straight/just
+
 geschaft - business
 
 geschaftaddres - business address
@@ -500,6 +506,8 @@ gute besserung - get well soon
 guten - good
 
 # H
+
+Haft - detention
 
 habe - have
 
@@ -682,6 +690,8 @@ mich - me
 
 mir - me
 
+mindestens - at least
+
 mit - with
 
 mitarbeiter - employee
@@ -806,6 +816,8 @@ Die Rückkehr - return trip
 
 # S
 
+schossen - shot
+
 schuler - student
 
 sag - say
@@ -925,6 +937,8 @@ sucht - seeks
 
 # T
 
+Die Täter - offenders
+
 Tasche - bag
 
 tätig - employed
@@ -953,6 +967,8 @@ Tschuss - bye
 
 # U
 
+um - around
+
 Uben - practice
 
 uber - above
@@ -965,6 +981,10 @@ ubernehmen - take over
 uberrascht - suprised
 
 Übernachtung - overnight stay
+
+Untersuchungs - investigative
+
+Untersuchungs-Haft - pretrial detention, custody
 
 Die Ubersicht - overview
 
@@ -1004,6 +1024,8 @@ untersuchen - checkup
 
 verändern - change
 
+Verdächtige - suspects
+
 Verantwortung - responsibility
 
 verbessern - improve
@@ -1025,6 +1047,8 @@ Verhandlung - negotiation
 Verkauf - sale
 
 Verkaufer - salesperson
+
+verletz - injured, but also violate
 
 verschiedenen - different
 
