@@ -128,6 +128,8 @@
 
 ## は
 
+運ぶ　→ はこぶ　→ carry
+
 二十日　→ はつか　→ the 20th
 
 拍　→ はく　→ beat at which japanese is spoken
@@ -142,6 +144,8 @@
 歯応え　→ はごたえ　→ chewy
 
 ## ほ
+
+法律　→ ほうりつ　→ law
 
 放送　→ ほうそう　→ broadcasting
 
@@ -175,9 +179,13 @@
 
 部屋中　 → へやちゅう
 
+平均 → へいきん　→ average
+
 # i
 
 ## い
+
+以外　→ いがい　→ except
 
 五日　→ いつか　→ the 5th
 
@@ -270,6 +278,8 @@
 
 ## け
 
+建設　→ けんせつ → construction
+
 健康食品　→ けんこうしょくひん - health care products
 
 化粧品　→ けしょうひん
@@ -283,6 +293,10 @@
 健康的　 → けんこうてき
 
 ## き
+
+厳しく → きびしく → stricter
+
+規則　→ きそく → rules
 
 着る　→ きる　→ to wear
 
@@ -342,6 +356,8 @@ islam教　→ きょう
 壊れた　 → こわれた
 
 ## く
+
+比べて　→ くらべて　→ more than
 
 空港　→ くうこう
 
@@ -627,6 +643,8 @@ islam教　→ きょう
 
 ## す
 
+過ぎで　→ すぎで
+
 好き　 → すき
 
 進んで　→ すすんで
@@ -634,6 +652,8 @@ islam教　→ きょう
 # t
 
 ## た
+
+例えば　→ たとえば　→ for example
 
 尊　→ たける
 
@@ -692,6 +712,8 @@ islam教　→ きょう
 # u
 
 ## う
+
+運送　→ うんそう → transportation
 
 受け取った　 → receieved
 受け取る
@@ -755,6 +777,8 @@ islam教　→ きょう
 # z
 
 ## ざ
+
+残業　→ ざんぎょう　→ overtime
 
 在留　→ ざいりゅう　→ resident
 
