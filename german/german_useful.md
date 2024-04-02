@@ -17,6 +17,10 @@
 - so _adj_ _v_ wie möglich -> _v_  as _adj_ as possible.
   - so lange helfen wie möglich.
 
+- ich muss hier weg - i must get away
+
+- Das kann nicht sein - it can't be
+
 ## suffixes
 
 - schaft - -ship or -hood

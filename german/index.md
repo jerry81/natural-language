@@ -70,6 +70,8 @@ autsch - ouch
 
 auf - on
 
+aufregend - exciting
+
 aufgabe - task
 
 aus - from
@@ -231,6 +233,8 @@ dort - there
 drin - inside
 
 Dringlichkeit - urgency
+
+drüben - over there
 
 du - you
 
@@ -712,6 +716,8 @@ nachste - next
 nass - wet
 
 ne - a, no
+
+nervös - nervous
 
 nehmen - to take
 
