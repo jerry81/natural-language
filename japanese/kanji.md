@@ -64,6 +64,8 @@
 
 ## だ
 
+出さない　→ ださない　→ not issued
+
 台所　→ だいどころ　→ kitchen
 
 出さない　→ ださない
@@ -127,6 +129,8 @@
 # h
 
 ## は
+
+ 母親　→ ははおや　→ mother
 
 運ぶ　→ はこぶ　→ carry
 
@@ -237,6 +241,8 @@
 # k
 
 ## か
+
+関係　→ かんけい　→ relations
 
 枯れて　→ かれて
 
@@ -505,6 +511,8 @@ islam教　→ きょう
 
 ## お
 
+夫の子ども　→ おっとのこども　→ husband's child
+
 音楽　→ おんがく
 
 音量　 → おんりょう
@@ -532,6 +540,8 @@ islam教　→ きょう
 # r
 
 # り
+
+離婚　→ りこん　→ divorce
 
 立派　→ りっぱ　→ fine
 
@@ -589,6 +599,8 @@ islam教　→ きょう
 
 ## し
 
+出生届　→ しゅっしょうとどけ　→ birth registration
+
 出入国在留管理庁　→ しゅつにゅうこくざいりゅうかなりちょう　→ immigration
 
 出身　→ しゅっしん　→ birthplace
@@ -642,6 +654,8 @@ islam教　→ きょう
 卒業 → そつぎょう
 
 ## す
+
+推定　→ すいてい　→ presumed to be
 
 過ぎで　→ すぎで
 
@@ -734,6 +748,8 @@ islam教　→ きょう
 
 ## わ
 
+変わりました　→ わかりました　→ changed
+
 別れ　→ わかれ　→ break up, farewell
 
 割って　 → わって　 → break
@@ -751,6 +767,8 @@ islam教　→ きょう
 # y
 
 ## や
+
+役所　→ やくしょ　→ authorities, govt. office
 
 柔らかい　 → 　やわらかい - soft
 
