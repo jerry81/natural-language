@@ -58,6 +58,8 @@
 
 # F
 
+封底 - back cover
+
 仿真 - simulation
 
 法兰绒 - flannel

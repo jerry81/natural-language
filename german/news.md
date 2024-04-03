@@ -117,3 +117,19 @@ Das ist ein Gebärden-Dolmetscher
 
 - Und sie hatten auch Kontakte in andere westlich Länder
   - and they had contacts in other western countries
+
+## 4/3
+- Bahn und Lok-Führer haben sich geeinigt
+  - train and lok-guide have gone bankrupt? - my guess
+  - the railway and locomotive drivers have reached an agreement - actual
+    - geeinigt - agreement
+    - sich geeinigt - agree
+    - Lok-Führer - locomotive drivers
+    - Lok - Locomotive
+- Bei der Bahn hat es in den letzten Monaten viele Streiks gegeben.
+  - In the recent months the railway has had many strikes.
+- Jetzt hat sich die Deutsche Bahn mit der Gewerkschaft von den Lok-Führern geeinigt
+  - now the Locomotive drivers workers union and the railways have reached an agreement.
+    - Gewerkschaft - union
+- Die Lok-Führer müssen bald weniger arbeiten.
+  - the Locomotive drivers must soon work less.

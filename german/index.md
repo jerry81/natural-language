@@ -410,6 +410,8 @@ gedacht - thought
 
 geehrter - Dear
 
+geeinigt - agreement
+
 gefallen - to satisfy
 
 gehalt - salary
@@ -653,6 +655,8 @@ letztes - last
 liegt - located
 
 liste - list
+
+Lok-Führer - locomotive driver
 
 Lösung - solution
 
