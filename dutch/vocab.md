@@ -32,6 +32,8 @@ je - you
 
 jongen - boy
 
+Jullie - you (plural)
+
 # m
 
 meisje - girl
