@@ -42,3 +42,17 @@
 - 病逝 bing4 shi4 - died of illness
 
 - 禅让 chan2 rang4 - demise
+
+- 隔年 - the next year
+
+- 辅佐 - fu3zuo3 - assist
+
+- 疆域 - territory
+
+- 昙花一现 - tan2hua1yi1xian4 - short-lived
+
+- 辈出 - bei4 chu1 - come out in large numbers
+
+- 后世 - later generations
+
+- 撰写 - zhuan4 xie3 - write
