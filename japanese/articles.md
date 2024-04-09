@@ -120,6 +120,14 @@
  - 輪島市 → わじまし
  - 入学式 → にゅうがくしき → ceremony
 - 石川県輪島市は１月の地震で大きな被害を受けました。
- - ishikawa county's wajima city was greatly affected by the january earthquake.
+ - ishikawa prefecture's wajima city was greatly affected by the january earthquake.
  - 石川県 → いしかわけん
--
+- 8日、教室や体育館を使うことができない６つの小学校が、消防署で入学式を行いました。
+ - on the 8th, 6 elementary schools that were unable to use their classrooms or gymnasiums held entrance ceremonies at the fire station.
+ - 体育館　→ たいいくかん
+ - 消防署　→ しょうぼうしょ　→ fire department
+- 風至小学校と大屋小学校、河原田小学校は一緒にを行って、一年生が２８人出席しました。
+ - three names of primary schools held the event together and had 28 first graders show up
+ - 風至　→ ふげし
+ - 大屋　→ おおや
+ - 河原田 → かわらだ
