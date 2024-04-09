@@ -122,6 +122,8 @@ beruhight - calmed down
 
 beruflich - professional
 
+berühmt - famous
+
 beschäftigt - occupied
 
 Die Beschwerde - complaint
@@ -146,11 +148,15 @@ Betreffzeile - subject
 
 Betrieb - enterprise
 
+betreuen - to look after
+
 Bewegung - exercise
 
 Bewerbung - application(form)
 
 bezahlen - pay
+
+Der Bild - picture
 
 bisher - so far
 
