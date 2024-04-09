@@ -41,3 +41,8 @@
 - б - b
 - н - n
 - м - m
+
+
+## combos
+
+- ё - option + e
