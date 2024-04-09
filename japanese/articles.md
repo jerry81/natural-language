@@ -108,3 +108,18 @@
   - したくない　→ not want to, negative of したい
   - 役所　→ やくしょ　→ authorities, govt. office
   - 出さない　→ ださない　→ not issued
+
+## 4/9
+
+- 地震で被害を受けた輪島市小学校がに遊学式
+ - earthquake affects wajima city primary schoolers - my guess
+ - school trip ceremony for wajima city elementary school, which was damaged by earthquake - actual
+ - 地震 → じしん
+ - 被害 → ひがい
+ - 受け → うけ → received
+ - 輪島市 → わじまし
+ - 入学式 → にゅうがくしき → ceremony
+- 石川県輪島市は１月の地震で大きな被害を受けました。
+ - ishikawa county's wajima city was greatly affected by the january earthquake.
+ - 石川県 → いしかわけん
+-
