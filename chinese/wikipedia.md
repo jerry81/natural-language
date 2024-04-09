@@ -56,3 +56,19 @@
 - 后世 - later generations
 
 - 撰写 - zhuan4 xie3 - write
+
+## 三国演义
+
+[ref](https://zh.wikipedia.org/zh-cn/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89)
+
+- 盛行 - sheng4xing2 - prevail
+
+- 故事大纲 - synopsis
+
+- 憎恶 - zeng1wu4 - hate
+
+- 事迹败露 - shi4ji4bai4lu4 - deeds exposed
+
+- 剿灭 - jiao3mie4 - exterminate
+
+- 诱杀 - you4sha1 - booby trap

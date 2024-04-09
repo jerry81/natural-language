@@ -100,6 +100,8 @@
 
 # H
 
+恒定 - constant
+
 寒暄 - engage in small talk
 
 晦涩 hui4se4 - obscure
