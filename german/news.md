@@ -133,3 +133,17 @@ Das ist ein Gebärden-Dolmetscher
     - Gewerkschaft - union
 - Die Lok-Führer müssen bald weniger arbeiten.
   - the Locomotive drivers must soon work less.
+
+
+## 4/9
+- Opposition in der Türkei erfolgreich bei Wahl
+  - opposition in turkey successful at Election.
+  - erfolgreich - successful
+- In dem Land Türkei hat es Wahlen gegeben.
+  - there was an election in t
+- Das heißt: Die Menschen haben über Bürger-Meister und über Parlamente in den Städten und Provinzen abgestimmt.
+  - That means: The people voted on mayors and parliments in the cities and provinces.
+  - abgestimmt - voted
+  - Bürger-Meister - mayors
+- In vielen großen Städten haben Kandidaten von der Partei CHP gewonnen.
+  - in many large cities, CHP party members won.

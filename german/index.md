@@ -250,6 +250,8 @@ Durchsage - broadcast
 
 # E
 
+erfolgreich - successful
+
 egal - doesn't matter
 
 einbringen - bring in
