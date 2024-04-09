@@ -2,6 +2,11 @@
 
 - use russian QWERTY as it is most phonetic.
 
+## numbers row
+- щ - ` - tsts
+- ь - '-' - soft sign
+- ъ - + - hard sign
+
 ## row 1
 - я - q - 'ya'
 - ш - w - 'sh'
@@ -13,6 +18,9 @@
 - и - i
 - о - o
 - п - p
+- ю - [
+- ж - ] - 'zh, like zhivago'
+- э - \
 
 ## row 2
 - а - a
