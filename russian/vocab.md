@@ -2,6 +2,8 @@
 
 бас -> bas -> bass
 
+большой -> bol'shoj -> big
+
 # г
 
 галета -> galyeta -> biscuit
@@ -10,15 +12,32 @@
 
 капуста -> kapusta -> cabbage
 
+# л
+
+люфа -> lyoufa -> loofah
+
 # м
 
 мачта -> machta -> mast
 
 маленький -> malyen'kij -> small
 
+мамы -> mamuiee -> moms
+
+меня -> menya -> me
+
+мыза -> muieeza -> we are for it
+
+
 # o
 
 огрóмное -> ogrómnoe -> huge
+
+образ -> obraz -> - image
+
+она -> ona -> she
+
+обьедать -> ob'yedat' -> overeat
 
 # п
 
@@ -29,6 +48,12 @@
 пятьдесят -> pyat'dyesyat -> 50
 
 память -> pamyat' -> memory
+
+# р
+
+работаться -> rabotat'sya -> work
+
+радость -> radost' -> joy
 
 # с
 
@@ -51,3 +76,15 @@
 # в
 
 возьмйте -> voz'mjte -> take
+
+# х
+
+хихикаем -> hihikayem -> giggle
+
+характер -> haraktyer -> character
+
+# з
+
+залакаем -> zalakayem -> let's cheer
+
+зовут -> zovut -> name is
