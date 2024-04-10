@@ -76,3 +76,10 @@ X 付きますか　→ does it come with X?
 それで足りる　→ is that enough?
 
 それ何に使うの　→ what's that for?
+
+x "y"　と言いました
+- x said "y"
+- note the と
+
+- x を　y　ては行けません
+  - one cannt do y to x (te form)

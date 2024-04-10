@@ -15,12 +15,23 @@ chat - cat
 chien - dog
 - pronounced "shun"
 
+un cheval - a horse
+
+C'est - this
+- pronunced 'say'
+
 # e
+
+es - is/are
+- 'eh'
 
 et - and
 - pronounced "eh"
 
 # f
+
+une femme - a woman
+- a little like 'yune'
 
 fils - son
 - pronounced "fees"
@@ -38,6 +49,8 @@ gâteau - cake
 - pronounced "ohm"
 
 # j
+
+je - I
 
 joli - pretty
 
@@ -68,3 +81,5 @@ ton - your
 
 un thé - tea
 (pronounced "tea")
+
+tu - you

@@ -4,6 +4,10 @@
 
 boleta - ticket
 
+## c
+
+la cartera - purse
+
 ## d
 
 desculpa - excuse me

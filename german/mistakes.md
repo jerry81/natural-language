@@ -8,3 +8,7 @@
 - 10
 - zehn - correct
 - sehn - wrong
+
+- it is too warm today
+- es ist zu heiß heute - wrong
+- es ist zu warm heute - correct
