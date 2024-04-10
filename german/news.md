@@ -148,3 +148,51 @@ Das ist ein Gebärden-Dolmetscher
 - In vielen großen Städten haben Kandidaten von der Partei CHP gewonnen.
   - in many large cities, CHP party members won.
   - CHP - Republican People's party.
+
+# 4/10
+
+- Cannabis rauchen ist in Deutchland jetzt erlaubt
+  - cannibis smoking is now allowed in Germany
+- Cannabis ist eine droge.
+  - cannabis is a drug
+- Die Inhalts-Stoffe von der Droge sind in den Buüten von den Cannabis-Pflanzen.
+  - Inhalts-Stoffe - ingredients
+  - Inhalts - contents
+  - Stoffen - substances
+  - Blüten - blossoms
+  - Pflanzen - plant
+- Die Blüten werden geraucht.
+  - the flowers are smoked
+- Das Gessetz dafür gilt ab jetzt.
+  - Gessetz - law
+  - dafür - for that
+  - gilt - applies
+- Es gibt aber bestimmte Regeln.
+  -  But there are some rules
+  - bestimmte - particular
+  - Regeln - rules
+- Nur Erwachsene dürfen Cannabis rauchen.
+  - only adults can smoke cannabis
+- Sie dürfen das Cannabis nur dann rauchen, wenn keine Kinder und keine Jugendlichen dabei sind.
+  - they are only allowed to smoke the cannabis when there are no children or youth around.
+  - dann - then
+  - wenn - if
+  - dabei - included, around
+- Es dürfen auch keine Schulen, keine Kitas und keine Sport-Anlagen in der Nähe sein.
+ - it's also not allowed when Schools,daycare and sports facilities are nearby.
+  - sport-anlagen - sport facilities
+  - Kites - daycare
+- In dem Gesetz steht: Erwachsene dürfen 3 Cannabis-Pflanzen zu Hause haben.
+  - adults are allowed 3 plants in their house
+- Draußen dürfen die Erwachsenen bis zu 25 Gramm von dem Cannabis bei sich haben.
+  - Draußen - outside
+- verboten - forbidden
+- gestritten - argued
+- süchtig - addicted
+- Gehirn - brain
+- schützt - protects
+-  Durch - through
+- Straf-Taten - criminal acts
+  - straf - penal
+  - taten - actions
+- weil - because
