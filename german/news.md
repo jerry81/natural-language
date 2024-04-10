@@ -147,3 +147,4 @@ Das ist ein Gebärden-Dolmetscher
   - Bürger-Meister - mayors
 - In vielen großen Städten haben Kandidaten von der Partei CHP gewonnen.
   - in many large cities, CHP party members won.
+  - CHP - Republican People's party.

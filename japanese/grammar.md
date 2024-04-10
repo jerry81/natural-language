@@ -321,3 +321,8 @@ e.g. 好きじゃないです　-> i don't like
 ## sentence enders
 
 - よ　i.e. ですよ　→ like　啊
+
+## gotchas
+
+- 行けます　vs 行きます
+- can go or can do vs will go

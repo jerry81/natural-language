@@ -727,6 +727,8 @@ muss nur - just have to
 
 # N
 
+neblig - foggy
+
 nach - after
 
 nachher - later
