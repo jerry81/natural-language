@@ -72,3 +72,19 @@
 - 剿灭 - jiao3mie4 - exterminate
 
 - 诱杀 - you4sha1 - booby trap
+
+- 董卓之乱
+- the dongzhuo rebellion
+- 各路诸侯分头寻找, 最终由凉州刺史董卓找到少帝与陈留王。
+ - princes from all walks of life searched, and finally dongzhuo, emperor of liangzhou found young emperor King Chenliu.
+   - 刺史 - governor
+- 董卓自恃救驾有功，趁机专权弄政
+  - dong zhuo rescued him by himself. taking advantage of the opportunity to exercise dictatorship.
+  - 自恃 -> zi4 shi4
+- 董卓横行，残害忠良
+  - 横行 - rampage/rampant
+  - 残骸 -> mutilate
+- 曹操行刺董卓失败而逃走, 假传圣旨， 召各路诸侯结盟勤王， 反抗董卓.
+  - cc failed in his assassination attempt on DZ and fled.
+  - he falsely conveyed the imperial edict and sumoned all the princes to form an alliance with king qin to resist DZ
+- dz killed by 吕布 after fighting over 貂蝉
