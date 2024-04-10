@@ -131,3 +131,16 @@
  - 風至　→ ふげし
  - 大屋　→ おおや
  - 河原田 → かわらだ
+
+ ## 4/10
+- ライドシェア　→ rideshare
+- いよいよ → finally
+- 区　→ く　
+- 武蔵野市 → むさしのし　→ musashi city
+- 三鷹市 → みたかし → mitaka city
+
+タクシーの運転手ではない人が、自分の車に客を乗せて運びます
+　　- a person who is not a taxi driver picks up and transports passengers in his or her car
+契約  →  けいやく → contract
+研修　→ けんしゅう → training
+管理　→ かんり　
