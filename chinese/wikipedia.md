@@ -87,4 +87,5 @@
 - 曹操行刺董卓失败而逃走, 假传圣旨， 召各路诸侯结盟勤王， 反抗董卓.
   - cc failed in his assassination attempt on DZ and fled.
   - he falsely conveyed the imperial edict and sumoned all the princes to form an alliance with king qin to resist DZ
-- dz killed by 吕布 after fighting over 貂蝉
+- 斩华雄，败吕布，十八路诸侯在袁绍率领下杀向首都洛阳，迫使董卓劫持皇帝，迁都长安。董卓后来与其义子吕布争美女貂蝉。吕布在王允劝诱下，杀了董卓。
+  - 义子 - adopted son
