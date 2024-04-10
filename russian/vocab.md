@@ -1,3 +1,7 @@
+# a
+
+апрель -> apryel' -> april
+
 # б
 
 бас -> bas -> bass
@@ -15,6 +19,8 @@
 # л
 
 люфа -> lyoufa -> loofah
+
+лук -> luk -> onion
 
 # м
 
@@ -67,11 +73,10 @@
 
 секретарь -> syekretar' -> secretary
 
+статья -> stat'ya -> article
+
 семьсóт -> syem'sot -> 700
 
-# ц
-
-церковь -> tsyerkov' - church
 
 # в
 
@@ -82,6 +87,28 @@
 хихикаем -> hihikayem -> giggle
 
 характер -> haraktyer -> character
+
+# ю
+
+юла -> yula -> spinning top
+
+# у
+
+уровень -> urovyen' -> level
+
+учитель -> uchitel' -> teacher
+
+# ш
+
+шёлковый -> syolkovuieej -> silk
+
+# ц
+
+церковь -> tsyerkov' - church
+
+целлофан -> tsellofan -> cellophane
+
+целовал -> tseloval - kissed
 
 # з
 
