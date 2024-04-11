@@ -6,6 +6,10 @@
 
 악기 -> "ahgi" -> instrument
 
+# ㅓ
+
+얼마 -> "eolma" - how much
+
 # ㅂ
 
 불 -> "pull" -> fire
@@ -18,9 +22,21 @@
 
 비밀 -> "pimil" -> secret
 
+보물 -> "pomul" -> treasure
+
+불고기 -> "pulgogi" -> bulgogi
+
+받다 -> "badda" -> receive
+
 # ㅜ
 
 우체국 -> "uchyeguk" -> post office
+
+울다 -> ulda -> cry
+
+# ㅡ
+
+음식 -> eumsik -> food
 
 # ㅣ
 
@@ -41,6 +57,8 @@
 닫다 -> "tatda" -> close
 
 대음 -> "daeum" -> next
+
+디귿 -> digeud -> wow
 
 # ㅌ
 
@@ -74,9 +92,15 @@
 
 미술 -> "misul" -> art
 
+믿다 -> mitda -> trust
+
+묻다 -> mudda -> ask
+
 # ㄴ
 
 늑 -> "neug" -> wolf
+
+날씨 -> nalshi -> weather
 
 # ㅎ
 
@@ -97,6 +121,8 @@
 색 -> "sake" -> color
 
 수박 -> "subak" -> watermelon
+
+숟가락 -> sudgarag -> spoon
 
 # ㄸ
 
