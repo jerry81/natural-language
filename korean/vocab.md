@@ -16,6 +16,8 @@
 
 박수 -> "paksu" -> clap
 
+비밀 -> "pimil" -> secret
+
 # ㅜ
 
 우체국 -> "uchyeguk" -> post office
@@ -36,7 +38,7 @@
 
 둘 -> "tool" -> two
 
-닫 -> "tad" -> close
+닫다 -> "tatda" -> close
 
 대음 -> "daeum" -> next
 
@@ -56,11 +58,21 @@
 
 기역 -> "giyeok" -> memory
 
+교수 -> "kyosu" -> professor
+
+교실 -> "kyoshil" -> classroom
+
+# ㅈ
+
+주말 -> "chumal" -> weekend
+
 # ㅁ
 
 맏 -> "mad" -> eldest
 
 먹다 -> "meokda" -> eat
+
+미술 -> "misul" -> art
 
 # ㄴ
 
