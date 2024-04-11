@@ -12,3 +12,8 @@
 - it is too warm today
 - es ist zu heiß heute - wrong
 - es ist zu warm heute - correct
+
+- the elephant always hikes in the winter
+- Der Elefant immer wandert im Winter - wrong
+- Der Elefant wandert immer im Winter - correct
+- So, remember always hikes in german becomes hikes always

@@ -9,6 +9,8 @@ brood - bread
 
 # d
 
+dat - that
+
 de - the
 
 # e
@@ -52,4 +54,6 @@ vrouw - woman
 
 # z
 
-ze - she
+ze - she, they
+
+zijn - are

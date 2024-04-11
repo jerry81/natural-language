@@ -8,13 +8,41 @@
 
 большой -> bol'shoj -> big
 
+больница -> bol'nitsa -> hospital
+
+# ч
+
+читать -> chitat' -> read
+
+читаем -> chitayem -> we read
+
+# д
+
+десять -> desyat' -> ten
+
+# э
+
+этика -> etika -> ethics
+
+этажный -> etazhnuieej-> storey
+
 # г
 
 галета -> galyeta -> biscuit
 
+# и
+
+играться -> igrat'sya -> play
+
+ищущий -> ishshushshij -> looking for
+
+идиотка -> idiotka -> idiot
+
 # к
 
 капуста -> kapusta -> cabbage
+
+котлета -> kotlyeta -> cutlet
 
 # л
 
@@ -26,6 +54,8 @@
 
 мачта -> machta -> mast
 
+матча -> matcha -> match
+
 маленький -> malyen'kij -> small
 
 мамы -> mamuiee -> moms
@@ -34,6 +64,11 @@
 
 мыза -> muieeza -> we are for it
 
+мята -> myata -> mint
+
+# н
+
+народа -> naroda -> people
 
 # o
 
@@ -55,15 +90,35 @@
 
 память -> pamyat' -> memory
 
+пруд -> prud -> pond
+
+пункт -> punkt -> paragraph
+
+пас -> pas -> pass
+
+пугал -> pugal -> scared
+
+# о
+
+она -> she
+
 # р
 
 работаться -> rabotat'sya -> work
 
 радость -> radost' -> joy
 
+рёвы -> ryovuiee -> roars
+
+рассказ -> rasskaz -> story
+
+читаем -> rubyezh -> milestone
+
 # с
 
-съёмка -> s'yomka -> filming
+суп -> sup -> soup
+
+съёмка -> s'yomka -> filming, shooting
 
 съесть -> s'yest' -> eat
 
@@ -77,16 +132,23 @@
 
 семьсóт -> syem'sot -> 700
 
-
 # в
 
 возьмйте -> voz'mjte -> take
+
+выход -> vuieehod -> exit
+
+весна -> vyesna -> spring
+
+вечёрка -> vyechorka -> evening
 
 # х
 
 хихикаем -> hihikayem -> giggle
 
 характер -> haraktyer -> character
+
+хорошо -> horosho -> fine
 
 # ю
 
@@ -98,9 +160,27 @@
 
 учитель -> uchitel' -> teacher
 
+угольный -> ugol'nuieej -> carbonic
+
 # ш
 
-шёлковый -> syolkovuieej -> silk
+шёлковый -> shyolkovuieej -> silk
+
+шоссе -> shosse -> highway
+
+# щ
+
+щи -> shshi -> cabbage soup
+
+щипцы -> shshiptsuiee -> forceps
+
+щенок -> shshenok -> puppy
+
+# т
+
+толстел -> tolstyel -> got fat
+
+тёща -> tyoshsha
 
 # ц
 
