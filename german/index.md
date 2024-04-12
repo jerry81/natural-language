@@ -810,6 +810,8 @@ regelmäßig - regularly
 
 Regen - rule
 
+Die Regel - rule
+
 Regierungs - govt.
 
 reinigen - clean
@@ -829,6 +831,8 @@ Ruhe - quiet
 Die Rückkehr - return trip
 
 # S
+
+sofort - immediately
 
 schossen - shot
 
