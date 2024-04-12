@@ -20,6 +20,8 @@
 
 десять -> desyat' -> ten
 
+думать -> думать -> think
+
 # э
 
 этика -> etika -> ethics
@@ -50,6 +52,8 @@
 
 лук -> luk -> onion
 
+лосьон -> los'ion -> lotion
+
 # м
 
 мачта -> machta -> mast
@@ -66,6 +70,10 @@
 
 мята -> myata -> mint
 
+мэр -> mer - mayor
+
+мой -> moj -> my
+
 # н
 
 народа -> naroda -> people
@@ -81,6 +89,8 @@
 обьедать -> ob'yedat' -> overeat
 
 # п
+
+предъява -> pred''yava - presenting
 
 профéссор -> profyéssоr -> professor
 
@@ -116,6 +126,8 @@
 
 # с
 
+съел -> s''yel -> ate
+
 суп -> sup -> soup
 
 съёмка -> s'yomka -> filming, shooting
@@ -141,6 +153,8 @@
 весна -> vyesna -> spring
 
 вечёрка -> vyechorka -> evening
+
+ваш -> vash -> you
 
 # х
 
@@ -168,6 +182,8 @@
 
 шоссе -> shosse -> highway
 
+шок -> shok -> shock
+
 # щ
 
 щи -> shshi -> cabbage soup
@@ -181,6 +197,8 @@
 толстел -> tolstyel -> got fat
 
 тёща -> tyoshsha
+
+труд -> trud -> work
 
 # ц
 

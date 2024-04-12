@@ -75,6 +75,10 @@ ou - or
 ours - bear
 - (r silent)
 
+# s
+
+suis - am
+
 # t
 
 ton - your

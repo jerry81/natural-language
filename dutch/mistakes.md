@@ -5,3 +5,6 @@
 
 - We drinken sap - correct
 - We drinkt sap - incorrect
+
+- Jullie hebben een krant - correct
+- Jullie heeft een krant - incorrect

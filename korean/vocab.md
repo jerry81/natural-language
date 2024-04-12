@@ -12,6 +12,8 @@
 
 # ㅂ
 
+벗다 -> beotda -> take off
+
 불 -> "pull" -> fire
 
 봄 -> "bom" -> spring
@@ -33,6 +35,8 @@
 우체국 -> "uchyeguk" -> post office
 
 울다 -> ulda -> cry
+
+웃다 -> utda -> laugh
 
 # ㅡ
 
@@ -60,6 +64,8 @@
 
 디귿 -> digeud -> wow
 
+돕다 -> topda -> help
+
 # ㅌ
 
 택시 -> "taeg shi" -> taxi
@@ -84,7 +90,15 @@
 
 주말 -> "chumal" -> weekend
 
+지갑 -> "jigap" -> wallet
+
+잡지 -> "jabji" -> magazine
+
+잡다 -> "jabda" -> catch
+
 # ㅁ
+
+맵다 -> "maebda" -> spicy
 
 맏 -> "mad" -> eldest
 
