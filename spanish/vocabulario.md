@@ -1,5 +1,9 @@
 # spanish vocab
 
+# a
+
+aprendar - learn
+
 ## b
 
 boleta - ticket
@@ -19,3 +23,7 @@ manzanas - apples
 ## p
 
 pagar - pay
+
+## s
+
+siempre - always

@@ -12,6 +12,8 @@
 
 # ㅂ
 
+바다 -> pada -> ocean
+
 벗다 -> beotda -> take off
 
 불 -> "pull" -> fire
@@ -114,7 +116,9 @@
 
 늑 -> "neug" -> wolf
 
-날씨 -> nalshi -> weather
+날씨 -> nalshi ->
+
+나라 -> nara -> country
 
 # ㅎ
 

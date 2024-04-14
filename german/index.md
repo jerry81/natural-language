@@ -672,6 +672,8 @@ Luft - air
 
 # M
 
+mitbewohner - roomate
+
 malen - to paint
 
 machen - do

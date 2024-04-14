@@ -83,3 +83,5 @@ x "y"　と言いました
 
 - x を　y　ては行けません
   - one cannt do y to x (te form)
+
+- どうしてですか -> why

@@ -46,7 +46,9 @@ of - or
 
 # s
 
-sap - juice
+sap - juice\
+
+spreken - speak
 
 # v
 

@@ -2,6 +2,8 @@
 
 апрель -> apryel' -> april
 
+актёр -> actyor -> actor
+
 # б
 
 бас -> bas -> bass
@@ -33,6 +35,8 @@
 галета -> galyeta -> biscuit
 
 # и
+
+и -> and
 
 играться -> igrat'sya -> play
 
@@ -79,6 +83,8 @@
 народа -> naroda -> people
 
 # o
+
+он -> on -> he
 
 огрóмное -> ogrómnoe -> huge
 
@@ -207,6 +213,10 @@
 целлофан -> tsellofan -> cellophane
 
 целовал -> tseloval - kissed
+
+# я
+
+я -> i am
 
 # з
 
