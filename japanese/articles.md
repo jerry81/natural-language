@@ -145,3 +145,36 @@
 契約  →  けいやく → contract
 研修　→ けんしゅう → training
 管理　→ かんり　
+
+## 4/15
+
+- アメリカの検察官
+  - 検察官　→ けんさつかん　→　prosecutor
+- 「大谷」選手はお金を盗めれる被害を受けた
+  - otani suffered the loss of money
+  - 大谷 → おおたに → otani (shohei)
+  - 選手　→ せんしゅ　→ Player
+  - 盗めれる → ぬすめれる → could have been stolen
+  - 被害　→ ひがい　→ damage
+  - 受けた → うけた　→ suffered
+- 大リグの大谷翔平選手の通訳をしていた水原一平容疑者を銀行詐欺の疑いで訴えたと言いました。
+  - 大リグ → だい　→ major leagues
+  - 翔平　→ しょうへい
+  - 通訳　→ つうやく　→　interpreter
+  - 水原一平　→ みずはらいっぺい　→ mizuhara ippei (name)
+  - 容疑者　→ ようぎしゃ　→ suspect
+  - 銀行詐欺　→ ぎんこうさぎ　→ bank fraud
+  - 疑い　→ うたがい　→ doubt
+  - 訴え　→ うったえ　→ appeal accused of
+- xの口座から　→ こうざから　→ from x's account
+- よると　→ according to (review)
+- 違反　→ いはん　→　went against (the law)
+- 賭けをして　→ かけ　→ gambled
+- 借りていました　→ かりていました　→ borrowing
+- そして → and
+- 返す　→　かえす　→　get back
+- 為に　→ ために　→　to, for
+- 許可　→ きょか　→ allowed
+- 何も　→ nothing
+- 何も知りませんでした -> didn't know anything
+
