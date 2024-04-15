@@ -36,6 +36,10 @@ jongen - boy
 
 Jullie - you (plural)
 
+# k
+
+kindjes - children
+
 # m
 
 meisje - girl

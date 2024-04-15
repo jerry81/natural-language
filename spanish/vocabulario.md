@@ -27,3 +27,7 @@ pagar - pay
 ## s
 
 siempre - always
+
+# t
+
+la taza - cup

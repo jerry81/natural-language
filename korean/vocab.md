@@ -10,7 +10,19 @@
 
 얼마 -> "eolma" - how much
 
+얼글 -> "eolgeul" -> face
+
+# ㅓ
+
+연필 -> "yeonpil" -> pencil
+
 # ㅂ
+
+배꼽 -> baeggop -> navel
+
+버섯 -> beoseot -> mushroom
+
+비옷 -> biot -> raincoat
 
 바다 -> pada -> ocean
 
@@ -52,7 +64,13 @@
 
 침 -> "chim" -> saliva
 
+찾다 -> "chatda" -> find
+
 # ㄷ
+
+다섯 -> daseot -> five
+
+대답 -> daedap -> answer
 
 덕 -> "tog" -> virtue
 
@@ -90,6 +108,10 @@
 
 # ㅈ
 
+자전거 -> jajeongeo -> bicycle
+
+좁다 -> chopda -> narrow
+
 주말 -> "chumal" -> weekend
 
 지갑 -> "jigap" -> wallet
@@ -99,6 +121,8 @@
 잡다 -> "jabda" -> catch
 
 # ㅁ
+
+만두 -> mandu -> dumpling
 
 맵다 -> "maebda" -> spicy
 
@@ -114,27 +138,45 @@
 
 # ㄴ
 
+늦다 -> neutda -. late
+
 늑 -> "neug" -> wolf
 
-날씨 -> nalshi ->
+날씨 -> nalshi -> weather
 
 나라 -> nara -> country
 
 # ㅎ
 
+한번 -> hanbeon -> once
+
 혹시 -> "hokshi" -> if
 
 함께 -> "hamgay" -> together
 
+한국 -> hangug -> korea
+
+# ㅍ
+
+편지 -> pyeonji -> letter
+
 # ㅉ
 
-쪽 -> "joeg" -> side
+쪽 -> "jjoeg" -> side
+
+찢다 -> jjida -> tear
 
 # ㄹ
 
 로 -> "loo" -> as
 
 # ㅅ
+
+사진 -> sajin -> picture
+
+사전 -> sajeon -> dictionary
+
+숫자 -> susja -> number
 
 색 -> "sake" -> color
 

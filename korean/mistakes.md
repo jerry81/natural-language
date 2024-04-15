@@ -8,3 +8,5 @@ datda->
 - 닫다 correct
 
 - 지갑 -> jigap not jigab
+
+- 늦 -> neut not neuj

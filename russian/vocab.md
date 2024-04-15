@@ -24,6 +24,10 @@
 
 думать -> думать -> think
 
+дабро -> good
+
+дабро пожаловать -> welcome
+
 # э
 
 этика -> etika -> ethics
@@ -150,6 +154,8 @@
 
 семьсóт -> syem'sot -> 700
 
+спасибо -> spasibo -> thank you
+
 # в
 
 возьмйте -> voz'mjte -> take
@@ -223,3 +229,5 @@
 залакаем -> zalakayem -> let's cheer
 
 зовут -> zovut -> name is
+
+здесь -> zdes' -> here

@@ -10,3 +10,9 @@
 - ㅂ in front - p
 - ㅂ in back - b
 - 밥 - pab
+
+- ㅊ in front - ch
+- ㅊ in back - t
+
+- ㅍ in front "pen"
+- ㅍ in back "ap" (very short)
