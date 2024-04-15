@@ -838,6 +838,8 @@ sofort - immediately
 
 schossen - shot
 
+Der Schluss - the end
+
 schuler - student
 
 sag - say
@@ -1193,6 +1195,8 @@ zeil - goal
 zeitung - newspaper
 
 Zettel - note
+
+ziehen - to pull
 
 Zug - train
 
