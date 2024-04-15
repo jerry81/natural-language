@@ -285,6 +285,8 @@
 
 # S
 
+势必 - bound to
+
 杀戒 - bhuddist prohibition on killing
 
 社交手腕 - social skills

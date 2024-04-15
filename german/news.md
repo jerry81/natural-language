@@ -196,3 +196,20 @@ Das ist ein Gebärden-Dolmetscher
   - straf - penal
   - taten - actions
 - weil - because
+
+## 4/15
+- EU ändert Regeln für Asyl-Suchende
+  - ändert - changes
+  - Asyl - asylum
+  - Suchende - seekers
+- Die EU will viele A.S. an den Grenzen festhalten und zurückschicken
+  - Den Grenzen - the border
+  - festhalten - detain
+  - zurückschicken - send back
+- gestimmt (once again) voted for
+- full sentence
+- Das EU Parliment hat für den neuen Regalen gestimmt.
+  - literally: the parlement had for the new rule voted
+- Auch für Familien mit Kindern sollen die Regeln gelten.
+  - gelten - applies
+  - sollen - should
