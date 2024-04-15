@@ -10,3 +10,5 @@ datda->
 - 지갑 -> jigap not jigab
 
 - 늦 -> neut not neuj
+
+-
