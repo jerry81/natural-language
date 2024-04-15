@@ -176,5 +176,5 @@
 - 為に　→ ために　→　to, for
 - 許可　→ きょか　→ allowed
 - 何も　→ nothing
-- 何も知りませんでした -> didn't know anything
+- 何も知りませんでした → didn't know anything
 
