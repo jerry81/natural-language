@@ -1,7 +1,7 @@
 # ayumi hamasaki dearest
 
 - 本当に大切なもの以外全て捨ててしまえたら良いのにね
- - i twould be nice to throw away everything except what is really important
+ - it would be nice to throw away everything except what is really important
  - 捨てて　→ すてて　→ throw out
   - しまえたら - finish (conjugated to potential たら) - could finish
   - combined 捨ててしまえたら -> if one were to just throw it all away
