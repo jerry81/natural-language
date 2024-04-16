@@ -60,6 +60,8 @@
 
 이름 -> "ireum" -> name
 
+입다 -> ipda -> put on -> ipman puts on his kung fu suit
+
 # ㅊ
 
 침 -> "chim" -> saliva
@@ -92,6 +94,8 @@
 
 # ㄱ
 
+깊다 -> gipda -> deep -> guppy is deep
+
 곧 -> "kood" -> soon
 
 곰 -> "koom" -> bear
@@ -122,6 +126,8 @@
 
 # ㅁ
 
+무릎 -> mureup -> knee - greg monroes knees
+
 만두 -> mandu -> dumpling
 
 맵다 -> "maebda" -> spicy
@@ -138,7 +144,11 @@
 
 # ㄴ
 
-늦다 -> neutda -. late
+높다 -> nopda -> high
+
+눞다 -> nupda -> spread
+
+늦다 -> neutda -> late
 
 늑 -> "neug" -> wolf
 
@@ -166,11 +176,15 @@
 
 찢다 -> jjida -> tear
 
+쫓다 -> jjotda -> run
+
 # ㄹ
 
 로 -> "loo" -> as
 
 # ㅅ
+
+싶다 -> shipda -> want -> want a sip of dat?
 
 사진 -> sajin -> picture
 
