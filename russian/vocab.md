@@ -18,6 +18,8 @@
 
 читаем -> chitayem -> we read
 
+человек -> chelovek -> cello player is human
+
 # д
 
 десять -> desyat' -> ten
@@ -68,7 +70,7 @@
 
 матча -> matcha -> match
 
-маленький -> malyen'kij -> small
+маленький -> malyen'kij -> small -> dean malenko small c**k (sorry dean)
 
 мамы -> mamuiee -> moms
 
@@ -86,6 +88,8 @@
 
 народа -> naroda -> people
 
+начинать -> nachinat' -> start off -> let's start off with nachos
+
 # o
 
 он -> on -> he
@@ -99,6 +103,8 @@
 обьедать -> ob'yedat' -> overeat
 
 # п
+
+поэтому -> "pa eh tomu" -> that's why -> that's why paella sucks, tom
 
 предъява -> pred''yava - presenting
 
@@ -122,6 +128,8 @@
 
 она -> she
 
+опять -> opyat -> again -> oh, yep (again)
+
 # р
 
 работаться -> rabotat'sya -> work
@@ -135,6 +143,8 @@
 читаем -> rubyezh -> milestone
 
 # с
+
+сильный -> sil'nuieej -> strong -> anderson silva was strong.
 
 съел -> s''yel -> ate
 
@@ -168,13 +178,16 @@
 
 ваш -> vash -> you
 
+ведьма -> vedma -> witch -> vedma, edna the witch's sister
+
 # х
 
 хихикаем -> hihikayem -> giggle
 
 характер -> haraktyer -> character
 
-хорошо -> horosho -> fine
+хорошо -> horosho -> fine -> honkey dory
+
 
 # ю
 
@@ -196,6 +209,8 @@
 
 шок -> shok -> shock
 
+штаны -> shtany -> trousers -> shtanley has trousers
+
 # щ
 
 щи -> shshi -> cabbage soup
@@ -203,6 +218,8 @@
 щипцы -> shshiptsuiee -> forceps
 
 щенок -> shshenok -> puppy
+
+широкий -> shirokij -> wide -> white/wide tree (japanese)
 
 # т
 
