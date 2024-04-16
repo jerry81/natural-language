@@ -1,6 +1,6 @@
 # ayumi hamasaki dearest
 
-- 本当に大切なもの以外全て捨ててしまえたら良いのね
+- 本当に大切なもの以外全て捨ててしまえたら良いのにね
  - i twould be nice to throw away everything except what is really important
  - 捨てて　→ すてて　→ throw out
   - しまえたら - finish (conjugated to potential たら) - could finish
@@ -30,3 +30,49 @@
     - なく　negates adverbs
   - 様に　→ ように　→ manner or condition
   - keep that smile forever
+
+- 人間は皆悲しいかな
+  - are all humans ad?
+  - 人間　→ にんげん　→ but here, ひと
+  - 皆　→ みな
+  - かな　→ the regret suffix →　remember with 悲しい
+- 忘れゆく　生き物だけど
+  - we're just forgetful beings, but
+  - ゆく　→ old form of 行く → forgetting
+
+- 愛すべきもののため
+  - for something dear
+  - ため - for
+  - すべき　→　should, ought to
+
+- 愛をくれるもののため
+  - for those who give love
+  - くれる　→ to give (to the speaker)
+
+- できること
+  - what can be done
+
+- 出会ったあの頃は
+  - back when we met
+  - 頃　→ ごろ　→　around then
+  - 出会った　→ であった　→ met
+
+- 全てが不器用で
+  - completely awkward
+  - 不器用　→ ぶきよう　→ clumsy, awkward
+
+- 遠回りしたようね
+  - seems like we took the roundabout way huh?
+  - 遠回り　→ とおまわり　→ detour, roundabout way
+  - よう　suffix of verb (seems like)
+
+- 傷つけ合ったよね
+ - we hurt each other
+ - 傷つけ　→　きずつけ　→ to hurt
+ - 合った → あった　→　each other
+
+ー final verse changes
+- 遠まわりしたけどたどり著いたんだね
+  - たどり着いた　→ たどりついた　→ arrived
+  - たどり　→ to follow or trace
+  - 着いた　→ ついた　→  arrived
