@@ -28,3 +28,9 @@
 - 这个单词有很多意思。
 - この単語がたくさん意味はあります → WRONG
 - この単語には意味がたくさあります　→ correct
+
+- 她说什么了？
+- 彼女は何言っていましたか　→ WRONG
+- 彼女は何と言っていましたか　→ correct
+- notice the と
+- と　indicates reported speech
