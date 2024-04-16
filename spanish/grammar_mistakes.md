@@ -16,3 +16,7 @@
   - ¿Estás usando el teléfono? would be ok
   - usando is gerund
   - notice that noun before verb here
+
+5.  Does the girl need water?
+ - ¿Necesita la niña agua? - wrong
+ - ¿La niña necesita agua? - correct
