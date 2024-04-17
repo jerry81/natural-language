@@ -1,3 +1,7 @@
+# a
+
+Alsjeblieft - Please - Please don't bleef!
+
 # b
 
 bedankt - thank you - ty for the bedonkadonk butt
@@ -8,6 +12,8 @@ bent - (you) are
 
 brood - bread
 - pronounced "brot"
+
+Dank je wel - thank you - thank you well!
 
 # d
 
@@ -29,11 +35,21 @@ eet - eats
 
 en - and
 
+# g
+
+Goedemorgen - "hoodemorhe" - seems gs are 'h'
+
+Goedenavond - note the extra n
+
+Goedendag - good day
+
 # h
 
 het - the
 
 hij - he
+
+Hoi - hi
 
 # j
 
@@ -50,6 +66,10 @@ kindjes - children
 # m
 
 meisje - girl
+
+# n
+
+Nee - no - opposite of korean
 
 # o
 
@@ -68,6 +88,10 @@ tot ziens -> until next time, bye -> toodles
 # v
 
 vrouw - woman
+
+# w
+
+Welterusten - "velterusten" - note completely different from good morning/evening
 
 # z
 

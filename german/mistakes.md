@@ -17,3 +17,11 @@
 - Der Elefant immer wandert im Winter - wrong
 - Der Elefant wandert immer im Winter - correct
 - So, remember always hikes in german becomes hikes always
+
+- it is snowing hard
+- es ist schneit stark - wrong
+- es schneit stark - correct
+- no ist, schneien itself is a verb
+
+
+

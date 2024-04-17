@@ -24,7 +24,7 @@
 
 비옷 -> biot -> raincoat
 
-바다 -> pada -> ocean
+바다 -> pada -> ocean -> go train by the ocean, young padawan
 
 벗다 -> beotda -> take off
 
@@ -144,6 +144,8 @@
 
 # ㄴ
 
+나 -> na -> me -> nasori -> me, sori!
+
 높다 -> nopda -> high
 
 눞다 -> nupda -> spread
@@ -154,7 +156,7 @@
 
 날씨 -> nalshi -> weather
 
-나라 -> nara -> country
+나라 -> nara -> country -> nara from the african country
 
 # ㅎ
 

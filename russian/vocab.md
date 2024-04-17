@@ -32,6 +32,8 @@
 
 # э
 
+это борис -> this is boris -> eto (japanese)
+
 этика -> etika -> ethics
 
 этажный -> etazhnuieej-> storey

@@ -250,6 +250,8 @@ Durchsage - broadcast
 
 # E
 
+entfallen - cancel, omit - fallen, the movie was cancelled
+
 erfolgreich - successful
 
 egal - doesn't matter
@@ -988,6 +990,8 @@ Der Tropfen - drop
 Tschuss - bye
 
 # U
+
+überlegen - think about -> thinking over the legend
 
 um - around
 
