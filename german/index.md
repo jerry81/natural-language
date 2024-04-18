@@ -140,7 +140,7 @@ besteht darin - consists in
 
 bestenhend - consisting
 
-(beim) besuch - visiting
+(beim) besuch - visiting - "i be seeking you"
 
 betrachten - regard
 

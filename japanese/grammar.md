@@ -326,3 +326,8 @@ e.g. 好きじゃないです　-> i don't like
 
 - 行けます　vs 行きます
 - can go or can do vs will go
+
+## の　usages
+
+- possessive
+- seeking explanation, for example どうして夏は暑いのですか

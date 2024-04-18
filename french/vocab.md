@@ -20,6 +20,16 @@ un cheval - a horse
 C'est - this
 - pronunced 'say'
 
+Comment ça va? - how are you?
+
+Comment - how
+- pronounced "coomon"
+
+# ç
+
+ça - that - kind of like japanese "so"
+- ç means soft s
+
 # e
 
 es - is/are
@@ -87,3 +97,7 @@ un thé - tea
 (pronounced "tea")
 
 tu - you
+
+# v
+
+va - go

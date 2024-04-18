@@ -32,6 +32,8 @@
 
 # э
 
+ето -> this
+
 это борис -> this is boris -> eto (japanese)
 
 этика -> etika -> ethics
@@ -249,4 +251,4 @@
 
 зовут -> zovut -> name is
 
-здесь -> zdes' -> here
+здесь -> zdes' -> here  -> like german "dies" (this)

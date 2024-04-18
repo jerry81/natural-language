@@ -81,6 +81,9 @@ sap - juice\
 
 spreken - speak
 
+spijt - sorry - like german später
+- "spaet"
+
 # t
 
 tot ziens -> until next time, bye -> toodles

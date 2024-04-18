@@ -23,5 +23,6 @@
 - es schneit stark - correct
 - no ist, schneien itself is a verb
 
-
-
+- Oh is it sunny today?
+- Oh, es ist sonnig heute? - wrong
+- Oh, ist es sonnig heute? - correct
