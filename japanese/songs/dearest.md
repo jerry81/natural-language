@@ -74,5 +74,5 @@
 ー final verse changes
 - 遠まわりしたけどたどり著いたんだね
   - たどり着いた　→ たどりついた　→ arrived
-  - たどり　→ to follow or trace
+  - 辿り　→ たどり　→ to follow or trace
   - 着いた　→ ついた　→  arrived

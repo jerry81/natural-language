@@ -105,6 +105,15 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - conditional form of つける
   - つけたら
 
+- negative conditional form of 忘れ
+　- 忘れなければ
+
+- negative conditional form of 食べる
+  - 食べなければ
+
+- negative conditional of 話す
+  - 話さなければ
+
 - potential form of 鍛える
 - 鍛えられる - can strengthen
 
