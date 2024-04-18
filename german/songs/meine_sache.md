@@ -41,7 +41,7 @@
 
 - Statt der weißen Fahne, werdet ihr
   - instead of the white flag
-  - Statt - instead of
+  - Statt - instead of - city/instead of
   - Fahne - flag
   - weißen - white
 
@@ -87,7 +87,7 @@
 
 - In solchen Zeiten liebt man nicht
 - You don't love in times like this
-- solchen - such
+- solchen - such - (not to be confused with soll - should)
 
 - Hab meine Freunde verlassen
 - i have left my friends
@@ -105,7 +105,7 @@
 - zählt - counts
 
 - Auf der Suche zu sein
-- To be searching
+- To be searching for that thing
 
 - Besser als jeder Ort auf dieser Welt
 - Better than any place in the world
