@@ -1113,6 +1113,8 @@ vorstellung - performance
 
 # W
 
+wirken - to appear, to seem
+
 Eine Wahl - election
 
 wahr - true
