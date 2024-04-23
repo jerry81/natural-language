@@ -15,6 +15,9 @@ brood - bread
 
 Dank je wel - thank you - thank you well!
 
+beetje - a little - like german
+- "baityeh"
+
 # d
 
 dag - goodbye - bye dawg

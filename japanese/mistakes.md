@@ -38,3 +38,7 @@
 - たくさん仕事をして疲れました
 - 很多工作做累了 - incorrect
 - 做了很多工作累了 -correct
+
+- どうしておとといのじゅぎょうは面白かったでうか　- incorrect
+- おとといのじゅぎょうはどうして重し色かったのですか　- correct
+- note the extra の and どうして goes in front
