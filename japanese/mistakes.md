@@ -34,3 +34,7 @@
 - 彼女は何と言っていましたか　→ correct
 - notice the と
 - と　indicates reported speech
+
+- たくさん仕事をして疲れました
+- 很多工作做累了 - incorrect
+- 做了很多工作累了 -correct

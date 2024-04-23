@@ -3,9 +3,15 @@
 aime - to like
 - (pronounced "ehm")
 
+À bientôt - see you next time
+- A bientoo
+
 # b
 
 bon - good
+
+Bonne journée - Good day
+- "bon journeigh"
 
 # c
 
@@ -30,13 +36,22 @@ Comment - how
 ça - that - kind of like japanese "so"
 - ç means soft s
 
+ça va très bien - very good
+- ca va trey bien
+- tres - "trace"
+- trés - "trey" - lower sounding
+
 # e
+
+Enchanté - delighted (nice to meet you)
 
 es - is/are
 - 'eh'
 
 et - and
 - pronounced "eh"
+
+Et toi? - and you?
 
 # f
 
@@ -86,6 +101,8 @@ ours - bear
 - (r silent)
 
 # s
+
+Salut - Hi
 
 suis - am
 

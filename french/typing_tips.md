@@ -3,3 +3,4 @@
 2.  ç - option+c
 3.  Ç - option+shift+c
 4.  â - option+i
+5.  è - option+`

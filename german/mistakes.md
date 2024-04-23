@@ -26,3 +26,8 @@
 - Oh is it sunny today?
 - Oh, es ist sonnig heute? - wrong
 - Oh, ist es sonnig heute? - correct
+
+- Es regnet sehr stark? - incorrect
+- Regnet es sehr stark? - correct
+
+- Die apotheka is not a person, but is a shop/service

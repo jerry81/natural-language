@@ -146,7 +146,7 @@ betrachten - regard
 
 Betreffzeile - subject
 
-Betrieb - enterprise
+Betrieb - enterprise - an enterprise that sells bee trees
 
 betreuen - to look after
 

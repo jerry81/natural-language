@@ -35,6 +35,8 @@ eet - eats
 
 en - and
 
+Engels - English
+
 # g
 
 Goedemorgen - "hoodemorhe" - seems gs are 'h'
@@ -50,6 +52,9 @@ het - the
 hij - he
 
 Hoi - hi
+
+Hoe gaat het? - how are you - hoo ha!
+- "hoo haat et"
 
 # j
 
@@ -70,6 +75,8 @@ meisje - girl
 # n
 
 Nee - no - opposite of korean
+
+Nederlands - dutch (language)
 
 # o
 
