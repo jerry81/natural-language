@@ -6,12 +6,18 @@ aime - to like
 À bientôt - see you next time
 - A bientoo
 
+À demain - see you tomorrow
+
 # b
 
 bon - good
 
 Bonne journée - Good day
 - "bon journeigh"
+
+Bonne soirée - have a good night
+
+Bonne nuit - good night
 
 # c
 
@@ -102,7 +108,7 @@ ours - bear
 
 # s
 
-Salut - Hi
+Salut - Hi/goodbye
 
 suis - am
 

@@ -4,6 +4,8 @@
 
 aprendar - learn
 
+acá - same as aqui, but informal
+
 ## b
 
 boleta - ticket

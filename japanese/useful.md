@@ -85,3 +85,17 @@ x "y"　と言いました
   - one cannt do y to x (te form)
 
 - どうしてですか -> why
+
+- 間違えるどころだった → i nearly made a mistake
+
+- 多分居ないね → they are probably out.
+
+- 味が苦手　→ あじがにがて　→ doesn't taste good to me
+
+- 人見知りです → ひとみしりです　→ i'm shy
+
+- x 下手なんだ　→ i'm not very good at x
+
+- どうして　こうなったの？
+ - なった　→ なります to become
+ - final の　noun-izes the verb.

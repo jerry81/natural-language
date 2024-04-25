@@ -2,6 +2,8 @@
 
 ## あ
 
+味　→ あじ　→ taste
+
 愛しています　→ あいしています　→ love
 
 朝　→ あさ
@@ -195,6 +197,8 @@
 
 ## い
 
+居ない　→ いない　→ not there
+
 石川県 → いしかわけん
 
 以外　→ いがい　→ except
@@ -253,6 +257,8 @@
 # k
 
 ## か
+
+飼ってる → かってる　→ own a pet
 
 歌詞　→ かし → ge -> ka, ci -> shi
 
@@ -407,6 +413,8 @@ islam教　→ きょう
 
 ## ま
 
+間違える　→ まちがえる → make a mistake
+
 幕内　→ まくのうち　→ highest level rank in sumo
 
 窓　→ まど　→ window
@@ -519,6 +527,8 @@ islam教　→ きょう
 
 ## に
 
+苦手　→ にがて → weakness
+
 似合う　→ にあう
 
 逃げ　(にげ)
@@ -604,6 +614,8 @@ islam教　→ きょう
 山脈　 → さんみゃく
 
 ## せ
+
+説明して　→ せつめいして　→ explain
 
 製薬　→ せいやく
 
@@ -698,6 +710,8 @@ islam教　→ きょう
 # t
 
 ## た
+
+多分　→ たぶん　→  probably
 
 大変 → たいへん　→ tiring, hard
 
@@ -807,6 +821,8 @@ islam教　→ きょう
 # y
 
 ## や
+
+痩せった → やせた
 
 役所　→ やくしょ　→ authorities, govt. office
 

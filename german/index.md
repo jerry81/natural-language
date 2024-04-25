@@ -86,6 +86,10 @@ Auswirkung - effect
 
 # B
 
+Der Bekannte - acquaintence
+
+brutto - gross (sum)
+
 Der Besitzer - owner
 
 beantwortet - answered
@@ -674,7 +678,7 @@ Luft - air
 
 # M
 
-mitbewohner - roomate
+der Mitbewohner - roomate
 
 malen - to paint
 
