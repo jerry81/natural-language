@@ -42,3 +42,8 @@
 - どうしておとといのじゅぎょうは面白かったでうか　- incorrect
 - おとといのじゅぎょうはどうして重し色かったのですか　- correct
 - note the extra の and どうして goes in front
+
+- 細い道をゆっくり進みます
+- 慢慢沿着很细的路前进 wrong
+- 沿着很细的路慢慢前进 correct
+- adverb goes with the verb

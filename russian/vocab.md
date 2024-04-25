@@ -94,6 +94,8 @@
 
 начинать -> nachinat' -> start off -> let's start off with nachos
 
+не -> nye -> not
+
 # o
 
 он -> on -> he
@@ -127,6 +129,8 @@
 пас -> pas -> pass
 
 пугал -> pugal -> scared
+
+повар -> pover -> cook
 
 # о
 
@@ -232,6 +236,10 @@
 тёща -> tyoshsha
 
 труд -> trud -> work
+
+ты -> tuiee -> you
+
+тренер -> tryenyer -> coach
 
 # ц
 

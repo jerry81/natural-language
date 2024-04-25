@@ -52,6 +52,8 @@
 
 웃다 -> utda -> laugh
 
+우유 -> uyu -> milk
+
 # ㅡ
 
 음식 -> eumsik -> food

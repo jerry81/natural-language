@@ -31,3 +31,9 @@
 - Regnet es sehr stark? - correct
 
 - Die apotheka is not a person, but is a shop/service
+
+- i have a fish and a snail
+- ich habe eine Fisch und einen Schnecke - wrong
+- ich habe einen Fisch und eine Schnecke - correct
+- Schnecke feminine, Fisch masculine
+  - Fisch is masculine, so get your mind out of the gutter.
