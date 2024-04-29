@@ -48,3 +48,11 @@
 - 沿着很细的路慢慢前进 correct
 - adverb goes with the verb
 
+- ペンを書いてください　→ wrong
+- ペンを使って書いてください　→ correct
+- note two -te verbs in a row.
+
+(actually a chinese mistake)
+- 弟にあめをあげました
+- 糖果送给了滴滴 - wrong
+- 送给滴滴糖果了 - correct

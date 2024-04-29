@@ -18,6 +18,8 @@ la cartera - purse
 
 desculpa - excuse me
 
+disfruta - enjoy - the fruits
+
 ## m
 
 manzanas - apples

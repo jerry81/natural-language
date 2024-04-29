@@ -6,6 +6,8 @@
 
 악기 -> "ahgi" -> instrument
 
+아이 -> "a i" -> child -> our ayi is childish
+
 # ㅓ
 
 얼마 -> "eolma" - how much
@@ -111,6 +113,10 @@
 교수 -> "kyosu" -> professor
 
 교실 -> "kyoshil" -> classroom
+
+# ㅋ
+
+코 -> "ko" -> nose
 
 # ㅈ
 

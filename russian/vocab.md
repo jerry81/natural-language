@@ -30,6 +30,8 @@
 
 дабро пожаловать -> welcome
 
+друг -> friend -> friends are for doing drugs together
+
 # э
 
 ето -> this
@@ -43,6 +45,8 @@
 # г
 
 галета -> galyeta -> biscuit
+
+где -> gde -> where -> "god damn WHERE are my keys"
 
 # и
 
@@ -59,6 +63,8 @@
 капуста -> kapusta -> cabbage
 
 котлета -> kotlyeta -> cutlet
+
+кто -> who - also 3 letter
 
 # л
 
@@ -86,7 +92,7 @@
 
 мэр -> mer - mayor
 
-мой -> moj -> my
+мой -> moj -> my -> similar
 
 # н
 

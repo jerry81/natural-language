@@ -29,6 +29,8 @@ de - the
 doei - bye - doey eyed bye
   - pronounced "dooey"
 
+dank je wel - thank you - thank you well
+
 # e
 
 een - a
@@ -58,6 +60,8 @@ Hoi - hi
 
 Hoe gaat het? - how are you - hoo ha!
 - "hoo haat et"
+
+Het spijt me - i'm sorry
 
 # j
 
