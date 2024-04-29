@@ -22,3 +22,41 @@ Das Model von Kraftwerk
   - zeigt - shows
   - in front of the camera she shows what she can do
   - da - there, in that situation
+
+- Sie trinkt in Nachtclubs immer Sekt (korrekt)
+  - she always drinks champagne in night clubs
+
+- Und hat hier alle Männer abgecheckt
+  - and has already checked out all the men here
+  - abgecheckt - checked out
+
+- Im Scheinwerferlicht ihr junges Lächeln strahlt
+  - her young smile shines in the spotlight
+  - Scheinwerferlicht - spotlight
+  - strahlt - shines
+  - junges - young
+
+- Sie sieht gut aus und Schönheit wird bezahlt
+  - She looks good and gets paid for her beauty
+  - Schönheit - beauty
+
+- Sie stellt sich zur Schau für das Konsumprodukt
+  - she puts herself on show for the consumer products
+  - stellt - provides
+  - sich - self
+  - Schau - look
+  - zur - to
+
+- Und wird von Millionen Augen angeguckt
+  - and is looked at by a million eyes
+  - angeguckt - looked at
+
+- Ihr neues Titelbild ist einfach fabelhaft
+  - her new cover foto is simply fabulous
+  - fabelhaft - fabulous
+  - Titelbild - cover photo
+
+- Ich muss sie wieder sehen, ich weiß sie hat's geschafft
+  - i must see her again, i know she's done it?
+  - geschafft - accomplished
+  - hat's - hat es contraction
