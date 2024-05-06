@@ -37,3 +37,13 @@
 - ich habe einen Fisch und eine Schnecke - correct
 - Schnecke feminine, Fisch masculine
   - Fisch is masculine, so get your mind out of the gutter.
+
+- ich spreche perfekt Deutsche - wrong
+- ich spreche perfket Deutsch - correct
+
+- Mein Onkel habt einen Sohn - incorrect
+- Mein Onkel hat einen Sonn - correct
+
+- Ja ich spreche Schwedisch gut - incorrect
+- Ja ich spreche gut Schwedisch - correct
+- verb - adverb - noun

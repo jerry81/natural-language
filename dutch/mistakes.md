@@ -8,3 +8,7 @@
 
 - Jullie hebben een krant - correct
 - Jullie heeft een krant - incorrect
+
+- The man does not have the menu
+- De man heeft geen menu - wrong
+- De man heeft het menu niet - correct

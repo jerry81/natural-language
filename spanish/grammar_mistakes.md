@@ -20,3 +20,8 @@
 5.  Does the girl need water?
  - ¿Necesita la niña agua? - wrong
  - ¿La niña necesita agua? - correct
+
+6.  It is my favorite dance
+  - El es mi baile favorito - wrong
+  - Es mi baile favorito - correct
+  - not like german

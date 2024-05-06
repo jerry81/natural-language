@@ -50,6 +50,9 @@ Goedenavond - note the extra n
 
 Goedendag - good day
 
+geen - no, not
+- like kein
+
 # h
 
 het - the
@@ -84,6 +87,9 @@ meisje - girl
 Nee - no - opposite of korean
 
 Nederlands - dutch (language)
+
+niet - not
+- like nicht
 
 # o
 

@@ -73,6 +73,7 @@ autsch - ouch
 auf - on
 
 aufregend - exciting
+- out-raining
 
 aufgabe - task
 
