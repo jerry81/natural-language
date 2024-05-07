@@ -15,6 +15,8 @@ donne - women
 
 Gli - The (plural)
 
+il giornale - a newspaper
+
 # i
 
 io - i

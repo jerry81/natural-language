@@ -47,3 +47,11 @@
 - Ja ich spreche Schwedisch gut - incorrect
 - Ja ich spreche gut Schwedisch - correct
 - verb - adverb - noun
+
+- the doctor cooks a pizza every day
+- Die Arztin kocht Pizza jeden tag - incorrect
+- Die Arztin kocht jeden Tag eine Pizza - correct
+
+- Das Wetter ist heiß, aber du joggst heute
+- The weather is hot but are you jogging today - wrong
+- The weather is hot but you are jogging today - correct

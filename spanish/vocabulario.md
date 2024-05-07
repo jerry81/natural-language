@@ -24,6 +24,10 @@ disfruta - enjoy - the fruits
 
 manzanas - apples
 
+## n
+
+novia - girlfriend
+
 ## p
 
 pagar - pay
