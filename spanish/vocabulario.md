@@ -13,6 +13,7 @@ boleta - ticket
 ## c
 
 la cartera - purse
+- cards go into the purse
 
 ## d
 

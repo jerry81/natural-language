@@ -1,3 +1,7 @@
+# a
+
+al - to
+
 # b
 
 beve - drinks
@@ -17,7 +21,14 @@ Gli - The (plural)
 
 il giornale - a newspaper
 
+# h
+
+ho - i have
+ha - (he) has
+
 # i
+
+I - The (plural)
 
 io - i
 
@@ -31,6 +42,8 @@ lei - she
 
 loro - they
 
+Lo - the
+
 # m
 
 mangio - eats
@@ -40,6 +53,9 @@ mela - apple
 # n
 
 Noi - we
+
+nello - in
+  - Ê nello zucchero - in the sugar
 
 # r
 

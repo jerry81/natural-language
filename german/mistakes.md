@@ -55,3 +55,8 @@
 - Das Wetter ist heiß, aber du joggst heute
 - The weather is hot but are you jogging today - wrong
 - The weather is hot but you are jogging today - correct
+
+- Sorry your doctor is playing volleyball right now.
+- Es tut mir leid, dein Artz spielt Volleyball jetzt. - incorrect
+- Es tut mir leid, dein Artz spielt jetzt Volleyball. - correct
+- verb adverb noun

@@ -87,6 +87,9 @@ Auswirkung - effect
 
 # B
 
+Mein Bär - bear (Mein both masculine and neuter)
+  - meinen for accusative, nominative
+
 Der Bekannte - acquaintence
 
 brutto - gross (sum)
