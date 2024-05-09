@@ -76,6 +76,8 @@ Jullie - you (plural)
 
 # k
 
+de kip - the chicken
+
 kindjes - children
 
 # m
@@ -109,6 +111,8 @@ spijt - sorry - like german später
 tot ziens -> until next time, bye -> toodles
 
 # v
+
+de vis - the fish
 
 vrouw - woman
 

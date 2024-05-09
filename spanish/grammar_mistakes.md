@@ -25,3 +25,7 @@
   - El es mi baile favorito - wrong
   - Es mi baile favorito - correct
   - not like german
+
+7.  El niño usar la computatora - wrong
+  - El niño usa la computadora - correct
+

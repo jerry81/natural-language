@@ -11,3 +11,7 @@
 - Une femme mange un fromage. - correct
 - mange - third person singular
 - manges -> second person singular
+
+- 一个男孩吃一个牛角面包
+- un homme mange un croissant - incorrect
+- un garçon mange un croissant - correct

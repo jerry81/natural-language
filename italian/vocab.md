@@ -57,6 +57,8 @@ Noi - we
 nello - in
   - Ê nello zucchero - in the sugar
 
+nel - inside
+
 # r
 
 ragazza - girl
