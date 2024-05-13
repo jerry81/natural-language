@@ -2,6 +2,8 @@
 
 Alsjeblieft - Please - Please don't bleef!
 
+de aardbei - strawberry
+
 # b
 
 bedankt - thank you - ty for the bedonkadonk butt
@@ -17,6 +19,9 @@ Dank je wel - thank you - thank you well!
 
 beetje - a little - like german
 - "baityeh"
+
+het bord - the plate
+- plate is like a board
 
 # d
 
@@ -43,6 +48,9 @@ en - and
 Engels - English
 
 # g
+
+de groente - the vegetables
+- (the greens)
 
 Goedemorgen - "hoodemorhe" - seems gs are 'h'
 
@@ -80,7 +88,11 @@ de kip - the chicken
 
 kindjes - children
 
+de kaas - the cheese
+
 # m
+
+het middageten - lunch
 
 meisje - girl
 
@@ -97,14 +109,22 @@ niet - not
 
 of - or
 
+het ontbijt - the breakfast
+- on a bite to eat for breakfast
+
 # s
 
-sap - juice\
+sap - juice
+
+de sinaasappel -> orange
+- b/c of course apples are oranges in NL
 
 spreken - speak
 
 spijt - sorry - like german später
 - "spaet"
+
+de suiker - the sugar
 
 # t
 
@@ -125,3 +145,5 @@ Welterusten - "velterusten" - note completely different from good morning/evenin
 ze - she, they
 
 zijn - are
+
+het zout - salt

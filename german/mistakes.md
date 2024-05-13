@@ -60,3 +60,6 @@
 - Es tut mir leid, dein Artz spielt Volleyball jetzt. - incorrect
 - Es tut mir leid, dein Artz spielt jetzt Volleyball. - correct
 - verb adverb noun
+
+- mein fruenden spielen fussbal in der nähe - incorrect
+- meine fruenden spielen in der nähe fußball - correct

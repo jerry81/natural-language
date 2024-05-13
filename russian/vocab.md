@@ -4,6 +4,11 @@
 
 актёр -> actyor -> actor
 
+# е
+
+ест -> yest -> eats
+ем -> yem -> (i) eat
+
 # б
 
 бас -> bas -> bass
@@ -94,6 +99,9 @@
 
 мой -> moj -> my -> similar
 
+молоко -> moloko -> milk
+- milk with lots of os
+
 # н
 
 народа -> naroda -> people
@@ -179,6 +187,9 @@
 семьсóт -> syem'sot -> 700
 
 спасибо -> spasibo -> thank you
+
+сыр -> suieer -> cheese
+- swiss chese
 
 # в
 
@@ -266,3 +277,8 @@
 зовут -> zovut -> name is
 
 здесь -> zdes' -> here  -> like german "dies" (this)
+
+# ж
+
+жлеб -> zhlyeb -> bread
+- slop it up with bread

@@ -641,6 +641,8 @@ islam教　→ きょう
 
 ## し
 
+締めて　→ しめて　→ tie ( a necktie )
+
 宿題 → しゅくだい　→ homework
 
 消防署　→ しょうぼうしょ　→ fire department

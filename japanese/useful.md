@@ -99,3 +99,8 @@ x "y"　と言いました
 - どうして　こうなったの？
  - なった　→ なります to become
  - final の　noun-izes the verb.
+
+ - comparing
+ - AよりBの方がC.
+ - compared to A, B is C-er.
+ - スカートよりズボンの方が好きです

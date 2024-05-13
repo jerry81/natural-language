@@ -11,4 +11,6 @@ datda->
 
 - 늦 -> neut not neuj
 
--
+- eo
+- 으 -> wrong
+- 어 -> correct

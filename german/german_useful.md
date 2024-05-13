@@ -1,5 +1,7 @@
 ## useful german patterns
 
+- ___ er wirklich gern? - does he really like to ____
+
 -  __ sehr gern - i like __ very much
 
 -  __ stört mich - ___ annoys me
@@ -42,8 +44,11 @@
   - reversal
   - change
 
+
+
 ## essentials
 
 Gern geschehen - you're welcome
 
 Vielen Dank - thank you very much
+

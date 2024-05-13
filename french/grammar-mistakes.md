@@ -15,3 +15,10 @@
 - 一个男孩吃一个牛角面包
 - un homme mange un croissant - incorrect
 - un garçon mange un croissant - correct
+
+- 晚上好
+- bonne nuit - wrong
+- bonsoir - correct
+
+- tu est un chat - wrong
+- tu es un chat - correct

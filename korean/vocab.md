@@ -114,6 +114,9 @@
 
 교실 -> "kyoshil" -> classroom
 
+고양이 -> "goyangi" -> cat
+- goyangi in a sombrero
+
 # ㅋ
 
 코 -> "ko" -> nose
@@ -131,6 +134,8 @@
 잡지 -> "jabji" -> magazine
 
 잡다 -> "jabda" -> catch
+
+증국 -> "jeunggog" -> china
 
 # ㅁ
 
