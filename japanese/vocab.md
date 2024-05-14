@@ -106,6 +106,7 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 もらえます - i can get
 
 もっと - more, like "-er" suffix (comparison)
+もっと　→ more
 
 もう　→ already, now
 

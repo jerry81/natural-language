@@ -9,3 +9,5 @@
 - 男人们读一个报纸 - incorrect
 - 男人们读报纸 - correct
 
+4.  Ragazzi bevono - wrong
+- I ragazzi bevono - correct

@@ -81,6 +81,8 @@ gâteau - cake
 
 # j
 
+japonais - japanese
+
 je - I
 
 joli - pretty

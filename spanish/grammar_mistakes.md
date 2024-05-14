@@ -28,4 +28,3 @@
 
 7.  El niño usar la computatora - wrong
   - El niño usa la computadora - correct
-

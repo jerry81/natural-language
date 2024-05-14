@@ -81,6 +81,9 @@
 
 # м
 
+мясо - meat
+- at least it starts with a m, 4 letters
+
 мачта -> machta -> mast
 
 матча -> matcha -> match

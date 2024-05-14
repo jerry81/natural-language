@@ -14,3 +14,7 @@ datda->
 - eo
 - 으 -> wrong
 - 어 -> correct
+
+- 人
+- 음식 -> wrong
+- 사람 -> correct

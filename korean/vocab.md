@@ -58,7 +58,7 @@
 
 # ㅡ
 
-음식 -> eumsik -> food
+음식 -> eumsik -> food -> like cantonese, mmm sik
 
 # ㅣ
 
@@ -198,6 +198,8 @@
 로 -> "loo" -> as
 
 # ㅅ
+
+사람 -> saram - person -> like love, but you need a person to love, right
 
 싶다 -> shipda -> want -> want a sip of dat?
 

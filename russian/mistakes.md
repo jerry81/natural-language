@@ -11,3 +11,7 @@
 - целлофан
 - tsyellofan - wrong
 - tsellofan - correct
+
+- хлеб здесь
+- Where is the bread - wrong
+- Is the bread here? - correct
