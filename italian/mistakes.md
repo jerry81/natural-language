@@ -11,3 +11,7 @@
 
 4.  Ragazzi bevono - wrong
 - I ragazzi bevono - correct
+
+5.  Loro leggono un giornale
+- 他们读一个报纸 - wrong
+- 他们读一张报纸 - correct
