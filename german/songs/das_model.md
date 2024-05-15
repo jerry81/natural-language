@@ -1,7 +1,7 @@
 Das Model von Kraftwerk
 
 - Sie ist ein Model und sie sieht gut aus
-  - you are a model and you look good too
+  - she is a model and she looks good too
 
 - Ich nähm sie heut gerne mit zu mir nach Haus.
   - nähm - take (nehmen - to take), but in "hypothetical tense", formally called Subjunctive II tense.
