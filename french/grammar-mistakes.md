@@ -22,3 +22,7 @@
 
 - tu est un chat - wrong
 - tu es un chat - correct
+
+- Elle est française
+- 他是法国人吗 - wrong
+- 她是法国人吗 - correct

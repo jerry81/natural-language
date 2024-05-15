@@ -139,6 +139,8 @@
 
 # ㅁ
 
+물 -> mul -> water - mulled water
+
 무릎 -> mureup -> knee - greg monroes knees
 
 만두 -> mandu -> dumpling

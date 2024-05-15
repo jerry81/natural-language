@@ -59,6 +59,8 @@ et - and
 
 Et toi? - and you?
 
+elle - she
+
 # f
 
 une femme - a woman
@@ -66,6 +68,8 @@ une femme - a woman
 
 fils - son
 - pronounced "fees"
+
+française - French
 
 # g
 
@@ -78,6 +82,10 @@ gâteau - cake
 
 - un homme - man
 - pronounced "ohm"
+
+# i
+
+il - he
 
 # j
 

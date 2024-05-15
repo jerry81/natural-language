@@ -63,3 +63,18 @@
 
 - mein fruenden spielen fussbal in der nähe - incorrect
 - meine fruenden spielen in der nähe fußball - correct
+
+- Oh wanderst du im Winter Max! - incorrect
+- Oh du wanderst im Winter, Max - correct
+- because it is not a question
+
+- 10
+- sehn - incorrect
+- zehn - correct
+
+- My French is very good
+- Mein Französisch ist gantz gut - incorrect
+- Mein Frnazösisch ist sehr gut - correct
+
+- Sonnekreme - incorrect
+- Sonnecreme - correct

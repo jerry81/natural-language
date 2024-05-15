@@ -252,6 +252,10 @@ kerseymere - full woolen cloth
 
 # l
 
+laurel - an evergreen shrub
+  - symbolizes past achievements
+  - from laurel wreaths in ancient greek/roman times, laurels awarded to victors in athletic/military/artistic endeavors
+
 lament - to regret
 
 lineament - feature of face or body w.r.t outline

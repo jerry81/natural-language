@@ -16,3 +16,6 @@
 - No you are not an apple
 - Nee, je zijn geen appel - incorrect
 - Nee, je bent geen appel - correct
+
+- koffee - wrong
+- koffie - correct
