@@ -48,3 +48,20 @@
 - some people like giving mercy and charity to feel superior
 - read your mark: greedy->self-interest
 - want to appear noble -> charity
+
+## law 14 pose as a frield work as a spy
+- Story 1
+- Joseph Duveen - Art dealer
+- Andrew Mellon (industrialist) wouldn't buy from him.
+- be friendly to gather info
+
+- Tallyrand (again)
+- did not speak much
+- people told him lots
+
+- caveats:
+- don't be too obvious, worming too much info (especially critical) will turn them away
+- stick to friendly convo
+- probing questions reveal too much about yourself
+
+- Reversal: careful, enemy may feed lies
