@@ -65,3 +65,15 @@
 - probing questions reveal too much about yourself
 
 - Reversal: careful, enemy may feed lies
+
+## law 15 Crush your enemy completely
+
+- Story 1
+- Xiangyu and LIubang 3 kingdoms
+- Xiangyu captured liubang, showed mercy
+- liubang kills xiang in the end.
+- this chapter bores me
+
+## law 16 - Use absense to increase respect and honor
+
+-
