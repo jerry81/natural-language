@@ -1,7 +1,9 @@
 # 48 laws of power
+
 - Robert Greene
 
 ## law 13 - appeal to self-interest, not mercy
+
 - story 1
 - Castruccio Castracani
   - 14th century = 1300 - 1400
@@ -9,6 +11,7 @@
 - poggios - family that helped him rise to power
   - felt shunned
 - war between CC and P
+
   - a peaceful poggio intervenes
   - asked CC for mercy - oops
   - CC agreed, invited P family to discuss
@@ -50,6 +53,7 @@
 - want to appear noble -> charity
 
 ## law 14 pose as a frield work as a spy
+
 - Story 1
 - Joseph Duveen - Art dealer
 - Andrew Mellon (industrialist) wouldn't buy from him.
@@ -76,4 +80,39 @@
 
 ## law 16 - Use absense to increase respect and honor
 
--
+- create value through scarcity
+- too much circulation lowers the price
+
+- story: Guillaume de Balaum
+  - troubadour
+  - south france
+  - some relationship with a lady
+  - his absence  made her love him more.
+
+- laws of absence and presence
+- at first your presence is needed to establish yourself
+- do not be absent too early, or you may be forgotten
+- being absent for no reason stokes excitement even more
+- absence -> garners respect
+- presence -> garners disdain
+
+- story 2
+  - a new city state, medea (northern iran)
+  - a man rises to power - Deioces
+  - does good work as a judge
+  - suddenly retires from that work
+  - people beg him to become king
+
+- quotable:
+Love never dies of starvation, but often dies of indigeston
+
+- people respect you after you die
+- create a death before death
+
+- Econ: law of scarcity
+- by withdrawing something from the market, you create instant value for it
+- dutch made tulips hard to obtain and created tulipmania
+
+- application: get skills that are rare
+
+- reversal/caveat: only applies when you have established yourself somewhat
