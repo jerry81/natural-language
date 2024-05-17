@@ -18,3 +18,7 @@ datda->
 - 人
 - 음식 -> wrong
 - 사람 -> correct
+
+- "joong"
+- 정 - incorrect
+- 중 - correct

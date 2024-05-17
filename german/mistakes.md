@@ -78,3 +78,12 @@
 
 - Sonnekreme - incorrect
 - Sonnecreme - correct
+
+- They always jog on the weekend
+- Sie immer joggen am wochenende - incorrect
+- Sie joggen immer am wochenende - correct
+- immer goes after verb
+
+- why
+- Woher - wrong
+- Warum - correct

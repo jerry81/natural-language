@@ -127,6 +127,9 @@
 
 # п
 
+пью -> p'uieeyo - drink
+- p.u. your drink stinks
+
 поэтому -> "pa eh tomu" -> that's why -> that's why paella sucks, tom
 
 предъява -> pred''yava - presenting

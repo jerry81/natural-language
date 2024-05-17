@@ -20,6 +20,8 @@
 
 # ㅂ
 
+밥 -> bab -> rice
+
 배꼽 -> baeggop -> navel
 
 버섯 -> beoseot -> mushroom
@@ -55,6 +57,10 @@
 웃다 -> utda -> laugh
 
 우유 -> uyu -> milk
+
+# ㅗ
+
+옷 -> "ot" -> clothes
 
 # ㅡ
 
@@ -216,6 +222,9 @@
 수박 -> "subak" -> watermelon
 
 숟가락 -> sudgarag -> spoon
+
+소 -> so -> cow
+- a bovine sow
 
 # ㄸ
 
