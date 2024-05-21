@@ -19,3 +19,7 @@
 
 - koffee - wrong
 - koffie - correct
+
+- That is not sugar, it is salt
+- Dat is niet suiker, het is zout - wrong
+- Dat is geen suiker, het is zout - correct

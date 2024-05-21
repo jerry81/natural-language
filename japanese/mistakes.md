@@ -89,3 +89,8 @@
 - 小さいのを５キロください - correct
 - measurement at the end
 - のを - uber confusing
+
+- 请给我最贵的
+- 一番の高いをください　- wrong
+- 一番高いのをください - correct
+- のを - must be there "the most expensive one" the "small one"

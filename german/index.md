@@ -87,6 +87,8 @@ Auswirkung - effect
 
 # B
 
+bis - until
+
 Mein Bär - bear (Mein both masculine and neuter)
   - meinen for accusative, nominative
 
@@ -255,6 +257,8 @@ drüben - over there
 du - you
 
 Durchsage - broadcast
+
+Das geht - that works
 
 # E
 
@@ -573,6 +577,8 @@ irgendwas - anything
 
 ist - is
 
+ich freue mich - i look forward to it
+
 # J
 
 jedem - each
@@ -814,7 +820,9 @@ realistisch - realistic
 
 reargieren - react
 
-rechnung - bill, The invoice
+- Die Rechnung - bill, The invoice
+- that's right (richtig), the bill (rechnung) is here
+- ung indicates noun - indicates a process, result of a verb, always feminine
 
 reden - talk
 

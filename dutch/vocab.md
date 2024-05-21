@@ -136,6 +136,8 @@ de vis - the fish
 
 vrouw - woman
 
+vlees - meat
+
 # w
 
 Welterusten - "velterusten" - note completely different from good morning/evening

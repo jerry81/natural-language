@@ -94,3 +94,28 @@
 - Es ist sonnig heute? - wrong
 - Ist es sonnig heute? - correct
 - matches the english wording
+
+- Munich - wrong
+- München - correct
+
+- Meinen opa leibt meinen bruder - wrong
+- Mein opa leibt meinen bruder - correct
+- Mein Nominativ
+- Meinen Akkusativ (direct object)
+- Nominativ, maskulin: „Mein Vater ist Arzt.“
+- Nominativ, neutral: „Mein Auto ist rot.“
+- Akkusativ, maskulin: „Ich besuche meinen Freund.“
+- Akkusativ, neutral: „Ich fahre mein Auto.“
+
+- Das Café bis fünf geöffnet - wrong
+- Das Café ist bis fünf geöffnet - correct
+- this is not russian, be precise with the gerunds
+
+- Would you like to go to the swimming pool?
+- Möchtest du ins Schwimmbad? - wrong
+- Möchtest du ins Schwimmbad gehen? - correct
+- dont forget gehen
+
+- Peter immer frühstückt - wrong
+- Peter frühstückt immer - correct
+- immer goes after

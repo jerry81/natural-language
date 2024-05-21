@@ -129,6 +129,7 @@
 
 пью -> p'uieeyo - drink
 - p.u. your drink stinks
+пьёт - drinks ( as in александра пьёт)
 
 поэтому -> "pa eh tomu" -> that's why -> that's why paella sucks, tom
 
@@ -197,6 +198,9 @@
 сыр -> suieer -> cheese
 - swiss chese
 
+сок -> sock -> juice
+- sock juice
+
 # в
 
 возьмйте -> voz'mjte -> take
@@ -218,6 +222,9 @@
 характер -> haraktyer -> character
 
 хорошо -> horosho -> fine -> honkey dory
+
+хочу -> khochu -> want
+- "hachoo" like sneezing - remember with:  i want to sneeze
 
 
 # ю
