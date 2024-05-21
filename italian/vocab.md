@@ -6,6 +6,10 @@ al - to
 
 beve - drinks
 
+Buonasera - good evening
+
+Buongiorno - good morning
+
 # d
 
 donna - woman

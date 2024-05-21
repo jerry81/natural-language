@@ -87,3 +87,10 @@
 - why
 - Woher - wrong
 - Warum - correct
+
+- Meine Freunde wandern gern ins Österreich - wrong
+- Meine Freunde wandern gern in Österreich - correct
+
+- Es ist sonnig heute? - wrong
+- Ist es sonnig heute? - correct
+- matches the english wording
