@@ -116,3 +116,35 @@ Love never dies of starvation, but often dies of indigeston
 - application: get skills that are rare
 
 - reversal/caveat: only applies when you have established yourself somewhat
+
+## law 17 - be unpredictable and keep your opponents in suspense and in terror
+
+- story 1 - bobby fischer, boris spaasky
+- iceland match
+- fisher late, and complaining, unhinged
+- deliberate blunders
+- threw spaasky off
+
+- sudden and unpredictable is the most terrifying thing
+- earthquakes and tornadoes
+- animals set in their patterns
+- humans can alter
+
+- Mini Story 2 - fillipo Maria - Milan duke, 1400s
+- conciously did opposite of what everyone expected
+
+- works for both underdog and master
+
+- Mini story 3 - Civil war stonewall jackson (confederate (south))
+  - smaller force
+  - union had larger force
+  - he used guerilla unpredictable tactics
+
+- form of insubordination
+
+- reversal
+  - predictability is useful
+  - lull the enemy to sleep
+  - ali foreman
+  - foreman expected dancing ali
+  - ali slugged it out
