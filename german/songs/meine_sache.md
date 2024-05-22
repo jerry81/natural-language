@@ -94,7 +94,7 @@
 - verlassen - left
   - we saw lass earlier
 
-- Oder verließen die mich?
+- Oder verließen sie mich?
 - or have they left me
 
 - Ich sollte ehrlich bleiben
