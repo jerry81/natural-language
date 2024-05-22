@@ -23,3 +23,10 @@
 - That is not sugar, it is salt
 - Dat is niet suiker, het is zout - wrong
 - Dat is geen suiker, het is zout - correct
+
+- The girl speaks English
+- De meisje spreekt engels - wrong
+- Het meisje spreekt engels - correct
+- het vs de
+  - de is common gender (masculine or feminine)
+  - het is gender neuter

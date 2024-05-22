@@ -28,3 +28,13 @@
 
 7.  El niño usar la computatora - wrong
   - El niño usa la computadora - correct
+
+8.  Un diferente sombrero - wrong
+- Un sombrero diferente - correct
+- noun-adj not adj-noun (opposite english)
+
+
+9.  I want a salad
+- Yo quiero la ensalada - wrong
+- Yo quiero una ensalada - correct
+- la vs una - the vs a

@@ -10,6 +10,8 @@ Buonasera - good evening
 
 Buongiorno - good morning
 
+Buonanotte - good night
+
 # d
 
 donna - woman
@@ -63,6 +65,11 @@ nello - in
 
 nel - inside
 
+# p
+
+prego - you're welcome
+- spaghetti sauce, you're welcome
+
 # r
 
 ragazza - girl
@@ -77,6 +84,9 @@ sei - are
 sono - am, (they)are
 
 siamo - (we) are
+
+spaiacente - sorry
+- like chinese 欠
 
 # t
 

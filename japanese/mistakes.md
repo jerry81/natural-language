@@ -94,3 +94,8 @@
 - 一番の高いをください　- wrong
 - 一番高いのをください - correct
 - のを - must be there "the most expensive one" the "small one"
+
+- 正在河里游泳
+- 川で泳います　- incorrect
+- 川で泳いでいます - correct
+- improper conjugation

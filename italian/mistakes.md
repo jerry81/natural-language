@@ -15,3 +15,7 @@
 5.  Loro leggono un giornale
 - 他们读一个报纸 - wrong
 - 他们读一张报纸 - correct
+
+6.  Una mela, per favore
+- 一个苹果 - incorrect
+- 一个苹果，劳驾 - correct
