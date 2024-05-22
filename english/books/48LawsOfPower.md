@@ -148,3 +148,37 @@ Love never dies of starvation, but often dies of indigeston
   - ali foreman
   - foreman expected dancing ali
   - ali slugged it out
+
+# law 18 - avoid isolating self, no fortress
+
+- story 1 - qin shi huang
+- 220 BC
+- unified china
+- first emperor
+- late life, was isolated
+- died alone far from family
+
+- retreat in fortress
+- lose contact with those who got you to power
+- lose pulse on news and info
+
+- story 2 louis XIV
+- palace of versailles built for him
+- 1660s
+- in ritual called lever had hundreds of daily guests fill the palace
+- no privacy but knew the conspiracies against him
+
+- machiavelli says fortress is a mistake
+- easy target
+- cut off from help
+
+- power depends on socializing b/c humans are social
+
+- Cicero roman statesman: mingled a lot, rose from rags to riches
+
+- shakespeare familiarized himself with the masses
+
+- isolated artist Pontmorto drew grotesque art
+
+- reversal: sometimes isolation facilitates thought
+- machiavelli the prince was written while in exile on a farm
