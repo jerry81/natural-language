@@ -182,3 +182,47 @@ Love never dies of starvation, but often dies of indigeston
 
 - reversal: sometimes isolation facilitates thought
 - machiavelli the prince was written while in exile on a farm
+
+# 19 - know who you are dealing with
+
+- distinguish between types of people you deal with
+
+- arrogant & proud
+  - avoid this type?
+  - fragile ego
+- hopelessly insecure
+  - also fragile ego
+- suspicious
+  - easy to decieve
+  - jospeh stalin
+  - turn his suspicion against others in his camp
+- serpent w/ long memory
+  - quietly vengeful
+- plain unassuming, unintelligent
+  - may not take the bait due to not recognizing it
+
+- story 1 muhammad (shah)
+  - 13th century Afghan empire
+  - Samarkand
+  - dealings with Genghis Khan
+  - killed Khan's ambassadors
+  - Khan revenge: seizes his empire.
+
+- never insult someone until you know them better: you may be dealing with Genghis Khan
+
+- story 2
+  - 1910 Denver
+  - ring of conman
+  - picked a mark, Frank Norfleet
+  - chased entire ring for 5 years, and shut them down, despite sacrificing family and money
+
+- story 3
+- jin china's Chong er (double ears)
+- insulted by a ruler who saw his lowly appearance
+- destroyed him later
+
+- story 4
+- duveen (art dealer) again and henry ford
+- henry ford not swindled because he thought too literally and didn't see the subjectiveness of art
+
+- this law has no reversal!
