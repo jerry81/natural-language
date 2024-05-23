@@ -38,3 +38,8 @@
 - Yo quiero la ensalada - wrong
 - Yo quiero una ensalada - correct
 - la vs una - the vs a
+
+10.  David do you want to work tommorrow
+- David, ¿Quieres trabaja mañana? - wrong
+- David, ¿Quieres trabajar mañana? - correct
+- use the infinitive!
