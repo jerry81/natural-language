@@ -57,3 +57,34 @@ Nena - 99 Luftballons
 
 - Nur 99 Lufballons
 - there were just 99 balloons
+
+- end verse 1
+
+- 99 Düsenflieger
+- 99 jet aircraft
+
+- Jeder war ein grosser Krieger
+- Jeder - everyone
+- Krieger - warrior
+- everyone was a great warrior
+
+- Hielten sich für Captain Kirk
+- thought themselves captain kirk
+
+- Es gab ein großes Feuerwerk
+- there was a big firework show
+
+- Die nachbarn haben nichts gerafft
+- the neighbors didn't get it
+- raffen - understand
+- "neighbor" referred to east germany
+
+- Und fühlten sich gleich angemacht
+- and felt turned on immediately
+- angemacht - turned on
+- (more like provoked)
+- gleich - same
+
+- Dabei schoss man am Horizont Auf 99 Luftballons
+- Dabei - included, thereby
+- schoss - shot
