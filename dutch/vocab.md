@@ -36,6 +36,9 @@ doei - bye - doey eyed bye
 
 dank je wel - thank you - thank you well
 
+het dier - the animal
+- deer, also tier (german)
+
 # e
 
 een - a

@@ -30,3 +30,9 @@
 - het vs de
   - de is common gender (masculine or feminine)
   - het is gender neuter
+
+- de kaffee - incorrect
+- de koffie - correct
+
+- het kaas - incorrect
+- de kaas - correct

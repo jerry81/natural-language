@@ -26,3 +26,15 @@
 - Elle est française
 - 他是法国人吗 - wrong
 - 她是法国人吗 - correct
+
+- Tu est francais - wrong
+- Tu es francais - correct
+  - être - to be
+  - Je suis (I am)
+  - Tu es (You are - singular, informal)
+  - Il/Elle/On est (He/She/One is)
+  - Nous sommes (We are)
+  - Vous êtes (You are - plural or formal)
+  - Ils/Elles sont (They are)
+
+-

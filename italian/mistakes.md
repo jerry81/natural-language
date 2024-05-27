@@ -19,3 +19,9 @@
 6.  Una mela, per favore
 - 一个苹果 - incorrect
 - 一个苹果，劳驾 - correct
+
+7.  Raggaze - incorrect
+- ragazze - correct
+
+8.  Fervore - incorrect
+- favore - correct

@@ -119,3 +119,22 @@
 - Peter immer frühstückt - wrong
 - Peter frühstückt immer - correct
 - immer goes after
+
+- Vienna
+- Wein - wrong
+- Wien - correct
+
+- (listening)
+- Du machst gut - incorrect
+- du malst gut - correct
+
+- Wir auch brauchen einen Stuhl - incorrect
+- Wir brauchen auch einen Stuhl - correct
+- opposite of english, "need also" not "also need"
+
+- Dein Fisch brauche keinen Stuhl - incorrect
+- Dein Fisch braucht keinen Stuhl - correct
+
+- Mein Mitbewohner sind peter und tim -  incorrect
+- Meine Mitbewohner sind Peeter und Tim. - correct
+- (Meine is plural as well as feminine)

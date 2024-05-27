@@ -19,3 +19,11 @@
 - молоко и сыр
 - milk and bread - wrong
 - the milk and the cheese - correct
+
+# grammar
+
+1.  Does Alexandra drink coffee?
+- александра пью кофе - wrong
+- александра пьет кофе - correct
+- пьет - for third person
+- пью - first person
