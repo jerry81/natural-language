@@ -138,3 +138,16 @@
 - Mein Mitbewohner sind peter und tim -  incorrect
 - Meine Mitbewohner sind Peeter und Tim. - correct
 - (Meine is plural as well as feminine)
+
+- Der Bär braucht kein schrank - incorrect
+- Der Bär braucht keinen schrank - correct
+- schrank is masculine
+
+- Wo mag die Lampe - wrong
+- Wer mag die Lampe - correct
+- classic error
+
+- Der Tisch ist zu teuer, aber ich mag der stuhl. - wrong
+- Der Tisch ist zu teuer, aber ich mag den stuhl. - correct
+- receiving a verb
+

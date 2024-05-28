@@ -104,6 +104,9 @@
 
 # ㄱ
 
+개 -> gae -> dog
+- faggot dog
+
 깊다 -> gipda -> deep -> guppy is deep
 
 곧 -> "kood" -> soon

@@ -27,6 +27,9 @@
 
 # д
 
+девочка -> dyevochka -> girl
+- malchik is "boy", so ending is similar
+
 десять -> desyat' -> ten
 
 думать -> думать -> think
@@ -80,6 +83,9 @@
 лосьон -> los'ion -> lotion
 
 # м
+
+мужчина -> mushchina -> man
+- same ending as woman
 
 мясо - meat
 - at least it starts with a m, 4 letters
@@ -281,6 +287,9 @@
 
 # я
 
+яблоко -> yablaka -> apple
+- ya, i'd like a blanka
+
 я -> i am
 
 # з
@@ -295,3 +304,6 @@
 
 жлеб -> zhlyeb -> bread
 - slop it up with bread
+
+женщина -> zhenshchina - woman
+- real china

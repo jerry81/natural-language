@@ -715,6 +715,8 @@ islam教　→ きょう
 
 ## た
 
+頼み　→ たのみ　→　request
+
 多分　→ たぶん　→  probably
 
 大変 → たいへん　→ tiring, hard

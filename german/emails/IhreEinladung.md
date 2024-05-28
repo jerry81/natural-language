@@ -37,5 +37,3 @@ LOSLEGEN
 - untenkilcken - click down
 - LOSLEGEN - Getting started
 
-Hello,
-You are only

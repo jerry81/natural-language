@@ -104,3 +104,8 @@ x "y"　と言いました
  - AよりBの方がC.
  - compared to A, B is C-er.
  - スカートよりズボンの方が好きです
+
+ - i think that...
+ - ...だと思います.
+ - だ　→ です
+ - と quoting what you are thinking about.

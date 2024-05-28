@@ -2,6 +2,9 @@
 
 # A
 
+Aufzug - elevator
+- out-train
+
 Die/Der Alleinstehende - single person lit. standing alone
 
 aber - but
@@ -74,6 +77,7 @@ auf - on
 
 aufregend - exciting
 - out-raining
+- aufgeregt - excited
 
 aufgabe - task
 
@@ -851,6 +855,9 @@ Ruhe - quiet
 Die Rückkehr - return trip
 
 # S
+
+schick - stylish
+  - like "shiek"
 
 sofort - immediately
 

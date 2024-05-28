@@ -37,4 +37,6 @@
   - Vous êtes (You are - plural or formal)
   - Ils/Elles sont (They are)
 
--
+- Oui elle est coréen - incorrect
+- Oui elle est coréene - correct
+- masculine and feminine adj (korean)

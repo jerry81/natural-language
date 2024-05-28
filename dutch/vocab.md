@@ -41,6 +41,11 @@ het dier - the animal
 
 # e
 
+de eend - the duck
+- en - and
+- een - a
+- eend - duck
+
 een - a
 
 eet - eats
@@ -87,6 +92,11 @@ Jullie - you (plural)
 
 # k
 
+de koe - the cow
+
+het konijn - the rabbit
+- that canine sure looks funny
+
 de kip - the chicken
 
 kindjes - children
@@ -115,7 +125,15 @@ of - or
 het ontbijt - the breakfast
 - on a bite to eat for breakfast
 
+# p
+
+- het paard - the horse
+- like german
+
 # s
+
+de schildpad - turtle
+- a schild on a lily pad
 
 sap - juice
 
