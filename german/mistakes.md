@@ -151,3 +151,22 @@
 - Der Tisch ist zu teuer, aber ich mag den stuhl. - correct
 - receiving a verb
 
+- Du wirklich brauchst ein Hemd. - incorrect
+- Du brauchst wirklich ein Hemd. - correct
+- you need really a shirt
+
+- Oh dein Jobinterview ist am Dienstag nicht - incorrect
+- Oh dein jobinterview ist nicht am Dienstag - correct
+- same as english
+
+- ich habe eine Fisch und einen Schnecke - incorrect
+- ich habe einen Fisch und eine Schnecke - correct
+- fish are masculine, snails are feminine
+
+- Es tut mir leid, dein Artz spielt Volleyball jetzt - wrong
+- Es tut mir leid, dein Artz spielt jetzt Volleyball - correct
+- I'm sorry, your Doctor plays now volleyball
+
+- Oh, wanderst du im Winter Max - wrong
+- Oh, du wanderst im Winter Max - correct
+- same as english

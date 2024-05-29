@@ -99,3 +99,8 @@
 - 川で泳います　- incorrect
 - 川で泳いでいます - correct
 - improper conjugation
+
+- 彼に手紙を書くのが楽しいです
+- 他写信很快乐 - wrong
+- 给他写信很快乐 - correct
+- the に

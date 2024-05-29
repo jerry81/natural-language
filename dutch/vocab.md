@@ -57,6 +57,9 @@ Engels - English
 
 # g
 
+een gans - goose
+- gander
+
 de groente - the vegetables
 - (the greens)
 
@@ -70,6 +73,9 @@ geen - no, not
 - like kein
 
 # h
+
+het hert - the deer
+- hirsch
 
 het - the
 
@@ -132,6 +138,9 @@ het ontbijt - the breakfast
 
 # s
 
+het schaap - sheep
+- close enough to english
+
 de schildpad - turtle
 - a schild on a lily pad
 
@@ -151,7 +160,15 @@ de suiker - the sugar
 
 tot ziens -> until next time, bye -> toodles
 
+# u
+
+een uil - owl
+- "owl"
+
 # v
+
+het varken - the pig
+- porken
 
 de vis - the fish
 

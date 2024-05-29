@@ -27,6 +27,9 @@
 
 # д
 
+дом -> house
+- my house is the cathedral
+
 девочка -> dyevochka -> girl
 - malchik is "boy", so ending is similar
 
@@ -68,6 +71,9 @@
 
 # к
 
+кошка -> koshka -> cat
+- starts with k at least
+
 капуста -> kapusta -> cabbage
 
 котлета -> kotlyeta -> cutlet
@@ -83,6 +89,8 @@
 лосьон -> los'ion -> lotion
 
 # м
+
+мальчик -> boy
 
 мужчина -> mushchina -> man
 - same ending as woman
@@ -166,6 +174,9 @@
 опять -> opyat -> again -> oh, yep (again)
 
 # р
+
+рюкзак -> ryoukzak -> backpack
+- "rucksack"
 
 работаться -> rabotat'sya -> work
 

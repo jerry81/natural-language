@@ -984,6 +984,8 @@ sucht - seeks
 
 # T
 
+trifft - he/she/it meets
+
 Die Täter - offenders
 
 Tasche - bag

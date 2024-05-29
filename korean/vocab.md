@@ -210,6 +210,9 @@
 
 # ㅅ
 
+시계 -> sigye -> clock
+- like cantonese
+
 사람 -> saram - person -> like love, but you need a person to love, right
 
 싶다 -> shipda -> want -> want a sip of dat?
