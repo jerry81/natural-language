@@ -170,3 +170,12 @@
 - Oh, wanderst du im Winter Max - wrong
 - Oh, du wanderst im Winter Max - correct
 - same as english
+
+- Sie können die Fahrkarte stornieren im Reisezentrum - incorrect
+- Sie können die Fahrkarte im Reisezentrum stornieren - correct
+
+- Genau Sie im Reisezentrum zahlen - incorrect
+- Genau Sie zahlen im Reisezentrum - correct
+
+- Achtung, der Zug hat Verspätung fünf Minuten - incorrect
+- Achtung, der Zug hat fünf Minuten Verspätung - correct
