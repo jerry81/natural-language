@@ -179,3 +179,8 @@
 
 - Achtung, der Zug hat Verspätung fünf Minuten - incorrect
 - Achtung, der Zug hat fünf Minuten Verspätung - correct
+
+- I would like to pay seperately
+- Ich mochte getrennt zahle - incorrect
+- Ich mochte getrennt zahlen - correct
+- to pay is infinitive form

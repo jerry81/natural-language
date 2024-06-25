@@ -98,6 +98,8 @@
 
 돕다 -> topda -> help
 
+돼지 -> dwaeji -> pig
+
 # ㅌ
 
 택시 -> "taeg shi" -> taxi
@@ -125,6 +127,8 @@
 
 고양이 -> "goyangi" -> cat
 - goyangi in a sombrero
+
+과일 -> gwail -> fruit
 
 # ㅋ
 

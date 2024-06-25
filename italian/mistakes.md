@@ -25,3 +25,8 @@
 
 8.  Fervore - incorrect
 - favore - correct
+
+9.  你是个男人
+- Tu sei l'uomini - incorrect
+- Tu sei l'uomono - correct
+- plural vs singular
