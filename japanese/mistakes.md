@@ -152,3 +152,35 @@
 - 请从第八页开始复印 - correct
 - just missing words
 
+29.
+- 日本より中国方が大きいです
+- 中国和日本相比更大 - incorrect
+- 和日本相比中国更大 - correct
+- a chinese mistake
+
+30.
+- 毎日散歩するのをやめないでください
+- 请别停止每年的散步 - incorrect
+- 请别停止每天散步 - correct
+- just too many words
+
+31.
+- 周末做点什么运动吗
+- 週末はスポーツを何かやりますか　incorrect
+- 週末は何かスポーツをやりますか correct
+- weekend some sports do? - correct
+- weekend sports some do? - incorrect
+
+32.
+- 何も答えないでください
+- 请别回答什么 - incorrect
+- 请什么也别回答 - correct
+- more chinese weakness
+
+33.
+- 一番高いダイアモンドを見せてください
+- 请看最贵的钻石 - incorrect
+- 请给我看最贵的钻石 - correct
+- 見せて　-> show
+- 見て -> see
+
