@@ -43,3 +43,8 @@
 - David, ¿Quieres trabaja mañana? - wrong
 - David, ¿Quieres trabajar mañana? - correct
 - use the infinitive!
+
+11.  The boy does not need a car
+- El niño no necesita el carro - incorrect
+- El niño no necesita un carro - correct
+- A vs the

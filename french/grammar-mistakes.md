@@ -40,3 +40,11 @@
 - Oui elle est coréen - incorrect
 - Oui elle est coréene - correct
 - masculine and feminine adj (korean)
+
+- 一只猫和一个男人
+- Un chat et un garçon - incorrect
+- Un chat et un homme - correct
+
+- Paul parle français - correct
+- Paul parles français - incorrect
+- pronunciation identical but the latter is second person

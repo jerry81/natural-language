@@ -226,4 +226,51 @@
 - 我妈妈说不想我从银行借钱 - correct
 - 母　is the subject
 
-41.
+41.  八時半ちょうどです
+- 正好是八点半 - incorrect
+- 正好八点半 - correct
+- overuse of 是
+
+42.  時々一人に海で行きます - incorrect
+- 時々一人で海に行きます - correct
+
+43.  淋雨还没冲
+- シャワーはまだ浴びません - incorrect
+- シャワーはまだ浴びていません　ー correct
+- present progressive form correct here
+- "i do not take a shower yet" - first
+- "i have not taken a shower yet" - second
+
+44.  もう彼に雑誌を返しましたか？
+- 他已经把杂志还了吗 - incorrect
+- 已经把杂志还他了吗 - correct
+- 彼に　 so he is the receiver
+
+45.  请在明天之前还钱
+- 明日までお金を返してください
+- 明日までにお金を返してください
+- に　needed
+
+46.  その雑誌はまだ彼に返さないでください
+- 请先别把杂志还他 - incorrect
+- 那本杂志请先别还他 - correct
+- missing 那个
+
+47.  周末请别工作
+- 週末は仕事ないでください - incorrect
+- 週末は仕事をしないでください - correct
+- missing を,missing verb
+
+48.  星期五和朋友去卡啦OK
+- 金曜日友達とカラオケに行きます - incorrect
+- 金曜日は友達とカラオケに行きます - correct
+- missing subject marker
+
+49.  在公园和我妈妈见面了
+- 公園に母で会いました - incorrect
+- 公園で母に会いました - correct
+- で　and に
+
+50.  ありがとうございます。ごちそうさまでした
+- 谢谢你。  谢谢款待
+

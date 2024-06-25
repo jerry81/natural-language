@@ -27,3 +27,17 @@
 - александра пьет кофе - correct
 - пьет - for third person
 - пью - first person
+
+2.  Мужчина ест
+- He is eating - incorrect
+- A man is eating - correct
+- vocab unfamiliarity
+
+3.  они женщины
+- они женщина - incorrect
+- they are women
+- женщины - women
+- женщина - woman
+- она - she
+- он - he
+- они - they
