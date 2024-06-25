@@ -184,3 +184,46 @@
 - 見せて　-> show
 - 見て -> see
 
+34.
+- 兄に写真を見せます
+- 我哥哥看照片 - incorrect
+- 给我哥哥看照片 - correct
+- same as above
+
+35.
+- 盐不怎么多
+- 塩は多くないです - incorrect
+- 塩はあまり多くないです - correct
+- just missing words
+
+36.
+- 9月还很热
+- ９月まだ暑いです - incorrect
+- ９月はまだ暑いいです - correct
+- need the は
+
+37.
+- 英語の勉強をやめないでください
+- 请别停止歇息英语 - incorrect
+- 请别停止英语学习 - correct
+- more chinese issues
+
+38.
+-　川で泳ぐのをやめます
+- 在河里游泳 - incorrect
+- 停止在河里游泳 - correct
+- just missing meanings
+
+39.
+- 難しい単語は辞書で引いてください
+- 请查很难得单词 - incorrect
+- 很难得单词请用词典查 - correct
+- uncommon chinese pattern
+
+40.
+- 母は銀行からお金を借りないでほしいと思いました
+- 说不想要我妈妈那借钱 - incorrect
+- 我妈妈说不想我从银行借钱 - correct
+- 母　is the subject
+
+41.
