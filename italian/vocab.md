@@ -12,6 +12,10 @@ Buongiorno - good morning
 
 Buonanotte - good night
 
+# c
+
+una caramella - candy
+
 # d
 
 donna - woman
@@ -26,6 +30,10 @@ donne - women
 Gli - The (plural)
 
 il giornale - a newspaper
+
+# f
+
+un fagiolo - a bean
 
 # h
 

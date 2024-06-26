@@ -71,6 +71,8 @@ fils - son
 
 française - French
 
+une fåte - a holiday
+
 # g
 
 garçon - boy
