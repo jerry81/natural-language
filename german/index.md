@@ -160,7 +160,7 @@ betrachten - regard
 
 Betreffzeile - subject
 
-Betrieb - enterprise - an enterprise that sells bee trees
+der Betrieb - enterprise - an enterprise that sells bee trees
 
 betreuen - to look after
 
@@ -716,7 +716,7 @@ meist - mostly, usually
 
 meisten - majority
 
-meister - master
+der meister - master
 
 melden - announce, reports
 

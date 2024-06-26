@@ -279,3 +279,7 @@
 - 很难用中文回答 - correct
 - don't hallucinate words
 
+52.  明日、本を図書館に返します
+- 明天那本书还到图书馆 - incorrect
+- 明天把书还到图书馆 - correct
+- hallucinations
