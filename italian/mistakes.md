@@ -30,3 +30,13 @@
 - Tu sei l'uomini - incorrect
 - Tu sei l'uomono - correct
 - plural vs singular
+
+10.  我切面包
+- Io taglio pane - incorrect
+- Io taglio il pane - correct
+- "il" = "the"
+
+11.  巧克力奶油煮开了
+- La crema cioccolato bolle - incorrect
+- La crema al cioccolato bolle - correct
+- "al" = "of, with"

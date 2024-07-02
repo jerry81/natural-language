@@ -1,3 +1,10 @@
+# a
+
+## ア
+
+アイヌ　→ Ainu (people) of hokkaido
+Review
+
 # b
 
 ## ビ
@@ -29,6 +36,10 @@
 コンロ　→ stove
 
 # n
+
+## ヌ
+
+
 
 ## ニ
 

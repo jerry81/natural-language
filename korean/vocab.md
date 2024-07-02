@@ -150,6 +150,9 @@
 
 증국 -> "jeunggog" -> china
 
+쥐 -> "jwi" -> mouse
+- review
+
 # ㅁ
 
 물 -> mul -> water - mulled water

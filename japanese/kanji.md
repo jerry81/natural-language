@@ -78,6 +78,9 @@
 
 男性 → だんせい
 
+段々　→ だんだん　→ gradually
+- review
+
 ## ど
 
 胴体　 → どうたい → torso
@@ -784,6 +787,9 @@ islam教　→ きょう
 付く　 → つく
 
 使っている　 → つかっている
+
+積り　→ つもり　→ plan to
+- review, (usually not in kanji form)
 
 # u
 

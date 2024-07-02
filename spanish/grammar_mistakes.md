@@ -48,3 +48,8 @@
 - El niño no necesita el carro - incorrect
 - El niño no necesita un carro - correct
 - A vs the
+
+12.  Yes, I want to be a French teacher.
+- Si, yo quiero ser un maestro de frances - incorrect
+- Si, yo quiero ser maestro de frances - correct
+- indefinite article is ommitted when talking about professions

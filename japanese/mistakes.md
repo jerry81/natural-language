@@ -283,3 +283,12 @@
 - 明天那本书还到图书馆 - incorrect
 - 明天把书还到图书馆 - correct
 - hallucinations
+
+53.　父からサッカーのチケットをもらいました
+- 从我爸爸的到了足球的门票 - correct
+- 我爸爸的到了足球的门票 - incorrect
+- もらいました　＋　から
+
+54.　次の町まで歩きましょ
+- 到下个城镇步行吧 - incorrect
+- 步行到下个程铮吧 - correct

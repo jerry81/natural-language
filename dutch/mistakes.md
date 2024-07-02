@@ -52,3 +52,12 @@
 - En zwemmen jullie ook.
 - En jullie zwemmen ook. - correct
 - don't overcomplicate the order
+
+12.  De eenden wil de brood - incorrect
+- De eenden willen brood - correct
+
+13.  The cat is writing a book.
+- De kat schrivt een boek - incorrect
+- De kat schrijft een boek - correct
+- just spelling here
+
