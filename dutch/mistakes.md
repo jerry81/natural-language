@@ -241,3 +241,54 @@
 - They are drinking juice - incorrect
 - They are drinking glasses of juice - correct
 - missing words
+
+47.  The women read the menu.
+- De vrouw leest het menu - incorrect
+- De vrouwen lezen het menu - correct
+- plural and conjugation
+
+48.  The women drink water
+- De vrouw drinken water - incorrect
+- De vrouwen drinken water - correct
+
+49. Eten ze geen brood?
+- Are they eating bread? - incorrect
+- Do they not eat bread? - correct
+- skipped words
+
+50.  Are you drinking wtaer?
+- Drinken je water? - incorrect
+- Drinken jullie water? - correct
+- matching of verb and noun
+
+51.  the mouse
+- Het muis - incorrect
+- De muis - correct
+- so mouse is not an exception
+
+52.  Ben je geen boterham
+- Are you a sandwich - incorrect
+- Are you not a sandwich - correct
+
+53.  The girl has an orange
+- Het vrouw heeft een sinaasappel
+- Het meisje heeft een sinaasappel
+- vocab
+
+54.  Does she read the menu
+- Ze lees de menu? - incorrect
+- Leest ze het menu? - correct
+- order and conjugation
+
+55.  Lees je een menu
+- Are you reading the menu? - incorrect
+- Are you reading a menu? - correct
+- Een - a, het/de - the
+
+56.  Drinkt ze geen melk?
+- Does she drink milk? - incorrect
+- Does she not drink milk? - correct
+
+57.  Eten ze geen brood?
+- Do they eat bread? - incorrect
+- Do they not eat bread? - correct

@@ -184,3 +184,15 @@
 - Ich mochte getrennt zahle - incorrect
 - Ich mochte getrennt zahlen - correct
 - to pay is infinitive form
+
+- The next station is Bonn.
+- Der nächste banhoff ist Bonn - incorrect
+- Die nächste Station ist Bonn - correct
+- Banhoff not used directly with a city name, which is not a common way to refer to a location where one gets off in German.
+
+- A mouse, a bear
+- Eine Maus, ein Bär - correct
+- Eine Maus, ein Bier - incorrect
+- Bär mispelled
+
+
