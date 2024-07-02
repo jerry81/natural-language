@@ -96,6 +96,8 @@ jongen - boy
 
 Jullie - you (plural)
 
+jurk - dress
+
 # k
 
 de koe - the cow
@@ -135,6 +137,10 @@ het ontbijt - the breakfast
 
 - het paard - the horse
 - like german
+
+# r
+
+- het rok - the skirt
 
 # s
 
