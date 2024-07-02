@@ -162,6 +162,8 @@ spijt - sorry - like german später
 
 de suiker - the sugar
 
+staart - tail
+
 # t
 
 tot ziens -> until next time, bye -> toodles

@@ -53,3 +53,12 @@
 - Si, yo quiero ser un maestro de frances - incorrect
 - Si, yo quiero ser maestro de frances - correct
 - indefinite article is ommitted when talking about professions
+
+13.  David works in an office
+- David trabaja en la oficina - in correct
+- David trabaja en una oficina - correct
+- article matching
+
+14.  The hospital is here.
+- La hospital está aquí - incorrect
+- El hospital está aquí - correct

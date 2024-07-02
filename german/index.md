@@ -366,6 +366,8 @@ evtl - possibly
 
 # F
 
+fällt aus - cancelled
+
 Fähigkeiten - skills, cap
 
 fall - case
@@ -560,6 +562,8 @@ hier - here
 hinterlegt - stored/deposited
 
 hinzu - added
+
+Hin-und Rückfahrt - round trip
 
 hoch - high
 
@@ -956,6 +960,8 @@ sonst - otherwise
 Sorge - worry (noun)
 
 spater - later
+
+stornieren - to cancel
 
 Speicher - warehouse, storage
 

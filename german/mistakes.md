@@ -268,3 +268,20 @@
 - Would you like to pay with a credit card or cash? - correct
 - a bit anal, no?
 
+55.  Ja, meine fruenden ist Schauspielerin. - incorrect
+- Ja, meine fruendin ist Schauspielerin. - correct
+- gender agreement
+
+56.  His German is perfect
+- Ihr deutsch ist perfekt - incorrect
+- Sein Deutsch ist perfekt - correct
+- possessive conjugation
+
+57.  Yes, you are my son.
+- Ja, du bist meinen sohn - incorrect (accusative)
+- Ja du bist mein Sohn - correct (nominative)
+- the nominative vs accusative
+
+58.  I would like to play basketball at two.
+- Ich möchte um zwei spielen Basketball - incorrect
+- Ich möchte um zwei Basketball spielen - correct

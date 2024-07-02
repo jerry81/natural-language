@@ -308,3 +308,22 @@
 - 窓を開けてから料理します - correct
 - incorrect placement of を
 
+58.　多分、かれは野球が好きだと思います
+- 可能觉得他喜欢棒球 - incorrect
+- 觉得他可能喜欢棒球 - correct
+- wrong chinese
+
+59.  我讨厌跑步
+- 私は走るがの嫌いです - incorrect
+- 私は走るのが嫌いです　- correct
+- don't be dyslexic
+
+60.  我妹妹最喜欢和朋友踢足球
+- 妹は友達とサッカーするをの一番すいきです - incorrect
+- 妹は友達とサッカーをするのが一番好きです　- correct
+- placement of を
+
+61.  我不喜欢学习
+- 私は勉強するの好きではありません - incorrect
+- 私は勉強するのが好きではありません - corect
+- missing a が

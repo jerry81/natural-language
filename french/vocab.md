@@ -47,6 +47,8 @@ Comment - how
 - tres - "trace"
 - trés - "trey" - lower sounding
 
+chanson - song
+
 # e
 
 Enchanté - delighted (nice to meet you)
@@ -71,7 +73,8 @@ fils - son
 
 française - French
 
-une fåte - a holiday
+une fête - a holiday
+- "fated holiday"
 
 # g
 

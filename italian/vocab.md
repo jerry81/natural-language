@@ -4,6 +4,10 @@ al - to
 
 # b
 
+la bottiglia - the bottle
+
+il burro - the butter
+
 beve - drinks
 
 Buonasera - good evening
@@ -13,6 +17,16 @@ Buongiorno - good morning
 Buonanotte - good night
 
 # c
+
+il cibo - the food
+
+la carota - the carrot
+
+la colazione - the breakfest
+
+la ciotola - the bowl
+
+il cuoco - the cook
 
 una caramella - candy
 
@@ -66,7 +80,7 @@ mangio - eats
 
 mela - apple
 
-manzo - beef
+il manzo - beef
 
 # n
 
@@ -78,6 +92,8 @@ nello - in
 nel - inside
 
 # p
+
+il piatto - the plate
 
 prego - you're welcome
 - spaghetti sauce, you're welcome
@@ -103,6 +119,8 @@ spaiacente - sorry
 # t
 
 Tu - you
+
+la tazza - cup
 
 # u
 

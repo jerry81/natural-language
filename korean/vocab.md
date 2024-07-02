@@ -99,6 +99,7 @@
 돕다 -> topda -> help
 
 돼지 -> dwaeji -> pig
+- derpy chicken
 
 # ㅌ
 
@@ -129,6 +130,8 @@
 - goyangi in a sombrero
 
 과일 -> gwail -> fruit
+- like guava
+- guava?  eeeew
 
 # ㅋ
 
@@ -151,7 +154,7 @@
 증국 -> "jeunggog" -> china
 
 쥐 -> "jwi" -> mouse
-- review
+- review - jwi likes cheese
 
 # ㅁ
 

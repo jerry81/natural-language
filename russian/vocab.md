@@ -59,6 +59,9 @@
 
 где -> gde -> where -> "god damn WHERE are my keys"
 
+город -> gorod -> city
+- short word, city of gorod
+
 # и
 
 и -> and
@@ -68,6 +71,8 @@
 ищущий -> ishshushshij -> looking for
 
 идиотка -> idiotka -> idiot
+
+или -> or
 
 # к
 
@@ -173,6 +178,8 @@
 
 опять -> opyat -> again -> oh, yep (again)
 
+они -> they
+
 # р
 
 рюкзак -> ryoukzak -> backpack
@@ -217,6 +224,10 @@
 
 сок -> sock -> juice
 - sock juice
+
+собака -> sobaka -> dog
+- dumb baka sobaka
+- soraka has sobaka legs
 
 # в
 
