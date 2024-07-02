@@ -207,3 +207,37 @@
 - het zijn katten - correct
 - spelling
 
+40.  Zij eet brood en hij ook.
+- She eats bread and he too. - incorrect
+- She eats bread and he does too. - correct
+- i suck at english.
+
+41.  You speak Dutch but i do not
+- Je spreekt Nederlands, maar ik niet - incorrect
+- Jij spreekt Nederlands, maar ik niet - correct
+- Jij implies emphasis, je does not
+
+42.  Je eet vlees, maar geen vis.
+- You eat meal but no fish - incorrect
+- You eat meat, but no fish. - correct
+- brainless
+
+43.  The cows do not read newspapers.
+- De koen lezen geen kranten - incorrect
+- De koeien lezen geen kranten - correct
+- note how koe is pluralized
+
+44.  Ik heb een paard
+- I have the horse - incorrect
+- i have a horse - correct
+- indefinite vs definite article
+
+45.  De koeien lezen geen kranten
+- The cows do not have newspapers - incorrect
+- the cows do not read newspapers - correct
+- yes, reading helps
+
+46.  Ze drinken glazen sap
+- They are drinking juice - incorrect
+- They are drinking glasses of juice - correct
+- missing words
