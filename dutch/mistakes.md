@@ -292,3 +292,30 @@
 57.  Eten ze geen brood?
 - Do they eat bread? - incorrect
 - Do they not eat bread? - correct
+
+58.  I drink coffee and tea.
+- Ik drink kofie en te - incorrect
+- Ik drink koffie en thee - correct
+- double misspelling
+
+59.  The soup is tasty!
+- De suip is lekker - incorrect
+- De soep is lekker! - correct
+- misspelling, (gender correct)
+
+60.  De kinderen eet de passte - incorrect
+- De kinderen eten pasta - correct
+- spelling
+
+61.  I am, you are
+- Ik ben, je zijn - incorrect
+- Ik ben, je bent - correct
+
+62.  Men read the newspaper
+- de mannen lezen de krant - incorrect
+- Mannen lezen de krant - correct
+- No english article = no dutch article
+
+63.  Het konijn drinkt water -
+- That rabbit is drinking water - incorrect
+- The rabbit is drinking wtaer - correct

@@ -41,3 +41,8 @@
 - она - she
 - он - he
 - они - they
+
+4.  они женщина - incorrect
+они женщины - correct
+- they are woman - incorrect
+- they are women - correct

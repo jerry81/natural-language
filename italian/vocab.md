@@ -16,6 +16,8 @@ Buonanotte - good night
 
 una caramella - candy
 
+la cena - dinner
+
 # d
 
 donna - woman
@@ -63,6 +65,8 @@ Lo - the
 mangio - eats
 
 mela - apple
+
+manzo - beef
 
 # n
 

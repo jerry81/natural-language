@@ -40,3 +40,14 @@
 - La crema cioccolato bolle - incorrect
 - La crema al cioccolato bolle - correct
 - "al" = "of, with"
+
+12.  一块巧克力饼干
+- un biscotto al chocollato - incorrect
+- Un biscotto al cioccolato - correct
+- spelling
+
+13.  他和咖啡
+- Lui bevete caffê - incorrect
+- Lui beve caffê - correct
+- conjugation
+- bevete would be for "you"

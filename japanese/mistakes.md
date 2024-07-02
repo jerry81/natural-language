@@ -296,3 +296,15 @@
 55. カラオケで歌うのは楽しいです
 - 在卡拉OK很快乐 - incorrect
 - 在卡拉OK唱歌很快乐 - correct
+
+56. ジョンは今日学校に来ると思います
+- 觉得今天约翰来学校 - incorrect
+- 觉得约翰今天回来学校 - correct
+- chinese
+
+
+57.  打开窗户之后做饭
+- 窓開けてから料理をします - incorrect
+- 窓を開けてから料理します - correct
+- incorrect placement of を
+

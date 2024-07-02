@@ -91,6 +91,8 @@ Auswirkung - effect
 
 # B
 
+bar - cash
+
 bis - until
 
 Mein Bär - bear (Mein both masculine and neuter)
@@ -413,6 +415,8 @@ fuhrt es dazu - it leads to
 fußgängerzone - pedestrian zone
 
 # G
+
+getrennt - seperately
 
 Gern gesehen - you're welcome
 
