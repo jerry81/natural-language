@@ -160,6 +160,9 @@
 
 ## ほ
 
+微笑む　→ ほほえむ → to smile
+- hoho
+
 法律　→ ほうりつ　→ law
 
 放送　→ ほうそう　→ broadcasting
@@ -422,6 +425,8 @@ islam教　→ きょう
 
 ## ま
 
+真夏　→ まなつ　→ midsummer
+
 間違える　→ まちがえる → make a mistake
 
 幕内　→ まくのうち　→ highest level rank in sumo
@@ -535,6 +540,8 @@ islam教　→ きょう
 生　 → なま
 
 ## に
+
+憎んで → にくんで　→ to hate
 
 苦手　→ にがて → weakness
 
