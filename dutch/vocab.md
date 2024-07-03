@@ -133,6 +133,8 @@ of - or
 het ontbijt - the breakfast
 - on a bite to eat for breakfast
 
+ondergoed - underwear
+
 # p
 
 - het paard - the horse

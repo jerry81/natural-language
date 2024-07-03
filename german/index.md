@@ -366,6 +366,8 @@ evtl - possibly
 
 # F
 
+fruhstucke - (i) eat breakfast
+
 fällt aus - cancelled
 
 Fähigkeiten - skills, cap
@@ -675,6 +677,8 @@ laufzeit-fehler - runtime error
 Laut - sound
 
 leben - life
+
+lebe - (i) live
 
 leeres - empty
 

@@ -327,3 +327,18 @@
 - 私は勉強するの好きではありません - incorrect
 - 私は勉強するのが好きではありません - corect
 - missing a が
+
+62.  切手をここに貼ってください
+- 请把邮票在这里贴 - incorrect
+- 请把邮票贴在这里 - correct
+- chinese grammar
+
+63.  日本より中国の方が大きいです
+- 中国和日本相比更大 - incorrect
+- 和日本相比中国更大 - correct
+- chinese grammar
+
+64. 冬休みは日本に行ったり、韓国に行ったりします
+- 寒假去日本去韩国 - incorrect
+- 寒假去去日本去去韩国 - correct
+- so remember to use double 去
