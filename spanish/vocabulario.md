@@ -6,6 +6,8 @@ aprendar - learn
 
 acá - same as aqui, but informal
 
+el abrigo - coat
+
 ## b
 
 boleta - ticket
@@ -40,3 +42,7 @@ siempre - always
 # t
 
 la taza - cup
+
+# v
+
+el vestido - dress
