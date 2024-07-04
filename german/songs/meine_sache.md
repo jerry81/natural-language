@@ -82,6 +82,8 @@
 - widerstehen - resist
   - "wider" means against here
 
+- chorus
+
 - Ich brauche Niemanden
 - i don't need anyone
 
