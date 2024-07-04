@@ -285,3 +285,8 @@
 58.  I would like to play basketball at two.
 - Ich möchte um zwei spielen Basketball - incorrect
 - Ich möchte um zwei Basketball spielen - correct
+
+59.  I would like to eat, but I am not hungry.
+- Ich möchte essen aber ich habe keinen hongee - incorrect
+- hunger
+- spelling

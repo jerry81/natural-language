@@ -64,3 +64,7 @@
 - Une femme mangia un fromage - incorrect
 - Une femme mange un fromage - correct
 - don't mix french and italian
+
+13. Il est coréenne - incorrect
+- Il est coréen - correct
+- spelling

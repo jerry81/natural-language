@@ -51,3 +51,8 @@
 - Lui beve caffê - correct
 - conjugation
 - bevete would be for "you"
+
+14.  女孩吃面包
+- ragazza mangia il pane - incorrect
+- la ragazza mangia il pane - correct
+- even though chinese doesn't have the article, italian needs it

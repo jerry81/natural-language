@@ -319,3 +319,8 @@
 63.  Het konijn drinkt water -
 - That rabbit is drinking water - incorrect
 - The rabbit is drinking wtaer - correct
+
+64.  They see the boy
+- Ze zien de jongen niet - incorrect
+- Ze zien de jongen - correct
+- don't hallucinate words

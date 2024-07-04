@@ -88,6 +88,10 @@ Hoe gaat het? - how are you - hoo ha!
 
 Het spijt me - i'm sorry
 
+hoor - (i) hear
+- horen (they)
+- hoort (he)
+
 # j
 
 je - you
