@@ -115,6 +115,8 @@ kindjes - children
 
 de kaas - the cheese
 
+het kleedje - the dress (also)
+
 # m
 
 het middageten - lunch
@@ -173,6 +175,8 @@ staart - tail
 # t
 
 tot ziens -> until next time, bye -> toodles
+
+twee - two
 
 # u
 

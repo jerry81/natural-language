@@ -731,6 +731,7 @@ islam教　→ きょう
 
 ## た
 
+頼みました → たのみました → asked for favor
 頼み　→ たのみ　→　request
 
 多分　→ たぶん　→  probably

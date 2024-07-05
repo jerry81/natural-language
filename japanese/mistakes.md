@@ -342,3 +342,9 @@
 - 寒假去日本去韩国 - incorrect
 - 寒假去去日本去去韩国 - correct
 - so remember to use double 去
+
+65.  已经看了那本书
+- あの本はもう見てました - incorrect
+- もうその本は読みました - correct
+- 見てました isn't even a word, right
+

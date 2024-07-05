@@ -233,7 +233,8 @@
 
 숫자 -> susja -> number
 
-색 -> "sake" -> color
+색깔 -> "saegkkal" -> color
+- i guess like 色彩
 
 수박 -> "subak" -> watermelon
 
