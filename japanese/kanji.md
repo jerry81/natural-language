@@ -316,6 +316,8 @@
 
 ## け
 
+今朝　→ けさ　→　this morning
+
 建設　→ けんせつ → construction
 
 健康食品　→ けんこうしょくひん - health care products

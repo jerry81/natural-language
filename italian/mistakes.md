@@ -56,3 +56,9 @@
 - ragazza mangia il pane - incorrect
 - la ragazza mangia il pane - correct
 - even though chinese doesn't have the article, italian needs it
+
+15.  男孩吃奶酪
+- Il ragazzo mangia un formaggio - incorrect
+- Il ragazzo mangia il formaggio - correct
+- if i see "一个" then use "un"
+

@@ -72,3 +72,7 @@
 14.  un noveaux livre - wrong
 - un nouveau livre - correct
 - spelling
+
+15. un botique - incorrect
+- une botique - correct
+- botique is feminine

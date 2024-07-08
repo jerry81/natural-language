@@ -64,6 +64,8 @@
 
 # и
 
+извиниты -> excuse me
+
 и -> and
 
 играться -> igrat'sya -> play
@@ -145,6 +147,9 @@
 обьедать -> ob'yedat' -> overeat
 
 # п
+
+пожалуйста - please
+- starts with p
 
 пью -> p'uieeyo - drink
 - p.u. your drink stinks

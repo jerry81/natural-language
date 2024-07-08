@@ -138,6 +138,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 そして - and
 
+それから　→ and then
+
 ## し
 
 しゃっくりをしながら　- while hiccupping (from しゃっくりをする)

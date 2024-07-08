@@ -348,3 +348,4 @@
 - もうその本は読みました - correct
 - 見てました isn't even a word, right
 
+66.

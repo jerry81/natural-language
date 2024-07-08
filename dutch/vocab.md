@@ -57,6 +57,8 @@ Engels - English
 
 # g
 
+groot - big
+
 een gans - goose
 - gander
 

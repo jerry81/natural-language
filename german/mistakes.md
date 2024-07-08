@@ -290,3 +290,18 @@
 - Ich möchte essen aber ich habe keinen hongee - incorrect
 - hunger
 - spelling
+
+60.  Wine
+- wien - incorrect
+- wein - correct
+- vienna vs wine again
+
+61.  How is the weather today?
+- Wie ist die wetter heute? - incorrect
+- Wie ist das wetter heute?  - correct
+- weather is neuter
+
+62.  Do you love my dog?
+- Leibst du meine Hund - incorrect
+- Liebst du meine Hund - correct
+- Liebst - spelling
