@@ -43,6 +43,13 @@
 
 друг -> friend -> friends are for doing drugs together
 
+добрый вечер -> good evening
+- first part like "welcome"
+- lechers come out in the vecher
+
+добрый день -> good afternoon
+- Den during the day
+
 # э
 
 ето -> this
@@ -147,6 +154,9 @@
 обьедать -> ob'yedat' -> overeat
 
 # п
+
+пока -> bye
+- bye, poka fiend
 
 пожалуйста - please
 - starts with p
@@ -266,6 +276,8 @@
 
 # у
 
+У меня -> i have
+
 уровень -> urovyen' -> level
 
 учитель -> uchitel' -> teacher
@@ -318,6 +330,8 @@
 - ya, i'd like a blanka
 
 я -> i am
+
+
 
 # з
 

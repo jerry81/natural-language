@@ -348,4 +348,17 @@
 - もうその本は読みました - correct
 - 見てました isn't even a word, right
 
-66.
+66.  来月もまだ一緒に泳ぎまあしょう
+- 下个月一起去游泳吧 - incorrect
+- 下个月再一起去游泳吧 - correct
+- forgot about "まだ"
+
+67.  你是学生吗
+- 学生はですか - incorrect
+- 学生ですか - correct
+- not subject
+
+68.  妹は走るのがすきです
+- 妹妹喜欢散步 - incorrect
+- 我妹妹喜欢跑步 - correct
+- meaning
