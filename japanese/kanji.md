@@ -268,6 +268,8 @@
 
 ## か
 
+彼氏　→ かれし　→ boyfriend
+
 飼ってる → かってる　→ own a pet
 
 歌詞　→ かし → ge -> ka, ci -> shi
@@ -516,6 +518,8 @@ islam教　→ きょう
 
 ## な
 
+亡くなります　→ なくなります　→ to pass away
+
 無くしました → なくしました → lost it
 
 亡くなった　→ なくなった　→ died
@@ -540,6 +544,8 @@ islam教　→ きょう
 長くて (ながくて)
 
 生　 → なま
+
+何故　→ なぜ　→  why
 
 ## に
 
@@ -657,6 +663,8 @@ islam教　→ きょう
 
 選手　→ せんしゅ
 
+背　→ せ　→ physique, body
+
 ## し
 
 締めて　→ しめて　→ tie ( a necktie )
@@ -703,11 +711,15 @@ islam教　→ きょう
 
 優勝　→ ゆうしょう　→ win
 
+死に　→ しに　→ to die
+
 ## そ
+
+祖母　→ そぼ　→ grandmother (formal)
 
 創始　→ そうし
 
-祖父　 → そふ
+祖父　 → そふ　→ grandfather (formal)
 
 外付け式　 → そとづけしき　 → external
 
@@ -831,6 +843,8 @@ islam教　→ きょう
 # w
 
 ## わ
+
+若い　→ わかい　→ young
 
 変わりました　→ わかりました　→ changed
 

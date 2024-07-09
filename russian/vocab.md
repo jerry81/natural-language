@@ -85,6 +85,9 @@
 
 # к
 
+конечно -> of course
+- connect four of course
+
 кошка -> koshka -> cat
 - starts with k at least
 
@@ -244,6 +247,9 @@
 - dumb baka sobaka
 - soraka has sobaka legs
 
+спокойной ночи -> good night
+- like a mix of thank you and spanish
+
 # в
 
 возьмйте -> voz'mjte -> take
@@ -276,7 +282,13 @@
 
 # у
 
+утро -> morning
+morning, utro, utroman
+
+уже -> already
+
 У меня -> i have
+у меня уже есть -> i already have
 
 уровень -> urovyen' -> level
 
@@ -315,6 +327,9 @@
 ты -> tuiee -> you
 
 тренер -> tryenyer -> coach
+
+там -> there
+- tam is there
 
 # ц
 

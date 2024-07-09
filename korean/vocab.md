@@ -18,6 +18,11 @@
 
 연필 -> "yeonpil" -> pencil
 
+# ㅃ
+
+빵 -> bread
+- pang (badly pronounced pan)
+
 # ㅂ
 
 밥 -> bab -> rice

@@ -362,3 +362,8 @@
 - 妹妹喜欢散步 - incorrect
 - 我妹妹喜欢跑步 - correct
 - meaning
+
+69.  日本語を楽しく勉強します
+- 学习日语快乐 - incorrect
+- 快乐地学习日语 - correct
+- adverb

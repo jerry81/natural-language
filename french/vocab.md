@@ -109,6 +109,9 @@ livre - book
 mange - eats
 - pronounced "mohnja"
 
+m'appelle - to be called
+- Je m'appelle Chappelle
+
 # n
 
 nouveau - new

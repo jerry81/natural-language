@@ -16,6 +16,9 @@ Buongiorno - good morning
 
 Buonanotte - good night
 
+Un Bicchiere - a cup
+- bitch you got my cup
+
 # c
 
 il cibo - the food
