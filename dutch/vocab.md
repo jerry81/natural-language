@@ -119,6 +119,10 @@ de kaas - the cheese
 
 het kleedje - the dress (also)
 
+# l
+
+lichte - light
+
 # m
 
 het middageten - lunch
@@ -207,3 +211,7 @@ ze - she, they
 zijn - are
 
 het zout - salt
+
+zwak - weak
+
+zware - heavy

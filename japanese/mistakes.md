@@ -367,3 +367,8 @@
 - 学习日语快乐 - incorrect
 - 快乐地学习日语 - correct
 - adverb
+
+70.  不，不好
+- いいえ、元気ありせん - incorrect
+- いいえ、元気ではありません - correct
+

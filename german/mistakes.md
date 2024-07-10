@@ -305,3 +305,7 @@
 - Leibst du meine Hund - incorrect
 - Liebst du meine Hund - correct
 - Liebst - spelling
+
+63. Entschulding, wir möchten zahlen jetzt - incorrect
+- Entschuldigung, wir möchten jetzt zahlen - correct
+- jetzt before verb

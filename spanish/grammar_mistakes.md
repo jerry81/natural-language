@@ -62,3 +62,6 @@
 14.  The hospital is here.
 - La hospital está aquí - incorrect
 - El hospital está aquí - correct
+
+15.  Una hamburguesa de pescado - correct
+- una hamborgesa de pescado - incorect

@@ -324,3 +324,7 @@
 - Ze zien de jongen niet - incorrect
 - Ze zien de jongen - correct
 - don't hallucinate words
+
+65.  Girls are not weak.
+- Meisjes zijn zwak niet - incorrect
+- Meisjes zijn niet zwak - correct

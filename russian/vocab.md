@@ -27,6 +27,8 @@
 
 # д
 
+до завтра -> till tomorrow (see you tomorrow)
+
 дом -> house
 - my house is the cathedral
 
@@ -251,6 +253,8 @@
 - like a mix of thank you and spanish
 
 # в
+
+воё хорошо - Everything is fine
 
 возьмйте -> voz'mjte -> take
 
