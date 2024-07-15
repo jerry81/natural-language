@@ -123,11 +123,20 @@ het kleedje - the dress (also)
 
 lichte - light
 
+leuk - nice
+- it's leuk so i like it
+
 # m
 
 het middageten - lunch
 
 meisje - girl
+
+makkelijk - easy
+- acting is makkelijk to mads mikkelson
+
+moeilijk - difficult
+- Moe finds acting moeilijk.
 
 # n
 
@@ -146,6 +155,9 @@ het ontbijt - the breakfast
 - on a bite to eat for breakfast
 
 ondergoed - underwear
+
+oude - old
+- sounds similar
 
 # p
 

@@ -328,3 +328,9 @@
 65.  Girls are not weak.
 - Meisjes zijn zwak niet - incorrect
 - Meisjes zijn niet zwak - correct
+
+66.  The girl speaks English.
+- Het meisje sprejt engels - incorrect
+- Het meisje spreekt engels - correct
+- wrong word, wrong spelling
+

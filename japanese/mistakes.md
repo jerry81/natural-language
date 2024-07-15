@@ -372,3 +372,38 @@
 - いいえ、元気ありせん - incorrect
 - いいえ、元気ではありません - correct
 
+71.  携帯を家に忘れました
+- 收集在家里忘了 - incorrect
+- 收集旺仔家里了 - correct
+
+72.  那个小学生扮装了司机。
+- あの小学生は運転手をコスプレしました - incorrect
+- あの小学生は運転手のコスプレをしました - correct
+
+73.  原宿と池袋は大きな駅です
+- 池袋和原宿车展大 - incorrect
+- 池袋和原宿食大车站 - correct
+
+74.昨日から耳が痛くなりました
+- 从昨天耳朵开始疼 - incorrect
+- 从昨天开始耳朵痛 - correct
+
+75.  おはよう、おばさん
+- 早叔叔 - incorrect
+- 早阿姨 - correct
+
+76.  洗衣服之后去学校
+- 洗濯しますから学校に行きて - incorrect
+- 洗濯してから学校に行きます - correct
+- the te sounds more "right"
+
+77. そのダイヤモンドは祖母からもらいました
+- 这个钻石是从祖母得到 - incorrect
+- 这个钻石是从祖母哪里得到的 - correct
+- don't omit necessary words
+
+78.  先月、彼氏と別れました
+- 上个月和他男朋友分手了 - incorrect
+- 上个月， 和男朋友分手了 - correct
+- there is no 他
+

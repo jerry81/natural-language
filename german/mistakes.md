@@ -309,3 +309,8 @@
 63. Entschulding, wir möchten zahlen jetzt - incorrect
 - Entschuldigung, wir möchten jetzt zahlen - correct
 - jetzt before verb
+
+64.  I would like to visit a zoo on vacation
+- Ich möchte einen Zoo besuchen im Urlaub - incorrect
+- Ich möchte im Urlaub einen zoo besuchen - correct
+- hoist "on vaction" to front

@@ -76,3 +76,7 @@
 15. un botique - incorrect
 - une botique - correct
 - botique is feminine
+
+16. 我的巧克力还是你的奶酪
+- Mon chocolat ou ton latte - incorrect
+- Mon chocolat ou ton fromage - correct

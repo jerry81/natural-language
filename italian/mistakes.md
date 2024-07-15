@@ -62,3 +62,31 @@
 - Il ragazzo mangia il formaggio - correct
 - if i see "一个" then use "un"
 
+16. 男孩们读。  女孩们写
+- La ragazzi leggono, regazze scrivono - incorrect
+- I ragazzi leggono.  Le ragazze scrivono.
+- "I" masculine plural article
+- "Le" feminine plural article
+
+17. 女孩写给男孩
+- La ragazza scrive al l'ragazzo - incorrect
+- La ragazza scrive al ragazzo - correct
+- a = a l' contraction
+
+18.  我们是女孩
+- Noi siamo raggaze - incorrect
+- Noi siamo ragazze - correct
+- spelling again
+
+19.  女人读给男孩停
+- La donna legge al l'ragazzo - incorrect
+- La donna legge al ragazzo - correct
+
+20.  La bevata - incorrect
+- la bevanda - correct
+- meaning: the beverage
+
+21.  I ragazzi bevono l'acqua
+- 那些男孩们喝水 - incorrect
+- 男孩们喝水 - correct
+- keep it simple
