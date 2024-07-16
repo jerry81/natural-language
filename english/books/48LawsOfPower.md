@@ -226,3 +226,29 @@ Love never dies of starvation, but often dies of indigeston
 - henry ford not swindled because he thought too literally and didn't see the subjectiveness of art
 
 - this law has no reversal!
+
+# 20 - Do not commit to anyone
+
+- but be courted by all
+  - queen liz I
+    - never married, had suitors
+    - died the virgin queen
+  - do not make it seem like you like to put people off
+  - instead make it seem like you cannot commit
+  - picasso
+    - did not commit to dealer
+  - stay aloof and people come to you
+- stay above the fray
+  - while others fight, you stay back
+
+# 21 - play the sucker to catch the sucker - appear dumber than your mark
+- diamond miners dupe the financer
+- people cannot tolerate that others are smarter
+- Bismark playing cards badly
+- chinese proverb: "masquerade as swine to catch the tiger"
+
+# 22 - surrender tactic -
+-  inwardly stay firm, but outward bend
+
+- reversal - martyrdom
+  - every martyr had 1000 ineffective ones
