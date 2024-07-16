@@ -407,3 +407,6 @@
 - 上个月， 和男朋友分手了 - correct
 - there is no 他
 
+79.  猿は体を洗います
+- 洗猴子身体 - incorrect
+- 猴子洗身体 - correct
