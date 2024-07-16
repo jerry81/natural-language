@@ -252,3 +252,25 @@ Love never dies of starvation, but often dies of indigeston
 
 - reversal - martyrdom
   - every martyr had 1000 ineffective ones
+
+
+
+
+# 38 - think as you want but behave like others
+
+- Spartan Pausanias
+  - embraced persian culture, angering spartans
+
+- Tommaso Campanella
+  - tortured for heresy
+  - learned how to feign madness
+
+- 14th century jews in spain
+  - outwardly catholic
+  - privately jewish
+
+- keys
+  - tell lies and hide true feelings
+  - be all things to all people
+
+- reversal - once you have the power, you don't have to feign powerlessness anymore
