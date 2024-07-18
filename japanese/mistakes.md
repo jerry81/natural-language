@@ -410,3 +410,29 @@
 79.  猿は体を洗います
 - 洗猴子身体 - incorrect
 - 猴子洗身体 - correct
+
+80.  请给我最贵的
+- 一番高いのをください - correct
+- 一番の高いをください - incorrect
+- use of の as nominalizer
+
+81.  天空中什么正在飞?
+- 空に何が飛んでいますか - correct
+- 空に何か飛んでいますが - incorrect
+- mixed が and か
+
+82.  来年はオーストラリアに行く積りです
+- 打算明年去澳大利亚 - incorrect
+- 明年打算去澳大利亚 - correct
+- chinese & japanese same order in this case
+
+83.  母はよく黒いスカートを穿きます
+- 我妈妈穿黑色的裙子 - incorrect
+- 我妈妈经常穿黑色的裙子 - correct
+- skipped words
+
+83. 妹のカバンを持ちます
+- 我妹妹提包 - incorrect
+- 提我妹妹的包 - correct
+- 妹の　not　妹は
+

@@ -333,3 +333,8 @@
 - Het meisje sprejt engels - incorrect
 - Het meisje spreekt engels - correct
 - wrong word, wrong spelling
+
+67.  I give a book
+- Ik geve een boek - incorrect
+- Ik geef een book - correct
+- spelling

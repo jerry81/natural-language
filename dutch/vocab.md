@@ -57,6 +57,8 @@ Engels - English
 
 # g
 
+geef - (i) give
+
 groot - big
 
 een gans - goose
