@@ -65,3 +65,9 @@
 
 15.  Una hamburguesa de pescado - correct
 - una hamborgesa de pescado - incorect
+
+16.  Do you need a taxi sir?
+- Necesita usted el taxi, señor? - incorrect
+- Necesita usted un taxi, señor? - correct
+- a vs the
+

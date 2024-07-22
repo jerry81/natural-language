@@ -314,3 +314,13 @@
 - Ich möchte einen Zoo besuchen im Urlaub - incorrect
 - Ich möchte im Urlaub einen zoo besuchen - correct
 - hoist "on vaction" to front
+
+65.  Mr. Jones, you speak English and I speak German.
+- Herr Jones, Sie sprechen Englisch und deutsche. - incorrect
+- Herr Jones, Sie sprechen Englisch und ich spreche Deutsch - correct
+- just not reading carefully
+
+66.  A mother and a father
+- Eine Mutter und einen Vater - incorrect
+- Eine Mutter und ein Vater - correct
+- not accusative

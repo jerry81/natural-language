@@ -436,3 +436,18 @@
 - 提我妹妹的包 - correct
 - 妹の　not　妹は
 
+84.  今日は新しいコートを着たいです　
+- 今天穿上新的外套 - incorrect
+- 今天想穿新的外套 - correct
+- pay attention to verb conjugation
+
+85. 学校では毎日体操をします。
+- 每天做体操 - incorrect
+- 在学校每天做体操 - correct
+- not careful
+
+86.  次のオリンピックに出たいです
+- 参加下届奥运会 - incorrect
+- 想参加下届奥运会 - correct
+- たい form again
+- 届 = jie2
