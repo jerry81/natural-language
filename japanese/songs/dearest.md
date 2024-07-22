@@ -18,7 +18,7 @@
   - いつだって　→ contraction of いつしても　→ "whenever"
   - whenever i close my eyes i see your smile
 
-- いつか永遠の眠りにつく日まで
+- Ahいつか永遠の眠りにつく日まで
   - いつか　→ someday
   - 永遠　→ えいえん　→ forever
   - つく日　→ つく日 -> the day it arrives
@@ -52,7 +52,7 @@
 - できること
   - what can be done
 
-- 出会ったあの頃は
+- Ah出会ったあの頃は
   - back when we met
   - 頃　→ ごろ　→　around then
   - 出会った　→ であった　→ met
