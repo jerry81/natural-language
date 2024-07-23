@@ -324,3 +324,8 @@
 - Eine Mutter und einen Vater - incorrect
 - Eine Mutter und ein Vater - correct
 - not accusative
+
+67. My friends need a couch
+- Meinen fruende brauchen eine couch. - incorrect
+- Meine freunde brauchen eine couch - correct
+- plural possessive is feminine

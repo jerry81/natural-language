@@ -451,3 +451,23 @@
 - 想参加下届奥运会 - correct
 - たい form again
 - 届 = jie2
+
+87.  绿色的苹果不可以吃
+- 青いリンゴは食べてをいけません - incorrect
+- 青いリンゴを食べてはいけません - correct
+- the subject is "eating green apples"
+
+88.  寝る前にリンゴを食べます
+- 睡觉之前请吃苹果 - incorrect
+- 睡觉之前吃苹果 - correct
+- don't add 请 for no reason
+
+89.  夜10時前に寝てください
+- 请在10点之前睡 - incorrect
+- 请在晚上10点之前睡 - correct
+- missed 夜
+
+90.  我喜欢吃没过菜
+- 私はアメリカの料理を食べるが好きです - incorrect
+- 私はアメリカ料理を食べるのが好きです - correct
+- don't need の for 料理
