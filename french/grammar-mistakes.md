@@ -80,3 +80,7 @@
 16. 我的巧克力还是你的奶酪
 - Mon chocolat ou ton latte - incorrect
 - Mon chocolat ou ton fromage - correct
+
+17.  Un gato francais - incorrect
+- un gateau francais - correct
+- don't confuse languages

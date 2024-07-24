@@ -471,3 +471,8 @@
 - 私はアメリカの料理を食べるが好きです - incorrect
 - 私はアメリカ料理を食べるのが好きです - correct
 - don't need の for 料理
+
+91.  不想要你在家穿角色扮演的衣服
+- 家でコスプレの服を着ないでは欲しいです - incorrect
+- 家ではコスプレの服を着ないで欲しいです - correct
+- watch placement of では

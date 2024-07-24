@@ -338,3 +338,8 @@
 - Ik geve een boek - incorrect
 - Ik geef een book - correct
 - spelling
+
+68.  The woman wants a glass of wine.
+- De vrouw willt een glas wijn - incorrect
+- De vrouw wil een glas wijn - correct
+- wil must be one of those irregular verbs
