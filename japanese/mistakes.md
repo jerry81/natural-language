@@ -497,3 +497,40 @@
 96.  明天晚上十点睡觉
 - 明日夜10時には寝ます - incorrect
 - 明日は夜10時に寝ます - correct
+
+97. 这个商店里有各种各样的包
+- この店にはいろいろカバンがあります - incorrect
+- この店にはカバンがいろいろあります - correct
+- modifier comes after the object in this case
+
+98.  请在明天之前还钱
+-　明日までお金を会えしてください - incorrect
+- 明日までにお金を返してください - correct
+- need the に
+
+99.  晩ご飯は魚のお弁当にします
+- 晚饭决定要便当 - incorrect
+- 晚饭决定要鱼肉便当 - correct
+
+100.  彼女を待ったことはありません
+- 她没等过 - incorrect
+- 没等过她 - correct
+
+101.  ちょっと待ってくださいよ
+- 请稍等一下 - incorrect
+- 请稍等一下哦 - correct
+
+102.  彼女も立派ですよ
+- 她也很出色 - incorrect
+- 她也很出色哦 - correct
+
+103.  有什么问题吗
+- 質問が何かありますか - incorrect
+- 何か質問がありますか - correct
+- 何 in front
+
+104.  其他还想要什么
+- ほか何が欲しいですか - incorrect
+- ほかに何が欲しいですか - correct
+- need the に
+
