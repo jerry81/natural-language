@@ -339,3 +339,15 @@
 - Die Katze spielt Klavier nie - incorrect
 - Die Katze spielt nie Klavier - correct
 - nie before noun
+
+70. Gehen Sie dreizehn Minuten zu Fuß
+- Go thirty minutes by foot - incorrect
+- go thirteen minutes by foot - correct
+
+71.  The bus stop is on the left
+- Der bushaltestelle ist links - incorrect
+- Die Bushaltestelle ist links - correct
+
+72.  Go straight ahead and then to the left.
+- Gehen Sie geradeaus dann links - incorrect
+- Gehen Sie geradeaus und dann links - correct
