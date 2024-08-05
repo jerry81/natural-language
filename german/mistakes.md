@@ -329,3 +329,13 @@
 - Meinen fruende brauchen eine couch. - incorrect
 - Meine freunde brauchen eine couch - correct
 - plural possessive is feminine
+
+68. Would you like to eat apple cake with ice cream tomorrow?
+- Möchtest du Apfelkuchen mit Eis essen morgen - incorrect
+- Möchtest du morgen Apfelkuchen mit Eis essen - correct
+- morgen goes in front
+
+69.  The cat never plays the piano
+- Die Katze spielt Klavier nie - incorrect
+- Die Katze spielt nie Klavier - correct
+- nie before noun
