@@ -6,6 +6,9 @@ de aardbei - strawberry
 
 # b
 
+belangrijk - important
+- be LAN greek
+
 bedankt - thank you - ty for the bedonkadonk butt
 
 ben - (i) am
@@ -24,6 +27,9 @@ het bord - the plate
 - plate is like a board
 
 # d
+
+duur - expensive
+- teuer
 
 dag - goodbye - bye dawg
 
@@ -76,6 +82,9 @@ Goedendag - good day
 geen - no, not
 - like kein
 
+goedkoop - cheap
+- good coop
+
 # h
 
 het hert - the deer
@@ -122,6 +131,9 @@ de kaas - the cheese
 het kleedje - the dress (also)
 
 # l
+
+leeg - empty
+- "leeg"ed so it's empty now
 
 lichte - light
 
@@ -204,6 +216,9 @@ een uil - owl
 - "owl"
 
 # v
+
+vers - fresh
+- fresh, fersh, vers
 
 het varken - the pig
 - porken

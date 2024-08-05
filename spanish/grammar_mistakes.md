@@ -71,3 +71,6 @@
 - Necesita usted un taxi, señor? - correct
 - a vs the
 
+17.  Una camisa cómoda
+- A cheap shirt - incorrect
+- A comfortable shirt - correct
