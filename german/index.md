@@ -2,6 +2,8 @@
 
 # A
 
+auf jeden Fall - definitely
+
 Aufzug - elevator
 - out-train
 
