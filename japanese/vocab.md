@@ -93,6 +93,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 ## い
 いっぱい　- full
 
+いつでも → whenever
+
 # m
 
 ## ま

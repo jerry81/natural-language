@@ -573,3 +573,8 @@
 - 姉は雑誌をいつも読みます - incorrect
 - 姉はいつも雑誌を読みます - correct
 - いつも first
+
+114.  这个房间能睡六个人
+- この部屋は６人で寝られます - incorrect
+- この部屋では６人寝られます - correct - another では
+

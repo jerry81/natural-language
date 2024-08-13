@@ -351,3 +351,20 @@
 72.  Go straight ahead and then to the left.
 - Gehen Sie geradeaus dann links - incorrect
 - Gehen Sie geradeaus und dann links - correct
+
+73. We are celebrating my birthday at the park
+- Wir feiern meinen geburtstag in der park - incorrect
+- Wir feiern meinen geburtstag im park - correct
+- im vs. in der
+
+74.  Hello friends, can you come?
+- Hallo Fruende, kommen ihr? - incorrect
+- Hallo Fruende, kannt ihr kommen? - correct
+
+75.  Nina and Max, would you like to come?
+- Nina und Max, möchte ihr kommen? - incorrect
+- Nina und Max, möchtet ihr kommen? - correct
+
+76.  Oh das ist kuhl - incorrect
+- Oh das ist cool - correct
+- okay so cool stays in american spelling
