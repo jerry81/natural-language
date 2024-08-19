@@ -368,3 +368,46 @@
 76.  Oh das ist kuhl - incorrect
 - Oh das ist cool - correct
 - okay so cool stays in american spelling
+
+77.  They like to hike on the weekend in France
+- Sie wandern gern in france am wochenende - incorrect
+- Sie wandern gern am Wochenende in Franckreich - correct
+- france and wochenende before place
+
+78.  Hannah and Max, can you buy a gift?
+- Hannah und Max, kannst ihr ein Geschenk kaufen? - incorrect
+- Hannah und Max, könnt ihr ein Geschenk kaufen? - correct
+- könnt - not kannst
+
+79.  I love my mother.
+- Ich liebe meinem Mutter.- incorrect
+- Ich liebe meine Mutter - correct
+- not the accusative
+
+80. I need a gift for my father.
+- Ich brauche ein Geschenk für meinen Opa. - incorrect
+- Ich brauche ein Geschenk für meinen Vater - correct
+- vater, not opa
+
+81.  Can you come to the party?
+- Kannst du am party kommen? - incorrect
+- Kannst du zur Party kommen? - correct
+- zur - to the
+
+82.  Martin und Julia, kommen ihr später zur Party? - incorrect
+- Martin und Julia, kommt ihr später zur Party - correct
+
+83. Thank you, I can come on the seventh of July
+- Danke ich kann am siebten April kommen - incorrect
+- Danke, ich kann am siebten Juli kommen - correct
+ - oops
+
+84.  It is windy today.
+- Ist es windig heute - incorrect
+- Es ist windig heute - correct
+- just match english
+
+85.  It is very cold in the winter.
+- Es ist sehr kalt in winter - incorrect
+- Es ist sehr kalt im Winter - correct
+- im - in der
