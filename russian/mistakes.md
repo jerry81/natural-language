@@ -56,3 +56,7 @@
 - No the cat is not eating bread - incorrect
 - no the cat is not eating cheese - correct
 - vocab
+
+7.  марк пьёт сок?
+- Does Mark want juice? - incorrect
+- Does Mark drink juice? - correct

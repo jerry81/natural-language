@@ -411,3 +411,10 @@
 - Es ist sehr kalt in winter - incorrect
 - Es ist sehr kalt im Winter - correct
 - im - in der
+
+86.  Der museum - incorrect
+- das museum - correct
+
+87.  My father would like to grill every day
+- Mein Vater möchte grillen jeden Tag - incorrect
+- Mein Vater möchte jeden Tag grillen. - correct

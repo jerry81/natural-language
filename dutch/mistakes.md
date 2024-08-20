@@ -343,3 +343,8 @@
 - De vrouw willt een glas wijn - incorrect
 - De vrouw wil een glas wijn - correct
 - wil must be one of those irregular verbs
+
+69.  the shirt
+- de hemd - incorrect
+- het hemd - correct
+- shirt is neuter!

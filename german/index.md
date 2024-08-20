@@ -689,6 +689,7 @@ ledig - single (not married)
 Lehergang - course
 
 leider - unfortunately
+- related, es tut mir leid
 
 leise - soft
 
