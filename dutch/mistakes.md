@@ -348,3 +348,7 @@
 - de hemd - incorrect
 - het hemd - correct
 - shirt is neuter!
+
+70.  Ik loop niet, ik schriv - incorrect
+- Ik loop niet, ik schrijf - correct
+- spelling

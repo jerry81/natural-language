@@ -117,6 +117,8 @@ jurk - dress
 
 # k
 
+de kleren - the clothes
+
 de koe - the cow
 
 het konijn - the rabbit
@@ -154,6 +156,8 @@ moeilijk - difficult
 
 # n
 
+net zoals - just like
+
 Nee - no - opposite of korean
 
 Nederlands - dutch (language)
@@ -183,6 +187,8 @@ oude - old
 - het rok - the skirt
 
 # s
+
+schoon - clean
 
 het schaap - sheep
 - close enough to english

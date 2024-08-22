@@ -577,3 +577,13 @@
 114.  这个房间能睡六个人
 - この部屋は６人で寝られます - incorrect
 - この部屋では６人寝られます - correct - another では
+
+115. 兄に写真を見せます
+- 我哥哥看照片 - incorrect
+- 给我哥哥看照片 - correct
+- 見せ、兄に - should be giveaways
+
+116. 猪肉和蔬菜都经常吃
+- 豚肉と野菜もよく食べます - incorrect
+- 豚肉も野菜もよく食べ明日 - correct
+- use も here, means "and"

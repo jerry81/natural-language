@@ -418,3 +418,12 @@
 87.  My father would like to grill every day
 - Mein Vater möchte grillen jeden Tag - incorrect
 - Mein Vater möchte jeden Tag grillen. - correct
+
+88. Ich will am Wochenende Fußball spiele - incorrect
+- Ich will am Wochenende Fußball spielen - correct
+- infinitive!
+
+89. My brother sometimes dances at home.
+- Mein Bruder tanzt machmal zu hause - incorrect
+- Mein Bruder tanzt manchmal zu Hause - correct
+- spelling dicks!

@@ -74,3 +74,8 @@
 17.  Una camisa cómoda
 - A cheap shirt - incorrect
 - A comfortable shirt - correct
+
+18. Is it your favorite movie?
+- ¿Es él tu pelicula favorita? - incorrect
+- ¿Es tu pelicula favorita? - correct
+- "it" is implied
