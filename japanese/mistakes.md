@@ -587,3 +587,11 @@
 - 豚肉と野菜もよく食べます - incorrect
 - 豚肉も野菜もよく食べ明日 - correct
 - use も here, means "and"
+
+117.  是一万一千一百元
+- 一万千百円はです - incorrect
+- 一万千百円です - correct
+
+118.  まだ直すことができます
+- 还不能修 - incorrect
+- 还能修 - correct

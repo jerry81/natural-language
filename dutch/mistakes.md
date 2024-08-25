@@ -352,3 +352,10 @@
 70.  Ik loop niet, ik schriv - incorrect
 - Ik loop niet, ik schrijf - correct
 - spelling
+
+71.  Tomato - incorrect
+- tomaat - correct
+
+72.  the suit
+- de zakko - incorrect
+- het pak - correct

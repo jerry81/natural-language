@@ -60,3 +60,6 @@
 7.  марк пьёт сок?
 - Does Mark want juice? - incorrect
 - Does Mark drink juice? - correct
+
+8.  он нет ест - incorrect
+- он не ест - correct

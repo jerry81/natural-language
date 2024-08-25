@@ -12,14 +12,28 @@
 
 ड - da
 
+# e
+
+ए - e
+- a in "cake"
+
 # i
 
 इ - i
 
+# j
+
+ज - ja
+- ju in "jug"
+
 # k
 
 क - ka - "guh"
+
 ख - kha - "kuh"
+
+का - kaa
+- co in "scot"
 
 # l
 
@@ -36,3 +50,8 @@
 # s
 
 स - sa
+
+# v
+
+व - va
+- vu in "vulture"

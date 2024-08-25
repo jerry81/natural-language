@@ -427,3 +427,25 @@
 - Mein Bruder tanzt machmal zu hause - incorrect
 - Mein Bruder tanzt manchmal zu Hause - correct
 - spelling dicks!
+
+90.  Can you dance?
+- Kannst du tanzst? - incorrect
+- Kannst du tanzen? - correct
+
+91.  Meine Freunde tanzt gern. - incorecxt
+- Meine Freunde tanzen gern - correct
+
+92. No, I don't like the dress.
+- Nein, ich mag nicht das kleid - incorrect
+- Nein, ich mag das Kleid nicht - correct
+
+93.  Toilleten - incorrect
+- Toiletten - correct
+
+94.  Why don't you like to listen to podcasts?
+- Warum nicht hörst du gern Podcasts? - incorrect
+- Warum hörst du nicht gern Podcasts? - correct
+
+95.  The witch is my friend
+- Die Hexe ist mein Fruend - incorrect
+- Die Hexe ist meine Fruendin - correct
