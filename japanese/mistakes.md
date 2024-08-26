@@ -595,3 +595,17 @@
 118.  まだ直すことができます
 - 还不能修 - incorrect
 - 还能修 - correct
+
+119. ケーキを食べてみてください
+- 请试一下吃蛋糕 - incorrect
+- 请试着吃一下蛋糕 - correct
+- TIL: -みて　form - try to
+
+120.  原宿にもメイドカッフェがあります
+- 原宿有女仆咖啡店 - incorrect
+- 原宿也有女仆咖啡店 - correct
+- にも　- common construct
+
+121.  キリンと猿の両方が好きです
+- 长颈鹿和猴子都喜欢 - incorrect
+- 长颈鹿和猴子两个都喜欢 - correct

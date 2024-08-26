@@ -449,3 +449,8 @@
 95.  The witch is my friend
 - Die Hexe ist mein Fruend - incorrect
 - Die Hexe ist meine Fruendin - correct
+
+96.  The witch likes to camp in the forest
+- Die Hexe im Wald campt gern. - incorrect
+- Die Hexe campt gern im Wald. - correct
+- time, action, place
