@@ -90,3 +90,7 @@
 - 那些男孩们喝水 - incorrect
 - 男孩们喝水 - correct
 - keep it simple
+
+22.  他们读一本书.
+- Voi legete un libro - incorrect
+- Loro leggono un libro - correct
