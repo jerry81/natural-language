@@ -94,3 +94,12 @@
 22.  他们读一本书.
 - Voi legete un libro - incorrect
 - Loro leggono un libro - correct
+
+23.  I gatti mangiano pesci - incorrect
+- I gatti mangiano i pesci - correct
+- i is the masculine plural article
+- le is the femininne plural
+
+24.  他们读一本书
+- Voi legete un libro - incorrect
+- Loro leggono un libro - correct

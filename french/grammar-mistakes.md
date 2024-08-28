@@ -87,3 +87,7 @@
 
 18.  noveuax - incorrect
 - nouveau - correct
+
+19.  对不起，你说法语吗
+- Excuse-moi, tu parle français? - incorrect
+- Excuse-moi, tu parles français? - correct

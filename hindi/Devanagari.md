@@ -21,6 +21,9 @@
 
 इ - i
 
+ई - ii
+- "i" of "taxi"
+
 # j
 
 ज - ja
@@ -35,6 +38,9 @@
 का - kaa
 - co in "scot"
 
+के - ke
+- like "ka" in "skate"
+
 # l
 
 ल - la
@@ -47,9 +53,17 @@
 
 न - na
 
+# r
+
+र - ra
+- "ru" of "run"
+
 # s
 
 स - sa
+
+श - sha
+- like "shu" in "shun"
 
 # v
 

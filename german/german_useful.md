@@ -44,6 +44,18 @@
   - reversal
   - change
 
+# tips
+
+- words that describe when something happens goes right after the verb
+- Ich schlafe nachts nicht
+  - i don't sleep at night.
+
+# grammar
+- informal commands
+  - Geh zum Arzt
+    - go to the doctor - note it is not gehst
+  - Iss Suppe
+    - drink soup - not isst (essen is irregular)
 
 
 ## essentials

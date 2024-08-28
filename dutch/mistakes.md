@@ -359,3 +359,11 @@
 72.  the suit
 - de zakko - incorrect
 - het pak - correct
+
+73.  You play and we sleep.
+- jullie spelen en wij schlapen.  - incorrect
+- Jij speelt en wij slapen - correct
+
+74.  Don't eat too much schnitzel, Lisa!
+- Iss zu viel Schnitzel Lisa - incorrect
+- Iss nicht zu viel Schnitzel Lisa - correct
