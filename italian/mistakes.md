@@ -103,3 +103,7 @@
 24.  他们读一本书
 - Voi legete un libro - incorrect
 - Loro leggono un libro - correct
+
+25.  啤酒是一种饮料
+- Birra ê una bevanda - incorrect
+- La birra ê una bevanda - correct

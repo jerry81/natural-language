@@ -52,6 +52,8 @@
 добрый день -> good afternoon
 - Den during the day
 
+доброе утро -> good morning
+
 # э
 
 ето -> this
@@ -74,6 +76,7 @@
 # и
 
 извиниты -> excuse me
+-> is vinnie yeh
 
 и -> and
 
@@ -267,6 +270,9 @@
 ваш -> vash -> you
 
 ведьма -> vedma -> witch -> vedma, edna the witch's sister
+
+вечер -> night
+- the lechers come out at вечер
 
 # х
 

@@ -63,3 +63,7 @@
 
 8.  он нет ест - incorrect
 - он не ест - correct
+
+9.  Thank you, I already have tea.
+- спасибо у меня уже чай - incorect
+- спасибо у меня уже есть чай - correct

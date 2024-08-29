@@ -454,3 +454,20 @@
 - Die Hexe im Wald campt gern. - incorrect
 - Die Hexe campt gern im Wald. - correct
 - time, action, place
+
+97.  Who likes the lamp?
+- Wer magt der lamp?  - incorrect
+- Wer mag die Lampe? - correct
+
+98.  You don't like my roomate.
+- Magst du mein mitbewohner nicht. - incorrect
+- Du magst meinen Mitbewohner nicht. - correct
+- use the accusative, also du in front for statement, verb first for questions
+
+99.  I want to play guitar today.
+- Ich will heute guitar spielen - incorrect
+- Ich will heute Gitarre spielen - correct
+
+100.  I need a blouse in size small.
+- Ich brauche eine bluse Größe S - incorrect
+- Ich brauche eine bluse in Größe S - correct
