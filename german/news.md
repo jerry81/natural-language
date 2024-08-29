@@ -213,3 +213,33 @@ Das ist ein Gebärden-Dolmetscher
 - Auch für Familien mit Kindern sollen die Regeln gelten.
   - gelten - applies
   - sollen - should
+
+## 8/29
+- US-Demokraten feiern Kamala Harris
+  - US democrats celebrate KH
+- In der stadt Chicago in dem Land USA hat der Parteitag von der Demokratischen Partei stattgefunden.
+  - stattgefunden - took place
+  - Parteitag - convention
+- Die Partei hat Kamala Harris offiziell als Kandidatin für die Praäsidentschafts-Wahl im November nominiert.
+  - Wahl - election
+- Auch Ex-Präsident Obama hat gesprochen
+
+- Die Nominierung von Harris war eher symbolisch
+  - eher - more
+
+- Denn die Delegierten von der Partei haben vorher schon online für Harris gestimmt.
+  - Denn - because
+  - vorher - previously
+  - gestimmt - voted
+
+- Der Parteitag war vor allem eine große Feier für Kamala Harris.
+  - vor allem - above all
+
+- Viele bekannte Politikerinnen und Politiker von der Demokratischen Partei haben dazu aufgerufen, sie zu wählen
+  - bekannte - acquaintance
+  - dazu - in addition
+  - aufgerufen - called for
+
+- Zum Beispiel der frühere US-Präs....
+  - Zum Beispiel - for exmaple
+  - frühere - former/earlier
