@@ -471,3 +471,39 @@
 100.  I need a blouse in size small.
 - Ich brauche eine bluse Größe S - incorrect
 - Ich brauche eine bluse in Größe S - correct
+
+101.  A water for the dog, and for you?
+- Ein Wasser für den Hund, und für dir? - incorrect
+- Ein Wasser für den Hund, und für Sie? - correct
+- subject, not object form
+
+102.  I eat a salad with cheese every day.
+- Ich esse einen Salat mit Käse jeden Tag. - incorrect
+- Ich esse jeden Tag einen Salat mit Käse. - correct
+- hoist the time right after the verb.
+
+103.  Don't each too much schnitzel Lisa!
+- Iss nicht vieles Schnitzel Lisa - incorrect
+- Iss nicht zu viel Schnitzel, Lisa - correct
+
+104.  Mila, don't drink milk, please
+- Mila, trinkst keine Milch, bitte. - incorrect
+- Mila, trinkt keine Milch, bitte - correct
+- casual form when commanding friend
+
+105.  Would you like a tea without sugar?
+- Möchtest du ein tee ohne zucker? - incorrect
+- Möchtest du einen Tee ohne Zucker? - correct
+- accusative!
+
+106.  My mother loves your mother.
+- Meine mutter liebt deinen Mutter. - incorrect
+- Meine Mutter liebt deine Mutter. - correct
+- feminine accusative
+
+107. I don't want to and I have to work.
+- Ich will nicht und ich muss arbeite - incorrect
+- Ich habe keine Lust und ich muss arbeiten - correct
+
+108.  Hast du keinen Durst mehr?
+- ARe you not thirsty anymore?  - correct

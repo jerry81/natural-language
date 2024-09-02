@@ -91,3 +91,6 @@
 19.  对不起，你说法语吗
 - Excuse-moi, tu parle français? - incorrect
 - Excuse-moi, tu parles français? - correct
+
+20.  Elle parles français. - incorrect
+- Elle parle français. - correct

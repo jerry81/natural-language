@@ -144,6 +144,9 @@ leuk - nice
 
 # m
 
+mucche - cow
+- "moo"
+
 het middageten - lunch
 
 meisje - girl

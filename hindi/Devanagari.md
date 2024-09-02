@@ -4,6 +4,11 @@
 
 आ - aa
 
+# b
+
+- ब - ba
+- "bu" in "bug"
+
 # c
 
 च - ca "chuh"
@@ -49,9 +54,17 @@
 
 म - ma
 
+मा - maa
+- "mo" in "mom"
+
 # n
 
 न - na
+
+# p
+
+फ - pha
+- "pu" in "pup"
 
 # r
 
@@ -64,6 +77,11 @@
 
 श - sha
 - like "shu" in "shun"
+
+# t
+
+त - ta
+- "tu" in "stuck"
 
 # v
 

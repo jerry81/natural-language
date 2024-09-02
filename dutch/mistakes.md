@@ -367,3 +367,23 @@
 74.  Don't eat too much schnitzel, Lisa!
 - Iss zu viel Schnitzel Lisa - incorrect
 - Iss nicht zu viel Schnitzel Lisa - correct
+
+75.  De kat dragt geen trau - incorrect
+- De kat draagt geen trui - correct
+
+76.  Wij lezen twee boeken - incorrect
+- We lezen twee boeken - correct
+
+77.  Are you wearing a shoe?
+- Draag jij een schoenen - incorrect
+- Draag jij een schoen? - correct
+
+78.  Draag jij is schoen - incorrect
+- Draag jij een schoen - correct
+
+79.  Are you the slow man?
+- Zijn je de langzame man? - incorrect
+- Ben jij de langzame man? - corect
+
+80.  Hij heeft een grote, langsamme olifant. - incorrect
+- Hij heeft een grote, langzame olifant. - correct

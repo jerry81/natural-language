@@ -28,6 +28,8 @@
 # д
 
 до завтра -> till tomorrow (see you tomorrow)
+- dos vedana but do zavtra
+- malai kofta
 
 дом -> house
 - my house is the cathedral
@@ -101,6 +103,10 @@
 котлета -> kotlyeta -> cutlet
 
 кто -> who - also 3 letter
+
+как дела - How are you doing
+- Cock deela
+- Cockledoodledoo
 
 # л
 

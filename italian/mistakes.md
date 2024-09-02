@@ -107,3 +107,11 @@
 25.  啤酒是一种饮料
 - Birra ê una bevanda - incorrect
 - La birra ê una bevanda - correct
+
+26.  她做饭
+- Le cucina - incorrect
+- Lei cucina - correct
+
+27.  男孩烹饪食物
+- Il ragazzo cucina cibo. - incorrect
+- Il ragazzo cucina il cibo. correct
