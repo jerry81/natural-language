@@ -507,3 +507,15 @@
 
 108.  Hast du keinen Durst mehr?
 - ARe you not thirsty anymore?  - correct
+
+109.  Why don't you like to listen to podcasts?
+- Warum magst du nicht podcasts?  - incorrect
+- Warum hörst du nicht gern Podcasts?  - correct
+
+110.  Hooray, you don't have a toothache now.
+- Hurrah, du hast keine zahnschmertzen jetzt - incorrect
+- Hurra, du hast jetzt keine Zahnschmerzen - correct
+
+111.  I can't speak!
+- Ich kann sprechen nicht! - incorrect
+- Ich kann nicht sprechen!  - correct

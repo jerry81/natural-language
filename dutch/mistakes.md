@@ -387,3 +387,10 @@
 
 80.  Hij heeft een grote, langsamme olifant. - incorrect
 - Hij heeft een grote, langzame olifant. - correct
+
+81.  Ik heb het sware bord.  - incorrect
+- Ik heb het zware bord. - correct
+
+82.  Are they good or bad newspapers?
+- Zijn het goede of slekt kranten? - incorrect
+- Zijn het goede of slechte kranten? - correct

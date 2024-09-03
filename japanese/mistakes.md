@@ -653,3 +653,21 @@
 132. 猫は小さな窓から逃げると思います.
 - 觉得猫从小窗户逃出 - incorrect
 - 觉得猫咬从小窗户逃出 - correct
+
+133.  用日语说前请用中文说.
+- 日本語で言う前に中国で行ってください - incorrect
+- 日本語で言う前に中国語で行ってください - correct
+
+134.  那个不能说
+- それは言うことをできません　- incorrect
+- それを言うことはできません　- correct
+- the subject is "saying that" (nominalized verb), not "that"
+
+135.  最好后天之前付
+- 明後日まで払ったに方がいいです - incorrect
+- 明後日までに払った方がいいです - correct
+- the cases where までに are together
+
+136.  食物不少
+- 食べ物は少なくです - incorrect
+- 食べ物は少なくないです - correct

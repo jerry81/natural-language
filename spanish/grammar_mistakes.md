@@ -79,3 +79,7 @@
 - ¿Es él tu pelicula favorita? - incorrect
 - ¿Es tu pelicula favorita? - correct
 - "it" is implied
+
+19.  See you later, Miss Rivera!
+- Hasta leugo, Rivera! - incorrect
+- Hasta luego, señorita Rivera! - correct
