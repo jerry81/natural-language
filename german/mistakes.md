@@ -519,3 +519,27 @@
 111.  I can't speak!
 - Ich kann sprechen nicht! - incorrect
 - Ich kann nicht sprechen!  - correct
+
+112.  You don't like my roomate
+- Du magst mein mitbewohner nicht - incorrect
+- Du magst meinen Mitbewohner nicht - correct
+
+113.  Would you like a tea without sugar?
+- Möchtest du ein tee ohne Zucker? - incorrect
+- Möchtest du einen Tee ohne Zucker? - correct
+
+114.  Horray, you don't have a toothache now.
+- Hurra, du habst keinen zahnschmerzen jetzt - incorrect
+- Hurra, du hast jetzt keine Zahnschmerzen - correct
+
+115.  He doesn't speak German.
+- Er spricht keinen Deutsch. - incorrect
+- Er spricht kein Deutsch. - correct
+
+116.  My German is great.
+- Mein Deutsch ist perfekt.  - incorrect
+- Mein Deutsch ist toll. - correct
+
+117.  Too bad, there is a delay today.
+- Schade, gibt es heute eine Verspätung.  - incorrect
+- Schade, es gibt heute eine Verspätung.  - correct

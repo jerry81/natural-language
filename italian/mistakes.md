@@ -115,3 +115,7 @@
 27.  男孩烹饪食物
 - Il ragazzo cucina cibo. - incorrect
 - Il ragazzo cucina il cibo. correct
+
+28.  Non sono cani.
+- 不是狗 - incorrect
+- 它们不是狗 - correct

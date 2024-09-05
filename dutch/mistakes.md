@@ -394,3 +394,14 @@
 82.  Are they good or bad newspapers?
 - Zijn het goede of slekt kranten? - incorrect
 - Zijn het goede of slechte kranten? - correct
+
+83.  Coffee is not water.
+- kaffee is geen water - incorrect
+- koffie is geen water - correct
+
+84.  The pepper, please!
+- het peper alsjeblieft - incorrect
+- De peper, alsjeblieft - correct
+
+85.  Is het een loeke hond? - incorrect
+- Is het een leuke hond? - correct
