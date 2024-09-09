@@ -543,3 +543,7 @@
 117.  Too bad, there is a delay today.
 - Schade, gibt es heute eine Verspätung.  - incorrect
 - Schade, es gibt heute eine Verspätung.  - correct
+
+118.  Anna, go to the hospital please!
+- Anna, geht ins Krankenhaus, bitte! - incorrect
+- Anna, geh ins Krankenhaus, bitte! - correct

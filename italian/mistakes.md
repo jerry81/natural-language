@@ -119,3 +119,23 @@
 28.  Non sono cani.
 - 不是狗 - incorrect
 - 它们不是狗 - correct
+
+29.  猫们喝牛奶
+- gatti bevono latte - incorrect
+- I gatti bevono latte. - correct
+
+30.  我不看书
+- Non leggo i livre - incorrect
+- Non leggo libri - correct
+
+31. 我抱歉
+- Io spiacente - incorrect
+- Io sono spiacente - correct
+
+32.  巧克力奶油煮开了
+- La crema cioccolato bolle. - incorrect
+- La crema al cioccolato bolle. - correct
+
+33.  他们不是鸟
+- Non e uccelli - incorrect
+- Non sono uccelli - correct

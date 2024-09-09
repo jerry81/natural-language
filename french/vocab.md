@@ -63,6 +63,9 @@ Et toi? - and you?
 
 elle - she
 
+étudie - study
+- "ee-too-dee"
+
 # f
 
 une femme - a woman
@@ -87,6 +90,9 @@ gâteau - cake
 
 - un homme - man
 - pronounced "ohm"
+
+- habite - live
+- "ha-beet"
 
 # i
 

@@ -4,10 +4,16 @@
 
 आ - aa
 
+ऐ - ai
+- "ai" in "fairy"
+
 # b
 
 - ब - ba
 - "bu" in "bug"
+
+- भ - bh
+- "bu" in buzz
 
 # c
 
@@ -16,11 +22,33 @@
 # d
 
 ड - da
+- "duh"
+
+द - d
+
+ध - dha
+- "du" in duck, more air
+
+ढ - Dha
+- "du" more air
 
 # e
 
 ए - e
 - a in "cake"
+
+# f
+
+फ़ - fa
+- "fu" in "fun"
+
+# g
+
+घ - gha
+- "gu" in "gum"
+
+ग - ga
+- "gu" in "gut"
 
 # i
 
@@ -46,9 +74,14 @@
 के - ke
 - like "ka" in "skate"
 
+की - kii
+- "ki" in "ski"
+
 # l
 
 ल - la
+
+ला - laa
 
 # m
 
@@ -61,15 +94,28 @@
 
 न - na
 
+# o
+
+- ओ  - o
+- "oa" in "oak"
+
 # p
 
 फ - pha
 - "pu" in "pup"
 
+# q
+
+- क़ - qa
+- "cu" in "cut"
+
 # r
 
 र - ra
 - "ru" of "run"
+
+ड़ - Ra
+- "r" in "court"
 
 # s
 
@@ -82,6 +128,23 @@
 
 त - ta
 - "tu" in "stuck"
+
+ठ - Tha
+- "tu" in "tuck"
+
+ट - Ta
+- "tu" in "stuck"
+
+थ  - tha
+- "tu" tuck
+
+# u
+
+- ऊ - uu
+- "oo" in "food"
+
+- उ  - u
+- "u" in "pull"
 
 # v
 

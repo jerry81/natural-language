@@ -405,3 +405,19 @@
 
 85.  Is het een loeke hond? - incorrect
 - Is het een leuke hond? - correct
+
+86.  Good strawberries are expensive.
+- Goede aardbeien zijn tur - incorrect
+- Goede aardbeien zijn duur - correct
+
+87.  You are slow, just like a turtle
+- Je bent langsaam, net zoals een schilpadd - incorrect
+- Je bent langzaam, net zoals een schildpad - correct
+
+88.  The girl does not drink cold coffee.
+- De meisje drinkt koude koffie niet - incorrect
+- Het meisje drinkt geen koude kaffie - correct
+
+89.  You are strong, just like an elephant.
+- Je zijn stark, net zoals een olifant. - incorrect
+- Je bent sterk, net zoals een olifant. - correct

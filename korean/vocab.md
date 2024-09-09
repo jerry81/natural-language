@@ -144,6 +144,8 @@
 
 # ㅈ
 
+저이 이름 -> "jeoui ileum" -> my name
+
 자전거 -> jajeongeo -> bicycle
 
 좁다 -> chopda -> narrow
@@ -182,6 +184,8 @@
 묻다 -> mudda -> ask
 
 # ㄴ
+
+나의 - naui - my
 
 나 -> na -> me -> nasori -> me, sori!
 

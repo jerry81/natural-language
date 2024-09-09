@@ -94,3 +94,6 @@
 
 20.  Elle parles français. - incorrect
 - Elle parle français. - correct
+
+21.  Marc est américaine　ー incorrect
+- Marc est américain - correct
