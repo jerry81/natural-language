@@ -40,6 +40,14 @@
 
 - 咪喐 - mai5juk1 - 不要动
 
+# s
+
+- 細妹 - sai3mui2 - 妹妹
+
+- 細路 - sai3lou6 - 小孩
+
+- 細佬 - sai3lou2 - 弟弟
+
 # w
 
 - 搵唔到 - wan2m4dou2 - 找不到

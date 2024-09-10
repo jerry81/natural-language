@@ -5,3 +5,5 @@
 फ़ - f
 
 क़ - type "qad" (क़द)
+
+औ - type "auu"

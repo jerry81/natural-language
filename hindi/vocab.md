@@ -1,8 +1,12 @@
+# a
 
+ऐश - aish - luxury
 
 # d
 
 दम - Dam - strength
+
+ढक - dhak - to cover
 
 # e
 
@@ -20,6 +24,12 @@
 # m
 
 मलाल - malaal - regret
+
+मटक - matak - to sway, pot
+
+# o
+
+ओट - ot - shade/veil
 
 # q
 

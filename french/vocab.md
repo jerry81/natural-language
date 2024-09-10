@@ -66,6 +66,12 @@ elle - she
 étudie - study
 - "ee-too-dee"
 
+un étudiant - male student
+- pronounced "eh-too-dee-ahnt"
+
+une étudiante - female student
+- pronounced "eh-too-dee-ahnt-ah"
+
 # f
 
 une femme - a woman
@@ -97,6 +103,10 @@ gâteau - cake
 # i
 
 il - he
+
+ici - here
+- pronounced "ee-see"
+- Mnemonic: "Easy to see" where you are when you're "here"
 
 # j
 
@@ -144,6 +154,8 @@ un thé - tea
 (pronounced "tea")
 
 tu - you
+
+travaille - to work
 
 # v
 

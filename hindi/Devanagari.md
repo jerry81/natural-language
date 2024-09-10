@@ -7,6 +7,9 @@
 ऐ - ai
 - "ai" in "fairy"
 
+औ - au
+- "au" in "cafe au lait"
+
 # b
 
 - ब - ba
@@ -90,6 +93,9 @@
 मा - maa
 - "mo" in "mom"
 
+मी - mii
+- "me"
+
 # n
 
 न - na
@@ -124,6 +130,14 @@
 श - sha
 - like "shu" in "shun"
 
+ष - Sha
+- like "shu" in "shun"
+- different from श (sha):
+  - ष is a retroflex sound, produced with the tongue curled back
+  - श is a palatal sound, produced with the tongue closer to the palate
+- ष is less common and often used in Sanskrit-derived words
+- in modern Hindi, ष is often pronounced the same as श
+
 # t
 
 त - ta
@@ -150,3 +164,8 @@
 
 व - va
 - vu in "vulture"
+
+# z
+
+ज़ - za
+- "zu" in "zoo"
