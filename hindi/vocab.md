@@ -2,6 +2,10 @@
 
 ऐश - aish - luxury
 
+# c
+
+छक - chak - satisfied/content
+
 # d
 
 दम - Dam - strength
@@ -17,6 +21,18 @@
 
 घर - ghar - home
 
+# j
+
+जल - jal - water
+
+जला - jalaa - to burn
+
+जमा - jama - to collect/deposit
+
+# k
+
+केसर - kesar - saffron
+
 # l
 
 लाभ - laabh - benefit
@@ -30,6 +46,15 @@
 # o
 
 ओट - ot - shade/veil
+
+ओढ़ - "or" (odh) - to wrap around
+
+ओजस - ojas - vitality
+
+
+# p
+
+पानी - paani - water
 
 # q
 

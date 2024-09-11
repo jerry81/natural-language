@@ -22,6 +22,9 @@
 
 च - ca "chuh"
 
+छ - cha
+- "chuh"
+
 # d
 
 ड - da
@@ -65,6 +68,9 @@
 ज - ja
 - ju in "jug"
 
+झ - jha
+- "ju" in "jug", more air
+
 # k
 
 क - ka - "guh"
@@ -96,6 +102,10 @@
 मी - mii
 - "me"
 
+मु  - mu
+- "moo" in "moot"
+
+
 # n
 
 न - na
@@ -122,6 +132,11 @@
 
 ड़ - Ra
 - "r" in "court"
+
+ढ़ - Rha
+- "r" in "court"
+- also has a dot
+
 
 # s
 

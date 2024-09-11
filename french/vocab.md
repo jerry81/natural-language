@@ -8,6 +8,9 @@ aime - to like
 
 À demain - see you tomorrow
 
+avec - with
+- pronounced "ah-vehk"
+
 # b
 
 bon - good

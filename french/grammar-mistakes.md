@@ -97,3 +97,7 @@
 
 21.  Marc est américaine　ー incorrect
 - Marc est américain - correct
+
+22.  I am in Europe
+- Je suis j'en Europe - incorrect
+- Je suis en Europe - correct

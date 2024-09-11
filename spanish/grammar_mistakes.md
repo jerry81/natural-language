@@ -83,3 +83,8 @@
 19.  See you later, Miss Rivera!
 - Hasta leugo, Rivera! - incorrect
 - Hasta luego, señorita Rivera! - correct
+
+20.  Is it an interesting book?
+- Es el un libro interesante? - incorrect
+- Es un libro interesante? - correct
+- "it" is implied

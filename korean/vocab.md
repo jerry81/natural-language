@@ -8,11 +8,17 @@
 
 아이 -> "a i" -> child -> our ayi is childish
 
+아니요 -> "aniyo" -> no
+
+아니에요 -> "aniyeo" -> "isn't"
+
 # ㅓ
 
 얼마 -> "eolma" - how much
 
 얼글 -> "eolgeul" -> face
+
+어디 -> "eodi" -> where
 
 # ㅓ
 
@@ -73,9 +79,13 @@
 
 # ㅣ
 
+이에요 -> "ieyeo" -> "is"
+
 이름 -> "ireum" -> name
 
 입다 -> ipda -> put on -> ipman puts on his kung fu suit
+
+일본 -> "ilbon" -> japan
 
 # ㅊ
 
@@ -144,6 +154,10 @@
 
 # ㅈ
 
+저는 -> "jeoneun" -> I
+
+저이 -> "jeoui" -> my
+
 저이 이름 -> "jeoui ileum" -> my name
 
 자전거 -> jajeongeo -> bicycle
@@ -162,6 +176,8 @@
 
 쥐 -> "jwi" -> mouse
 - review - jwi likes cheese
+
+출신 -> "chulsin" -> origin
 
 # ㅁ
 
@@ -182,6 +198,8 @@
 믿다 -> mitda -> trust
 
 묻다 -> mudda -> ask
+
+미국 -> "mi gug" -> america
 
 # ㄴ
 
@@ -255,3 +273,7 @@
 # ㄸ
 
 떡 -> "tteog" -> rice cake
+
+# ㅆ
+
+씨는 -> "si neun" -> mr./mrs.
