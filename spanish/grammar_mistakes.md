@@ -88,3 +88,7 @@
 - Es el un libro interesante? - incorrect
 - Es un libro interesante? - correct
 - "it" is implied
+
+21.  A glass of water.
+- Un tazo agua - incorrect
+- Un vaso de agua - correct

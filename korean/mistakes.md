@@ -22,3 +22,9 @@ datda->
 - "joong"
 - 정 - incorrect
 - 중 - correct
+
+## sentences
+
+1. 네,저의 코양이 예요
+- 是的， 我是猫 - incorrect
+- 是的， 是我的猫 - correct

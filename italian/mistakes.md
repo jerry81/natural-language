@@ -139,3 +139,7 @@
 33.  他们不是鸟
 - Non e uccelli - incorrect
 - Non sono uccelli - correct
+
+34.  不，谢谢
+- Non, grazie - incorrect
+- No, grazie - correct

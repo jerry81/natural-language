@@ -38,6 +38,9 @@
 ढ - Dha
 - "du" more air
 
+दे - de
+- "da" in "date"
+
 # e
 
 ए - e
@@ -55,6 +58,9 @@
 
 ग - ga
 - "gu" in "gut"
+
+ग़ - Ga
+- "gu" in "gut", deeper in the throat
 
 # i
 
@@ -137,6 +143,11 @@
 - "r" in "court"
 - also has a dot
 
+ऋ - ri
+- "ri" in "rich", rolled "r"
+
+रू - ru
+- "ru" in "run", rolled
 
 # s
 
