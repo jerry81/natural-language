@@ -27,7 +27,8 @@ il cibo - the food
 
 la carota - the carrot
 
-la colazione - the breakfest
+la colazione - the breakfast
+- Think of "cola" (as in Coca-Cola) for breakfast, which isn't a great idea, but it helps remember "colazione"
 
 la ciotola - the bowl
 

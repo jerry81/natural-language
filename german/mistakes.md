@@ -547,3 +547,7 @@
 118.  Anna, go to the hospital please!
 - Anna, geht ins Krankenhaus, bitte! - incorrect
 - Anna, geh ins Krankenhaus, bitte! - correct
+
+119.  The baby is so sweet
+- Das Kind ist so süß - incorrect
+- Das Baby ist so süß - correct

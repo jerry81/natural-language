@@ -77,11 +77,17 @@
 झ - jha
 - "ju" in "jug", more air
 
+जे - je
+- "ja" in "jade"
+
 # k
 
 क - ka - "guh"
 
 ख - kha - "kuh"
+
+ख़ - Kha
+- "h" in "humid" but more guttural
 
 का - kaa
 - co in "scot"
@@ -91,6 +97,16 @@
 
 की - kii
 - "ki" in "ski"
+
+को - ko
+- "coa" in "coal"
+
+कु - ku
+- "ku" in "kuku"
+
+कू - koo
+- "ku" in "kuku"
+
 
 # l
 
@@ -152,6 +168,9 @@
 # s
 
 स - sa
+
+से - se
+- "sa" in "sail"
 
 श - sha
 - like "shu" in "shun"

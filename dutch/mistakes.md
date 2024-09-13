@@ -421,3 +421,11 @@
 89.  You are strong, just like an elephant.
 - Je zijn stark, net zoals een olifant. - incorrect
 - Je bent sterk, net zoals een olifant. - correct
+
+90.  Listening problem:
+- Je bent goed - incorrect
+- Je bent groot - correct
+
+91.  a full glass and a full bag
+- een vol glas melk en een volle tas - incorrect
+- een vol glas en een volle tas - correct

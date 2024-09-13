@@ -1,3 +1,7 @@
+# ㄲ
+
+꼿다발 -> "gogdabae" -> bouquet
+
 # ㅏ
 
 악 -> 'ahg' -> evil
@@ -220,6 +224,8 @@
 나라 -> nara -> country -> nara from the african country
 
 # ㅎ
+
+햇빛 -> "haebib" -> sunlight
 
 한번 -> hanbeon -> once
 

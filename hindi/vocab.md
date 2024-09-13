@@ -1,5 +1,9 @@
 # a
 
+औषध  - aushad - medicine
+
+और - aur - and
+
 ऐश - aish - luxury
 
 आसमान - asmaan - sky
@@ -76,6 +80,8 @@
 
 # m
 
+मामी - maami - aunt
+
 मलाल - malaal - regret
 
 मटक - matak - to sway, pot
@@ -118,3 +124,7 @@
 - Think of "up" in English, which sounds similar to "udh". When something flies, it goes up!
 
 ऊन - un - wool
+
+# z
+
+ज़मीन - zameen - earth/land

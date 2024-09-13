@@ -609,6 +609,8 @@ jetzt - now (pronounced "yetz")
 
 # K
 
+komischen - strange
+
 kanale - channel
 
 kann - can

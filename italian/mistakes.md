@@ -143,3 +143,7 @@
 34.  不，谢谢
 - Non, grazie - incorrect
 - No, grazie - correct
+
+35.  男人喝水
+- L'ragazzo beve l'acqua - incorrect
+- L'uomo beve l'acqua - correct

@@ -92,3 +92,7 @@
 21.  A glass of water.
 - Un tazo agua - incorrect
 - Un vaso de agua - correct
+
+22.  Yes, today is Wednesday.
+- Si, hoy es el miercoles - incorrect
+- Si, hoy es miercoles - correct
