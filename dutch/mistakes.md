@@ -429,3 +429,7 @@
 91.  a full glass and a full bag
 - een vol glas melk en een volle tas - incorrect
 - een vol glas en een volle tas - correct
+
+92.  You do not walk.
+- Jullie loopt niet - incorrect
+- Jullie lopen niet - correct

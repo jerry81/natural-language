@@ -6,7 +6,13 @@
 
 - 出口 - ceot1hau2
 
+- 嘈交 - coo1gaau1 - 吵架
+
 # d
+
+- 掟煲 - deng3bou1 - 分手
+
+- 點解 - dim2gai2 - 为什么
 
 - 哋 - dei6 - pluralizer
 
@@ -39,6 +45,10 @@
 # m
 
 - 咪喐 - mai5juk1 - 不要动
+
+# p
+
+- 拍拖 - paai1to1 - 谈恋爱
 
 # s
 

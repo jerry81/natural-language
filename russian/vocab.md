@@ -17,6 +17,8 @@
 
 больница -> bol'nitsa -> hospital
 
+брат -> brat -> brother
+
 # ч
 
 читать -> chitat' -> read
@@ -55,6 +57,8 @@
 - Den during the day
 
 доброе утро -> good morning
+
+дети -> deti -> children
 
 # э
 
@@ -117,6 +121,8 @@
 лосьон -> los'ion -> lotion
 
 # м
+
+мы -> we
 
 мальчик -> boy
 
@@ -261,7 +267,13 @@
 спокойной ночи -> good night
 - like a mix of thank you and spanish
 
+сестра -> sestra -> sister
+
 # в
+
+вода -> voda -> water
+
+всё -> vse -> everything
 
 воё хорошо - Everything is fine
 
@@ -305,6 +317,7 @@ morning, utro, utroman
 
 У меня -> i have
 у меня уже есть -> i already have
+у нас есть -> we have
 
 уровень -> urovyen' -> level
 

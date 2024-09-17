@@ -18,6 +18,8 @@
 
 चढ़ - chadh - to climb up
 
+छत - chat - ceiling
+
 # d
 
 दम - Dam - strength
@@ -26,7 +28,7 @@
 
 धड़ - dhad - torso
 
-देन - den - to give
+देन - den - to give (gift, contribution)
 
 झल - jhal - to burn (one's eyes)
 
@@ -88,6 +90,10 @@
 
 माफ़  - maaf - forgive/sorry
 
+मुझ  - mujh - me
+
+मुखं - makh - face
+
 # o
 
 ओट - ot - shade/veil
@@ -99,6 +105,9 @@
 # p
 
 पानी - paani - water
+
+
+पढ़ - padh - to read/study
 
 # q
 
@@ -124,6 +133,10 @@
 - Think of "up" in English, which sounds similar to "udh". When something flies, it goes up!
 
 ऊन - un - wool
+
+# v
+
+वाह - vaah - wow/bravo
 
 # z
 

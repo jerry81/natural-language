@@ -18,6 +18,9 @@
 - भ - bh
 - "bu" in buzz
 
+- बू - bu
+- "boo" in "book"
+
 # c
 
 च - ca "chuh"
@@ -61,6 +64,11 @@
 
 ग़ - Ga
 - "gu" in "gut", deeper in the throat
+
+# h
+
+है - hai
+- "hai" in "hair"
 
 # i
 
@@ -107,7 +115,8 @@
 कू - koo
 - "ku" in "kuku"
 
-
+कृ - kri
+- "cri" in "crisp"
 # l
 
 ल - la
@@ -127,10 +136,18 @@
 मु  - mu
 - "moo" in "moot"
 
-
 # n
 
 न - na
+
+ना - naa
+- "naa" in "naan"
+
+ने - ne
+- "na" in "nana"
+
+नो - no
+- "na" in "nana"
 
 # o
 
@@ -140,6 +157,9 @@
 # p
 
 फ - pha
+- "pu" in "pup" but more guttural
+
+प - pa
 - "pu" in "pup"
 
 # q
@@ -165,6 +185,9 @@
 रू - ru
 - "ru" in "run", rolled
 
+रू - ruu
+- "roo" in "room"
+
 # s
 
 स - sa
@@ -183,6 +206,9 @@
 - ष is less common and often used in Sanskrit-derived words
 - in modern Hindi, ष is often pronounced the same as श
 
+- सौ - sau
+- "so" in "solid"
+
 # t
 
 त - ta
@@ -197,6 +223,9 @@
 थ  - tha
 - "tu" tuck
 
+ति - ti
+- "ti" in stick
+
 # u
 
 - ऊ - uu
@@ -209,6 +238,17 @@
 
 व - va
 - vu in "vulture"
+
+वा - vaa
+- "vo" in "volume"
+
+# w
+
+व़ - wa
+- "wa" in "waffle"
+
+# x
+
 
 # z
 

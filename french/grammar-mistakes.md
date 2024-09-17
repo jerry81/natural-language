@@ -105,3 +105,6 @@
 23.  回头见！
 - À bentoit! - incorrect
 - À bientôt! - correct
+
+24.  un chancon français - incorrect
+- une chanson française - correct

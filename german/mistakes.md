@@ -551,3 +551,7 @@
 119.  The baby is so sweet
 - Das Kind ist so süß - incorrect
 - Das Baby ist so süß - correct
+
+120.  My roomates are Americans.
+- Meine Mitbewohner ist Amerikaner - incorrect
+- Meine Mitbewohner sind Amerikaner - correct
