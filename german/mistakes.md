@@ -555,3 +555,7 @@
 120.  My roomates are Americans.
 - Meine Mitbewohner ist Amerikaner - incorrect
 - Meine Mitbewohner sind Amerikaner - correct
+
+121.  Maria is German and Alex is American.
+- Maria ist Deutscher und Alex ist Amerikaner - incorrect
+- Maria ist Deutsche und Alex ist Amerikaner - correct

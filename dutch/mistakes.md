@@ -433,3 +433,9 @@
 92.  You do not walk.
 - Jullie loopt niet - incorrect
 - Jullie lopen niet - correct
+
+93.  Leest het menu - incorrect
+- Leest ze het menu - correct
+
+94.  Wij hebben geen kinderen, maar ze wel. = incorrect
+- Wij hebben geen kinderen, maar zij wel. - correct

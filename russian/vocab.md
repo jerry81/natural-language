@@ -9,6 +9,8 @@
 ест -> yest -> eats
 ем -> yem -> (i) eat
 
+етот -> etot -> this
+
 # б
 
 бас -> bas -> bass
@@ -270,6 +272,8 @@
 сестра -> sestra -> sister
 
 # в
+
+велосипед -> velosiped -> bicycle
 
 вода -> voda -> water
 

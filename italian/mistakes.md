@@ -147,3 +147,11 @@
 35.  男人喝水
 - L'ragazzo beve l'acqua - incorrect
 - L'uomo beve l'acqua - correct
+
+36.  牛
+- Le mucca - incorrect
+- Le mucche - correct
+
+37.  女孩们吃蛋糕
+- Le ragazze mangia la torta - incorrect
+- Le ragazze mangiano la torta - correct

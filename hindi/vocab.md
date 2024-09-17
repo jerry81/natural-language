@@ -53,6 +53,10 @@
 घट - ghata - to reduce
 - Think of "ghat" (steps leading to a river) and how water levels reduce as you go down the steps. So "ghata" is like saying "ghat" but means "to reduce" or "decrease"
 
+# i
+
+इसे - ise - to it
+
 # j
 
 जल - jal - water
@@ -60,6 +64,8 @@
 जला - jalaa - to burn
 
 जमा - jama - to collect/deposit
+
+झेल - jhel - to tolerate/endure
 
 # k
 
@@ -133,6 +139,10 @@
 - Think of "up" in English, which sounds similar to "udh". When something flies, it goes up!
 
 ऊन - un - wool
+
+उसे - use - to him/her
+
+उससे - use - from him/her
 
 # v
 

@@ -38,6 +38,8 @@ una caramella - candy
 
 la cena - dinner
 
+Cavallo - horse
+
 # d
 
 donna - woman
@@ -88,6 +90,9 @@ mela - apple
 
 il manzo - beef
 
+le mucche - cows
+- la mucca - cow
+
 # n
 
 Noi - we
@@ -131,6 +136,8 @@ la tazza - cup
 # u
 
 uomini - men
+
+uccello - bird
 
 # z
 
