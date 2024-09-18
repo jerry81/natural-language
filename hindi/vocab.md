@@ -12,6 +12,10 @@
 औरत - aurat - woman
 - Think of "aura" in English and "t" representing "thing", so "aurat" is like saying "aura thing" but actually means "woman"
 
+# b
+
+बूझ - boojh - to understand/wisdom
+
 # c
 
 छक - chak - satisfied/content
@@ -52,6 +56,10 @@
 
 घट - ghata - to reduce
 - Think of "ghat" (steps leading to a river) and how water levels reduce as you go down the steps. So "ghata" is like saying "ghat" but means "to reduce" or "decrease"
+
+# h
+
+हैरत - hairat - surprise
 
 # i
 
@@ -125,6 +133,8 @@
 
 रुदन - rudan - crying
 - Think of "rude" + "done" = "rudan" (crying is often seen as rude when done in public)
+
+रुख़ - rukh - direction/attitude
 
 # t
 

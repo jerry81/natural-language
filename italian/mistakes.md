@@ -155,3 +155,7 @@
 37.  女孩们吃蛋糕
 - Le ragazze mangia la torta - incorrect
 - Le ragazze mangiano la torta - correct
+
+38.  The dogs eat bread.
+- I cani mangia pane - incorrect
+- I cani mangiano pane - correct

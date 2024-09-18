@@ -559,3 +559,11 @@
 121.  Maria is German and Alex is American.
 - Maria ist Deutscher und Alex ist Amerikaner - incorrect
 - Maria ist Deutsche und Alex ist Amerikaner - correct
+
+122.  My partner is Canadian.
+- Meine Partnerin ist Kanadiere - incorrect
+- Meine Partnerin ist Kanadierin - correct
+
+123.  The child plays soccer almost every day.
+- Das Kind fast jeden tag spielt Fußball - incorrect
+- Das Kind spielt fast jeden Tag Fußball - correct

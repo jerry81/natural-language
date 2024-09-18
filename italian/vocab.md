@@ -40,6 +40,9 @@ la cena - dinner
 
 Cavallo - horse
 
+cane - dog
+I cani - dogs
+
 # d
 
 donna - woman

@@ -18,8 +18,10 @@
 - भ - bh
 - "bu" in buzz
 
-- बू - bu
+- बू - buu
 - "boo" in "book"
+
+
 
 # c
 
