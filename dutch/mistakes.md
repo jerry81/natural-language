@@ -439,3 +439,8 @@
 
 94.  Wij hebben geen kinderen, maar ze wel. = incorrect
 - Wij hebben geen kinderen, maar zij wel. - correct
+
+95.  You play and we sleep.
+- Je spelen en wij slapen - incorrect
+- Jij speelt en wij slapen - correct
+- jij - you

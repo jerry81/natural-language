@@ -77,6 +77,8 @@
 
 # k
 
+कृति - kriti - work/creation
+
 केसर - kesar - saffron
 
 काग़ज़ - kaagaz - paper
@@ -107,6 +109,12 @@
 मुझ  - mujh - me
 
 मुखं - makh - face
+
+# n
+
+नाश - nash - destruction
+
+नमा - nama - name
 
 # o
 
