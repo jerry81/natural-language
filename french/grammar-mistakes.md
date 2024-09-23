@@ -123,3 +123,7 @@
 28.  我在法国学习
 - Tu etudies en Frances - incorrect
 - J'étudie en France - correct
+
+29.  你在波尔多工作吗
+- Tu travailles en bordeaux - incorect
+- Tu travailles à Bordeaux - correct

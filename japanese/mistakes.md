@@ -711,3 +711,7 @@
 - 我来过这里 - incorrect
 - 我以前来过这里 - correct
 
+147.  明年，这个酒店会变成日式旅馆
+- 来年はこのホテル旅館になる　- incorrect
+- 来年このホテルは旅館になる - correct
+- は placement

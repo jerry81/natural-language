@@ -567,3 +567,10 @@
 123.  The child plays soccer almost every day.
 - Das Kind fast jeden tag spielt Fußball - incorrect
 - Das Kind spielt fast jeden Tag Fußball - correct
+
+124.  Would you like a tea without sugar?
+- Möchtest du ein the ohne zucker - incorrect
+- Möchtest du einen Tee ohne Zucker? - correct
+
+125.  Wie ist der Obstsalat?  Magst du die Obstsalat - incorrect
+- Wie ist der Obstsalat?  Magst du den Obstsalat - correct

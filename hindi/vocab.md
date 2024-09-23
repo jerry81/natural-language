@@ -70,6 +70,7 @@
 
 इसे - ise - to it
 
+इसके - isake - to him/her, its
 
 # j
 
@@ -96,6 +97,8 @@
 
 कृत - krit - performed/committed/made
 
+ख़त - khat - letter
+
 # l
 
 लाभ - laabh - benefit
@@ -115,6 +118,7 @@
 माफ़  - maaf - forgive/sorry
 
 मुझ  - mujh - me
+मुझे - mujhe - to me
 
 मुखं - makh - face
 

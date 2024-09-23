@@ -152,7 +152,9 @@
 
 мэр -> mer - mayor
 
-мой -> moj -> my -> similar
+мой -> moj -> my -> similar (masculine)
+моё -> moyo -> my (neuter)
+моя - moya -> my feminine
 
 молоко -> moloko -> milk
 - milk with lots of os
@@ -304,6 +306,8 @@
 
 вечер -> night
 - the lechers come out at вечер
+
+в -> in/at
 
 # х
 
