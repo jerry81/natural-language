@@ -96,3 +96,7 @@
 22.  Yes, today is Wednesday.
 - Si, hoy es el miercoles - incorrect
 - Si, hoy es miercoles - correct
+
+23.  The woman lives in England.
+- La mujer viva en Inglaterra. - incorrect
+- La mujer vive en Inglaterra - correct

@@ -444,3 +444,8 @@
 - Je spelen en wij slapen - incorrect
 - Jij speelt en wij slapen - correct
 - jij - you
+
+96.  A full glass and a full bag.
+- Een volle glas en een vol tas - incorrect
+- Een vol glas en een volle tas - correct
+- remember bag is feminine

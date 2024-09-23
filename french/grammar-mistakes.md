@@ -108,3 +108,18 @@
 
 24.  un chancon français - incorrect
 - une chanson française - correct
+
+25.   Je travailles à Paris. - incorrect
+- Je travaille à Paris - correct
+
+26.  我在法国学习
+- Je étudie en Frances - incorrect
+- J'étudie en France - correct
+
+27.  我在西班牙工作
+- J'travaille en espagnol - incorrect
+- Je travaille en Espagne - correct
+
+28.  我在法国学习
+- Tu etudies en Frances - incorrect
+- J'étudie en France - correct

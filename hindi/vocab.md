@@ -16,6 +16,8 @@
 
 बूझ - boojh - to understand/wisdom
 
+बबूल - babuul - acacia (tree)
+
 # c
 
 छक - chak - satisfied/content
@@ -61,9 +63,13 @@
 
 हैरत - hairat - surprise
 
+हवा - havaa - air
+- havaacraft
+
 # i
 
 इसे - ise - to it
+
 
 # j
 
@@ -88,6 +94,8 @@
 
 कलश - kalsh - urn
 
+कृत - krit - performed/committed/made
+
 # l
 
 लाभ - laabh - benefit
@@ -110,11 +118,15 @@
 
 मुखं - makh - face
 
+महल - mahal - palace
+
 # n
 
 नाश - nash - destruction
 
 नमा - nama - name
+
+नाना - naanaa - grandfather (mom's side)
 
 # o
 
@@ -139,10 +151,18 @@
 
 # r
 
+रूबरू - ruubaruu - face to face
+
 रुदन - rudan - crying
 - Think of "rude" + "done" = "rudan" (crying is often seen as rude when done in public)
 
 रुख़ - rukh - direction/attitude
+
+रूह - ruuh - soul
+
+# s
+
+सॉकर - saukr - convenience?  (internets say no )
 
 # t
 
@@ -165,6 +185,8 @@
 # v
 
 वाह - vaah - wow/bravo
+
+वाला - vaala - the one
 
 # z
 

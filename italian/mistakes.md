@@ -159,3 +159,13 @@
 38.  The dogs eat bread.
 - I cani mangia pane - incorrect
 - I cani mangiano pane - correct
+
+39. 猫们吃
+- I gatti mangono - incorrect
+- Le gatte mangiano - correct
+
+40.  牛
+- Le mucca - incorrect
+- Le mucche - correct
+- Le is for plural feminine
+- La mucca would be correct

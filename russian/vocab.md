@@ -29,6 +29,8 @@
 
 человек -> chelovek -> cello player is human
 
+что -> chto -> what
+
 # д
 
 до завтра -> till tomorrow (see you tomorrow)
@@ -163,6 +165,9 @@
 
 не -> nye -> not
 
+наш -> nash -> our
+наше -> nashye -> our
+
 # o
 
 он -> on -> he
@@ -232,6 +237,8 @@
 
 читаем -> rubyezh -> milestone
 
+ребёнок -> rebyonok -> child
+
 # с
 
 сильный -> sil'nuieej -> strong -> anderson silva was strong.
@@ -270,6 +277,8 @@
 - like a mix of thank you and spanish
 
 сестра -> sestra -> sister
+
+стол -> stol -> table
 
 # в
 
@@ -364,6 +373,8 @@ morning, utro, utroman
 там -> there
 - tam is there
 
+тарелка -> taryelka -> plate
+
 # ц
 
 церковь -> tsyerkov' - church
@@ -379,7 +390,7 @@ morning, utro, utroman
 
 я -> i am
 
-
+яйцо -> yajtso -> egg
 
 # з
 

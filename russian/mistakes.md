@@ -71,3 +71,7 @@
 10.  извините, уже вечер?
 - Excuse me, is it evening? - incorrect
 - Excuse me, is it evening already? - correct
+
+11.  Thank you, I already have tea.
+- спасибо, у уже меня есть чай - incorrect
+- спасибо, у меня уже есть чай - correct
