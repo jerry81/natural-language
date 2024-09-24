@@ -28,3 +28,8 @@ datda->
 1. 네,저의 코양이 예요
 - 是的， 我是猫 - incorrect
 - 是的， 是我的猫 - correct
+
+2.  我的名字是智秀
+- 씨는 이름은 지수예요 - incorrect
+- 저의 이름은 지수예요 - correct
+- vocab, 씨는 "you"

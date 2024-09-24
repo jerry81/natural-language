@@ -574,3 +574,12 @@
 
 125.  Wie ist der Obstsalat?  Magst du die Obstsalat - incorrect
 - Wie ist der Obstsalat?  Magst du den Obstsalat - correct
+
+126.  The baby is almost fourteen months old.
+- Das Baby ist fast vierzehn - incorrect
+- Das Baby ist fast vierzehn Monate alt.
+- missing a few words there buddy
+
+127.  The baby is nineteen months old.
+- Das Baby ist neunzehn monart alt - incorrect
+- Das Baby ist neunzehn Monate alt - correct

@@ -452,3 +452,12 @@
 
 97.  Het underhoed is goed - incorrect
 - Het ondergoed is goed - correct
+
+98.  the cheese
+- het kaas - incorrect
+- de kaas - correct
+- cheese is gendered!
+
+99.  Je heeft het boek - incorrect
+- je hebt het boek - correct
+- ik heb, je hebt
