@@ -173,3 +173,6 @@
 41. 男人吃巧克力冰淇凌
 - l'uomono mangia il gelato al ciocolato - incorrect
 - l'uomo mangia il gelato al cioccolato - correct
+
+42.  I cani mangia pane - incorrect
+- I cani mangiano pane - correct

@@ -583,3 +583,14 @@
 127.  The baby is nineteen months old.
 - Das Baby ist neunzehn monart alt - incorrect
 - Das Baby ist neunzehn Monate alt - correct
+
+128.  DO you have a sweater in size small?
+- Hast du ein pullover in Größe s? - incorrect
+- Haben Sie einen pullover in Größe S?  - correct
+
+129.  Tom und Duo, seid ihr studentin? - incorrect
+- Tom und Duo, seid ihr studenten?  - correct
+
+130.  Maria is German and Alex is American.
+- Maria ist Deuschterin und Alex ist Amerikaner. - incorrect
+- Maria ist Deutsche und Alex ist Amerikaner - correct

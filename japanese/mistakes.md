@@ -715,3 +715,7 @@
 - 来年はこのホテル旅館になる　- incorrect
 - 来年このホテルは旅館になる - correct
 - は placement
+
+148.  昨日は一日中日記を書いた
+- 昨天一整天写了日记 - incorrect
+- 昨天写了一整天日记 - correct

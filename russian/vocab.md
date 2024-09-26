@@ -170,6 +170,10 @@
 наш -> nash -> our
 наше -> nashye -> our
 
+него -> nego - him
+
+неё -> nyeyo - her
+
 # o
 
 он -> on -> he
@@ -335,6 +339,8 @@ morning, utro, utroman
 У меня -> i have
 у меня уже есть -> i already have
 у нас есть -> we have
+у него есть -> he has
+у неё есть -> she has
 
 уровень -> urovyen' -> level
 
