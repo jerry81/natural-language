@@ -100,3 +100,7 @@
 23.  The woman lives in England.
 - La mujer viva en Inglaterra. - incorrect
 - La mujer vive en Inglaterra - correct
+
+24.  Her husband is very short.
+- Su esposa es muy baja - incorrect
+- Su esposo es muy bajo - correct

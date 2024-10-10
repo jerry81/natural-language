@@ -127,3 +127,7 @@
 29.  你在波尔多工作吗
 - Tu travailles en bordeaux - incorect
 - Tu travailles à Bordeaux - correct
+
+30.  我在纽约学习
+- Je etudie a new york - incorrect
+- J'étudie à New York - correct

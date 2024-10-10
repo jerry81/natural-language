@@ -27,6 +27,8 @@ disfruta - enjoy - the fruits
 
 manzanas - apples
 
+menudo - often
+
 ## n
 
 novia - girlfriend
@@ -35,7 +37,12 @@ novia - girlfriend
 
 pagar - pay
 
+pájaro - bird
+- but not parrot
+
 ## s
+
+salgo - I have a date
 
 siempre - always
 

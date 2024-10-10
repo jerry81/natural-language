@@ -105,6 +105,10 @@ hoor - (i) hear
 - horen (they)
 - hoort (he)
 
+hun - them (possessive) "their"
+
+hen - them (as object)
+
 # j
 
 je - you
@@ -114,6 +118,8 @@ jongen - boy
 Jullie - you (plural)
 
 jurk - dress
+
+jou - you(object)
 
 # k
 
@@ -244,7 +250,7 @@ Welterusten - "velterusten" - note completely different from good morning/evenin
 
 # z
 
-ze - she, they
+ze - she, they, them
 
 zijn - are
 

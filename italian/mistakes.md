@@ -176,3 +176,19 @@
 
 42.  I cani mangia pane - incorrect
 - I cani mangiano pane - correct
+
+43.  他吃面包
+- Il manga il pane - incorrect
+- Lui mangia il pane - correct
+
+44.  女孩们吃蛋糕
+- Le ragazze mangono la torta - incorrect
+- Le ragazze mangiano la torta - correct
+
+45.  女孩们喝水
+- Donne bevono lacqua - incorrect
+- Le ragazze bevono l'acqua - correct
+
+46.  我不吃奶酪
+- Io no mangio formaggio - incorrect
+- Non mangio formaggio - correct

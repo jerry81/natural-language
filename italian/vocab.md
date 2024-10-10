@@ -130,11 +130,17 @@ siamo - (we) are
 spaiacente - sorry
 - like chinese 欠
 
+- la scimmia - monkey
+- the scheming monkey
+
 # t
 
 Tu - you
 
 la tazza - cup
+
+il topo - mouse
+- the mouse chases the top
 
 # u
 

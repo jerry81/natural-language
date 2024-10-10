@@ -594,3 +594,14 @@
 130.  Maria is German and Alex is American.
 - Maria ist Deuschterin und Alex ist Amerikaner. - incorrect
 - Maria ist Deutsche und Alex ist Amerikaner - correct
+
+131.  It is a quarter till seven.
+- Es ist Viertel bis sieben - incorrect
+- Es ist Viertel vor sieben - correct
+
+132.  Does your daughter study psychology?
+- Lernt deine tochter psycologie - incorrect
+- Studiert deine tocheter psychologie - correct
+
+133.  Wir möchten essen Pommes - incorrect
+- Wir möchten Pommes essen - correct
