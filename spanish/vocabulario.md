@@ -29,6 +29,8 @@ manzanas - apples
 
 menudo - often
 
+mascotas - pets
+
 ## n
 
 novia - girlfriend

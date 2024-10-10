@@ -192,3 +192,7 @@
 46.  我不吃奶酪
 - Io no mangio formaggio - incorrect
 - Non mangio formaggio - correct
+
+47.  他吃一个豆子
+- Lei mangia un fagiolo - incorrect
+- Lui mangia un fagiolo - correct

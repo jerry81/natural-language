@@ -605,3 +605,14 @@
 
 133.  Wir möchten essen Pommes - incorrect
 - Wir möchten Pommes essen - correct
+
+134.  Oktoberfest is fun and it is very popular
+- Oktoberfest ist Spaß und es sehr beliebt - incorrect
+- Das Oktoberfest macht Spaß und es ist sehr beliebt - correct
+
+135.  Wir wahlen tanzen gehen - incorrect
+- Wir wollen tanzen gehen - correct
+
+136.  The people sometimes drink too much beer.
+- Die Leute manchamal trinken zu viel Bier - incorrect
+- Die Leute trinken manchmal zu viel Bier - correct

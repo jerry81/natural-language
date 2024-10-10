@@ -461,3 +461,6 @@
 99.  Je heeft het boek - incorrect
 - je hebt het boek - correct
 - ik heb, je hebt
+
+100.  Het zijn katen - incorrect
+- Het zijn katten - correct

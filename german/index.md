@@ -1092,6 +1092,8 @@ untersuchen - checkup
 
 # V
 
+viertel - quarter
+
 verändern - change
 
 Verdächtige - suspects
@@ -1148,6 +1150,8 @@ Vorurteil - bias
 
 vom - from
 von - from
+
+vor - till
 
 vorgestern - day before yesterday
 

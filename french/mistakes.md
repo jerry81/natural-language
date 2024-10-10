@@ -131,3 +131,13 @@
 30.  我在纽约学习
 - Je etudie a new york - incorrect
 - J'étudie à New York - correct
+
+31.  一个女孩吃一个牛角面包
+- Une fille mange une croissant - incorrect
+- Une fille mange un croissant - correct
+- croissant is masculine
+
+32.  你在柏林工作吗
+- Tu habites à Berlin? - incorrect
+- Tu travailles en Berlin? - correct
+
