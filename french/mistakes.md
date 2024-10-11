@@ -152,3 +152,7 @@
 35.  一个男孩吃饭
 - un garçon mangia - incorrect
 - un garçon mange - correct
+
+36.  再见，祝你一天愉快
+- Au revoir, bon journee! - incorrect
+- Au revoir, bonne journee - correct

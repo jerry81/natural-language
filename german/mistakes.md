@@ -616,3 +616,7 @@
 136.  The people sometimes drink too much beer.
 - Die Leute manchamal trinken zu viel Bier - incorrect
 - Die Leute trinken manchmal zu viel Bier - correct
+
+137.  Her friends are funny and nice.
+- Seine Fruende sind lustig und nett - incorrect
+- Ihre Fruende sind lustig und nett - correct

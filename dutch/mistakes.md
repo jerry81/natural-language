@@ -464,3 +464,7 @@
 
 100.  Het zijn katen - incorrect
 - Het zijn katten - correct
+
+101.  You have an important duck.
+- Je hebt een belanrijk eend - incorrect
+- Jij hebt een belangrike eend - correct
