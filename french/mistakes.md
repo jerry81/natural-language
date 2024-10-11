@@ -141,3 +141,14 @@
 - Tu habites à Berlin? - incorrect
 - Tu travailles en Berlin? - correct
 
+33.  我在欧洲
+- Je habite en europe - incorrect
+- J'habite en Europe - correct
+
+34.  我和Duo一起工作
+- Je avec Duo travaille - incorrect
+- Je travaille avec Duo - correct
+
+35.  一个男孩吃饭
+- un garçon mangia - incorrect
+- un garçon mange - correct

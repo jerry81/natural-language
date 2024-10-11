@@ -19,11 +19,23 @@ Review
 
 デット　→　date
 
+# g
+
+## ギ
+
+ギャザリング　→ gathering
+
 # i
 
 ## イ
 
 イチジク　- fig
+
+# j
+
+## ジ
+
+ジャンル　→ genre
 
 # k
 

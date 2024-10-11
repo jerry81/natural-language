@@ -830,6 +830,8 @@ praktisch - practical
 
 # R
 
+Riesenrad - Ferris wheel
+
 raus - out
 (ich muss leider raus) - i unfortunately must go out
 

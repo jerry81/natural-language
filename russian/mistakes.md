@@ -75,3 +75,8 @@
 11.  Thank you, I already have tea.
 - спасибо, у уже меня есть чай - incorrect
 - спасибо, у меня уже есть чай - correct
+
+12.  у ты есть ребёнок? - incorrect
+- у тебя есть ребёнок? - correct
+
+13.
