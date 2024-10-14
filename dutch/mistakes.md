@@ -468,3 +468,7 @@
 101.  You have an important duck.
 - Je hebt een belanrijk eend - incorrect
 - Jij hebt een belangrike eend - correct
+
+102.  We wear shirts and shoes.
+- Wij dragen hemden en schoen - incorrect
+- Wij dragen hemden en schoenen - correct

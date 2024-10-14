@@ -620,3 +620,11 @@
 137.  Her friends are funny and nice.
 - Seine Fruende sind lustig und nett - incorrect
 - Ihre Fruende sind lustig und nett - correct
+
+138.  Mila, don't drink milk, please.
+- Mila drinkst du keine Milch, bitte. - incorrect
+- Mila trink keine Milch, bitte.  - correct
+
+139.  Gehen Sie elf Minuten geradeaus
+- Go straight ahead six minutes - incorrect
+- Go eleven minutes straight ahead - correct

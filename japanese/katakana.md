@@ -25,6 +25,10 @@ Review
 
 ギャザリング　→ gathering
 
+## ゴ
+
+ゴルジ　→ gorge
+
 # i
 
 ## イ
@@ -47,12 +51,20 @@ Review
 
 コンロ　→ stove
 
+## キ
+
+キンギョ → goldfish
+
 # n
 
 ## ヌ
 
-
-
 ## ニ
 
 ニンニク　→ garlic
+
+# p
+
+## ピ
+
+ピュア - pure

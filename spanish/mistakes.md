@@ -104,3 +104,14 @@
 24.  Her husband is very short.
 - Su esposa es muy baja - incorrect
 - Su esposo es muy bajo - correct
+
+25.  It is an Italian family
+- El es una familia italiana - incorrect
+- Es una familia italiana - correct
+
+26.  Yo no tengu tu dirreciom
+- Yo no tengo tu direccion - correct
+
+27.  ¡Tu apartmamento es bonito!
+- Your apartment is very pretty! - incorrect
+- Your apartment is pretty! - correct

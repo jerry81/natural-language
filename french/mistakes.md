@@ -156,3 +156,20 @@
 36.  再见，祝你一天愉快
 - Au revoir, bon journee! - incorrect
 - Au revoir, bonne journee - correct
+
+37.  我住在西班牙
+- J'habite en espagnol - incorrect
+- J'habite en Espagne - correct
+
+38.  你在英国吗
+- Tu est en angleterre - incorrect
+- Tu es en Angleterre - correct
+
+39.  Julia 和 Gabriel 一起学习
+- Julia et Gabriel etudie avec - incorrect
+- Julia etudie avec Gabriel - correct
+
+40.  她说韩语和英语
+- Elle parle chinois et anglaise - incorrect
+- Elle parle chinois et anglais. - correct
+

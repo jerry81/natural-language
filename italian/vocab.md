@@ -2,6 +2,8 @@
 
 al - to
 
+l'ape - bee
+
 # b
 
 la bottiglia - the bottle
@@ -62,6 +64,8 @@ il giornale - a newspaper
 
 un fagiolo - a bean
 
+la formica - ant
+
 # h
 
 ho - i have
@@ -104,6 +108,10 @@ nello - in
   - Ê nello zucchero - in the sugar
 
 nel - inside
+
+# o
+
+- l'orso - bear
 
 # p
 

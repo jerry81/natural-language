@@ -143,6 +143,10 @@ ou - or
 ours - bear
 - (r silent)
 
+# p
+
+une professeure - 教授
+
 # s
 
 Salut - Hi/goodbye

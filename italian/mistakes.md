@@ -196,3 +196,23 @@
 47.  他吃一个豆子
 - Lei mangia un fagiolo - incorrect
 - Lui mangia un fagiolo - correct
+
+48.  男人吃巧克力冰淇凌
+- L'uomini mangiano gelato al cioccolato - incorrect
+- L'uomo mangia il gelato al cioccolato - correct
+
+47.  我吃一个巧克力味饼干
+- Io mangio un biscotti al ciocolatto - incorrect
+- Io mangio un biscotto al cioccolato - correct
+
+48.  我吃糖
+- Io mangio zucherro - incorrect
+- Io mangio lo zucchero - correct
+
+49.  男孩们写
+- Ragazzi scrivono - incorrect
+- I ragazzi scrivono - correct
+
+50.  他喝咖啡
+- Il beve cafe - incorrect
+- Lui beve caffe - correct
