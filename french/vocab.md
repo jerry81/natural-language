@@ -95,6 +95,8 @@ garçon - boy
 gâteau - cake
 - pronounced gatoo
 
+la gare - train station
+
 # h
 
 - un homme - man
@@ -167,3 +169,5 @@ travaille - to work
 # v
 
 va - go
+
+vais - i go

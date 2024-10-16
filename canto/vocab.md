@@ -2,6 +2,8 @@
 
 - 邊位 bin1wai2 - which person
 
+- 白話 - baak6waa2 - cantonese
+
 # c
 
 - 出口 - ceot1hau2

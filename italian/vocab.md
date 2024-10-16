@@ -4,6 +4,8 @@ al - to
 
 l'ape - bee
 
+l'anatra - duck
+
 # b
 
 la bottiglia - the bottle
@@ -100,6 +102,9 @@ il manzo - beef
 le mucche - cows
 - la mucca - cow
 
+la mosca - the fly
+- like moth/mosquito
+
 # n
 
 Noi - we
@@ -127,6 +132,9 @@ ragazze - girls
 
 ragazzi - boys
 
+ragno - spider
+- arachno
+
 # s
 
 sei - are
@@ -140,6 +148,9 @@ spaiacente - sorry
 
 - la scimmia - monkey
 - the scheming monkey
+
+- lo squalo - the shark
+- squalid shark
 
 # t
 

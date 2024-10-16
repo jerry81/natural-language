@@ -115,3 +115,7 @@
 27.  ¡Tu apartmamento es bonito!
 - Your apartment is very pretty! - incorrect
 - Your apartment is pretty! - correct
+
+28.  He has pizza
+- у неё есть пицца - incorrect
+- У него есть пицца - correct

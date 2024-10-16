@@ -27,7 +27,8 @@
 
 читаем -> chitayem -> we read
 
-человек -> chelovek -> cello player is human
+человек -> chelovek -> person
+- cello player is human
 
 что -> chto -> what
 
@@ -123,6 +124,9 @@
 лук -> luk -> onion
 
 лосьон -> los'ion -> lotion
+
+лошадь -> loshad' -> horse
+- lo and behold, the horse shat
 
 # м
 

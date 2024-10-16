@@ -13,6 +13,8 @@ Review
 
 ビロード - velvet
 
+ビジョン　→ vision
+
 # d
 
 ## デ

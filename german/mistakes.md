@@ -628,3 +628,15 @@
 139.  Gehen Sie elf Minuten geradeaus
 - Go straight ahead six minutes - incorrect
 - Go eleven minutes straight ahead - correct
+
+140.  Do you hear me?
+- Hort sie mich? - incorrect
+- Hörst du mich? - correct
+
+141.  Horray, the fries are for me!
+- Hurah, die pommes sind fur mich - incorrect
+- Hurra, die Pommes sind für mich! - correct
+
+142.  Oh, the game ends at eight o'clock
+- Oh, das Spiel endet am acht uhr - incorrect
+- Oh, das Spiel endet um acht Uhr - correct

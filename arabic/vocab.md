@@ -4,6 +4,8 @@
 
 بَدا - badda - he appeared
 
+بَدْر - badr - full moon
+
 # k
 
 كاذَب - kaadhab - untruthful

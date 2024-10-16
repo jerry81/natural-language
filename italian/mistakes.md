@@ -216,3 +216,7 @@
 50.  他喝咖啡
 - Il beve cafe - incorrect
 - Lui beve caffe - correct
+
+51.  我们读一本书
+- Noi leggono un libro - incorrect
+- Noi leggiamo un libro - correct
