@@ -228,6 +228,8 @@
 ति - ti
 - "ti" in stick
 
+टी - tii
+
 # u
 
 - ऊ - uu

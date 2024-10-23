@@ -35,6 +35,8 @@ mascotas - pets
 
 novia - girlfriend
 
+negocios - businesses
+
 ## p
 
 pagar - pay

@@ -32,6 +32,10 @@
 
 - 隔離 - gaak3lei4 - 旁边
 
+# h
+
+- 好低 - hou2dai2 - 划算
+
 # k
 
 - 傾緊 - king1gan2 - 正在
@@ -48,6 +52,8 @@
 
 - 咪喐 - mai5juk1 - 不要动
 
+- 唔單止 - m4daan1zi2 - 不只
+
 # p
 
 - 拍拖 - paai1to1 - 谈恋爱
@@ -62,6 +68,14 @@
 
 - 曬 - saai3 - 十分
 
+- 濕濕說啫 - sap1sap1seoi3ze1 -> 小意思/简单
+
 # w
 
 - 搵唔到 - wan2m4dou2 - 找不到
+
+- 話你知 - waa6nei5zi1 - 告诉你
+
+# z
+
+- 啫 - ze1 - 而已

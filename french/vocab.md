@@ -11,6 +11,8 @@ aime - to like
 avec - with
 - pronounced "ah-vehk"
 
+l'avion - airplane
+
 # b
 
 bon - good
@@ -149,6 +151,8 @@ ours - bear
 
 une professeure - 教授
 
+prends - (you) ride
+
 # s
 
 Salut - Hi/goodbye
@@ -171,3 +175,7 @@ travaille - to work
 va - go
 
 vais - i go
+
+voiture - car
+
+une valise - luggage

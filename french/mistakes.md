@@ -173,3 +173,10 @@
 - Elle parle chinois et anglaise - incorrect
 - Elle parle chinois et anglais. - correct
 
+41.  Paul 说西班牙语和法语
+- Paul parle espagnol et frances - incorrect
+- Paul parle espagnol et francais - correct
+
+42.  一本好书
+- Un bonne livre - incorrect
+- Un bon livre - correct

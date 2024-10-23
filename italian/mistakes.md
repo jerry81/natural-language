@@ -220,3 +220,23 @@
 51.  我们读一本书
 - Noi leggono un libro - incorrect
 - Noi leggiamo un libro - correct
+
+52.  老鼠吃奶酪
+- Topo mangia formaggio - incorrect
+- Il topo mangia il formaggio - correct
+
+53.  我们是女人
+- Noi sono donne - incorrect
+- Siamo donne - corect
+
+54.  Io ho i polli
+- 我有一个鸡 - incorrect
+- 我有鸡 - correct
+
+55.  我吃苹果
+- Io mangia l'mela - incorrect
+- Io mangia le mele - correct
+
+56.  Non ho un gatto.
+- 没有一只猫 - incorrect
+- 我没有一只猫 - correct

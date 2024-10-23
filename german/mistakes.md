@@ -640,3 +640,22 @@
 142.  Oh, the game ends at eight o'clock
 - Oh, das Spiel endet am acht uhr - incorrect
 - Oh, das Spiel endet um acht Uhr - correct
+
+143.  Duo and Mia, are you coming to the party or not?
+- Duo und Mia, kommt ihr am party oder nicht? - incorrect
+- Duo und Mia, kommt ihr zur Party oder nicht? - correct
+
+144.  You never play chess
+- Spielst du nie Schach - incorrect
+- Du spielst nie Schach - correct
+
+145.  Die Mädchen - incorrect
+- das Mädchen - correct
+
+146.  We go surfing once per week
+- Wir surfen gehen einmal pro Woche - incorrect
+- Wir gehen einmal pro Woche surfen - correct
+
+147.  It is a quarter till seven.
+- Es ist um viertel vor sieben - incorrect
+- Es ist Viertel vor sieben - correct

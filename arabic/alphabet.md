@@ -28,15 +28,20 @@
 
 ك - k
 
+
+# r
+
+ر - r
+
+# t
+
+ت - it's like ii but the dots are on top
+
 # u
 
 ُ  - u
 
 و - uu
-
-# r
-
-ر - r
 
 # y
 

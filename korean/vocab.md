@@ -2,6 +2,8 @@
 
 꼿다발 -> "gogdabae" -> bouquet
 
+깎다 -> "kkakkda" -> to beat down/shave
+
 # ㅏ
 
 악 -> 'ahg' -> evil
@@ -16,6 +18,8 @@
 
 아니에요 -> "aniyeo" -> "isn't"
 
+안녕히 계세요 -> "annyeonghi gyeseyo" -> goodbye
+
 # ㅓ
 
 얼마 -> "eolma" - how much
@@ -23,6 +27,9 @@
 얼글 -> "eolgeul" -> face
 
 어디 -> "eodi" -> where
+
+어서 오세요 -> "eoseo oseyo" -> welcome
+
 
 # ㅓ
 
@@ -120,11 +127,17 @@
 돼지 -> dwaeji -> pig
 - derpy chicken
 
+닦다 -> dakkda - to polish
+
 # ㅌ
 
 택시 -> "taeg shi" -> taxi
 
 # ㄱ
+
+고마워요 - "gomawoyo" - thank you
+
+괜찮아요 - "gwaenchanh-ayo" -> are you ok/ no problem
 
 개 -> gae -> dog
 - faggot dog
@@ -158,6 +171,8 @@
 
 # ㅈ
 
+잘 부탄드려요 - jal butandeulyeoyo - 请多关照
+
 저는 -> "jeoneun" -> I
 
 저이 -> "jeoui" -> my
@@ -184,6 +199,10 @@
 출신 -> "chulsin" -> origin
 
 # ㅁ
+
+미안합니다 -> "mianhabnida" -> i'm sorry
+
+만나서 반가워요 -> "mannaseo bangawoyo" -> nice to meet you
 
 물 -> mul -> water - mulled water
 
@@ -223,6 +242,8 @@
 
 나라 -> nara -> country -> nara from the african country
 
+낚시 -> nakkshi -> fishhook
+
 # ㅎ
 
 햇빛 -> "haebib" -> sunlight
@@ -252,6 +273,9 @@
 로 -> "loo" -> as
 
 # ㅅ
+
+실레합니다 -> sillehabnida -> i'm sorry
+-> silly ray
 
 시계 -> sigye -> clock
 - like cantonese

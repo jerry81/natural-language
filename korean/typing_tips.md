@@ -48,4 +48,5 @@
 - y e o -> ㅕ
 - J -> ㅉ
 - D -> ㄸ
-
+- gwaen -> 괜 (not goaen)
+- caenh -> 챊
