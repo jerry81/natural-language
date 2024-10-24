@@ -180,3 +180,10 @@
 42.  一本好书
 - Un bonne livre - incorrect
 - Un bon livre - correct
+
+43.  japan - incorrect
+- japonais - correct (japanese language)
+
+44.  对不起，你叫什么名字
+- Excuse moi, comment t'appeles - incorrect
+- Excuse-moi, comment tu t'appeles - correct

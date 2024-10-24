@@ -240,3 +240,19 @@
 56.  Non ho un gatto.
 - 没有一只猫 - incorrect
 - 我没有一只猫 - correct
+
+57.  奶牛是一种动物
+- le mucce e un animale - incorect
+- La mucca è un animale - correct
+
+58.  我们是女人
+- Noi sono donne - incorrect
+- Siamo donne - correct
+
+59.  他吃巧克力奶油
+- Lui magia crema al cioccolato - incorrect
+- Lui mangia la crema al cioccolato - correct
+
+60.  巧克力味的奶油
+- Il crema al cioccolato - incorrect
+- Crema al cioccolato - correct

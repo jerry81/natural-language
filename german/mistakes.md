@@ -659,3 +659,12 @@
 147.  It is a quarter till seven.
 - Es ist um viertel vor sieben - incorrect
 - Es ist Viertel vor sieben - correct
+
+148.  He meets his roomates at the coffee shop every day.
+- Er trifft seine Mitbewohner im Café jeden tag - incorrect
+- Er trifft seine Mitbewohner jeden Tag im Café - correct
+- action, condition, when, where
+
+149.  Is it still early?
+- Es ist noch früh? - incorrect
+- Ist es noch früh? - correct

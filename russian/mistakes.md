@@ -79,4 +79,9 @@
 12.  у ты есть ребёнок? - incorrect
 - у тебя есть ребёнок? - correct
 
-13.
+13. Thanks, I already have water
+- спосибо, у меня уже здесь вода - incorrect
+- спосибо, у меня уже есть вода - correct
+
+14.  у наже есть ребёнок - incorrect
+- у нас есть ребёнок - correct

@@ -119,3 +119,7 @@
 28.  He has pizza
 - у неё есть пицца - incorrect
 - У него есть пицца - correct
+
+29.  ¿Tú quieres tener un trabajo?
+- Do you want a job? - incorrect
+- Do you want to have a job?  - correct

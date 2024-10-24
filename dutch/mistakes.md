@@ -472,3 +472,7 @@
 102.  We wear shirts and shoes.
 - Wij dragen hemden en schoen - incorrect
 - Wij dragen hemden en schoenen - correct
+
+103.  Men read the newspaper.
+- Mens lezen de krant - incorrect
+- Mannen lezen de krant - correct
