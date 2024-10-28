@@ -55,6 +55,8 @@ Review
 
 ## キ
 
+キッカケ　→ opportunity
+
 キンギョ → goldfish
 
 # n

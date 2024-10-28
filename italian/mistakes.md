@@ -256,3 +256,11 @@
 60.  巧克力味的奶油
 - Il crema al cioccolato - incorrect
 - Crema al cioccolato - correct
+
+61.  一只蜘蛛
+- Un rachne - incorrect
+- Un ragno - correct
+
+62.  蜘蛛是一种动物
+- I ragno e un animale - incorrect
+- Il ragno è un animale - correct

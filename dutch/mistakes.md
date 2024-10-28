@@ -476,3 +476,7 @@
 103.  Men read the newspaper.
 - Mens lezen de krant - incorrect
 - Mannen lezen de krant - correct
+
+104. I am wearing underwear, pants and a shirt.
+- Ik draag ondergoed broek en een hemd.  - incorrect
+- Ik draag ondergoed, een broek en een hemd - correct

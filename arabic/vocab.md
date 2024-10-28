@@ -8,6 +8,8 @@
 
 بَجادي - bajady - garnet (gem)
 
+باي - bye
+
 # d
 
 دَجاج - dajaj - chickens

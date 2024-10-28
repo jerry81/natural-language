@@ -187,3 +187,7 @@
 44.  对不起，你叫什么名字
 - Excuse moi, comment t'appeles - incorrect
 - Excuse-moi, comment tu t'appeles - correct
+
+45.  C'est l'aéroport.
+- 这是一个机场 - incorrect
+- 这是机场 - correct

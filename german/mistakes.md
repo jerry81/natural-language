@@ -668,3 +668,12 @@
 149.  Is it still early?
 - Es ist noch früh? - incorrect
 - Ist es noch früh? - correct
+
+150.  Ich esse morgens und abends eine Banane.
+- I eat in the morning and a banana in the evening. - incorrect
+- I eat a banana in the morning and in the evening. - correct
+
+151.  Go straight ahead for approximately twenty minutes.
+- Gehen Sie geradeaus circa zwanzig Minuten - incorrect
+- Gehen Sie circa zwanzig Minuten geradeaus - correct
+

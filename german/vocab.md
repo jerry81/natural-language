@@ -875,6 +875,9 @@ Die Rückkehr - return trip
 
 # S
 
+schinken - ham
+- stylish ham, schick schinken
+
 schick - stylish
   - like "shiek"
 
