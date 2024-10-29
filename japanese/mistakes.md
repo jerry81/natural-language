@@ -842,3 +842,8 @@
 179.  昨日は全然嬉しくなかった
 - 昨天一点儿都不高兴 - incorrect
 - 昨天一点儿也不高兴 - correct
+
+180.  再不见他了
+- 彼にもう見てない - incorrect
+-　もう彼に会わない - correct
+- もう　goes in front here, 会える　to meet 見る to look at

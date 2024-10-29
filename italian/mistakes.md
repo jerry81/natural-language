@@ -264,3 +264,7 @@
 62.  蜘蛛是一种动物
 - I ragno e un animale - incorrect
 - Il ragno è un animale - correct
+
+63.  蜜蜂吃糖
+- L'ape mangia zucchero - incorrect
+- L'ape mangia lo zucchero - correct

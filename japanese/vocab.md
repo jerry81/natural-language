@@ -130,6 +130,10 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 何とか　→ なんとか　→ somehow
 
+## ね
+
+ねずみ　→ mouse
+
 # p
 
 ## パ
@@ -198,3 +202,9 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 ## ゆ
 
 ゆっくり - slowly
+
+# z
+
+## ざ
+
+座席　→ ざせき　→ seat

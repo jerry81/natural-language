@@ -42,6 +42,8 @@
 
 # ㅂ
 
+부엌 -> bueok -> kitchen
+
 밥 -> bab -> rice
 
 배꼽 -> baeggop -> navel
@@ -89,6 +91,8 @@
 음식 -> eumsik -> food -> like cantonese, mmm sik
 
 # ㅣ
+
+있다 -> itda -> has/there is
 
 이에요 -> "ieyeo" -> "is"
 

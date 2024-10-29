@@ -1,5 +1,7 @@
 # b
 
+بَيْت - bayt - house
+
 باب - bab - door
 
 بَدا - badda - he appeared
@@ -19,3 +21,9 @@
 كاذَب - kaadhab - untruthful
 
 كَبَد - kabad - liver
+
+# t
+
+تِتِك - titik - tic/trigger
+
+تَوْب - tawb - repent

@@ -677,3 +677,5 @@
 - Gehen Sie geradeaus circa zwanzig Minuten - incorrect
 - Gehen Sie circa zwanzig Minuten geradeaus - correct
 
+152.  Siebzehn - correct
+- siebsig - incorrect

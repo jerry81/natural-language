@@ -51,6 +51,8 @@ Review
 
 ## コ
 
+コッソリ　→ secretly
+
 コンロ　→ stove
 
 ## キ
@@ -72,3 +74,9 @@ Review
 ## ピ
 
 ピュア - pure
+
+# r
+
+## ラ
+
+ラッシュ　→ rush (rush hour)
