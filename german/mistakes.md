@@ -679,3 +679,7 @@
 
 152.  Siebzehn - correct
 - siebsig - incorrect
+
+153.  Er trifft seine Eltern morgen im Restaurant
+- He is meeting his parents at the restaurant - incorrect
+- He is meeting his parents tomorrow at the restaurant - correct

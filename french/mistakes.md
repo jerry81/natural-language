@@ -191,3 +191,18 @@
 45.  C'est l'aéroport.
 - 这是一个机场 - incorrect
 - 这是机场 - correct
+
+46.  我乘坐汽车
+- Je prend la voiture - incorrect
+- Je prends la voiture - correct
+
+47.  乘火车
+- Prends en train - incorrect
+- en train - correct
+
+48.  Paul 去蒙特利尔
+- Paul vais à Montréal - incorrect
+- Paul va à Montréal - correct
+
+49.  Tu vais à Berlin - incorrect
+- Tu vas à Berlin - correct

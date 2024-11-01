@@ -480,3 +480,19 @@
 104. I am wearing underwear, pants and a shirt.
 - Ik draag ondergoed broek en een hemd.  - incorrect
 - Ik draag ondergoed, een broek en een hemd - correct
+
+105.  Am I not writing?
+- Ij schrijf niet? - incorrect
+- Schrijf ik niet? - correct
+
+106.  I am not walking, I am writing.
+- Ik loop niet, ik schrive - incorrect
+- Ik loop niet, ik schrijf - correct
+
+107.  I do not cook, she cooks
+- Ik kook niet, ze kookt - incorrect
+- Ik kook niet, zij kookt - correct
+
+108.  I am a man.
+- Ik ben een mens - incorrect
+- Ik ben een man - correct

@@ -33,3 +33,7 @@ datda->
 - 씨는 이름은 지수예요 - incorrect
 - 저의 이름은 지수예요 - correct
 - vocab, 씨는 "you"
+
+3.  마리아씨,고마워요,지수씨
+- 玛丽亚谢谢不智秀 incorrect
+- 玛丽亚谢谢不客气智秀 correct

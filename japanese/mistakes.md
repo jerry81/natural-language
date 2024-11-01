@@ -847,3 +847,7 @@
 - 彼にもう見てない - incorrect
 -　もう彼に会わない - correct
 - もう　goes in front here, 会える　to meet 見る to look at
+
+181.  以前、会社はそこで、便利だった.
+- 以前公司那边很方便 - incorrect
+- 以前， 公司在那边， 很方便 - correct

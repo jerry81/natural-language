@@ -123,3 +123,11 @@
 29.  ¿Tú quieres tener un trabajo?
 - Do you want a job? - incorrect
 - Do you want to have a job?  - correct
+
+30.  Él tiene un negocio con la señora Ramos.
+- He has business with Mrs. Ramos - incorrect
+- He has a business with Mrs. Ramos - correct
+
+31.  El jefe lee los mensajes ahora
+- The boss is reading the messages today - incorrect
+- The boss is reading the messages now - correct

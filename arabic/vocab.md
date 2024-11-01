@@ -18,6 +18,12 @@
 
 # k
 
+ذُباب - dhubab - fly (insect)
+
+كوداك - kudak - kodak
+
+كَذا - kadha - so and so/such and such
+
 كاذَب - kaadhab - untruthful
 
 كَبَد - kabad - liver

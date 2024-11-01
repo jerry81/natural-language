@@ -268,3 +268,7 @@
 63.  蜜蜂吃糖
 - L'ape mangia zucchero - incorrect
 - L'ape mangia lo zucchero - correct
+
+64.  糖果在盘子里
+- La caramella sono nel piatto - incorrect
+- Le caramelle sono nel piatto - correct

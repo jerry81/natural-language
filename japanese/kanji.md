@@ -50,6 +50,10 @@
 
 便利　→ べんり
 
+## ぼ
+
+お盆　→ お盆　→ some festival (ancestral spirits)
+
 # c
 
 ## ち

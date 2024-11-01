@@ -31,6 +31,8 @@ Review
 
 ゴルジ　→ gorge
 
+ゴールデンウィーク　→ golden week
+
 # i
 
 ## イ
