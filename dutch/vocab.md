@@ -108,6 +108,7 @@ hoor - (i) hear
 hun - them (possessive) "their"
 
 hen - them (as object)
+hem - him
 
 # j
 

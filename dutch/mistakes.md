@@ -496,3 +496,19 @@
 108.  I am a man.
 - Ik ben een mens - incorrect
 - Ik ben een man - correct
+
+109.  Are you cooking them?
+- Koken hem ze? - incorrect
+- Koken jullie ze? - correct
+
+110.  Ik kook het niet.
+- I am not cooking - incorrect
+- I am not cooking it - correct
+
+111.  The girl sees me.
+- De meisje ziet mij - incorrect
+- Het meisje ziet mij - correct
+
+112.  The boy does not hear you.
+De jongen hoort jij niet - incorrect
+De jongen hoort jullie niet - correct

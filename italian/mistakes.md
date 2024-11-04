@@ -272,3 +272,11 @@
 64.  糖果在盘子里
 - La caramella sono nel piatto - incorrect
 - Le caramelle sono nel piatto - correct
+
+65.  我吃苹果
+- Io mangio l'mela - incorrect
+- Io mangio le mele - correct
+
+66.  我写书
+- Io scrivo i libri - incorrect
+- Io scrivo libri - correct

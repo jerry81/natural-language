@@ -131,3 +131,7 @@
 31.  El jefe lee los mensajes ahora
 - The boss is reading the messages today - incorrect
 - The boss is reading the messages now - correct
+
+32.  Yo no estudio francés
+- I do not speak French - incorrect
+- I do not study French - correct

@@ -13,6 +13,8 @@ avec - with
 
 l'avion - airplane
 
+as - (you) have
+
 # b
 
 bon - good

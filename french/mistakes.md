@@ -206,3 +206,7 @@
 
 49.  Tu vais à Berlin - incorrect
 - Tu vas à Berlin - correct
+
+50.  你有机票吗
+- Tu ha un billet d'avion - incorrect
+- Tu as un billet d'avion - correct

@@ -683,3 +683,11 @@
 153.  Er trifft seine Eltern morgen im Restaurant
 - He is meeting his parents at the restaurant - incorrect
 - He is meeting his parents tomorrow at the restaurant - correct
+
+154.  My husband really likes to eat fish with rice.
+- Mein Mann isst sehr gern Fisch mit rijst - incorrect
+- Mein Mann isst sehr gern Fisch mit Reis - correct
+
+155.  No, I don't speak English
+- Nein ich spreche keine Englisch - incorrect
+- Nein, ich spreche kein Englisch - correct

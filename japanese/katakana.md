@@ -15,11 +15,21 @@ Review
 
 ビジョン　→ vision
 
+## バ
+
+バッタ　→ locust
+
 # d
 
 ## デ
 
 デット　→　date
+
+# f
+
+## フ
+
+フラッシュ　→ flash
 
 # g
 
