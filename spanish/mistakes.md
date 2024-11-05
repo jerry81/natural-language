@@ -135,3 +135,11 @@
 32.  Yo no estudio francés
 - I do not speak French - incorrect
 - I do not study French - correct
+
+33.  A table for three people.
+- Un mes para tres personas - incorrect
+- Una mesa para tres personas. - correct
+
+34.  Where is my book?
+- Donde es mi livro - incorrect
+- ¿Dónde está mi libro? - correct

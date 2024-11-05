@@ -122,6 +122,8 @@ jurk - dress
 
 jou - you(object)
 
+jouw - your
+
 # k
 
 de kleren - the clothes
@@ -186,6 +188,8 @@ ondergoed - underwear
 
 oude - old
 - sounds similar
+
+onze - our
 
 # p
 
@@ -254,6 +258,7 @@ Welterusten - "velterusten" - note completely different from good morning/evenin
 ze - she, they, them
 
 zijn - are
+zijn - his
 
 het zout - salt
 

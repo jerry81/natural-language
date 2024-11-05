@@ -69,6 +69,8 @@
 
 # h
 
+ह - ha
+
 है - hai
 - "hai" in "hair"
 
@@ -207,6 +209,7 @@
   - श is a palatal sound, produced with the tongue closer to the palate
 - ष is less common and often used in Sanskrit-derived words
 - in modern Hindi, ष is often pronounced the same as श
+- appears with dot under s in some places
 
 - सौ - sau
 - "so" in "solid"

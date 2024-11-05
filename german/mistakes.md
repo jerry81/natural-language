@@ -691,3 +691,7 @@
 155.  No, I don't speak English
 - Nein ich spreche keine Englisch - incorrect
 - Nein, ich spreche kein Englisch - correct
+
+156.  I don't like to eat ham.
+- Ich esse gern Schinken - incorrect
+- Ich esse nicht gern Schinken - correct

@@ -175,6 +175,8 @@
 
 # ㅈ
 
+전화 -> "jeonhwa" -> phone
+
 잘 부탄드려요 - jal butandeulyeoyo - 请多关照
 
 저는 -> "jeoneun" -> I
@@ -250,6 +252,8 @@
 
 # ㅎ
 
+화장실 -> "hwajangsil" -> bathroom (makeup room)
+
 햇빛 -> "haebib" -> sunlight
 
 한번 -> hanbeon -> once
@@ -277,6 +281,8 @@
 로 -> "loo" -> as
 
 # ㅅ
+
+사과 -> sagwa -> apple
 
 실레합니다 -> sillehabnida -> i'm sorry
 -> silly ray

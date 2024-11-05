@@ -1,5 +1,7 @@
 # b
 
+بيوت - biut - houses
+
 بَيْت - bayt - house
 
 باب - bab - door

@@ -210,3 +210,13 @@
 50.  你有机票吗
 - Tu ha un billet d'avion - incorrect
 - Tu as un billet d'avion - correct
+
+51.  Paul vas à Montréal - incorrect
+- Paul va à Montréal - correct
+
+52.  Tu vais à la gare. - incorrect
+- Tu vas à la gare - correct
+
+53.  我乘坐飞机
+- Je prend l'avion - incorrect
+- Je prends l'avion - correct
