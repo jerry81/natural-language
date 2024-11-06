@@ -143,3 +143,7 @@
 34.  Where is my book?
 - Donde es mi livro - incorrect
 - ¿Dónde está mi libro? - correct
+
+35.  I want to buy clothes
+- Yo quiero comprar la ropa - incorrect
+- Yo quiero comprar ropa - correct

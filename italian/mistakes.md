@@ -280,3 +280,11 @@
 66.  我写书
 - Io scrivo i libri - incorrect
 - Io scrivo libri - correct
+
+67.  你吃糖
+- Tu manges lo zucchero - incorrect
+- Tu mangi lo zucchero - correct
+
+68.  他又睡在被子里
+- Lui ha l'acqua nel bichierri - incorrect
+- Lui ha acqua nel bicchiere - correct

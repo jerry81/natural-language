@@ -695,3 +695,11 @@
 156.  I don't like to eat ham.
 - Ich esse gern Schinken - incorrect
 - Ich esse nicht gern Schinken - correct
+
+157.  A round-trip ticket only costs twenty euros
+- Eine Hin-ruckfahrt kostet nur zwanzig euro - incorrect
+- Eine Hin-und Ruckfahrt kostet nur zwanzig Euro - correct
+
+158.  Thank you, but i Don't eat meat.
+- Danke, aber ich esse keine Fleisch - incorrect
+- Danke, aber ich esse kein Fleisch - correct
