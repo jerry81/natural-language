@@ -288,3 +288,7 @@
 68.  他又睡在被子里
 - Lui ha l'acqua nel bichierri - incorrect
 - Lui ha acqua nel bicchiere - correct
+
+69.  我有鱼
+- Io ho pesci - incorrect
+- Io ho i pesci - correct

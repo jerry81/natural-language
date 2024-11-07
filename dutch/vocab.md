@@ -237,6 +237,8 @@ een uil - owl
 
 # v
 
+van mij - mine
+
 vers - fresh
 - fresh, fersh, vers
 

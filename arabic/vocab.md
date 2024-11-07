@@ -1,5 +1,7 @@
 # b
 
+بارِد - barid - cold
+
 بيوت - biut - houses
 
 بَيْت - bayt - house
@@ -30,7 +32,20 @@
 
 كَبَد - kabad - liver
 
+# j
+
+جَدّي - jaddii - my grandfather
+- note suffix ي is possessive particle
+
+# r
+
+رَباب - rabaab - rebab (musical instrument)
+
 # t
+
+تَدْرُج - tadruj - pheasant/graduation
+
+تابوت - tabut - coffin
 
 تِتِك - titik - tic/trigger
 

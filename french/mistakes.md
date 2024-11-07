@@ -220,3 +220,7 @@
 53.  我乘坐飞机
 - Je prend l'avion - incorrect
 - Je prends l'avion - correct
+
+54.  一只猫吃一个牛角面包
+- Un chat mangia un croissant - incorrect
+- Un chat mange un croissant - correct

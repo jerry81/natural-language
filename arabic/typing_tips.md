@@ -5,5 +5,6 @@
 - i.e. يَ - ya
 
 - option + o -> gives the small circle
+- option + w - gives the w (doubler modifier)
 
 - ذ - shift+d
