@@ -292,3 +292,7 @@
 69.  我有鱼
 - Io ho pesci - incorrect
 - Io ho i pesci - correct
+
+70.  我们是女人
+- Noi siamo ragazze - incorrect
+- Siamo donne - correct

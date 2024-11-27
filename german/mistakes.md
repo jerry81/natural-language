@@ -703,3 +703,33 @@
 158.  Thank you, but i Don't eat meat.
 - Danke, aber ich esse keine Fleisch - incorrect
 - Danke, aber ich esse kein Fleisch - correct
+
+159.  Das Zucker - incorrect
+- Der Zucker - correct
+
+160.  My daughter is smart, she studies history.
+- Meine Tochter ist klug, sie lernt Geschichte - incorrect
+- Meine Tochter ist klug, sie studiert Geschichte - correct
+
+161.  Is it already raining?
+- Ist es schon regnet? - incorrect
+- Regnet es schon? - correct
+
+162.  Is your birthday in April or in May?
+- Hast du deine Geburtstag im April oder im Mai - incorrect
+- Hast du im April oder im Mai Geburtstag - correct
+
+163.  Do you already have a sofa for the living room?
+- Hast du schon einen sofa fur das wohnzimmer - incorrect
+- Hast du schon ein sofa für das Wohnzimmer?  - correct
+
+164.  Do you already have a coffee table?
+- Hast du schon ein Kaffeetisch - incorrect
+- Hast du schon einen Kaffeetisch - correct
+
+165.  We still have to buy a pillow.
+- Wir noch ein Kopfkissen kaufen. - incorrect
+- Wir müssen noch ein Kopfkissen kaufen - correct
+
+166.  Do you need a sofa for the living room?
+- Brauchst du ein sofa für das Wohnzimmer

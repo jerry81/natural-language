@@ -143,6 +143,8 @@
 
 ## は
 
+発音　→ はつおん　→ pronunciation
+
 貼って　→ はって → stick
 
  母親　→ ははおや　→ mother
@@ -382,6 +384,8 @@ islam教　→ きょう
 
 ## こ
 
+言　→ こと　→ word
+
 交番　→ こうばん　→ police box → 交警numba one!
 
 困り　→ こまり　→ trouble → 怖い　困り
@@ -408,6 +412,8 @@ islam教　→ きょう
 壊れた　 → こわれた
 
 ## く
+
+呉れる　→ くれる　→ to do a favor for
 
 比べて　→ くらべて　→ more than
 
@@ -504,6 +510,10 @@ islam教　→ きょう
 
 胸　 → むね
 
+## め
+
+珍しい　→ めずらしい　→ rare
+
 # n
 
 ## ぬ
@@ -572,6 +582,10 @@ islam教　→ きょう
 # o
 
 ## お
+
+夫　→ おっと　→ husband
+
+お陰　→ おかげ　→ thanks to
 
 終わり　→ おわり
 
@@ -645,6 +659,8 @@ islam教　→ きょう
 
 ## せ
 
+世話　→ せわ　→ take care of
+
 石鹸　→ せっけん　→ soap
 
 説明して　→ せつめいして　→ explain
@@ -672,6 +688,8 @@ islam教　→ きょう
 背　→ せ　→ physique, body
 
 ## し
+
+主人　→ しゅじん　→ husband
 
 締めて　→ しめて　→ tie ( a necktie )
 
@@ -812,7 +830,9 @@ islam教　→ きょう
 
 ## つ
 
-続き　→ continue
+妻　→ つま　→ wife
+
+続き　→ つづき　→ continue
 
 次　(つぎ) - next
 
@@ -897,6 +917,8 @@ islam教　→ きょう
 弱い　→ よわい
 
 ## ゆ
+
+有料　→ ゆうりょう　→ not free
 
 唯一　 → ゆいいつ
 
