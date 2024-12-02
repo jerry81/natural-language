@@ -50,3 +50,7 @@ It’s something you might hear in a heated argument or a tough, rebellious char
 - こいつにも湘北高の恐ろしさを教える必要がありそうだな - i think we need to teach this guy about the horrors of shohoku high school
 - こいつ　→ this guy
 - 恐る　→ be afraid
+
+- ブツ殺せ　→ Kill the thing!
+- 打つ殺せ　→ hit and kill
+- 殺せ　→ ころせ
