@@ -473,6 +473,8 @@ islam教　→ きょう
 
 ## み
 
+湖　→ みずうみ
+
 認めた　→ みとめた　→ recognized as
 
 見た目が　 → appearance
@@ -519,6 +521,8 @@ islam教　→ きょう
 ## ぬ
 
 抜く　(ぬく)
+
+濡れて　→ ぬれて　→ make wet
 
 ## の
 
@@ -582,6 +586,8 @@ islam教　→ きょう
 # o
 
 ## お
+
+折る　→ おる　→ to break
 
 夫　→ おっと　→ husband
 
@@ -688,6 +694,10 @@ islam教　→ きょう
 背　→ せ　→ physique, body
 
 ## し
+
+鹿　→ しか
+
+色　→ しき
 
 主人　→ しゅじん　→ husband
 

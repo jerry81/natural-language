@@ -732,4 +732,18 @@
 - Wir müssen noch ein Kopfkissen kaufen - correct
 
 166.  Do you need a sofa for the living room?
-- Brauchst du ein sofa für das Wohnzimmer
+- Braust du ein sofa für das Wohnzimmer - incorrect
+- Brauchst du ein Sofa für das Wohnzimmer?  - correct
+
+167.  Do you already have a coffee table?
+- Hast du schon ein Kaffetisch?  - incorrect
+- Hast du schon einen Kaffeetisch?  - correct
+
+168.  Do you already have a sofa for the living room?
+- Hast du ein sofa fur das wohnzimmer?  - incorrect
+- Hast du schon ein Sofa für das Wohnzimmer?  - correct
+
+169.  Our neighbor's name is Anna.
+- Unser nachbar heiße Anna - incorrect
+- Unser Nachbarin heißt Anna - correct
+
