@@ -40,3 +40,13 @@ It can be translated as "sniff" or "sob" in English, but it's often left untrans
 ら (ra) is a pluralizing suffix, so てめーら refers to a group of people, often with a hostile or confrontational tone.
 It’s something you might hear in a heated argument or a tough, rebellious character addressing others in a manga.
 ```
+
+
+- このがキヤ - "this guy"
+- ゲホッゴホツ -
+
+- 許（ゆる）さね　のはこっちだ　→ please forgive me
+
+- こいつにも湘北高の恐ろしさを教える必要がありそうだな - i think we need to teach this guy about the horrors of shohoku high school
+- こいつ　→ this guy
+- 恐る　→ be afraid
