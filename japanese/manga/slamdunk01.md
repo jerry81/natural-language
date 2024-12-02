@@ -54,3 +54,27 @@ It’s something you might hear in a heated argument or a tough, rebellious char
 - ブツ殺せ　→ Kill the thing!
 - 打つ殺せ　→ hit and kill
 - 殺せ　→ ころせ
+
+- よしいこぜ屋上　- ok let's go to the rooftop
+
+- 三年だろ　が　なんだろ　が　関係ねえ　ブツ　つぶしてやる - it's been 3 years, but it doesn't matter, i'll crush it
+ー 関係ねえ　→ it doesn't matter
+- 潰してやる　→ つぶしてやる　→ i'll destroy it
+
+- どこ行くんだおめ ら二人で　- where are you going, you two
+
+- 殺気立っちゃってケンカだなさては - im getting angry and starting a fight
+- 殺気　→ さっき　→ murderous intent
+
+- なんだよおめ　らにやかんけ　ねよ - what is it
+
+- 無難だと - it's safe
+
+- おめ　ら　なんか最近俺たちを　扱いしてね　か - how have you been treating us lately
+- 俺たち　→ おえたち　→ us
+- 扱いして　→ あつかいして　→ treat/handle
+
+- フザケンな -> don't be silly
+- よし俺たちも行くぜ -> ok let's go too
+
+- よし　→　okay
