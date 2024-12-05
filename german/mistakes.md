@@ -747,3 +747,57 @@
 - Unser nachbar heiße Anna - incorrect
 - Unser Nachbarin heißt Anna - correct
 
+170.  We have to stay at home today.
+- Wir müssen zu Hause bleiben heute - incorrect
+- Wir müssen heute zu Hause bleiben - correct
+
+171.  Die Küche ist neu und noch nicht schmutzig
+- The kitchen is new and still dirty - incorrect
+- The kitchen is new and still not dirty - correct
+
+172.  Ich gehe im ersten Oktober zum Oktoberfest - incorrect
+- Ich gehe am ersten Oktober zum Oktoberfest - correct
+
+173.  I can't, I have to work at the coffee shop
+- Ich kann nicht, Ich musst ins Café arbeiten - incorrect
+- Ich kann nicht, Ich muss im Café arbeiten - correct
+
+174.  Our son doesn't live alone, he has a fish.
+- Unser Sohn wohnt allein nicht.  Er hat einen Fisch - incorrect
+- Unser Sohn wohnt nicht allein, er hat einen Fisch - correct
+
+175.  Es gibt keinen Aufzug im Mehrfamilenhaus
+- There isn't an elevator in the apartment - incorrect
+- There isn't an elevator in the apartment building - correct
+
+176.  Would you like to hear the band?
+- Mochtest du die band hoorst - incorrect
+- Mochtest du die Band horen - correct
+
+177.  Das Glas Rotwein ist zu klein!
+- The glass of wine is too small - incorrect
+- The glass of red wine is too small - correct
+
+178.  We don't need the desk.
+- Wir brauchen keinen tisch - incorrect
+- Wir brauchen das Schreibtisch nicht - correct
+
+179.  I'm all right.
+- Es geht gut - incorrect
+- Es geht - correct
+
+180.  We are having a party on the fourth of May, are you coming?
+- Wir machen am vierten Mai ein party, kommst du? - incorrect
+- Wir machen am vierten Mai eine Party, kommst du? - correct
+
+181.  Does the elephant play chess every day?
+- Spielt der Elefant schach jeden tag? - incorrect
+- Spielt der Elefant jeden Tag Schach? - correct
+
+182.  Oh no, I don't like the chair
+- Oh nein, Ich mag der stuhl nicht - incorrect
+- Oh nein, ich mag den Stuhl nicht - correct
+
+183.  MAx and Tim, would you like to eat at home?
+- Max und Tim, magst du zu hause essen? - incorrect
+- Max und Tim, möchtet ihr zu hause essen? - correct

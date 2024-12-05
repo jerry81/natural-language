@@ -147,3 +147,7 @@
 35.  I want to buy clothes
 - Yo quiero comprar la ropa - incorrect
 - Yo quiero comprar ropa - correct
+
+36.  The boss wants to read the letter now.
+- El jefe quiere leer la mensaje ahora - incorrect
+- El jefe quiere leer la carta ahora - correct

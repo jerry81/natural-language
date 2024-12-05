@@ -510,5 +510,9 @@
 - Het meisje ziet mij - correct
 
 112.  The boy does not hear you.
-De jongen hoort jij niet - incorrect
-De jongen hoort jullie niet - correct
+- De jongen hoort jij niet - incorrect
+- De jongen hoort jullie niet - correct
+
+113.  The horse drinks water.
+- De paard drinkt water. - incorrect
+- Het paard drinkt water. - correct

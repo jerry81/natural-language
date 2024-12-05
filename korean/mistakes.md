@@ -37,3 +37,7 @@ datda->
 3.  마리아씨,고마워요,지수씨
 - 玛丽亚谢谢不智秀 incorrect
 - 玛丽亚谢谢不客气智秀 correct
+
+4.  约翰，你好！
+- 존,안녱예요 - incorrect
+- 존,안녕 - correct

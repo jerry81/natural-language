@@ -5,6 +5,8 @@
 アイヌ　→ Ainu (people) of hokkaido
 Review
 
+アルバイト　→ part time　（from arbeit, lol)
+
 # b
 
 ## ビ

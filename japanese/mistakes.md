@@ -946,3 +946,36 @@
 205.  我不擅长唱歌
 - 私は歌うが下手です - incorrect
 - 私は歌うのが下手です - correct
+
+206.  请给狗散步好吗
+- 犬を散歩してのいただけませんか - incorrect
+- 犬の散歩をしていただけませんか - correct
+
+207.  また雑誌を買いに来ました
+- 又买杂志了 - incorrect
+- 又来买杂志了 - correct
+
+208.  コンビニへ郵便物を出しに行きます
+- 邮件寄去便利店 - incorrect
+- 去便利店寄邮件 - correct
+- どこか　→ somewhere, anywhere
+
+209.  お待ちかえりできます
+- 带走 - incorrect
+- 能带走 - correct
+
+210.  觉得能去学校
+- 学校へ行けるはと思います　- incorrect
+- 学校へは行けると思います　- correct
+
+211.  不可以问别人
+- 他の人には聞いていけません　- incorrect
+- 他の人に聞いてはいけません　- correct
+
+212.  便当挺贵。
+- お弁当は高いです　 - incorrect
+- お弁当は結構高いです - correct
+
+213.  我不擅长唱歌
+- 私は歌うが下手です - incorrect
+- 私は歌うのが下手です - correct

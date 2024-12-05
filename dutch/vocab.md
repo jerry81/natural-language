@@ -200,6 +200,8 @@ onze - our
 
 - het rok - the skirt
 
+- rustige - quiet
+
 # s
 
 schoon - clean

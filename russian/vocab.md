@@ -345,6 +345,7 @@ morning, utro, utroman
 у нас есть -> we have
 у него есть -> he has
 у неё есть -> she has
+у них есть -> they have
 
 уровень -> urovyen' -> level
 

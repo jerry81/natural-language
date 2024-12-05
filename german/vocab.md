@@ -2,6 +2,8 @@
 
 # A
 
+Ein Aufseher - an attendant
+
 auf jeden Fall - definitely
 
 Aufzug - elevator
@@ -92,6 +94,8 @@ ausliefern - deliver
 Auswirkung - effect
 
 # B
+
+die bettdecke - the bedspread
 
 bar - cash
 
@@ -270,6 +274,8 @@ Das geht - that works
 
 # E
 
+Esszimmer - dining room
+
 entfallen - cancel, omit - fallen, the movie was cancelled
 
 erfolgreich - successful
@@ -421,6 +427,8 @@ fuhrt es dazu - it leads to
 fußgängerzone - pedestrian zone
 
 # G
+
+Ein Genie - genius
 
 getrennt - seperately
 
@@ -609,6 +617,8 @@ jetzt - now (pronounced "yetz")
 
 # K
 
+das kopfkissen - pillow
+
 komischen - strange
 
 kanale - channel
@@ -708,6 +718,8 @@ Lösung - solution
 Luft - air
 
 # M
+
+Mehrfamilienhaus - apartment building
 
 der Mitbewohner - roomate
 
@@ -1008,6 +1020,8 @@ sucht - seeks
 
 # T
 
+Die Treppe - stairs
+
 trifft - he/she/it meets
 
 Die Täter - offenders
@@ -1039,6 +1053,8 @@ Der Tropfen - drop
 Tschuss - bye
 
 # U
+
+überrraschend - surprising
 
 überlegen - think about -> thinking over the legend
 
@@ -1166,6 +1182,8 @@ vorstellung - performance
 
 # W
 
+weich - soft
+
 wirken - to appear, to seem
 
 Eine Wahl - election
@@ -1240,6 +1258,8 @@ wurde - would
 wurden - would
 
 # Z
+
+zurzeit - currently
 
 z.b. - e.g.
 

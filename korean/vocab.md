@@ -90,6 +90,8 @@
 
 음식 -> eumsik -> food -> like cantonese, mmm sik
 
+의자 -> wija -> seat
+
 # ㅣ
 
 있다 -> itda -> has/there is

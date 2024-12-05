@@ -23,6 +23,10 @@ desculpa - excuse me
 
 disfruta - enjoy - the fruits
 
+## h
+
+hornear - baking/to bake
+
 ## m
 
 manzanas - apples
