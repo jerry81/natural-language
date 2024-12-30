@@ -806,3 +806,18 @@
 - Meine Tochter hat mehr keine Zahnschmerzen - incorrect
 - Meine Tochter hat keine Zahnschmerzen mehr - correct
 - mehr goes at the end
+
+185.  I like the apartment
+- Ich mag den wohnung - incorrect
+- Ich mag die Wohnung - correct
+- apartment is feminine
+
+186.  Do you need a sofa for the living room?
+- Braust du ein sofa fur das wohnzimmer - incorrect
+- Brauchst du ein Sofa für das Wohnzimmer? - correct
+
+187.  My wife is a professor, she has too many books.
+- Meine Frau ist Professorin, sie hat zu viele buchen - incorrect
+- Meine Frau ist Professorin, sie hat zu viele bücher - correct
+
+188.
