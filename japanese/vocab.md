@@ -37,6 +37,10 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 びっくり - suprised
 
+## べ
+
+別々　→ seperately
+
 # c
 
 ## ち

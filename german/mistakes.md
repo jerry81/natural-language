@@ -820,4 +820,3 @@
 - Meine Frau ist Professorin, sie hat zu viele buchen - incorrect
 - Meine Frau ist Professorin, sie hat zu viele bücher - correct
 
-188.
