@@ -14,6 +14,7 @@ avec - with
 l'avion - airplane
 
 as - (you) have
+a - (he) has
 
 # b
 

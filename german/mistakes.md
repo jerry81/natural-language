@@ -801,3 +801,8 @@
 183.  MAx and Tim, would you like to eat at home?
 - Max und Tim, magst du zu hause essen? - incorrect
 - Max und Tim, möchtet ihr zu hause essen? - correct
+
+184.  My daughter doesn't have a toothache anymore
+- Meine Tochter hat mehr keine Zahnschmerzen - incorrect
+- Meine Tochter hat keine Zahnschmerzen mehr - correct
+- mehr goes at the end

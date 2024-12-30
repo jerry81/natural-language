@@ -224,3 +224,11 @@
 54.  一只猫吃一个牛角面包
 - Un chat mangia un croissant - incorrect
 - Un chat mange un croissant - correct
+
+55.  Paul有一个手提箱
+- Paul il y a une valise. - incorrect
+- Paul a une valise - correct
+
+56.  她在西班牙工作
+- Elle travaille en espagnol - incorrect
+- Elle travaille en Espagne - correct

@@ -991,3 +991,44 @@
 216.  誰がボタンを押しますか
 - 谁按按钮吗 - incorrect
 - 谁按按钮呢 - correct
+
+217.  その高い枝を降りたい
+- 想折那个树枝 - incorrect
+- 想折那个高的树枝 - correct
+
+218.  谁也不安静下来
+- 誰も静かしない - incorrect
+- 誰も静かにしない - correct
+
+219.  他明天也不来学校
+- 彼は学校にも来ない　- incorrect
+- 彼は明日も学校に来ない - correct
+
+220.  私が料理するのはこれが最初で最後です
+- 这是我做饭是第一次最后一次 - incorrect
+- 我做饭这次是第一次也是最后一次 - correct
+
+221.  彼女は中国語で名前を言った
+- 她说了中文名字 - incorrect
+- 她用中文说了名字 - correct
+
+222.  想要田中先生那样的朋友
+- 田中さんの友達がような欲しいです - incorrect
+- 田中さんのような友達が欲しいです - correct
+
+223. 这个城镇和十年前状况一样
+- この町は十年前様子と同じです - incorrect
+- この町は十年前と様子が同じです - correct
+- this town | with 10 years ago condition | is the same
+
+224.  最初の一ヶ月は大変でした
+- 第一个很辛苦 - incorrect
+- 第一个月很辛苦 - correct
+
+225.  最新のテレビを買いました
+- 买了最新的电脑 - incorrect
+- 买了最新的电视 - correct
+
+226.  難しそうな本を読みました
+- 读了很难的书 - incorrect
+- 读了看上去很难的书 - correct
