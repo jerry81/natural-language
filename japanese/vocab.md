@@ -130,6 +130,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 何とか　→ なんとか　→ somehow
 
+中々　→ very
+
 ## ね
 
 ねずみ　→ mouse

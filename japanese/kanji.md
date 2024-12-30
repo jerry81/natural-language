@@ -346,6 +346,8 @@
 
 ## き
 
+厳しく　→ きびしく →  stern/strict/severe
+
 教科書 → きょうかしょ　→ textbook
 
 厳しく → きびしく → stricter
@@ -592,6 +594,8 @@ islam教　→ きょう
 # o
 
 ## お
+
+可笑しく　→ おかしく → funny/strange
 
 折る　→ おる　→ to break
 
@@ -909,6 +913,8 @@ islam教　→ きょう
 # y
 
 ## や
+
+柔らかく　→ やわらかく　→ 软
 
 痩せった → やせた
 

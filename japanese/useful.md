@@ -109,3 +109,7 @@ x "y"　と言いました
  - ...だと思います.
  - だ　→ です
  - と quoting what you are thinking about.
+
+- more comparing
+- A B　ほど　adj
+ - この犬はあの猫ほど可愛くないです
