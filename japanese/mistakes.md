@@ -1140,3 +1140,12 @@
 253.  请给狗散步好吗
 - 犬の散歩してをいただけませんか - incorrect
 - 犬の散歩をしていただけませんか - correct
+
+252.  彼の痛みを感じだ
+- 他感觉到悲伤 - incorrect
+- 感觉到了他的悲伤 - correct
+
+253.  那个好像坏了
+- それは壊れているです - incorrect
+- それは壊れているみたいだ - correct
+- In Japanese, "みたい" (mitai) is used to express similarity or resemblance.

@@ -820,3 +820,7 @@
 - Meine Frau ist Professorin, sie hat zu viele buchen - incorrect
 - Meine Frau ist Professorin, sie hat zu viele bücher - correct
 
+188.  Yes, we still have a single room available
+- Ja wir noch haben ein Einzelzimmer frei - incorrect
+- Ja, wir haben noch ein Einzelzimmer frei - correct
+- noch after verb

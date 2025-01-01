@@ -516,3 +516,12 @@
 113.  The horse drinks water.
 - De paard drinkt water. - incorrect
 - Het paard drinkt water. - correct
+
+114.  The bear and the mouse
+- het beer en de muis - incorrect
+- de beer en de muis - correct
+
+115.  The apple and the juice
+- het appel en de sap - incorrect
+- de appel en het sap - correct
+- juice is neuter, apple is gendered

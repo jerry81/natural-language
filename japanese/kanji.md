@@ -791,6 +791,8 @@ islam教　→ きょう
 
 死に　→ しに　→ to die
 
+幸せ　→ しあわせ　→ to be happy
+
 ## そ
 
 祖母　→ そぼ　→ grandmother (formal)

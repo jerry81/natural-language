@@ -232,3 +232,7 @@
 56.  她在西班牙工作
 - Elle travaille en espagnol - incorrect
 - Elle travaille en Espagne - correct
+
+57.  J'ai une valise.
+- 我有一个汽车 - incorrect
+- 我有一个手提箱 - correct
