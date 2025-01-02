@@ -296,3 +296,7 @@
 70.  我们是女人
 - Noi siamo ragazze - incorrect
 - Siamo donne - correct
+
+71.  狮子喝水
+- Il leone beva l'acqua - incorrect
+- Il leone beve l'acqua - correct

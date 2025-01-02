@@ -93,6 +93,8 @@ française - French
 une fête - a holiday
 - "fated holiday"
 
+le frère - brother
+
 # g
 
 garçon - boy
@@ -156,11 +158,15 @@ une professeure - 教授
 
 prends - (you) ride
 
+un père - father
+
 # s
 
 Salut - Hi/goodbye
 
 suis - am
+
+son - his
 
 # t
 

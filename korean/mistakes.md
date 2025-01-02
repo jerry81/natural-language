@@ -41,3 +41,7 @@ datda->
 4.  约翰，你好！
 - 존,안녱예요 - incorrect
 - 존,안녕 - correct
+
+5.  여기는 왕명의 학교여요
+- 这里王明的学校 - incorrect
+- 这里是王明的学校 - correct

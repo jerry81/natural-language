@@ -8,6 +8,7 @@
 
 ест -> yest -> eats
 ем -> yem -> (i) eat
+едят -> edyat -> they eating
 
 етот -> etot -> this
 

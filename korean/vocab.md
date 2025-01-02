@@ -206,6 +206,8 @@
 
 출신 -> "chulsin" -> origin
 
+집 -> "jib" -> home
+
 # ㅁ
 
 미안합니다 -> "mianhabnida" -> i'm sorry
@@ -266,6 +268,10 @@
 
 한국 -> hangug -> korea
 
+학교 -> haggyeo -> school
+
+회사 -> hoesa -> company
+
 # ㅍ
 
 편지 -> pyeonji -> letter
@@ -319,3 +325,8 @@
 # ㅆ
 
 씨는 -> "si neun" -> mr./mrs.
+
+# ㅕ
+
+어기는 -> "yeogineun" -> here
+- so 는 -> is "wa" in japanese
