@@ -11,6 +11,7 @@
 едят -> edyat -> they eating
 
 етот -> etot -> this
+ети -> These
 
 # б
 
@@ -317,6 +318,8 @@
 - the lechers come out at вечер
 
 в -> in/at
+
+вы -> you
 
 # х
 

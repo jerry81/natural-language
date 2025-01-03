@@ -205,6 +205,7 @@ onze - our
 # s
 
 schoon - clean
+- like schöen
 
 het schaap - sheep
 - close enough to english

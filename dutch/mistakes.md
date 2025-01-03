@@ -429,6 +429,7 @@
 91.  a full glass and a full bag
 - een vol glas melk en een volle tas - incorrect
 - een vol glas en een volle tas - correct
+- tas is gendered
 
 92.  You do not walk.
 - Jullie loopt niet - incorrect
@@ -525,3 +526,6 @@
 - het appel en de sap - incorrect
 - de appel en het sap - correct
 - juice is neuter, apple is gendered
+
+116.  Zijn het goede of schlecte kranten? - incorrect
+- Zijn het goede of slechte kranten - correct

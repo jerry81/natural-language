@@ -300,3 +300,7 @@
 71.  狮子喝水
 - Il leone beva l'acqua - incorrect
 - Il leone beve l'acqua - correct
+
+72.  企鹅
+- il penguina - incorrect
+- il pinguino - correct

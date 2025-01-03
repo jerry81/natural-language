@@ -1149,3 +1149,18 @@
 - それは壊れているです - incorrect
 - それは壊れているみたいだ - correct
 - In Japanese, "みたい" (mitai) is used to express similarity or resemblance.
+
+254.  そんな景色は見たことがない - correct
+- そんな景色は見ことがない - incorrect
+
+255.  彼女のご主人は優しい人だと思う
+- 觉得她的丈夫是和善人 - incorrect
+- 觉得她的丈夫是和善的人 - correct
+
+256.  彼氏は誰にでも優しい
+- 男朋友对谁也很和善 - incorrect
+- 男朋友对谁都很和善 - correct
+
+257.  あそこは学校だろう
+- 那个是学校吧 - incorrect
+- 那里是学校吧 - correct

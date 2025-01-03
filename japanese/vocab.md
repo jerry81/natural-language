@@ -146,6 +146,12 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 パッと　→ suddenly (colloquial)
 
+# r
+
+## ら
+
+- らしい →　好像
+
 # s
 
 ## さ

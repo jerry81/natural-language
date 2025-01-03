@@ -140,6 +140,8 @@ mange - eats
 m'appelle - to be called
 - Je m'appelle Chappelle
 
+ma - my
+
 # n
 
 nouveau - new
@@ -167,6 +169,10 @@ Salut - Hi/goodbye
 suis - am
 
 son - his
+
+sœur - "sir" - sister
+
+sa - her
 
 # t
 

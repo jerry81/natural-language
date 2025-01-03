@@ -88,3 +88,7 @@
 
 15.  что ты пьёт - incorrect
 - что ты пьёшь - correct
+
+16.  Вы уже в такси
+- You are in the taxi - incorrect
+- You are already in the taxi - correct
