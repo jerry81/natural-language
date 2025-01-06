@@ -192,7 +192,11 @@
 
 обьедать -> ob'yedat' -> overeat
 
+озёра - оzyora -> lakes
+
 # п
+
+полотенце - polotyenche - towel
 
 пока -> bye
 - bye, poka fiend

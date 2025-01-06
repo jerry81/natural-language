@@ -166,6 +166,8 @@ makkelijk - easy
 moeilijk - difficult
 - Moe finds acting moeilijk.
 
+mijn - my
+
 # n
 
 net zoals - just like

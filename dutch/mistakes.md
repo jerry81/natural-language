@@ -529,3 +529,6 @@
 
 116.  Zijn het goede of schlecte kranten? - incorrect
 - Zijn het goede of slechte kranten - correct
+
+117.  Onser kat drinkt melk - incorrect
+- Onze kat drinkt melk - correct

@@ -13,3 +13,10 @@
 झ - type "jh"
 
 ढ़ - type "chdh" - take second
+
+(switched from transliteRaTIOn tO qwERty)
+ण - shift+n
+
+थ - shift-t
+
+ठि - shift+optiOn+t  i

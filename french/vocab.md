@@ -16,6 +16,8 @@ l'avion - airplane
 as - (you) have
 a - (he) has
 
+un animal de compagnie - pet
+
 # b
 
 bon - good
@@ -44,6 +46,8 @@ Comment ça va? - how are you?
 
 Comment - how
 - pronounced "coomon"
+
+una chouette - owl
 
 # ç
 
@@ -142,6 +146,9 @@ m'appelle - to be called
 
 ma - my
 
+mari - husband
+- marry
+
 # n
 
 nouveau - new
@@ -194,3 +201,5 @@ vais - i go
 voiture - car
 
 une valise - luggage
+
+veut - want

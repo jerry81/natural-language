@@ -143,6 +143,8 @@
 # n
 
 न - na
+ण - nna
+
 
 ना - naa
 - "naa" in "naan"

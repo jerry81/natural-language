@@ -146,6 +146,10 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 パッと　→ suddenly (colloquial)
 
+## ぽ
+
+っぽい　→ -isH
+
 # r
 
 ## ら
@@ -167,6 +171,7 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 ## し
 
 しゃっくりをしながら　- while hiccupping (from しゃっくりをする)
+
 ## す
 すぎて - too much
 

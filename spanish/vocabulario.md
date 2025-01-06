@@ -54,6 +54,8 @@ salgo - I have a date
 
 siempre - always
 
+soprendido - surprised
+
 # t
 
 la taza - cup

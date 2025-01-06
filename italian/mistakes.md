@@ -304,3 +304,7 @@
 72.  企鹅
 - il penguina - incorrect
 - il pinguino - correct
+
+73.  你是一只老虎
+- Tu es una tigre - incorrect
+- Tu sei una tigre - correct
