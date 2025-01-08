@@ -1113,6 +1113,8 @@ untersuchen - checkup
 
 # V
 
+verärgert - angry
+
 viertel - quarter
 
 verändern - change

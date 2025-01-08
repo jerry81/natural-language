@@ -149,6 +149,8 @@ ma - my
 mari - husband
 - marry
 
+une maison - the house
+
 # n
 
 nouveau - new

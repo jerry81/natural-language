@@ -23,6 +23,10 @@ desculpa - excuse me
 
 disfruta - enjoy - the fruits
 
+## g
+
+genial - great
+
 ## h
 
 hornear - baking/to bake
@@ -63,3 +67,5 @@ la taza - cup
 # v
 
 el vestido - dress
+
+vete - go away

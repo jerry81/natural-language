@@ -824,3 +824,11 @@
 - Ja wir noch haben ein Einzelzimmer frei - incorrect
 - Ja, wir haben noch ein Einzelzimmer frei - correct
 - noch after verb
+
+139.  Mia and Kurt, do you want to go to Oktoberfest?
+- Mia und Kurt, wollt ihr ins Oktoberfest gehen?  - incorrect
+- Mia und Kurt, ollt ihr zum Oktoberfest gehen?  - correct
+
+140.  Mr. Graf, you have to exercise in the evenings.
+- Herr Graf, Sie müssen machen viel Sport abends.  - incorrect
+- Herr Graf, Sie mussen abends Sport machen - correct
