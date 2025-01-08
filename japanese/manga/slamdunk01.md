@@ -78,3 +78,23 @@ It’s something you might hear in a heated argument or a tough, rebellious char
 - よし俺たちも行くぜ -> ok let's go too
 
 - よし　→　okay
+
+- page 164
+- 俺　- オレ　
+- なんせ　→ after all
+- 勝った　→ かった　→ won
+- さっさと並ばんか　→ quickly get in line
+- 並ばん　→ ならばん → get in line
+- いきなり → suddenly
+- 殴られてるぞ → なぐられてるぞ → being beaten
+- あいつら - those guys
+- 並べ → lined up
+- はみ出てるぞ → はみだしてるぞ　→ sticking out!
+- 整列　→ せいれつ　→ alignment
+- 役割 → やくわり　→ role
+- 磨き → みがき　→ polish
+- 絶対　→ ぜったい　→ absolute
+- 欠かさない　→ かかさない　→ do not miss it
+- たった　→ only
+- 奴　→ やつ　→ guy
+- 応援 → 応援　→ root for/support
