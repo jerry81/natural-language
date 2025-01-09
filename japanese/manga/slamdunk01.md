@@ -98,3 +98,29 @@ It’s something you might hear in a heated argument or a tough, rebellious char
 - たった　→ only
 - 奴　→ やつ　→ guy
 - 応援 → 応援　→ root for/support
+
+- page 167
+- 出身　→ しゅっしん　→ birthplace
+- 桑田　→ くわた
+- フオワード　→ forward
+-　ドリプル → dribble
+- しっかりやっていかんと生き残れんぞ頑張れよ -　if you don't do it properly you won't survive, so do your best!
+  - しっかり　→ properly
+  - 生き残れんぞ　→ you won't survive
+  - 生き残れる　→ survive
+- 富ヶ丘中出身 - とみがおかちゅうしゅっしん　→ from tomigaoka junior high
+- 別に決まってなかって → undecided
+ - 別に　→ meaning 1: separately, meaning 2: not particularly
+- 一人で全部やってたぜアイツは　- he did everything by himself.
+- やってた　→ past progressive form: was doing
+- アイツ　→ that guy, that person, casual
+- そんな感じだったよな → that's what it felt like
+- 寝太郎　→　ねたろう　→　There is a famous Japanese folktale character called 寝太郎.
+- そのうえ → besides
+- 固まっち → かたまっち　→ hardened
+- 潮﨑　→ しおざき
+- 木暮　→ きぐれ
+- 赤木剛憲　→ あかたけのり
+- 経験者　→ けいけんしゃ　→ veterans
+- ほんとだそりやあ助かるなうちは人数少ないから → i really hope you can help me, there are only a few people here
+  - そりやあ → short version of それは
