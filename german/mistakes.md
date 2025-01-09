@@ -832,3 +832,11 @@
 140.  Mr. Graf, you have to exercise in the evenings.
 - Herr Graf, Sie müssen machen viel Sport abends.  - incorrect
 - Herr Graf, Sie mussen abends Sport machen - correct
+
+141.  Du sprichst gut Schwedisch!
+- You speak Swedish very well! - incorrect
+- You speak Swedish well! - correct
+
+142.  It is windy.
+- Ist windig - incorrect
+- Es ist windig - correct
