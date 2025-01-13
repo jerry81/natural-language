@@ -138,3 +138,40 @@ It’s something you might hear in a heated argument or a tough, rebellious char
 - 図に載らないよにな　→ it's not on the diagram
   - 図に載らない　→ ずにのらない　
 - なぜオレの　→ why me
+
+- p. 172
+- こりや　→ short form of これは
+- だからね → that's why
+- 喜んで　→ よろこんで　→ willingly
+- 喜んでいいのかな　→ should i be happy?
+- 部活　→ ぶかつ　→ club activities
+- ますます　→ increasingly
+- こちらこそ → you're welcome
+- はっきり　→ clearly
+- 制覇 → せいは　→ conquest
+- 厳しい練習になることは覚悟しとけ → be prepared for strict practice
+- 厳しい　→ きびしい
+- 覚悟　→ かくご　→ determination
+- 当然　→ とうぜん
+
+p. 174
+- 張り切ってな　→ はりきってな　→ i'm excited
+- 頼む　→ たのむ　→ ask
+- 初心者　→ しょしんしゃ　→ beginner
+- 基礎　→ きそ　→ basics
+- みっちり
+- みっちり can describe rigorous training, an intense workload, or tightly packed schedules, often appearing when a character is undergoing intensive effort or being overloaded with work or tasks.
+
+p. 176
+- くっそ　→ damn it
+- なんでオレだけ隅っここんな - why am i the only one in the corner
+- 隅っこ　→ すみっこ　→ corner
+- 逆　→ ぎゃく　→ reverse
+- ほら　→ look
+- 腰が上がってきたぞ　→　waist is rising!
+- 腰　→ こし
+- 落として → drop it
+- 落　→ お
+- 基本姿勢　→ きほんしせい
+- 醜態　→ しゅうたい　→ disgusting
+- 入部一日目のその夜彼は自らのどりぷうの音が耳から離れず中々眠れなかったという -> that night, the first night of joining the club he couldn't sleep because of the sound was ringing in his ears.
