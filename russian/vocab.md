@@ -354,6 +354,7 @@ morning, utro, utroman
 у него есть -> he has
 у неё есть -> she has
 у них есть -> they have
+у вас есть -> you have
 
 уровень -> urovyen' -> level
 
@@ -397,6 +398,8 @@ morning, utro, utroman
 - tam is there
 
 тарелка -> taryelka -> plate
+
+тетрадь -> tyetrad' -> notebook
 
 # ц
 

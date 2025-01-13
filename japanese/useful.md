@@ -113,3 +113,6 @@ x "y"　と言いました
 - more comparing
 - A B　ほど　adj
  - この犬はあの猫ほど可愛くないです
+
+- a then b
+- a と、b

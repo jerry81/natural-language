@@ -15,6 +15,7 @@ l'avion - airplane
 
 as - (you) have
 a - (he) has
+avons - have
 
 un animal de compagnie - pet
 
@@ -155,6 +156,12 @@ une maison - the house
 
 nouveau - new
 
+Nous - our
+
+ne - don't
+- used with pas to form negative
+- ne {verb} pas
+
 # o
 
 ou - or
@@ -170,6 +177,9 @@ une professeure - 教授
 prends - (you) ride
 
 un père - father
+
+du poisson - fish
+du = de le (of the)
 
 # s
 
@@ -205,3 +215,5 @@ voiture - car
 une valise - luggage
 
 veut - want
+
+viande - meat

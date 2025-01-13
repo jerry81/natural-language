@@ -6,6 +6,8 @@ l'ape - bee
 
 l'anatra - duck
 
+l'arancia - orange
+
 # b
 
 la bottiglia - the bottle
@@ -67,6 +69,8 @@ il giornale - a newspaper
 un fagiolo - a bean
 
 la formica - ant
+
+la fragola - strawberry
 
 # h
 

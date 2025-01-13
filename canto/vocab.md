@@ -76,6 +76,8 @@
 
 - 濕濕說啫 - sap1sap1seoi3ze1 -> 小意思/简单
 
+- 辛苦 - san1fu2
+
 # w
 
 - 搵唔到 - wan2m4dou2 - 找不到

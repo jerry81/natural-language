@@ -840,3 +840,22 @@
 142.  It is windy.
 - Ist windig - incorrect
 - Es ist windig - correct
+
+143.  Können Sie bite den Flughafen nehmen? - incorrect
+- Können Sie bitte die Kreditkarte nehmen? - correct
+
+144.  We want to visit you in September.
+- Wir wollen im september dich besuchen - incorrect
+- Wir wollen dich im September besuchen - correct
+
+145.  You are sick, Duo, go to the doctor!
+- Du bist krank, Duo, geht zum Arzt - incorrect
+- Du bist krank, Duo, geh zum Arzt - correct
+
+146.  Where is the ICE to Vienna
+- Wo ist der ice nach wein - incorrect
+- Wo ist der ICE nach Wien - correct
+
+147.  Hurra, ich bin gesund und so glücklich!
+- Horray I am healthy and happy - incorrect
+- Horray I am healthy and so happy! - correct

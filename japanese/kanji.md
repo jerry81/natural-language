@@ -362,6 +362,8 @@
 
 ## き
 
+機会　→ きかい
+
 厳しく　→ きびしく →  stern/strict/severe
 
 教科書 → きょうかしょ　→ textbook
@@ -616,6 +618,8 @@ islam教　→ きょう
 ## ね
 
 願い ねがい　- wish 愿
+
+値引き　→ ねびき　→ discount
 
 # o
 

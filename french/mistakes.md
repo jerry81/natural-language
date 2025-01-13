@@ -236,3 +236,9 @@
 57.  J'ai une valise.
 - 我有一个汽车 - incorrect
 - 我有一个手提箱 - correct
+
+58.  Tu travaille à Paris? - incorrect
+- Tu travailles à Paris? - correct
+
+59.  Je travaille à Espagne - incorrect
+- Je travaille en Espagne - correct
