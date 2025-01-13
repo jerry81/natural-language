@@ -124,3 +124,17 @@ It’s something you might hear in a heated argument or a tough, rebellious char
 - 経験者　→ けいけんしゃ　→ veterans
 - ほんとだそりやあ助かるなうちは人数少ないから → i really hope you can help me, there are only a few people here
   - そりやあ → short version of それは
+
+- p. 170
+- 遅れちゃって　→ おくれちゃって　→ i'm late
+- 彩子 → あやこ
+- チワス　→ shortened version of こんにちは　
+- また背伸びたんじゃない　→ i guess i've grown taller again
+- 背伸　→ せの
+- あんたにもあかぎ先輩たちも即戦力として大いに期待してるからね - both you and your seniors Akagi, have high expectations for your ability to work immediately
+- 即戦力　→ そくせんりょく　→ ready to work
+- 余計なこと → よけいなこと　→ unnecessary things
+- 余計なこと言うんじゃねえよ　→ don't say unnecessary things
+- 図に載らないよにな　→ it's not on the diagram
+  - 図に載らない　→ ずにのらない　
+- なぜオレの　→ why me
