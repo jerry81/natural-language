@@ -113,6 +113,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 ## も
 
+もし　→　如果
+
 もしれない - could be, might be
 
 もらえます - i can get

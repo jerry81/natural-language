@@ -155,3 +155,7 @@
 37.  You also feel happy.
 - Tú sientes también feliz - incorrect
 - Tú también te sientes feliz - correct
+
+38.  Las ciudades de Canadá
+- New cities of Canada - incorrect
+- The cities of Canada - correct
