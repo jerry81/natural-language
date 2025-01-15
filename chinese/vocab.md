@@ -188,6 +188,7 @@
 
 # M
 
+面貌共襄盛举 - mia4nmao4gong4xiang3sheng4ju3 - celebrate the grand event together
 
 马克。吐温 - mark twain
 
@@ -244,6 +245,7 @@
 
 # Q
 
+翘首以盼 - qiao4shou3yi3pan4 - looking forward to it
 
 脐带 - umbilical cord
 
@@ -356,6 +358,7 @@
 
 # W
 
+帷幕 - wei2mu4 - curtain
 
 往复 - back and forth
 
@@ -375,6 +378,8 @@
 
 
 # X
+
+衔接 - xian2jie1 - connect
 
 下属 - subordinate - not 下手, 手下 - assistant
 
