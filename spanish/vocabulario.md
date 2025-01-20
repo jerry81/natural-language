@@ -17,6 +17,8 @@ boleta - ticket
 la cartera - purse
 - cards go into the purse
 
+una cita - date
+
 ## d
 
 desculpa - excuse me

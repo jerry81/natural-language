@@ -859,3 +859,9 @@
 147.  Hurra, ich bin gesund und so glücklich!
 - Horray I am healthy and happy - incorrect
 - Horray I am healthy and so happy! - correct
+
+148.  Wo gross ist die duche - incorrect
+- Wie gross ist die Dusche - correct
+
+149.  Wo ist ihren Pass?  Wir brauchen Ihr Pass - incorrect
+- Wo ist Ihr Pass?  Wir brauchen Ihren Pass - correct

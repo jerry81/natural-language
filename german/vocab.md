@@ -428,6 +428,8 @@ fußgängerzone - pedestrian zone
 
 # G
 
+Geschwister - siblings
+
 Ein Genie - genius
 
 getrennt - seperately

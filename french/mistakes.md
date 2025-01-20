@@ -242,3 +242,7 @@
 
 59.  Je travaille à Espagne - incorrect
 - Je travaille en Espagne - correct
+
+60.  Elle parle avec son père?
+- 她是和她父亲吗 - incorrect
+- 她和她的父亲说话吗 - correct

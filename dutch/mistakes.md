@@ -532,3 +532,10 @@
 
 117.  Onser kat drinkt melk - incorrect
 - Onze kat drinkt melk - correct
+
+118.  I am eating soup and you are eating rice.
+- Ik eet soep en jullie eet rijst - incorrect
+- Ik eet soep en jij eet rijst - correct
+
+119.  Wij zijn geen jongens - incorrect
+- We zijn geen jongens - correct
