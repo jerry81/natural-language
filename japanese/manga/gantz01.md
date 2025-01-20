@@ -75,5 +75,3 @@
 - 震えてるぜ → ふるえてる　→ shaking
 
 - 人の死体見るのやっぱ怖いか → ひとのしたいみるのやっぱこわいか　→ is it scary to see a dead body
-
--
