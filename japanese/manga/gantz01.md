@@ -10,9 +10,47 @@
 - 有難 - ありが（とう）
 - 努力 - どりょく
 - 人頼り　→ ひとだより　→  rely on others
-- マナク面　→ stupid face
+- 間抜け面　→ stupid face
 - バツきり → crossed out
 - 世の中 → よのなか
-- バツきり言つて見下ている
+- 間抜け面　→ マヌケめん
+- バツきり言つて見下ている - i'm clearly looking down on the world
 - 言つて　→ げんつて
 - 見下している　→ みおろしている　→ look down on
+- こんなマヌケ面してなんだか　- why do you look so foolish
+
+- その辺のオッサンも長く生きててもたいして深いこと考えてねだろ
+  - even if those old men live a long time, they still thing about very deep things
+- その辺　→ そのへん　→ around that area
+- オッサン　→ old man
+- 深い　→ ふかい　→ deeply
+
+- もちろん若い奴はなおさらだ脳ミソッルッルに違いない
+- of coures young people must have brains, especially young ones
+- 奴　→ やつ
+- 脳　→ のう
+
+- こいつ　→ this guy
+- 加藤勝　→ かとうまさる
+
+- たぶん　→ maybe
+
+- 小さい頃の面影が
+- 面影 - おもかげ　→ resemblance
+
+- 小学校転校してから　→ しょうがっこうてんこうしてから　→ after changing elementary schools
+
+- ずいぶん荒れてるって聞いただけど　- i heard it's pretty rough
+
+- ずいぶん → quite a bit
+- 荒れてる　→ it's rough
+
+- よく遊んだよな → よこあすんだよな　→ you had a good time
+
+- うん一番遊んでたのがコイツだ　this is the one i played with the most
+
+- フラフラって　→ floating around
+
+- 勝手に自分で落ちたんだよ → fell by himself
+- 勝手に　→ かって　→ arbitrarily
+- 落ち → おち
