@@ -54,3 +54,26 @@
 - 勝手に自分で落ちたんだよ → fell by himself
 - 勝手に　→ かって　→ arbitrarily
 - 落ち → おち
+
+- やべ　→ oh no
+
+- 酔っぱらってんな　→ よっぱらってんな　→ drunk
+
+- 降りて助ける奴なんかかいねよな → can someone get down and help
+- 降りて　→ おりて　→ get off
+
+- もしかたらこのままいくと　→ maybe it will continue like this
+- もしかしたら　→ maybe
+
+- 人間がバラバラになるとこ見れるぞ - you can see people falling apart
+- バラバラ　→ falling apart
+
+- 映画とか漫画でしか見たことねもんな　→ i've only seen it in movies and comics
+
+- マジ　→ seriously
+
+- 震えてるぜ → ふるえてる　→ shaking
+
+- 人の死体見るのやっぱ怖いか → ひとのしたいみるのやっぱこわいか　→ is it scary to see a dead body
+
+-
