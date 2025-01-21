@@ -274,6 +274,8 @@ Das geht - that works
 
 # E
 
+Enkelin - granddaughter
+
 Esszimmer - dining room
 
 entfallen - cancel, omit - fallen, the movie was cancelled

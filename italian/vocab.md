@@ -64,6 +64,12 @@ Gli - The (plural)
 
 il giornale - a newspaper
 
+gusto - taste
+
+la griglia - grill
+
+il ghiaccio - the ice
+
 # f
 
 un fagiolo - a bean
@@ -71,6 +77,8 @@ un fagiolo - a bean
 la formica - ant
 
 la fragola - strawberry
+
+fame - hunger
 
 # h
 
@@ -155,6 +163,8 @@ spaiacente - sorry
 
 - lo squalo - the shark
 - squalid shark
+
+il succho - the juice
 
 # t
 

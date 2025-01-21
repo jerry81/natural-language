@@ -83,6 +83,7 @@
 우유 -> uyu -> milk
 
 위에 -> uie -> on
+- kind of like japanese
 
 # ㅗ
 
@@ -117,6 +118,7 @@
 
 책상 -> "chaegsang" - desk
 책 -> "chaeg" -> book
+- jake likes to read books
 
 # ㄷ
 
@@ -217,6 +219,7 @@
 출신 -> "chulsin" -> origin
 
 집 -> "jib" -> home
+- jibjab homepage, also like mandarin
 
 # ㅁ
 
@@ -279,8 +282,17 @@
 한국 -> hangug -> korea
 
 학교 -> haggyeo -> school
+- like canto
 
 회사 -> hoesa -> company
+
+회사에 - in the company
+회사 - company
+"like chinese but with hoes"
+
+# ㅔ
+
+에 - 'e' - particle indicating location
 
 # ㅍ
 
