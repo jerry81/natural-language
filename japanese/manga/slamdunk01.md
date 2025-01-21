@@ -175,3 +175,16 @@ p. 176
 - 基本姿勢　→ きほんしせい
 - 醜態　→ しゅうたい　→ disgusting
 - 入部一日目のその夜彼は自らのどりぷうの音が耳から離れず中々眠れなかったという -> that night, the first night of joining the club he couldn't sleep because of the sound was ringing in his ears.
+
+- p. 184
+- おい、あんまりくっつくなよ　→ hey don't get too close
+
+- 全く　→ まったく　→ absolutely
+
+- しょうがねえなあ　- it can't be helped
+- しょうがねえなあのはお前だ　- it's you who can't help it
+
+- 現実はこれから苦笑 - the reality will be bitter from here on
+- 苦笑　→ くしょう
+
+- 手下だね →　てしただね　→ be a minion
