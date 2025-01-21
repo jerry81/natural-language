@@ -82,6 +82,8 @@
 
 우유 -> uyu -> milk
 
+위에 -> uie -> on
+
 # ㅗ
 
 옷 -> "ot" -> clothes
@@ -95,6 +97,7 @@
 # ㅣ
 
 있다 -> itda -> has/there is
+있어요 -> isseoyo -> polite there is/exists
 
 이에요 -> "ieyeo" -> "is"
 
@@ -104,11 +107,16 @@
 
 일본 -> "ilbon" -> japan
 
+이 -> "i" -> subject marker
+
 # ㅊ
 
 침 -> "chim" -> saliva
 
 찾다 -> "chatda" -> find
+
+책상 -> "chaegsang" - desk
+책 -> "chaeg" -> book
 
 # ㄷ
 
@@ -170,6 +178,8 @@
 과일 -> gwail -> fruit
 - like guava
 - guava?  eeeew
+
+과 -> gwa -> and
 
 # ㅋ
 
@@ -275,6 +285,8 @@
 # ㅍ
 
 편지 -> pyeonji -> letter
+
+펜 -> pen -> pen
 
 # ㅉ
 
