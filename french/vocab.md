@@ -62,6 +62,10 @@ una chouette - owl
 
 chanson - song
 
+# d
+
+dans - in
+
 # e
 
 Enchanté - delighted (nice to meet you)

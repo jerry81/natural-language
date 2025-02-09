@@ -865,3 +865,7 @@
 
 149.  Wo ist ihren Pass?  Wir brauchen Ihr Pass - incorrect
 - Wo ist Ihr Pass?  Wir brauchen Ihren Pass - correct
+
+150.  The internship ends in January.
+- Der praktikum endet im Januar - incorrect
+- Das Praktikum endet im Januar - correct

@@ -246,3 +246,10 @@
 60.  Elle parle avec son père?
 - 她是和她父亲吗 - incorrect
 - 她和她的父亲说话吗 - correct
+
+61. - Elle est coreen? - incorrect
+-  Elle est coréene? - correct
+
+62.  我有一间公寓
+- Je ai une appartement - incorrect
+- J'ai un appartement - correct

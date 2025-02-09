@@ -160,4 +160,6 @@
 - New cities of Canada - incorrect
 - The cities of Canada - correct
 
-39.
+39. It is a very prety city.
+- Es una ciudad bonito - incorrect
+- Es una ciudad muy bonito - correct
