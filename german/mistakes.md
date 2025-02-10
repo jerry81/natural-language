@@ -869,3 +869,18 @@
 150.  The internship ends in January.
 - Der praktikum endet im Januar - incorrect
 - Das Praktikum endet im Januar - correct
+
+151.  My turtle doesn't need any free time
+- Meine schildkrote bracht keine Freizeit - incorrect
+- Meine schildkröte braucht keine Freizeit - correct
+
+152.  Your cat often eats yogurt for breakfast
+- Deine Katze isst oft johgurt für fruhstuck - incorrect
+- Deine Katze isst oft Johhgurt zum Frühstuck - correct
+
+153.  Du hast heute Geburtstag, magst du eine Party? - incorrect
+- Du hast heute Geburtstag, machst du eine Party? - correct
+
+154.  My birthday is in April
+- Ich habe mein geburtstag im April - incorrect
+- Ich habe im April geburtstag - correct

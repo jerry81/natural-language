@@ -539,3 +539,9 @@
 
 119.  Wij zijn geen jongens - incorrect
 - We zijn geen jongens - correct
+
+120.  Jullie schrive boeken - incorrect
+- Jullie schrijven boeken - correct
+
+121.  Ik horen een dier - incorrect
+- Ik hoor een dier - correct

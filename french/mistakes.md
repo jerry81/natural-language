@@ -253,3 +253,7 @@
 62.  我有一间公寓
 - Je ai une appartement - incorrect
 - J'ai un appartement - correct
+
+63.  我的女儿想要一只狗
+- Mon fille veut un chien - incorrect
+- Ma fille veut un chien - correct

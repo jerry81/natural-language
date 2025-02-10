@@ -113,6 +113,8 @@ gâteau - cake
 
 la gare - train station
 
+la grandmere - the grandmother
+
 # h
 
 - un homme - man

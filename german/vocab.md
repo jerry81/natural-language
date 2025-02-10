@@ -891,6 +891,8 @@ Die Rückkehr - return trip
 
 # S
 
+eine Schildkröte - a turtle
+
 schinken - ham
 - stylish ham, schick schinken
 

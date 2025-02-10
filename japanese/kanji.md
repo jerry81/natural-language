@@ -455,6 +455,8 @@ islam教　→ きょう
 
 ## く
 
+口に合い　→ くちにあい　→ 合胃口 -> palatable
+
 呉れる　→ くれる　→ to do a favor for
 
 比べて　→ くらべて　→ more than

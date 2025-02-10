@@ -55,6 +55,8 @@ Review
 
 ## ジ
 
+ジャガイモ　→ potato
+
 ジャンル　→ genre
 
 # k

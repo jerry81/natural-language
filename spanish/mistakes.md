@@ -163,3 +163,7 @@
 39. It is a very prety city.
 - Es una ciudad bonito - incorrect
 - Es una ciudad muy bonito - correct
+
+40.  They are Mrs. Garcia and Mrs. Castro
+- Ellas son señora garcia y señora castro - incorrect
+- Ellas son señora garcia y castro - correct
