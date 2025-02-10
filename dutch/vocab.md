@@ -121,8 +121,10 @@ Jullie - you (plural)
 jurk - dress
 
 jou - you(object)
+- yours (singular)
 
 jouw - your
+- yours (plural)
 
 # k
 
@@ -178,6 +180,8 @@ Nederlands - dutch (language)
 
 niet - not
 - like nicht
+
+naam - name
 
 # o
 

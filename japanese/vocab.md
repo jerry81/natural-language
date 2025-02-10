@@ -70,6 +70,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 ## ふ
 
+ふた　→ lid
+
 降(ふ)っている - falling
 
 # h
@@ -171,6 +173,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 そして - and
 
 それから　→ and then
+
+それとも　→ or
 
 ## し
 

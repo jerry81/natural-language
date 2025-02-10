@@ -884,3 +884,7 @@
 154.  My birthday is in April
 - Ich habe mein geburtstag im April - incorrect
 - Ich habe im April geburtstag - correct
+
+155.  My grandfather's name is Peter.
+- Meine opa heißt peter.  - incorrect
+- Mein Großvater heißt Peter - correct

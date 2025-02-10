@@ -54,6 +54,10 @@ pagar - pay
 pájaro - bird
 - but not parrot
 
+## r
+
+la reserva - reservation
+
 ## s
 
 salgo - I have a date

@@ -257,3 +257,6 @@
 63.  我的女儿想要一只狗
 - Mon fille veut un chien - incorrect
 - Ma fille veut un chien - correct
+
+64.  inglaterre - incorrect
+- angleterre - correct

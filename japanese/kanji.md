@@ -376,6 +376,8 @@
 
 ## き
 
+刻む　→ きざむ　→ to cut/carve
+
 機会　→ きかい
 
 厳しく　→ きびしく →  stern/strict/severe
@@ -422,7 +424,7 @@ islam教　→ きょう
 
 ## こ
 
-お岡に
+細かく　→ こまかく　→ thinly
 
 殺す　→ ころす　→ kill
 
@@ -587,6 +589,8 @@ islam教　→ きょう
 残す　→ のこす　→ leave
 
 ## な
+
+鍋　→ なべ
 
 亡くなります　→ なくなります　→ to pass away
 
