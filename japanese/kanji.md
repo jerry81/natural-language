@@ -485,6 +485,8 @@ islam教　→ きょう
 
 ## ま
 
+混ぜる → まぜる　→ mix
+
 真夏　→ まなつ　→ midsummer
 
 間違える　→ まちがえる → make a mistake

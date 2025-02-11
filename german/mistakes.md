@@ -888,3 +888,8 @@
 155.  My grandfather's name is Peter.
 - Meine opa heißt peter.  - incorrect
 - Mein Großvater heißt Peter - correct
+
+156.  He meets his roomates at the coffee shop every day
+- Er trefft seine mitbewohnern jeden Tag im Café - incorrect
+- Er trifft seine Mitbewohner jeden Tag im Café - correct
+
