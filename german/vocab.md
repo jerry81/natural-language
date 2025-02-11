@@ -93,6 +93,8 @@ ausliefern - deliver
 
 Auswirkung - effect
 
+die Anzahl - the numer
+
 # B
 
 die bettdecke - the bedspread
@@ -273,6 +275,10 @@ Durchsage - broadcast
 Das geht - that works
 
 # E
+
+einzugrenzen - limit
+
+einbauen - install
 
 Enkelin - granddaughter
 
@@ -846,6 +852,8 @@ praktisch - practical
 
 # R
 
+rienkommen - come
+
 Riesenrad - Ferris wheel
 
 raus - out
@@ -890,6 +898,8 @@ Ruhe - quiet
 Die Rückkehr - return trip
 
 # S
+
+schau - look
 
 eine Schildkröte - a turtle
 
@@ -1266,6 +1276,8 @@ wurde - would
 wurden - would
 
 # Z
+
+zäöhlen - count
 
 zurzeit - currently
 
