@@ -260,3 +260,7 @@
 
 64.  inglaterre - incorrect
 - angleterre - correct
+
+65.  一个男人吃一块巧克力
+- Un garçon mange un chocolat - incorrect
+- Un homme mange un chocolat - correct

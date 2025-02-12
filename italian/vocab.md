@@ -49,6 +49,8 @@ Cavallo - horse
 cane - dog
 I cani - dogs
 
+il coltello - knife
+
 # d
 
 donna - woman
@@ -132,10 +134,16 @@ nel - inside
 
 # p
 
+pranzo - lunch
+- prawns for lunch
+
 il piatto - the plate
 
 prego - you're welcome
 - spaghetti sauce, you're welcome
+
+il pasto - food
+- like antipasto
 
 # r
 
