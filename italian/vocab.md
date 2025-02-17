@@ -145,6 +145,10 @@ prego - you're welcome
 il pasto - food
 - like antipasto
 
+# q
+
+- qui - here
+
 # r
 
 ragazza - girl
@@ -156,6 +160,8 @@ ragno - spider
 - arachno
 
 # s
+
+scuola - school
 
 sei - are
 

@@ -129,6 +129,8 @@
 
 普段　→ ふだん　→ usually, normally
 
+蓋　→ ふた
+
 # g
 
 ## が

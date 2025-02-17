@@ -167,3 +167,7 @@
 40.  They are Mrs. Garcia and Mrs. Castro
 - Ellas son señora garcia y señora castro - incorrect
 - Ellas son señora garcia y castro - correct
+
+41.  She is writing a letter for the boss.
+- Ella escribe una carta por el jefe - incorrect
+- Ella escribe una carta para el jefe - correct

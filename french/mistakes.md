@@ -264,3 +264,11 @@
 65.  一个男人吃一块巧克力
 - Un garçon mange un chocolat - incorrect
 - Un homme mange un chocolat - correct
+
+66.  Paul 和她的姐妹说话
+- Paul parle avec son sœur - incorrect
+- Paul parle avec sa sœur - correct
+
+67.  他说西班牙语和法语吗
+- Elle parle espagnol et francais - incorrect
+- Il parle espagnol et français - correct

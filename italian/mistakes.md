@@ -308,3 +308,11 @@
 73.  你是一只老虎
 - Tu es una tigre - incorrect
 - Tu sei una tigre - correct
+
+74.  No, io studio cinese con Giulia
+- 不和朱莉娅学习中文 - incorrect
+- 不，我和朱莉娅学习中文 - correct
+
+75.  Io studio italiano con Isa
+- 我学习意大利语和伊萨 - incorrect
+- 我和伊萨学习意大利语 - correct

@@ -893,3 +893,10 @@
 - Er trefft seine mitbewohnern jeden Tag im Café - incorrect
 - Er trifft seine Mitbewohner jeden Tag im Café - correct
 
+157.  The books
+- Die Büchen - incorrect
+- die Bücher - correct
+
+158.  Do you like to eat a roll with ham?
+- Isst du gern ein Brötchen mit schicken? - incorrect
+- Isst du gern ein Brötchen mit schinken? - correct

@@ -545,3 +545,7 @@
 
 121.  Ik horen een dier - incorrect
 - Ik hoor een dier - correct
+
+122.  We eat our dinner
+- Wij eten onze avondeten - incorrect
+- Wij eten ons avondeten - correct
