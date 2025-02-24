@@ -139,6 +139,7 @@ beraten - to discuss, advise
 Der Bereich - the area
 
 bereite - ready
+- be right, be ready
 
 bereits - already
 

@@ -45,3 +45,7 @@ datda->
 5.  여기는 왕명의 학교여요
 - 这里王明的学校 - incorrect
 - 这里是王明的学校 - correct
+
+6.  방에 무엇이 있어요?
+- 什么房间 - incorrect
+- 房间有什么 - correct

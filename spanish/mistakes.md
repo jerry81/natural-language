@@ -171,3 +171,11 @@
 41.  She is writing a letter for the boss.
 - Ella escribe una carta por el jefe - incorrect
 - Ella escribe una carta para el jefe - correct
+
+42.  La camiseta
+- the dress - incorrect
+- the t-shirt - correct
+
+43.  She is writing a letter for the boss
+- Ella escribe una carta por el jefe - incorrect
+- Ella escribe una carta para el jefe - correct

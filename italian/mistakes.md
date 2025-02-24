@@ -316,3 +316,6 @@
 75.  Io studio italiano con Isa
 - 我学习意大利语和伊萨 - incorrect
 - 我和伊萨学习意大利语 - correct
+
+76.  Tu sei di Londra, vero?  Io seria inglese! - incorrect
+- Tu sei di Londra, vero?  Io studio inglese! - correct

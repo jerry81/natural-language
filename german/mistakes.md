@@ -900,3 +900,27 @@
 158.  Do you like to eat a roll with ham?
 - Isst du gern ein Brötchen mit schicken? - incorrect
 - Isst du gern ein Brötchen mit schinken? - correct
+
+159.  The internship ends in January
+- Der Praktikum endet am januar - incorrect
+- Das Praktikum endet im Januar - correct
+
+160.  My sister loves her fish, Moritz.
+- Meine Schwester liebt ihre Fisch, Moritz.  - incorrect
+-Meine Schwester liebt ihren Fisch, Moritz.  - correct
+
+161.  Our grandparents don't have pets.
+- Unser Großeltern haben keine Haustiere. - incorrect
+- Unsere Großeltern haben keine Haustiere.  - correct
+
+162.  Do you see the birds or do you hear them?
+- Zie je de vogels of hoor ze? - incorrect
+- Zie je de vogels of hoor je ze? - correct
+
+163.  Where are the children?
+- Wo sind die kinderen? - incorrect
+- Wo sind die Kinder? - correct
+
+164.  My dog isn't eating his salad.
+- Mein hund isst sein salat nicht - incorrect
+- Mein Hund isst seinen Salat nicht - correct

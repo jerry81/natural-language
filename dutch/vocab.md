@@ -28,6 +28,8 @@ het bord - the plate
 
 # d
 
+dus - so
+
 duur - expensive
 - teuer
 
@@ -261,6 +263,8 @@ vrouw - woman
 vlees - meat
 
 # w
+
+want - because
 
 Welterusten - "velterusten" - note completely different from good morning/evening
 

@@ -358,6 +358,8 @@
 
 軽い　 → かるい
 
+片付け　→ かたづけ　→　to tidy up
+
 ## け
 
 今朝　→ けさ　→　this morning
@@ -967,6 +969,8 @@ islam教　→ きょう
 # w
 
 ## わ
+
+沸かす　→ わかす　→ to heat/boil
 
 若い　→ わかい　→ young
 

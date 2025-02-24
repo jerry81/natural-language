@@ -549,3 +549,7 @@
 122.  We eat our dinner
 - Wij eten onze avondeten - incorrect
 - Wij eten ons avondeten - correct
+
+123.  The cat has shoes.
+- De kat heeft schoen - incorrect
+- De kat heeft schoenen - correct

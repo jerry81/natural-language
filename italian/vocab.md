@@ -182,6 +182,8 @@ il succho - the juice
 
 # t
 
+tedesco - German
+
 Tu - you
 
 la tazza - cup

@@ -272,3 +272,26 @@
 67.  他说西班牙语和法语吗
 - Elle parle espagnol et francais - incorrect
 - Il parle espagnol et français - correct
+
+68.  La mère de Émile - incorrect
+- La mère d'Émile - correct
+
+69.  Marie 和她的兄弟说话
+- Marie avec son frère parle - incorrect
+- Marie parle avec son frère - correct
+
+70.  猫在汽车里
+- Le chat est dans l'voiture - incorrect
+- Le chat est dans la voiture - correct
+
+71.  我在花园里
+- Je suis dans jardin - incorrect
+- Je suis dans le jardin - correct
+
+72.  我在巴黎有一件公园
+- Je ai un maison à Paris - incorrect
+- Je ai un appartement à Paris - correct
+
+73.  我的丈夫叫Louis
+- Mon mere s'appelle Louis - incorrect
+- Mon mari s'appelle Louis, correct

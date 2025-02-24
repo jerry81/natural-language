@@ -30,8 +30,9 @@
 
 어서 오세요 -> "eoseo oseyo" -> welcome
 
+없어요 -> "eobs-seoyo" -> no
 
-# ㅓ
+# ㅕ
 
 연필 -> "yeonpil" -> pencil
 
@@ -71,6 +72,9 @@
 불고기 -> "pulgogi" -> bulgogi
 
 받다 -> "badda" -> receive
+
+방 -> "bang" -> room
+- you bang in a room
 
 # ㅜ
 
@@ -268,6 +272,8 @@
 낚시 -> nakkshi -> fishhook
 
 # ㅎ
+
+휴대푼 -> "hyudaepun" -> mobile phone
 
 화장실 -> "hwajangsil" -> bathroom (makeup room)
 
