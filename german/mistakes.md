@@ -924,3 +924,11 @@
 164.  My dog isn't eating his salad.
 - Mein hund isst sein salat nicht - incorrect
 - Mein Hund isst seinen Salat nicht - correct
+
+165.  Ist deine Mutter noch Beamtin?
+- Is your mother a civil servant - incorrect
+- Is your mother still a civil servant - correct
+
+166.  Mein Opa hat keinen Job mehr.
+- My brother doesn't have a job - incorrect
+- My grandpa doesn't have a job anymore - correct

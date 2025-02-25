@@ -73,6 +73,8 @@ Review
 
 ## キ
 
+キュリ　→ cucumber
+
 キッカケ　→ opportunity
 
 キンギョ → goldfish

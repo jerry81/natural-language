@@ -713,6 +713,8 @@ islam教　→ きょう
 
 ## さ
 
+鮭　→ さけ　→ salmon
+
 災害　→ さいがい　→  disasters
 
 砂糖　→ さとう　→ sugar
