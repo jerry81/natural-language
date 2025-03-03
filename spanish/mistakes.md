@@ -179,3 +179,7 @@
 43.  She is writing a letter for the boss
 - Ella escribe una carta por el jefe - incorrect
 - Ella escribe una carta para el jefe - correct
+
+44.  Why are you surprised, Sonia?
+- ¿Por qué estás sprenda, Sonia? - incorrect
+- ¿Por qué estás sprendida, Sonia? - correct

@@ -628,6 +628,8 @@ jetzt - now (pronounced "yetz")
 
 # K
 
+Knödel - dumplings
+
 das kopfkissen - pillow
 
 komischen - strange
@@ -899,6 +901,8 @@ Ruhe - quiet
 Die Rückkehr - return trip
 
 # S
+
+scharf - spicy
 
 schau - look
 

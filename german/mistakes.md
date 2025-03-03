@@ -932,3 +932,7 @@
 166.  Mein Opa hat keinen Job mehr.
 - My brother doesn't have a job - incorrect
 - My grandpa doesn't have a job anymore - correct
+
+167.  Mein Bruder isst viele Knödel
+- My brother always eats dumplings - incorrect
+- My borther eats many dumplings - correct

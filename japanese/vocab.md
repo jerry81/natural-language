@@ -128,6 +128,10 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 もう　→ already, now
 
+## め
+
+めちゃくちゃ　-> excessive
+
 # n
 
 ## な
@@ -214,6 +218,10 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 うるさい　→ loud
 
 # y
+
+## や
+
+やかん　→ kettle
 
 ## よ
 
