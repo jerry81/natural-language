@@ -835,6 +835,8 @@ islam教　→ きょう
 
 ## そ
 
+注ぐ　→ そそぐ　→ 倒进
+
 祖母　→ そぼ　→ grandmother (formal)
 
 創始　→ そうし

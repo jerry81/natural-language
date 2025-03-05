@@ -628,6 +628,8 @@ jetzt - now (pronounced "yetz")
 
 # K
 
+Kekse - cookies
+
 Knödel - dumplings
 
 das kopfkissen - pillow
@@ -1204,6 +1206,8 @@ Vorsicht - careful
 vorstellung - performance
 
 # W
+
+weniger - less
 
 weich - soft
 

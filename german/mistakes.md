@@ -936,3 +936,7 @@
 167.  Mein Bruder isst viele Knödel
 - My brother always eats dumplings - incorrect
 - My borther eats many dumplings - correct
+
+168.  I am thirsty, so I am drinking water
+- Ik heb dorst, want ik drink water - incorrect
+- Ik heb dorst, dus ik drink water - correct

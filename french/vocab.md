@@ -147,6 +147,7 @@ livre - book
 
 mange - eats
 - pronounced "mohnja"
+mangeons - (we) eat
 
 m'appelle - to be called
 - Je m'appelle Chappelle
@@ -162,7 +163,7 @@ une maison - the house
 
 nouveau - new
 
-Nous - our
+Nous - our/we
 
 ne - don't
 - used with pas to form negative
@@ -221,5 +222,7 @@ voiture - car
 une valise - luggage
 
 veut - want
+voulons - (we) want
 
 viande - meat
+
