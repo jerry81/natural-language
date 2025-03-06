@@ -241,6 +241,8 @@ tot ziens -> until next time, bye -> toodles
 
 twee - two
 
+het tasje - the bag
+
 # u
 
 een uil - owl

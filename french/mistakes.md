@@ -295,3 +295,10 @@
 73.  我的丈夫叫Louis
 - Mon mere s'appelle Louis - incorrect
 - Mon mari s'appelle Louis, correct
+
+74.  一个中国宝宝
+- un chinois bébé - incorrect
+- un bébé chinois - correct
+
+75.  Tu vais à Berlin - incorrect
+- Tu vas à Berlin - correct

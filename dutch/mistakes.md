@@ -553,3 +553,7 @@
 123.  The cat has shoes.
 - De kat heeft schoen - incorrect
 - De kat heeft schoenen - correct
+
+124.  Is it a nice dog?
+- Is het een hond leuke - incorrect
+- Is het een leuke hond? - correct

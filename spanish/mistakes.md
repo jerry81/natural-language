@@ -183,3 +183,7 @@
 44.  Why are you surprised, Sonia?
 - ¿Por qué estás sprenda, Sonia? - incorrect
 - ¿Por qué estás sprendida, Sonia? - correct
+
+45.  Juan, you write very well in Spanish
+- Juan du escribes muy bueno en español - incorrect
+- Juan, tu escribes muy bien en español - correct

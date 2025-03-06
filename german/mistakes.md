@@ -940,3 +940,11 @@
 168.  I am thirsty, so I am drinking water
 - Ik heb dorst, want ik drink water - incorrect
 - Ik heb dorst, dus ik drink water - correct
+
+169.  My roomate and I are sick now.
+- Meine mitbewohner und ich sind jetzt krank - incorrect
+- Mein Mitbewohner und ich sind jetzt krank - correct
+
+170.  Alex and Nina, do you see the Ferris wheel?
+- Alex und Nina, mochten sie das reisenrad sehen? - incorrect
+- Alex und Nina, seht ihr das Riesenrad?  - correct
