@@ -84,3 +84,41 @@ p. 24
 - 胸中穏やかじゃないわよ
 - 胸中　→ きょうちゅう　→ in my chest
 - 穏やか　→ おだやか　→ calm
+
+- p. 28
+
+- 野郎　→ やろう　→ bastard
+
+- p.30
+
+- 負けず嫌いな彼だったが今の彼にできるのはこれが精一杯であった
+- 精一杯　→ せいいっぱい　→ to the best of one's ability
+- he was competitive, but what he could do now was this, to the best of his ability.
+
+- p. 31
+- 最後の手段　- さいごのしゅだん　→ last resort
+
+- 足ひっがけろ -　trip him
+
+- みにくいヤジはやめなさい →　stop the ugly heckling
+
+- アマイよもっとが当たんなくちゃよ
+- もっと　→ more
+- 当たんなくちゃよ　→ must make it
+
+- 今のフアウル　しなきゃ完全にやられて
+- 完全　→ かんぜん
+
+- 突破 -とっぱ　→ breakthrough
+- 本物　→ ほんもの　→ is real
+
+- 全く　どえらい奴が入ってきたもんだ
+- 全く　→ まったく　→ completely
+- ど偉い　→ どえらい　→ incredible (colloquial)
+- もんだ　→ it turns out (colloquial)
+
+- このくらいやってもらわんとこっちも張り合いがないわい
+- このくらい　→ this much
+- 張り合い　→ はりあい　→ motivation/incentive
+
+- なんすかこれは　- what is this
