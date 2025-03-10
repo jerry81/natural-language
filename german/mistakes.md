@@ -948,3 +948,11 @@
 170.  Alex and Nina, do you see the Ferris wheel?
 - Alex und Nina, mochten sie das reisenrad sehen? - incorrect
 - Alex und Nina, seht ihr das Riesenrad?  - correct
+
+171.  No, my pizza tastes the best.
+- Nein, mein pizza schmeckt am besten - incorrect
+- Nein, meine Pizza schmeckt am besten - correct
+
+172.  I like to drink ice cream coffee
+- Ik trinke gern eiskaffe - incorrect
+- Ich trinke gern Eiskaffee - correct

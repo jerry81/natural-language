@@ -319,3 +319,11 @@
 
 76.  Tu sei di Londra, vero?  Io seria inglese! - incorrect
 - Tu sei di Londra, vero?  Io studio inglese! - correct
+
+77.  不，我和朱莉娅学习中文
+- No, io studio cinese con julia - incorrect
+- No, io studio cinese con Giulia - correct
+
+78.  Io studio cinese con Mario
+- 我学习中文和马里奥 - incorrect
+- 我和马里奥学习中文 - correct

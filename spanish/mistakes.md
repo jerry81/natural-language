@@ -187,3 +187,7 @@
 45.  Juan, you write very well in Spanish
 - Juan du escribes muy bueno en español - incorrect
 - Juan, tu escribes muy bien en español - correct
+
+46.  The green dress is very pretty
+- Los vestidos verdes son muy bonito - incorrect
+- El vestido verdees muy bonito - correct
