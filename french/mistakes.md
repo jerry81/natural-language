@@ -301,4 +301,8 @@
 - un bébé chinois - correct
 
 75.  Tu vais à Berlin - incorrect
-- Tu vas à Berlin - correct
+- Tu vas à Berlin - correct\
+
+76.  我门去旅馆
+- Nous vais à l'hôtel - incorrect
+- Nous allons à l'hôtel - correct

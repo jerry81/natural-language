@@ -1,5 +1,7 @@
 # a
 
+allons - (we) go to
+
 aime - to like
 - (pronounced "ehm")
 
@@ -67,6 +69,8 @@ chanson - song
 dans - in
 
 # e
+
+une école - school
 
 Enchanté - delighted (nice to meet you)
 

@@ -956,3 +956,15 @@
 172.  I like to drink ice cream coffee
 - Ik trinke gern eiskaffe - incorrect
 - Ich trinke gern Eiskaffee - correct
+
+173.  How many people like to eat sauerkraut?
+- Wie viel leute essen gern sauerkraut - incorrect
+- Wie viele Leute essen gern Sauerkraut - corect
+
+174.  Oh no, there isn't any more sauerkraut
+- Oh nein, gibt es kein sauerkraut mehr - incorrect
+- Oh nein, es gibt kein sauerkraut mehr - correct
+
+175.  Can you bake an apple cake without eggs?
+- Kannst du einen Apfelkuchen backen ohne Eier - incorrect
+- Kannst du einen Apfelkuchen ohne Eier backen - correct
