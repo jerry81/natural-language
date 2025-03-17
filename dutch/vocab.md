@@ -194,7 +194,7 @@ het ontbijt - the breakfast
 
 ondergoed - underwear
 
-oude - old
+oud/oude - old
 - sounds similar
 
 onze - our

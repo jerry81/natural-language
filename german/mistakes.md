@@ -968,3 +968,22 @@
 175.  Can you bake an apple cake without eggs?
 - Kannst du einen Apfelkuchen backen ohne Eier - incorrect
 - Kannst du einen Apfelkuchen ohne Eier backen - correct
+
+176.  Alex und Nina, siet ihr das Riesenrad - incorrect
+- Alex und Nina, seht ihr das Riesenrad - correct
+
+177.  Don't eat my cookies, Anna!
+- Isst meine kekse nicht Anna - incorrect
+- Iss meine Kekse nicht, Anna! - correct
+
+178.  My brother always eats my cookies!
+- Mein bruder isst immer mein kekse - incorrect
+- Mein Bruder isst immer meine Kekse! - correct
+
+179.  I need twelve bottles of milk for my baby
+- Ich brauche zwölf flaschen melk fur mein bebe - incorrect
+- Ich brauche zwölf flashen milch für mein Baby - correct
+
+180.  Duo drinks thirty bottles of sparkling apple juice every week.
+- Duo trinkt jeden woche dreisig flaschen apfelschorle - incorrect
+- Duo trinkt jede Woche dreißig Flaschen Apfelschorle - correct

@@ -191,3 +191,11 @@
 46.  The green dress is very pretty
 - Los vestidos verdes son muy bonito - incorrect
 - El vestido verdees muy bonito - correct
+
+47.  Pedro, your pants are very big
+- Pedro, tus pantalones son muy grande - incorrect
+- Pedro, tus pantalones son muy grandes - correct
+
+48.  Maria, I need your dresses please
+- Maria, yo necesito tu vestidos por favor - incorrect
+- Maria, yo necesito tus vestidos por favor - correct
