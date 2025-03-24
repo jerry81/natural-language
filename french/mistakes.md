@@ -306,3 +306,10 @@
 76.  我门去旅馆
 - Nous vais à l'hôtel - incorrect
 - Nous allons à l'hôtel - correct
+
+77.  我门住在英国
+- Nous habite en angleterre - incorrect
+- Nous habitons en Angleterre - correct
+
+78.  Un revue et une livre - incorrect
+- une revue et un livre - correct

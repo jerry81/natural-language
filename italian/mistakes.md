@@ -327,3 +327,7 @@
 78.  Io studio cinese con Mario
 - 我学习中文和马里奥 - incorrect
 - 我和马里奥学习中文 - correct
+
+79.  你说西班牙语吗
+- Tu parli spanolo vero - incorrect
+- Parli spagnolo? - correct

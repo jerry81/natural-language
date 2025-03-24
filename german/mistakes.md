@@ -987,3 +987,15 @@
 180.  Duo drinks thirty bottles of sparkling apple juice every week.
 - Duo trinkt jeden woche dreisig flaschen apfelschorle - incorrect
 - Duo trinkt jede Woche dreißig Flaschen Apfelschorle - correct
+
+181.  I can't see you, where are you?
+- Ich kann nicht dir sehen, wo bist du? - incorrect
+- Ich kann dich nicht sehen, wo bist du? - correct
+
+182.  We want to go dancing!
+- Wir wahlen tanzen gehen! - incorrect
+- Wir wollen tanzen gehen! - correct
+
+183.  Would you like to go to the hotel by foot?
+- Mochtest du nach hotel gehen zu fuß? - incorrect
+- Möchtest du zu Fuß bis zum Hotel gehen? - correct

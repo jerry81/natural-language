@@ -96,3 +96,7 @@
 17.  We already have children
 - у нас есть дети - incorrect
 - у нас уже есть дети - correct
+
+18.  We have cats.
+- у день есть кошки - incorrect
+- у нас есть кошки - correct

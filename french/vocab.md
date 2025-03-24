@@ -194,9 +194,12 @@ du = de le (of the)
 
 # s
 
+
+
 Salut - Hi/goodbye
 
 suis - am
+sommes - (we) are at
 
 son - his
 

@@ -97,7 +97,7 @@
 
 음식 -> eumsik -> food -> like cantonese, mmm sik
 
-의자 -> wija -> seat
+의자 -> wija -> seat/chair
 
 # ㅣ
 
@@ -187,9 +187,13 @@
 
 과 -> gwa -> and
 
+가방 -> gabang -> bag
+
 # ㅋ
 
 코 -> "ko" -> nose
+
+커피 -> "keopi" -> coffee
 
 # ㅈ
 
@@ -320,7 +324,10 @@
 
 # ㅅ
 
+식탁 -> sigtag -> table
+
 사과 -> sagwa -> apple
+- dumbass = apple
 
 실레합니다 -> sillehabnida -> i'm sorry
 -> silly ray
