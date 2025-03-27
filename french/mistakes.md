@@ -313,3 +313,7 @@
 
 78.  Un revue et une livre - incorrect
 - une revue et un livre - correct
+
+79.  我们喜欢音乐
+- Nous aimons misique - incorrect
+- Nous aimons la musique - correct

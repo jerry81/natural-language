@@ -87,6 +87,8 @@ fame - hunger
 ho - i have
 ha - (he) has
 
+ho bisogno di - (i) need
+
 # i
 
 I - The (plural)
@@ -144,6 +146,8 @@ prego - you're welcome
 
 il pasto - food
 - like antipasto
+
+un pomodoro - tomato
 
 # q
 

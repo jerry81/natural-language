@@ -97,6 +97,8 @@ die Anzahl - the numer
 
 # B
 
+bekommt - to get
+
 die bettdecke - the bedspread
 
 bar - cash

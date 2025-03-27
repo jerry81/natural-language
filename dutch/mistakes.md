@@ -557,3 +557,7 @@
 124.  Is it a nice dog?
 - Is het een hond leuke - incorrect
 - Is het een leuke hond? - correct
+
+125.  The coffee
+- het koffie - incorrect
+- de koffie - correct

@@ -999,3 +999,19 @@
 183.  Would you like to go to the hotel by foot?
 - Mochtest du nach hotel gehen zu fuß? - incorrect
 - Möchtest du zu Fuß bis zum Hotel gehen? - correct
+
+184.  The fish drinks two bottles of water per day
+- Der fisch trinkt zwei flaschen water por tag - incorrect
+- Der fisch trinkt zwei flaschen wasser pro tag - correct
+
+185.  The bread is still warm and fresh
+- Das Brot ist noch warm und friach - incorrect
+- Das Brot ist noch warm und frisch - correct
+
+186.  Do you love mayonnaise or do you love me?
+- Lieben sie mayo oder liebst du mich? - incorrect
+- Liebst du Mayo oder liebst du mich? - correct
+
+187.  The soup is still too hot for her
+- Der supper ist noch zu heiß für Sie - incorrect
+- Die Suppe ist noch zu heiß für sie - correct

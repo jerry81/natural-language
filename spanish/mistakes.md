@@ -199,3 +199,7 @@
 48.  Maria, I need your dresses please
 - Maria, yo necesito tu vestidos por favor - incorrect
 - Maria, yo necesito tus vestidos por favor - correct
+
+49.  This woman writes very well in English.
+- Esta mujer escriba muy bien en inglés  - incorrect
+- Esta mujer escribe muy bien en inglés - correct
