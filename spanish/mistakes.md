@@ -203,3 +203,7 @@
 49.  This woman writes very well in English.
 - Esta mujer escriba muy bien en inglés  - incorrect
 - Esta mujer escribe muy bien en inglés - correct
+
+50.  How many pants do you need?
+- Cuántos pantalones té necesitas - incorrect
+- Cuántos pantalones necesitas - correct

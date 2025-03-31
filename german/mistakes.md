@@ -1015,3 +1015,7 @@
 187.  The soup is still too hot for her
 - Der supper ist noch zu heiß für Sie - incorrect
 - Die Suppe ist noch zu heiß für sie - correct
+
+188.  We can't find my sweater in the movie theater
+- Wir können meinen Pullover finden nicht im Kino - incorrect
+- Wir können meinen Pullover im Kino nicht finden - correct
