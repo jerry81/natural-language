@@ -317,3 +317,11 @@
 79.  我们喜欢音乐
 - Nous aimons misique - incorrect
 - Nous aimons la musique - correct
+
+80.  你喜欢巧克力吗
+- Tu aimes chocolat?  - incorrect
+- Tu aimes le chocolat? - correct
+
+81.  你喜欢披萨吗
+- Tu aimes pizza? - incorrect
+- Tu aimes la pizza? - correct

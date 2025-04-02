@@ -1019,3 +1019,7 @@
 188.  We can't find my sweater in the movie theater
 - Wir können meinen Pullover finden nicht im Kino - incorrect
 - Wir können meinen Pullover im Kino nicht finden - correct
+
+189.  The stores are closed on the holiday
+- Die Geschåfte sind gesclossen am Freiertag - incorrect
+- Die Geschåfte sind am Friertag geschlossen - correct
