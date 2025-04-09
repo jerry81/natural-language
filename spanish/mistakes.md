@@ -207,3 +207,10 @@
 50.  How many pants do you need?
 - Cuántos pantalones té necesitas - incorrect
 - Cuántos pantalones necesitas - correct
+
+51.  the daughter
+- la nina - incorrect
+- la hija - correct
+
+52.  Yo necesito tomar autobus en la mañana - incorrect
+- Yo necesito tomar el autobus en la mañana - correct

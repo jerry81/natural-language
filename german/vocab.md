@@ -859,6 +859,8 @@ praktisch - practical
 
 # R
 
+rosafarbenen - pink
+
 rienkommen - come
 
 Riesenrad - Ferris wheel
@@ -1137,6 +1139,8 @@ unser, unserem - ours
 untersuchen - checkup
 
 # V
+
+Verwandten - relatives
 
 verärgert - angry
 

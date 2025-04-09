@@ -1023,3 +1023,28 @@
 189.  The stores are closed on the holiday
 - Die Geschåfte sind gesclossen am Freiertag - incorrect
 - Die Geschåfte sind am Friertag geschlossen - correct
+
+190.  The restaurant closes in one hour
+- Das restaurant schließt in eine stunde - incorrect
+- Das restaurant schließt in einer stunde - correct
+- use dative, not accusative when using preposition "in"
+
+191.  Is the movie for children or for adults?
+- Ist der Film für Kinder oer für erwachsen - incorrect
+- Ist der Film für Kinder oder für erwachsene - correct
+
+192.  Do you want to do yoga in forty minutes?
+- Möchtest du in vierzehn minuten yoga machen - incorrect
+- Willst du in vierzig Minuten Yoga machen - correct
+
+193.  Ms. Schneider, you have to stay in bed
+- Frau Schneider, müssen Sie im Bett bleiben - incorrect
+- Frau Schneider, Sie müssen im Bett bleiben - correct
+
+194.  Triffst du deine freundin in Freitags - incorrect
+- Triffst du deine Freundinnen Freitags - correct
+
+195.  My family goes camping together every year
+- Meine Familie jedes Jahr zusammen campen geht - incorrect
+- Meine Familie geht jedes Jahr zusammen campen - correct
+

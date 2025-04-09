@@ -33,6 +33,10 @@ genial - great
 
 hornear - baking/to bake
 
+## l
+
+lejos - far
+
 ## m
 
 manzanas - apples
@@ -48,6 +52,8 @@ novia - girlfriend
 negocios - businesses
 
 ## p
+
+parada - stop
 
 pagar - pay
 
