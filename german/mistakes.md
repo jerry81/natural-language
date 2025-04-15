@@ -1048,3 +1048,14 @@
 - Meine Familie jedes Jahr zusammen campen geht - incorrect
 - Meine Familie geht jedes Jahr zusammen campen - correct
 
+196.  We are maybe visiting my parents in August
+- Wir besucht vielleicht meine Eltern im August - incorrect
+- Wir besuchen meine Eltern vielleicht im August - correct
+
+197.  My friends are visiting me next August
+- Meine Freunde nächsten August mich besuchen - incorrect
+- Meine Freunde besuchen mich nächsten August - correct
+
+198.  Why are the stores closed today?
+- Warum sind die Geschäfte geschlossen heute - incorrect
+- Warum sind die Geschäfte heute geschlossen - correct

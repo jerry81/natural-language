@@ -214,3 +214,7 @@
 
 52.  Yo necesito tomar autobus en la mañana - incorrect
 - Yo necesito tomar el autobus en la mañana - correct
+
+53.  Juan wants to travel to New York.
+- Juan quiere viajar a nueve yorke - incorrect
+- Juan quiere viajar a Nueva York - correct
