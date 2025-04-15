@@ -26,3 +26,20 @@
 
 - 飛び立つ季節を待って
 - waiting for the season to fly
+
+- 青い空を共に行こうよ
+  - 共に　→ ともに
+- let's go to the blue sky together
+
+-　白い砂浜を見下ろしながら
+  - 砂浜　→ すなはま
+- looking down on the white beach
+
+- 難しい話はいらない
+- no need for complicated discussion
+
+- 君が笑ってくれればいい
+- your smile is enough
+
+- そう言って僕に笑いかけた
+- she said that and smiled at me
