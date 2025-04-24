@@ -64,6 +64,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 ## で
 
+できるだけ　→ as much as possible
+
 できる　→ can, be made, be completed
 
 # f
