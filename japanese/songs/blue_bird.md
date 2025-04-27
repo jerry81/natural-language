@@ -33,6 +33,7 @@
 
 -　白い砂浜を見下ろしながら
   - 砂浜　→ すなはま
+  - 見下ろし　→ みおろし
 - looking down on the white beach
 
 - 難しい話はいらない
