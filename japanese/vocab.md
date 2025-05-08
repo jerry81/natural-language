@@ -190,6 +190,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 ## し
 
+しかありません　→ can only
+
 しゃっくりをしながら　- while hiccupping (from しゃっくりをする)
 
 ## す
@@ -230,6 +232,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 やかん　→ kettle
 
 ## よ
+
+よし　→ good
 
 よく - three meanings -
   - well, like pairs well
