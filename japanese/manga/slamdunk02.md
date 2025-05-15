@@ -122,3 +122,34 @@ p. 24
 - 張り合い　→ はりあい　→ motivation/incentive
 
 - なんすかこれは　- what is this
+
+- p. 36
+- 親父親父　→ おやじ　→ father
+- 監督の権力で俺を試合に出してくれよ
+- please use your power as coach to put me in the game
+- 監督　→ かんとく
+-　権力　→ けんりょく
+
+- なにをかくそう俺はあの赤城キャプテンに勝った男なんすよ
+流川なんかより
+- i'm not going to hide it, i'm the man who beat Captain Akagi, more than rukawa
+
+- 先生すいませんこの超問題児にはよくいってきかせますから
+- 超問題児　→ ちょうもんだいじ - troublesome child
+- sorry coach, but i often tell this extremely troublesome child
+
+- まあまあ　→ fair enough
+
+- ねえねえサカラギくんも一年生位だから一年生テームを応援しよ
+- hey, hey, s is also a first-year student so let's support the first-year
+- 応援　→ おうえん → support
+
+- もう　
+sとrてどうして
+あんなに仲悪いのかしら
+- i wonder why s and r don't get along
+
+- 困ったものだわ
+- 困った　→ こっまた
+- this is a problem
+
