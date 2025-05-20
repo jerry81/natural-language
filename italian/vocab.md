@@ -29,6 +29,8 @@ Un Bicchiere - a cup
 
 # c
 
+certo - of course
+
 il cibo - the food
 
 la carota - the carrot
@@ -83,6 +85,8 @@ la fragola - strawberry
 fame - hunger
 
 # h
+
+hai bisogno di - (you) need
 
 ho - i have
 ha - (he) has

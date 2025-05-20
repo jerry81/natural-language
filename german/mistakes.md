@@ -1059,3 +1059,6 @@
 198.  Why are the stores closed today?
 - Warum sind die Geschäfte geschlossen heute - incorrect
 - Warum sind die Geschäfte heute geschlossen - correct
+
+199.  Ein Doppelzimmer kostet hundred Euro pro Nacht - incorrect
+- Ein Doppelzimmer kostet hundert Euro pro Nacht - correct

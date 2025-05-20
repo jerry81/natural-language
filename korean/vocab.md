@@ -155,6 +155,10 @@
 
 # ㄱ
 
+가족 - "kajok" - family
+
+공항 - gonghang - airplane/airport
+
 고마워요 - "gomawoyo" - thank you
 
 괜찮아요 - "gwaenchanh-ayo" -> are you ok/ no problem
@@ -360,6 +364,8 @@
 떡 -> "tteog" -> rice cake
 
 # ㅆ
+
+씨의 -> "ssi ui" -> possessive ('s)
 
 씨는 -> "si neun" -> mr./mrs.
 

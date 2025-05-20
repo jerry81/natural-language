@@ -325,3 +325,7 @@
 81.  你喜欢披萨吗
 - Tu aimes pizza? - incorrect
 - Tu aimes la pizza? - correct
+
+82.  你乘公共汽车去工作吗
+- tu vas au travail en l'bus? - incorrect
+- tu vas au travail en bus? - correct

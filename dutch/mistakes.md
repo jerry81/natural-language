@@ -561,3 +561,6 @@
 125.  The coffee
 - het koffie - incorrect
 - de koffie - correct
+
+126.  De vrouw ziet mij niet - incorrect
+- De vrouw ziet me niet - correct

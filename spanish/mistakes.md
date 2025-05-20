@@ -218,3 +218,10 @@
 53.  Juan wants to travel to New York.
 - Juan quiere viajar a nueve yorke - incorrect
 - Juan quiere viajar a Nueva York - correct
+
+54.  My father always works on the weekend
+- Mi padre siempre trabaja en los fines de semana - incorrect
+- Mi padre siempre trabaja los fines de semana - correct
+
+55.  Sara por qué sientes te triste - incorrect
+- Sara por qué te sientes triste - correct
