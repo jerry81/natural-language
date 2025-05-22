@@ -329,3 +329,14 @@
 82.  你乘公共汽车去工作吗
 - tu vas au travail en l'bus? - incorrect
 - tu vas au travail en bus? - correct
+
+83. Elle vas à Paris - incorrect
+- Elle va à Paris - correct
+
+84.  你在英国学习吗
+- Etudies en Angleterre? - incorrect
+- Tu étudies en Angleterre? - correct
+
+85.  这是一个英国女孩
+- C'est une fille anglais - incorrect
+- C'est une fille anglaise - correct

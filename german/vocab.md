@@ -823,6 +823,8 @@ nicht - negation
 
 nie - never
 
+niesen - to sneeze
+
 noch - still
 
 nochmal - once again

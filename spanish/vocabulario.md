@@ -60,6 +60,10 @@ pagar - pay
 pájaro - bird
 - but not parrot
 
+## q
+
+Qué hago - what do i do
+
 ## r
 
 la reserva - reservation
