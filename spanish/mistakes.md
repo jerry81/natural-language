@@ -229,3 +229,11 @@
 56.  My son and I are at the park
 - Mi hijo y yo estan en el parque - incorrect
 - Mi hijo y yo estamos en el parque - correct
+
+57.  The library needs to buy more computers
+- La biblioteca necesita mas computadoras - incorrect
+- La biblioteca necesita comprar más computadoras - correct
+
+58.  I drink milk
+- yo no bebo leche - incorrect
+- yo bebo leche - correct

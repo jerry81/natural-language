@@ -72,6 +72,8 @@ groot - big
 een gans - goose
 - gander
 
+gaan - (you) go
+
 de groente - the vegetables
 - (the greens)
 

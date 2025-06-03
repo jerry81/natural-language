@@ -1150,6 +1150,8 @@ untersuchen - checkup
 
 # V
 
+verwandten - relatives
+
 visum - visa
 
 Verwandten - relatives

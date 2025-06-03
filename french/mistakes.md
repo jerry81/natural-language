@@ -353,3 +353,19 @@
 
 89.  (l) J'aime livre - incorrect
 - J'aime lire - correct
+
+90.  我在西班牙工作
+- Je travaille en espagnol - incorrect
+- Je travaille en Espagne - correct
+
+91.  Paul 说西班牙语和法语
+- Paul parle espagnol et frances - incorrect
+- Paul parle espagnol et français - correct
+
+92.  一个韩国节日
+- Un fete coreen - incorrect
+- Un fete coréene - correct
+
+98.  一家西班牙商店
+- un botique espagnol - incorrect
+- une boutique espagnole - correct

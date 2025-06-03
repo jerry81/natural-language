@@ -1072,3 +1072,11 @@
 
 202.  Ich kann vielleicht am Mai meinen Opa und meine Oma besuchen - incorrect
 -  Ich kann vielleicht im Mai meinen Opa und meine Oma besuchen - correct
+
+203.  Meine Verwandten kommen nächsten Woche.  Wir besuchen sie nächste Mai - incorrect
+- Meine Verwandten kommen nächste Woche, Wir besuchen sie nächsten Mai - correct
+- Woche is feminine, Mai is masculine
+
+204.  Do you meet your friends every weekend?
+- Triffst du mit deine freunde jedes wochenende - incorrect
+- Triffst du deine Freunde jedes Wochenende - correct

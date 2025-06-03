@@ -564,3 +564,8 @@
 
 126.  De vrouw ziet mij niet - incorrect
 - De vrouw ziet me niet - correct
+
+127.  I am wearing a suit, so I am not wearing a skirt
+- Ik draag een pak, zo ik draag geen rok - incorrect
+- Ik draag een pak, dus ik draag geen rok - correct
+- dus = thus
