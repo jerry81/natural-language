@@ -385,6 +385,8 @@ evtl - possibly
 
 # F
 
+formular - form
+
 fruhstucke - (i) eat breakfast
 
 fällt aus - cancelled
@@ -630,6 +632,8 @@ jetzt - now (pronounced "yetz")
 
 # K
 
+kugelschriber - the pen
+
 Kekse - cookies
 
 Knödel - dumplings
@@ -690,6 +694,8 @@ Künstlicher - artificial
 kurz/kurzen - short
 
 # L
+
+lass Uns - let's
 
 Landsleute - person from same hometown
 
@@ -909,6 +915,8 @@ Ruhe - quiet
 Die Rückkehr - return trip
 
 # S
+
+schalter - counter
 
 scharf - spicy
 
@@ -1142,6 +1150,8 @@ untersuchen - checkup
 
 # V
 
+visum - visa
+
 Verwandten - relatives
 
 verärgert - angry
@@ -1161,6 +1171,7 @@ verbinde - associate, connect
 verbindungs - connection
 
 verboten - prohibited
+- boats are forbidden
 
 verdienen - make money
 
@@ -1293,6 +1304,8 @@ wurde - would
 wurden - would
 
 # Z
+
+der zoll - customs
 
 zäöhlen - count
 

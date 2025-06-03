@@ -340,3 +340,16 @@
 85.  这是一个英国女孩
 - C'est une fille anglais - incorrect
 - C'est une fille anglaise - correct
+
+86.  Je vais à la boulangie - incorrect
+- Je vais à la boulangerie - correct
+
+87.  Nous en anglais - incorrect
+- Nous sommes anglais - correct
+
+88.  她有一本书
+- Elle vais un livre - incorrect
+- Elle a un livre - correct
+
+89.  (l) J'aime livre - incorrect
+- J'aime lire - correct

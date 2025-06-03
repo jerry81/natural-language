@@ -225,3 +225,7 @@
 
 55.  Sara por qué sientes te triste - incorrect
 - Sara por qué te sientes triste - correct
+
+56.  My son and I are at the park
+- Mi hijo y yo estan en el parque - incorrect
+- Mi hijo y yo estamos en el parque - correct

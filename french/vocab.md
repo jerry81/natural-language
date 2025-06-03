@@ -21,7 +21,11 @@ avons - have
 
 un animal de compagnie - pet
 
+au - contraction of à and le - "to the"
+
 # b
+
+boulangerie - french bakery
 
 bon - good
 

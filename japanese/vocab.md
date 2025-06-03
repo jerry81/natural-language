@@ -86,6 +86,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 ## か
 
+かしこまりました　→ i got it
+
 硬い　→ かたい　→ hard
 
 から　ー　since
@@ -99,6 +101,10 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 ## け
 
 けど　→ but
+
+## こ
+
+こそ　→　precisely/indeed/contrast/才
 
 # o
 

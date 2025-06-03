@@ -1062,3 +1062,13 @@
 
 199.  Ein Doppelzimmer kostet hundred Euro pro Nacht - incorrect
 - Ein Doppelzimmer kostet hundert Euro pro Nacht - correct
+
+200.  (L) Der film dauert zwei stunde - incorrect
+- Der Film dauert zwei Stunden - correct
+
+201.  The drinks aren't for children
+- Die Getränke nicht für Kinder - incorrect
+- Die Getränke sind nicht für Kinder - correct
+
+202.  Ich kann vielleicht am Mai meinen Opa und meine Oma besuchen - incorrect
+-  Ich kann vielleicht im Mai meinen Opa und meine Oma besuchen - correct
