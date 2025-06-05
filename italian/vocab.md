@@ -53,10 +53,14 @@ I cani - dogs
 
 il coltello - knife
 
+un cetriolo - cucumber
+
 # d
 
 donna - woman
 donne - women
+
+due - two
 
 # e
 
@@ -137,6 +141,8 @@ nel - inside
 # o
 
 - l'orso - bear
+
+- ora - now
 
 # p
 
