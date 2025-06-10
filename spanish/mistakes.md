@@ -237,3 +237,6 @@
 58.  I drink milk
 - yo no bebo leche - incorrect
 - yo bebo leche - correct
+
+59.  El hotel está izquierda del banco - incorrect
+- El hotel está a la izquierda del banco - correct

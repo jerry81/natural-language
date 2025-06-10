@@ -97,6 +97,8 @@ die Anzahl - the numer
 
 # B
 
+besichtigen - tour
+
 bekommt - to get
 
 die bettdecke - the bedspread

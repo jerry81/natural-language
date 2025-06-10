@@ -1080,3 +1080,8 @@
 204.  Do you meet your friends every weekend?
 - Triffst du mit deine freunde jedes wochenende - incorrect
 - Triffst du deine Freunde jedes Wochenende - correct
+
+205.  Would you like to see a castle today?
+- Möchtest du ein Schloss sehen heute - incorrect
+- Möchtest du heute ein Schloss sehen - correct
+- time expressions come before direct object
