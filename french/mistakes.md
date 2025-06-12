@@ -369,3 +369,14 @@
 98.  一家西班牙商店
 - un botique espagnol - incorrect
 - une boutique espagnole - correct
+
+99. (L)  le musique - incorrect
+- la musique - correct
+
+100.  你想要狗吗?
+- Veux un chien?  - incorrect
+- Tu Veux un chien?  - correct
+
+101.  (L) Mein Sohn ist klug, er studiert psicologie - incorrect
+- Mein Sohn ist klug, er studiert psychologie - incorrect
+
