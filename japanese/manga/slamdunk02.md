@@ -148,8 +148,36 @@ p. 24
 sとrてどうして
 あんなに仲悪いのかしら
 - i wonder why s and r don't get along
+- 仲悪　→ なかわる　→ bad relations
+- かしら　→ wonder if
 
 - 困ったものだわ
 - 困った　→ こっまた
 - this is a problem
 
+- あんたが原因よあんたが
+- you're the cause, you
+
+-　ここでしっかり見てんの
+- are you watching closely here?
+
+- 人のプレイを見るのも勉強のうち
+- watching others play is a part of learning
+-　うち　→ part of
+
+- くそう　また人をこんな隅っこに
+- くそう　→ damn it
+- 隅っこ　→ corner
+
+- 俺はあのキャプテンに勝った男だからな
+- because i'm the guy who beat the captain
+
+- そう　いわばタカミの見物つてとこだな
+- 見物　→ けんぶつ　→ spectacle
+
+- だぜ流川なんて目じゃね
+- 目じゃない →　worthy of notice
+
+- 止められっこない →　unstoppable
+
+- 戻る →　もどる　→ return
