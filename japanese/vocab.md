@@ -109,6 +109,9 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 # o
 
 ## お
+
+おかげ　→　thanks to you
+
 おねがいします - please
 
 # i
@@ -228,6 +231,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 # u
 
 ## う
+
+うまく　→ successfully
 
 うるさい　→ loud
 

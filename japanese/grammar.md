@@ -194,6 +194,8 @@ Example: 東京へ行きます。 (Tokyo e ikimasu.)
 - past progressive of 着る
 - 着ていた -> was wearing
 
+- x-なさい　→ command form, so しなさい　→ do it
+
 ## だ　 at end of sentence
 
 - like the english "is"

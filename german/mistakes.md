@@ -1085,3 +1085,17 @@
 - Möchtest du ein Schloss sehen heute - incorrect
 - Möchtest du heute ein Schloss sehen - correct
 - time expressions come before direct object
+
+206.  Brauchen Sie einen Moment oder konnen Sie jetzt die Adresse unterschreiben? - incorrect
+- Brauchen Sie einen Moment oder konnen Sie jetzt das Formular unterschreiben? - correct
+
+207.  Wir brauchen einen Moment, bitte
+- We need a moment - incorrect
+- We need a moment, please.  - correct
+
+208.  What is our flight number?
+- Was ist unser flugnummer? - incorrect
+- Was ist unsere flugnummer?  - correct
+- flugnummer is feminine
+
+209.

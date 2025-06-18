@@ -31,6 +31,8 @@ Review
 
 ## フ
 
+ふアイル　→ folder
+
 フラッシュ　→ flash
 
 # g

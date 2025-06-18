@@ -33,6 +33,11 @@ genial - great
 
 hornear - baking/to bake
 
+## j
+
+juntas - together
+- junting (hunting) together
+
 ## l
 
 lejos - far
