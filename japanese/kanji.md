@@ -728,6 +728,8 @@ islam教　→ きょう
 
 ## ね
 
+値段　→ ねだん　→ price
+
 鼠　→ ネズミ
 
 願い ねがい　- wish 愿
@@ -1052,6 +1054,8 @@ islam教　→ きょう
 撮る - とる - to take picture
 
 ## つ
+
+-　続け　→ つずけ　→ continue
 
 - 通訳　→ つうやく　→ interpret/interpreter
 
