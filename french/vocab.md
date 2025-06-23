@@ -134,6 +134,8 @@ la grandmere - the grandmother
 # i
 
 il - he
+ils - they
+ils sont - they are
 
 ici - here
 - pronounced "ee-see"
@@ -148,6 +150,8 @@ je - I
 joli - pretty
 
 # l
+
+les - these
 
 livre - book
 

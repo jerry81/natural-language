@@ -1785,4 +1785,25 @@
 - 八百屋にはたくさんの人参を買った - incorrect
 - 八百屋でたくさんの人参を買った - correct
 
-414.
+414.  会议从几点开始
+- ミーチングは何時からです - incorrect
+- ミーチングは何時からですか　→ correct
+
+415.  接受那个考试的是10只狼
+- その試験を受けるのは10匹のおかみです - incorrect
+- その試験を受けるのは10匹のおおかみです　- correct
+
+416.  (L) 一昨日五月十四日はでした - incorrect
+- 一昨日は五月十四でした - correct
+
+417.  在哪个岛只有2头鹿
+- あの島には鹿が２頭います - incorrect
+- あの島には鹿が２頭だけいます - correct
+
+418.  去年的灾害，一百人去世了
+- 去年の災害１００人が亡くなりました - incorrect
+- 去年の災害では、１００人が亡くなりました - correct
+
+419.  My dictionary is not in the suitcase
+- Mein worterbuch ist im koffer - incorrect
+- Mein Worterbuch ist nicht in koffer - correct
