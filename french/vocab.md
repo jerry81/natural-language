@@ -72,6 +72,8 @@ chanson - song
 
 dans - in
 
+des - the (pl)
+
 # e
 
 une école - school
@@ -157,9 +159,10 @@ livre - book
 
 # m
 
-mange - eats
+-mange - eats
 - pronounced "mohnja"
-mangeons - (we) eat
+- mangeons - (we) eat
+- mangent - (they) eat
 
 m'appelle - to be called
 - Je m'appelle Chappelle

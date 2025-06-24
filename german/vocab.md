@@ -1239,6 +1239,7 @@ wirken - to appear, to seem
 Eine Wahl - election
 
 wahr - true
+- nicht wahr - isn't it?
 
 wahrnehmung - perception
 

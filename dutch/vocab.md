@@ -4,6 +4,8 @@ Alsjeblieft - Please - Please don't bleef!
 
 de aardbei - strawberry
 
+alles - everything
+
 # b
 
 belangrijk - important
@@ -65,6 +67,8 @@ Engels - English
 
 # g
 
+genoeg - enough
+
 geef - (i) give
 
 groot - big
@@ -114,6 +118,12 @@ hun - them (possessive) "their"
 hen - them (as object)
 hem - him
 
+# i
+
+iets - something
+
+iemand - someone
+
 # j
 
 je - you
@@ -156,6 +166,8 @@ lichte - light
 
 leuk - nice
 - it's leuk so i like it
+
+ledereen - everyone
 
 # m
 
