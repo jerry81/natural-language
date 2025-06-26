@@ -1101,3 +1101,7 @@
 209. the grandfather
 - der Grosseltern - incorrect
 - der Grossvater - correct
+
+210. My dictionary is not in the suitcase
+- Mein worterbuch ist im koffer - incorrect
+- Mein Worterbuch ist nicht in koffer - correct

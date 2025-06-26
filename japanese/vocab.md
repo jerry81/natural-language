@@ -86,6 +86,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 ## か
 
+かどうか　→ is or isn't
+
 金持ち　→ かねもち　→ rich person
 
 かしこまりました　→ i got it
@@ -194,6 +196,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 (傘を)さします　- open an umbrella
 
 ## そ
+
+そろそろ　→ just about, probably, approximately
 
 そして - and
 

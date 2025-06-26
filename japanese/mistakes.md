@@ -1804,6 +1804,10 @@
 - 去年の災害１００人が亡くなりました - incorrect
 - 去年の災害では、１００人が亡くなりました - correct
 
-419.  My dictionary is not in the suitcase
-- Mein worterbuch ist im koffer - incorrect
-- Mein Worterbuch ist nicht in koffer - correct
+420.  彼女がもう到着したかどうか確かめてくれませんか
+- 能帮我确认她是否到了 - incorrect
+- 能不能帮我确认她是否已经到达了 - correct
+
+421.  電話よりメールの方が好きです
+- 和邮件相比更喜欢电话 - incorrect
+- 和电话相比更喜欢邮件 - correct
