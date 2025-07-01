@@ -1092,6 +1092,10 @@ islam教　→ きょう
 積り　→ つもり　→ plan to
 - review, (usually not in kanji form)
 
+## て
+
+提出する　→ ていしゅつ　→ submit
+
 # u
 
 ## う
@@ -1154,6 +1158,10 @@ islam教　→ きょう
 # y
 
 ## や
+
+約束　→ やくそく　→ promise
+
+破る　→ やぶる　→ to break
 
 野生　→ やせい
 
