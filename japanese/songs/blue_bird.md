@@ -44,3 +44,41 @@
 
 - そう言って僕に笑いかけた
 - she said that and smiled at me
+
+-　言葉は必要なかった
+  - 言葉　→ ことば　→ words
+- words aren't necessary
+
+- 居場所はいつもここにあった
+  - 居場所　→ いばしょ　→ whereabouts
+- my/our place has always been here
+
+- 太陽が眩しいと
+  - 眩しい　→ まぶしい　→ 刺眼
+- when the sun is dazzling
+
+- 呟きながら
+  - 呟き　→ つぶやき　→ muttering
+- while muttering
+
+- 潤んでく瞳を誤魔化す
+　- 潤んで　→ うるんで　→ watery
+  - 瞳　→ ひとみ　→ pupil
+  - 誤魔化す　→ ごまかす　→ conceal
+- concealing my watery eyes
+
+- 青い空を共に行こうよ
+
+- どこへ辿り着くんだとしても
+  - 辿り着く　→ たどりつく　→ to arrive
+- no matter where we arrive
+
+- もしも傷を負ったその時は
+  - 負った　→ おった　→ to suffer
+- if you get injured
+
+- 僕の翼を君にあげる
+- i'll give my wings to you
+
+- そう言って君は少し泣いた
+- when you said this i weeped a little
