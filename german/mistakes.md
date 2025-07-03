@@ -1108,3 +1108,7 @@
 
 211.  (L) Oh danke zur die blumen - incorrect
 - Oh, danke für die Blumen - correct
+
+212.  My partner is Canadian
+- Meine Partnerin kanadieren - incorrect
+- Meine Partnerin ist Kanadierin - correct
