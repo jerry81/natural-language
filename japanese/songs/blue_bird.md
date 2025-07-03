@@ -82,3 +82,8 @@
 
 - そう言って君は少し泣いた
 - when you said this i weeped a little
+
+- 君はそっと見守った
+- そっと　→ gently
+- you watched over me quietly
+
