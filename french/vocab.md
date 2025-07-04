@@ -194,6 +194,10 @@ ours - bear
 
 # p
 
+portefeuille - wallet
+
+poche - pocket
+
 une professeure - 教授
 
 prends - (you) ride

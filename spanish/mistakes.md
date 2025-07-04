@@ -240,3 +240,6 @@
 
 59.  El hotel está izquierda del banco - incorrect
 - El hotel está a la izquierda del banco - correct
+
+60.  Nosotros necesitamos leer estos libros.  Nosotros leimos estos libros ahora - incorrect
+-  Nosotros necesitamos leer estos libros.  Nosotros leemos estos libros ahora - correct

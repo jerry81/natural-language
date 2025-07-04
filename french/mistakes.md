@@ -380,3 +380,6 @@
 101.  (L) Mein Sohn ist klug, er studiert psicologie - incorrect
 - Mein Sohn ist klug, er studiert psychologie - incorrect
 
+102.  你在葡萄牙餐厅里工作吗
+- Tu dans un restaurant portuagais travailles?  - incorrect
+- Tu travailles dans un restaurant portugais?   - correct
