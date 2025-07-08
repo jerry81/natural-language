@@ -808,6 +808,8 @@ islam教　→ きょう
 
 ## さ
 
+参加　→ さんか
+
 下げ　→ さげ　
 - like あげ　but it's shit so さげ
 

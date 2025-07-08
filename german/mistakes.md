@@ -1112,3 +1112,7 @@
 212.  My partner is Canadian
 - Meine Partnerin kanadieren - incorrect
 - Meine Partnerin ist Kanadierin - correct
+
+213.  What color is your suitcase?
+- Welche Farbe hat ihre koffer? - incorrect
+- Welche Farbe hat ihr Koffer? - correct
