@@ -1116,3 +1116,10 @@
 213.  What color is your suitcase?
 - Welche Farbe hat ihre koffer? - incorrect
 - Welche Farbe hat ihr Koffer? - correct
+
+214.  The tourists want to tour the castle.
+- Die Touristen wollen die schloss besichtigen - incorrect
+- Die touristen wollen das schloss besichtigen - correct
+
+215.  (L) Bisichst du heute Morgen die Kirche? - incorrect
+- Besichtigst du heute Morgen die Kirche? - correct
