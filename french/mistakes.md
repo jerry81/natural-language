@@ -383,3 +383,14 @@
 102.  你在葡萄牙餐厅里工作吗
 - Tu dans un restaurant portuagais travailles?  - incorrect
 - Tu travailles dans un restaurant portugais?   - correct
+
+103.  Elle est ici, dans et poche!  - incorrect
+- Elle est ici, dans ma poche! - correct
+
+104.  保罗，你准备好了吗
+- Paul tu es prêtes - incorrect
+- Paul, tu es prêt? - correct
+
+105.  里奥很坏吗
+- Léo tres méchant? - incorrect
+- Léo est méchant? - correct

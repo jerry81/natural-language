@@ -159,7 +159,9 @@ livre - book
 
 # m
 
--mange - eats
+- méchant - bad/evil
+
+- mange - eats
 - pronounced "mohnja"
 - mangeons - (we) eat
 - mangent - (they) eat
@@ -208,8 +210,6 @@ du poisson - fish
 du = de le (of the)
 
 # s
-
-
 
 Salut - Hi/goodbye
 

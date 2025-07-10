@@ -918,6 +918,8 @@ Die Rückkehr - return trip
 
 # S
 
+Spind - locker
+
 schalter - counter
 
 scharf - spicy
