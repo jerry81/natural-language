@@ -394,3 +394,10 @@
 105.  里奥很坏吗
 - Léo tres méchant? - incorrect
 - Léo est méchant? - correct
+
+106.  (L) Je parles toujours anglais avec ma fille - incorrect
+- Je parle toujours anglais avec ma fille - correct
+
+107.  我的葡萄牙邻居经常在这里走路
+- Mon voisin portugais souvent marche ici - incorrect
+- Mon voisin portugais marche souvent ici - correct

@@ -697,6 +697,8 @@ kurz/kurzen - short
 
 # L
 
+lebenslauf - resume
+
 lass Uns - let's
 
 Landsleute - person from same hometown
@@ -743,6 +745,8 @@ Lösung - solution
 Luft - air
 
 # M
+
+motiviert - motivated
 
 Mehrfamilienhaus - apartment building
 

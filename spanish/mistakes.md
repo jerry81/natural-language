@@ -243,3 +243,7 @@
 
 60.  Nosotros necesitamos leer estos libros.  Nosotros leimos estos libros ahora - incorrect
 -  Nosotros necesitamos leer estos libros.  Nosotros leemos estos libros ahora - correct
+
+61.  We also read on Fridays
+- Nosotros también comemos los viernes - incorrect
+- Nosotros también leemos los viernes - correct

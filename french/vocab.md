@@ -211,6 +211,8 @@ du = de le (of the)
 
 # s
 
+souvent - often
+
 Salut - Hi/goodbye
 
 suis - am
@@ -234,6 +236,8 @@ tu - you
 travaille - to work
 
 # v
+
+voisin - neighbor
 
 va - go
 
