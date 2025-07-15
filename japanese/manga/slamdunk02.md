@@ -181,3 +181,32 @@ sとrてどうして
 - 止められっこない →　unstoppable
 
 - 戻る →　もどる　→ return
+
+p. 42
+
+- くっ
+- あんなデカいくせになんてドリブルのうまいヤツだ
+- デカい　→ huge
+- くせに　→ although
+- なんて　→ what a
+- even though he's huge, he's skillful at dribbling
+
+- フアウルしてでも止めてやる
+- フアウル　→ foul
+- even if i have to foul, I'll stop him
+
+- 本物だ
+- 奴は紛れもなく本物
+- that guy without a doubt is the real thing
+- 本物　→ ほんもの
+- 紛れもなく　→ まぎれもなく　→ without a doubt
+
+- それはほんの数秒の間だったが　
+- ほんの　→ only
+- 数秒　→ すうびよう　→ a few seconds
+- it was only a matter of a few seconds but
+
+- 流川のプレイに目を奪われた自分に桜木は気づいていた
+- sakuragi realized he was captivaated by rukawa's play
+- 奪われた　→ うばわれた　→ captivated
+- 気づいていた　→ past continuous of 気づく　→ to realize
