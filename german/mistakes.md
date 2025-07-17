@@ -1123,3 +1123,7 @@
 
 215.  (L) Bisichst du heute Morgen die Kirche? - incorrect
 - Besichtigst du heute Morgen die Kirche? - correct
+
+216.  Trinkst du immer Tee in deiner Pause?
+- Do you always drink your tea on break?  - incorrect
+- Do you always drink tea on your break? - correct

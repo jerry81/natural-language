@@ -859,6 +859,8 @@ oder - or
 
 # P
 
+Pause - break
+
 Polizist - police officer
 
 passen - fit
