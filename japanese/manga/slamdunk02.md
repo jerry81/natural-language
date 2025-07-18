@@ -210,3 +210,46 @@ p. 42
 - sakuragi realized he was captivaated by rukawa's play
 - 奪われた　→ うばわれた　→ captivated
 - 気づいていた　→ past continuous of 気づく　→ to realize
+
+- p 50
+- すごいものを見てしまったわ
+- i just saw something incredible
+
+- もう一生あなたについていくわ
+- i'm a fan for life already
+
+- いやがラセしないでよね
+- 嫌がらせ　→ harrassment
+
+- ちくしょう　→ damn it
+
+- め目がハートになっているう
+- you have heart-eyes!
+
+- 嫌な予感はこれだったのかっ
+- Was this the bad premonition?
+
+- 落ち着きなさい
+- 落ち着きなさい →　おちつきなさい　→ calm down
+
+- うちの妹うにさわるな
+- 触るな　→ さわるな　→ don't touch
+- don't touch my sister
+
+- でえいくそ
+- damn it
+
+- コラおまえもう疲れただろ俺と替われよお
+- コラ　→ hey!
+- だろう　→ right?
+- Hey, you’re tired already, right? Swap with me!
+
+- 何脅してんだコラ
+- 脅して　→ おどして - threaten
+- Hey, what’re you threatening for
+
+- 出してくれごそ
+- Put me in, come on!
+
+- オレも出してくれ
+- Put me in too
