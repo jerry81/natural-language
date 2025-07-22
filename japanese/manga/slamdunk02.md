@@ -253,3 +253,30 @@ p. 42
 
 - オレも出してくれ
 - Put me in too
+
+- p. 53
+- こう言ってるし出してあげたら
+- That’s what they’re saying, so why don’t you pass it
+
+- 残り時間も少ないし
+- 残り　→ のこり　→ remaining
+- there is also not much time left
+
+- それに　ほらこれは一年生のでしょ
+- それに　→ besides
+- ほら　→ see
+- And hey, these belong to a freshman, don’t they
+
+- 桜木花道も　もうれっきとしたバスケ部員だし
+- れっきとした　→ legitimate
+- even hanamichi is already a full-fledged bball team member
+
+- 少しくらいいいんじゃないか赤木
+- a little's fine, right akagi?
+
+- あの僕交代したいな
+- 交代　→ こうたい
+- um i'd like to sub in
+
+- 安西先輩あの男なんですが
+- Coach Anzai, about that guy…
