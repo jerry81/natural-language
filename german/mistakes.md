@@ -1127,3 +1127,32 @@
 216.  Trinkst du immer Tee in deiner Pause?
 - Do you always drink your tea on break?  - incorrect
 - Do you always drink tea on your break? - correct
+
+217.  My girlfriend would like to buy a heart cookie.
+- Meine Freundin möchte ein Wiesenhertz kaufen - incorrect
+- Meine Freundin möchte ein Wiesn-Herz kaufen - correct
+
+218.  The clock doesn't work.
+- Die Uhr functioiert nicht - incorrect
+- Die Uhr funktioniert nicht - correct
+
+219.  der Handy - incorrect
+- das Handy - correct
+
+220.  Unsere Verwandten besuchen uns April - incorrect
+- Unsere Verwandten besuchen uns im April - correct
+
+221.  I visit my relatives every year
+- Ich besucht meine Verwandten jedes Jahr - incorrect
+- Ich besuche meine Verwandten jedes Jahr - correct
+
+222.  (L) Meine Oma backe jeden Sonntag einen Apfelkuchen - incorrect
+- Meine Oma backt jeden Sonntag einen Apfelkuchen - correct
+
+223.  My mother has to drink less coffee
+- Meine Mutter muss Kaffee trinken - incorrect
+- Meine Mutter muss weineger Kaffee trinken - correct
+
+224.  It is a quarter till eight
+- Es ist Viertel nach acht - incorrect
+- Es ist Viertel vor acht - correct
