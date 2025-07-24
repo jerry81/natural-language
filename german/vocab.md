@@ -387,6 +387,8 @@ evtl - possibly
 
 # F
 
+ich freue mich so auf ... - i'm looking forward to
+
 formular - form
 
 fruhstucke - (i) eat breakfast

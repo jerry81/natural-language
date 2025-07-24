@@ -23,6 +23,8 @@ un animal de compagnie - pet
 
 au - contraction of à and le - "to the"
 
+ajourd'hui - today
+
 # b
 
 boulangerie - french bakery
@@ -159,6 +161,8 @@ livre - book
 
 # m
 
+- mais - but
+
 - méchant - bad/evil
 
 - mange - eats
@@ -226,6 +230,8 @@ sa - her
 
 # t
 
+tous les jours - every day
+
 ton - your
 
 un thé - tea
@@ -236,6 +242,8 @@ tu - you
 travaille - to work
 
 # v
+
+voilà - this/it is
 
 voisin - neighbor
 

@@ -157,6 +157,12 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 # n
 
+## の
+
+のに　→ would be good
+
+ので　→ because, so
+
 ## な
 
 なあ　→ give feeling of wishing
@@ -164,8 +170,6 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 など　→ such, etc.
 
 なる、なりましよ　→　become
-
-ので　→ because, so
 
 何とか　→ なんとか　→ somehow
 
@@ -226,6 +230,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 # t
 
 ## た
+
+たがる　→ to want to
 
 ために -> in order to 為に
 

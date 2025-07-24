@@ -247,3 +247,7 @@
 61.  We also read on Fridays
 - Nosotros también comemos los viernes - incorrect
 - Nosotros también leemos los viernes - correct
+
+62.  How many universities does Boston have?
+- ¿Cuantos universidades tiene Boston? - incorrect
+- ¿Cuántas universidades tiene Boston? - correct

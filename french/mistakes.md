@@ -401,3 +401,6 @@
 107.  我的葡萄牙邻居经常在这里走路
 - Mon voisin portugais souvent marche ici - incorrect
 - Mon voisin portugais marche souvent ici - correct
+
+108.  (L) Le bus est en retard ajord'hui - incorrect
+- Le bus est en retard ajourd'hui - correct

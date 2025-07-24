@@ -126,3 +126,9 @@ x "y"　と言いました
 
 - only x
 - しかxません
+
+- in order to x
+- x ように
+
+- let's x
+- x でみよう　
