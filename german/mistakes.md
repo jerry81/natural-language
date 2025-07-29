@@ -1156,3 +1156,18 @@
 224.  It is a quarter till eight
 - Es ist Viertel nach acht - incorrect
 - Es ist Viertel vor acht - correct
+
+225.  I have to read my book on my break.
+- Ich muss mein Buch lesen in meiner Pause - incorrect
+- Ich muss in meiner Pause mein Buch lesen - correct
+
+226.  Bob and Linda, do you like to work here?
+- Bob und Linda, arbeiten ihr gern hier? - incorrect
+- Bob und Linda, arbeitet ihr gern hier? - correct
+
+227.  You work well together.
+- Ihr arbeitet zusammen gut - incorrect
+- Ihr arbeitet gut zusammen - correct
+
+228. (L) Ron und Leslie, eure buro sind groß und hell. - incorrect
+- Ron und Leslie, eure Buros sind groß und hell. - correct

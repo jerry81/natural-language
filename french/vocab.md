@@ -140,6 +140,7 @@ la grandmere - the grandmother
 il - he
 ils - they
 ils sont - they are
+il y a - it has/there is
 
 ici - here
 - pronounced "ee-see"
@@ -192,6 +193,8 @@ ne - don't
 
 # o
 
+ouverte - open for business
+
 ou - or
 - "oo" like "moo"
 
@@ -199,6 +202,8 @@ ours - bear
 - (r silent)
 
 # p
+
+près d'ici - nearby
 
 portefeuille - wallet
 
@@ -212,6 +217,10 @@ un père - father
 
 du poisson - fish
 du = de le (of the)
+
+# q
+
+quartier - district
 
 # s
 

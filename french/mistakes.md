@@ -404,3 +404,11 @@
 
 108.  (L) Le bus est en retard ajord'hui - incorrect
 - Le bus est en retard ajourd'hui - correct
+
+109.  是的，银行在这里附近
+- Oui, le banque est près d'ici - incorrect
+- Oui, la banque est près d'ici. - correct
+
+110.  La vendeuse est très amusante
+- 那个售货员非常有风趣 - incorrect
+- 那个售货员非常风趣 - correct

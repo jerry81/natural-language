@@ -132,3 +132,9 @@ x "y"　と言いました
 
 - let's x
 - x でみよう　
+
+- if only/would be nice to x
+- x いいのに
+
+- thinking to x
+- xたがって
