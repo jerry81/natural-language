@@ -387,6 +387,8 @@ evtl - possibly
 
 # F
 
+feierabend - end of the workday
+
 ich freue mich so auf ... - i'm looking forward to
 
 formular - form

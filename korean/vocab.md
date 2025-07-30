@@ -34,6 +34,8 @@
 
 # ㅕ
 
+여권 -> "yeogwan" -> passport
+
 연필 -> "yeonpil" -> pencil
 
 # ㅃ
@@ -281,6 +283,8 @@
 
 # ㅎ
 
+헨디폰 -> "hendipon" -> cell phone
+
 휴대푼 -> "hyudaepun" -> mobile phone
 
 화장실 -> "hwajangsil" -> bathroom (makeup room)
@@ -309,6 +313,8 @@
 에 - 'e' - particle indicating location
 
 # ㅍ
+
+표는 -> pyoneun -> ticket
 
 편지 -> pyeonji -> letter
 
@@ -365,7 +371,7 @@
 
 # ㅆ
 
-씨의 -> "ssi ui" -> possessive ('s)
+씨의 -> "ssi wae" -> possessive ('s)
 
 씨는 -> "si neun" -> mr./mrs.
 

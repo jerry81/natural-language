@@ -412,3 +412,15 @@
 110.  La vendeuse est très amusante
 - 那个售货员非常有风趣 - incorrect
 - 那个售货员非常风趣 - correct
+
+111.  玛丽每天都跟着售货员说话
+- Marie parle avec la vendeur tous les jours - incorrect
+- Marie parle avec la vendeuse tous les jours - correct
+
+112.  那家面包店开着吗
+- La boulangerie est ouvert? - incorrect
+- La boulangerie est ouverte? - correct
+
+113.  对不起， 银行在这里附近吗
+- Excusez-moi, le banque est près d'ici? - incorrect
+- Excusez-moi, la banque est près d'ici? - correct
