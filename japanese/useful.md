@@ -138,3 +138,6 @@ x "y"　と言いました
 
 - thinking to x
 - xたがって
+
+- let x do y
+- xにyさせる

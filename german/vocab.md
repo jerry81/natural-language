@@ -197,6 +197,8 @@ büchlein - booklet
 
 # D
 
+draußen - outside
+
 dabei - included
 
 dachte - thought

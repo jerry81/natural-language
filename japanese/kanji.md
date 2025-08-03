@@ -260,6 +260,8 @@
 
 ## へ
 
+返事　→ へんじじ　→ respond
+
 減る　→ へる　→ decrease
 
 部屋中　 → へやちゅう
@@ -907,6 +909,10 @@ islam教　→ きょう
 背　→ せ　→ physique, body
 
 ## し
+
+趣味　→ しゅみ
+
+出張　→ しゅっちょう　→ business travel
 
 失礼　→ しつれい
 

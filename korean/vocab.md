@@ -283,6 +283,8 @@
 
 # ㅎ
 
+화장실에 -> "huajangsil e" in the bathroom
+
 헨디폰 -> "hendipon" -> cell phone
 
 휴대푼 -> "hyudaepun" -> mobile phone
@@ -334,6 +336,8 @@
 
 # ㅅ
 
+식당 -> sigdang -> restaurant
+
 식탁 -> sigtag -> table
 
 사과 -> sagwa -> apple
@@ -376,6 +380,8 @@
 씨는 -> "si neun" -> mr./mrs.
 
 # ㅕ
+
+영동생 -> "yeongdongsaeng" -> younger sister
 
 어기는 -> "yeogineun" -> here
 - so 는 -> is "wa" in japanese

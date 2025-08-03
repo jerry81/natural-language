@@ -251,3 +251,11 @@
 62.  How many universities does Boston have?
 - ¿Cuantos universidades tiene Boston? - incorrect
 - ¿Cuántas universidades tiene Boston? - correct
+
+63.  Carla and Ana, do you study on the weekends?
+- Carla y Ana ¿ustedes estudian los fines de semanas? - incorrect
+- Carla y Ana, ¿ustedes estudian los fines de semana? - correct
+
+64.  My friends always need a lot of shoes.
+- Mis amigos necesitan muchos zapatos - incorrect
+- Mis amigos siempre necesitan muchos zapatos - correct
