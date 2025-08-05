@@ -141,3 +141,9 @@ x "y"　と言いました
 
 - let x do y
 - xにyさせる
+
+- from x point of view
+- xにとって
+
+- should x
+- x べき
