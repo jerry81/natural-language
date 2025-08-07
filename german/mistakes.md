@@ -1178,3 +1178,11 @@
 
 230.  villeicht - incorrect
 - vielleicht - correct
+
+231.  (L) Ist deine kollegen/kolleigen freundlich oder nicht? - incorrect
+- Ist deine kollegin freundlich oder nicht - correct
+
+232.  Do you want to read a book on your break?
+- Willst du in deiner Pause ein buche lesen? - incorrect
+- Willst du in deiner Pause ein Buch lesen? - correct
+
