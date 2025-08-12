@@ -1190,3 +1190,11 @@
 - wo sind euer buros, Jim und Michael - incorrect
 - wo sind ihren buro jim und Michael - incorrect
 - Wo sind eure Buros, Jim und Michael - correct
+
+234.  OK, let's go to the bar.
+- OK, lass uns ins bar gehen.  - incorrect
+- OK, lass uns in die Bar gehen - correct
+
+235.  Are your colleagues also friendly, Angela and Michael?
+- Sind euer Kolegen auch freundlich, Angela und Michael? - incorrect
+- Sind eure Kollegen auch fruendlich, Angela und Michael? - correct

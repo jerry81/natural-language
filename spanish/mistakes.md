@@ -259,3 +259,11 @@
 64.  My friends always need a lot of shoes.
 - Mis amigos necesitan muchos zapatos - incorrect
 - Mis amigos siempre necesitan muchos zapatos - correct
+
+65.  We want to sleep a lot on Sunday.
+- Nosotras quieren dormir mucho el domingo - incorrect
+- Nosotras queremos dormir mucho el domingo - correct
+
+66.  Miguel has no classes in the summer
+- Miguel tiene no clases en el verano - incorrect
+- Miguel no tiene clases en el verano - correct

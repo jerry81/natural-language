@@ -103,6 +103,8 @@ une étudiante - female student
 
 # f
 
+fermé - closed
+
 une femme - a woman
 - a little like 'yune'
 
@@ -162,6 +164,8 @@ livre - book
 
 # m
 
+- Le magasin - store
+
 - mais - but
 
 - méchant - bad/evil
@@ -202,6 +206,8 @@ ours - bear
 - (r silent)
 
 # p
+
+pressée - in a rush
 
 près d'ici - nearby
 

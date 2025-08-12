@@ -424,3 +424,10 @@
 113.  对不起， 银行在这里附近吗
 - Excusez-moi, le banque est près d'ici? - incorrect
 - Excusez-moi, la banque est près d'ici? - correct
+
+114.  那个售货员赶时间
+- Le vendeuse est presee - incorrect
+- La vendeuse est presesée - correct
+
+115.  (L)Le magazai est dans ta rue? - incorrect
+- Le magasin est dans ta rue? - correct
