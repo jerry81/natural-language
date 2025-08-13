@@ -40,6 +40,8 @@ Bonne nuit - good night
 
 # c
 
+canapé - sofa
+
 chat - cat
 - (pronounced "sha")
 
@@ -157,6 +159,8 @@ je - I
 joli - pretty
 
 # l
+
+loin - far
 
 les - these
 

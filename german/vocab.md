@@ -197,6 +197,8 @@ büchlein - booklet
 
 # D
 
+denn - because
+
 draußen - outside
 
 dabei - included

@@ -431,3 +431,7 @@
 
 115.  (L)Le magazai est dans ta rue? - incorrect
 - Le magasin est dans ta rue? - correct
+
+116.  快点，我的邻居非常赶时间
+- Vite, ma voisine est très lion - incorrect
+- Vite, ma voisine est très presée - correct
