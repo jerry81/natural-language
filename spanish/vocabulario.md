@@ -40,6 +40,8 @@ juntas - together
 
 ## l
 
+lloviendo - raining
+
 lejos - far
 
 ## m
@@ -82,6 +84,8 @@ siempre - always
 soprendido - surprised
 
 # t
+
+tanta - so much
 
 la taza - cup
 

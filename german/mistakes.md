@@ -1198,3 +1198,7 @@
 235.  Are your colleagues also friendly, Angela and Michael?
 - Sind euer Kolegen auch freundlich, Angela und Michael? - incorrect
 - Sind eure Kollegen auch fruendlich, Angela und Michael? - correct
+
+236.  Ich laufe jedes Wochenende hundert Kilometer
+- I run every weekend one hundred kilometers - incorrect
+- I run one hundred kilometers every weekend - correct

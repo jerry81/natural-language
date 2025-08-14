@@ -40,6 +40,12 @@ Bonne nuit - good night
 
 # c
 
+clé - key
+
+chambre - room
+
+chaise - chair
+
 canapé - sofa
 
 chat - cat
@@ -73,6 +79,8 @@ una chouette - owl
 chanson - song
 
 # d
+
+devant - in front of
 
 dans - in
 
@@ -168,6 +176,8 @@ livre - book
 
 # m
 
+- manteau - coat
+
 - Le magasin - store
 
 - mais - but
@@ -211,6 +221,8 @@ ours - bear
 
 # p
 
+porte - door
+
 pressée - in a rush
 
 près d'ici - nearby
@@ -248,6 +260,8 @@ sœur - "sir" - sister
 sa - her
 
 # t
+
+ta - your
 
 tous les jours - every day
 

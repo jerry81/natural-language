@@ -435,3 +435,11 @@
 116.  快点，我的邻居非常赶时间
 - Vite, ma voisine est très lion - incorrect
 - Vite, ma voisine est très presée - correct
+
+117.  们为什么坏了
+- Porquoi est la porte cassée - incorrect
+- Porquoi la porte est cassée - correct
+
+118.  Oh, ton chien est devant la porte
+- 哦你狗在门前 - incorrect
+- 哦你的狗在门前 - correct
