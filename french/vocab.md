@@ -40,6 +40,8 @@ Bonne nuit - good night
 
 # c
 
+cassé - broken
+
 clé - key
 
 chambre - room
@@ -167,6 +169,8 @@ je - I
 joli - pretty
 
 # l
+
+là-bas - over there
 
 loin - far
 

@@ -267,3 +267,7 @@
 66.  Miguel has no classes in the summer
 - Miguel tiene no clases en el verano - incorrect
 - Miguel no tiene clases en el verano - correct
+
+67.  They write a lot on the weekends.
+- Ellas escriben muchas los fines de semana - incorrect
+- Ellas escriben mucho los fines de semana - correct

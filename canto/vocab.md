@@ -6,6 +6,8 @@
 
 # c
 
+- 設計師 - cit3gai3si1
+
 - 出口 - ceot1hau2
 
 - 嘈交 - coo1gaau1 - 吵架
@@ -32,6 +34,8 @@
 
 # g
 
+- 工程師 - gung1cing4si1
+
 - 嘅 - ge3 - 的
 
 - 嘅度 - ge2dou6 - 那里
@@ -54,6 +58,8 @@
 
 # l
 
+- 履歷 - lei5lik6 - resumé
+
 - 老細 - lou5sai3 - boss
 
 - 聯繫 - lyun4hai6 - 联系
@@ -75,6 +81,8 @@
 - 拍拖 - paai1to1 - 谈恋爱
 
 # s
+
+- 寫 - se2
 
 - 細個 - sai3go3 - 小
 
@@ -107,3 +115,5 @@
 # z
 
 - 啫 - ze1 - 而已
+
+- 專業 - zyun1jip6

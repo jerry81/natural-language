@@ -443,3 +443,7 @@
 118.  Oh, ton chien est devant la porte
 - 哦你狗在门前 - incorrect
 - 哦你的狗在门前 - correct
+
+119.  门为什么坏了
+- pourquois la porte est cassée - incorrect
+- pourquoi la porte est cassée - correct
