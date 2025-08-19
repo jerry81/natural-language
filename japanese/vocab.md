@@ -114,6 +114,10 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 こそ　→　precisely/indeed/contrast/才
 
+## き
+
+きっと　→ definitely
+
 # o
 
 ## お
@@ -234,6 +238,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 # t
 
 ## た
+
+たった今　→ just now
 
 たがる　→ to want to
 

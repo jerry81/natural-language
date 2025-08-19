@@ -271,3 +271,6 @@
 67.  They write a lot on the weekends.
 - Ellas escriben muchas los fines de semana - incorrect
 - Ellas escriben mucho los fines de semana - correct
+
+68.  Felipe necesita comer español en el trabajo.  Su jefe es de España - incorrect
+- Felipe necesita hablar español en el trabajo.  Su jefe es de España - correct

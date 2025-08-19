@@ -754,6 +754,8 @@ Luft - air
 
 # M
 
+der Mond - the moon
+
 motiviert - motivated
 
 Mehrfamilienhaus - apartment building
@@ -1074,6 +1076,8 @@ soll - should
 sucht - seeks
 
 # T
+
+Die Turnschuhe - the gym shoes
 
 Die Treppe - stairs
 

@@ -1202,3 +1202,11 @@
 236.  Ich laufe jedes Wochenende hundert Kilometer
 - I run every weekend one hundred kilometers - incorrect
 - I run one hundred kilometers every weekend - correct
+
+237.  Our apartment is small, we don't have a dining room.
+- Unsere Wohnung ist klein, wir haben keinen Esszimmer - incorrect
+- Unsere Wohnung ist klein, wir haben kein Esszimmer. - correct
+
+238.  Wie kannst du weniger als sechs Stunden schlafen?
+- How can you sleep less than six hours per night? - incorrect
+- How can you sleep less than six hours? - correct
