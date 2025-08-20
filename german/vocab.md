@@ -1064,6 +1064,8 @@ stort - disturbs
 
 Störung - disturbance
 
+stimmst du mir zu - do you agree with me
+
 Strecke - route
 
 Stundenlohn - hourly wage

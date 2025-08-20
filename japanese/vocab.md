@@ -138,6 +138,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 ## ま
 
+まあまあ　→ 马马虎虎的
+
 貧しかった　→ まずしかった　→ be poor
 
 また　- again, another
@@ -254,6 +256,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 と　→ and, when/if
 
 ## つ
+
+ついに　→　finally
 
 つながっている　→ is connected
 
