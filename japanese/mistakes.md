@@ -1998,3 +1998,15 @@
 - 让祖母放心了 - incorrect
 - 想让祖母放心 - correct
 
+571. 韓国に行こうと心に決めました
+- 去韩国要在心里决定 - incorrect
+- 在心里决定要去韩国 - correct
+
+572.  心の中ではもう分かりました
+- 已经明白心里了 - incorrect
+- 心里已经明白了 - correct
+
+573.  普段通りです
+- 平常去 - incorrect
+- 和平常一样 - correct
+
