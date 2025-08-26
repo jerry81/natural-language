@@ -40,6 +40,8 @@ Bonne nuit - good night
 
 # c
 
+cherche - search
+
 cassé - broken
 
 clé - key
@@ -179,6 +181,9 @@ les - these
 livre - book
 
 # m
+
+- méchante - evil
+- "me shant"
 
 - manteau - coat
 
