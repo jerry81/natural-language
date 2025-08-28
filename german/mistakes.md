@@ -1210,3 +1210,7 @@
 238.  Wie kannst du weniger als sechs Stunden schlafen?
 - How can you sleep less than six hours per night? - incorrect
 - How can you sleep less than six hours? - correct
+
+239.  She runs in the forest without gym shoes
+- Sie laufe im Wald ohne Turnschuhe - incorrect
+- Sie lauft ohne Turnschuhe im Wald - correct
