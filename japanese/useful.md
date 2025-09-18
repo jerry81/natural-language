@@ -147,3 +147,6 @@ x "y"　と言いました
 
 - should x
 - x べき
+
+- x wants to do y
+- x は y したがっている

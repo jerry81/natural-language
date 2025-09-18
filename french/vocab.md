@@ -230,6 +230,8 @@ ours - bear
 
 # p
 
+parfait - 太好了
+
 porte - door
 
 pressée - in a rush
