@@ -274,3 +274,7 @@
 
 68.  Felipe necesita comer español en el trabajo.  Su jefe es de España - incorrect
 - Felipe necesita hablar español en el trabajo.  Su jefe es de España - correct
+
+69.  We don't work here.
+- Nosotras no trabajan aquí - incorrect
+- Nosotras no trabajamos aquí - correct

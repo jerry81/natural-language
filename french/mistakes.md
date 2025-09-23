@@ -456,3 +456,19 @@
 - Ma voisin marche tous les jours - incorrect
 - Ma voisine marche tous les jours - correct
 - ma is female, mon is male
+
+122.  Oui, elle est dans ma poche
+- 是，它在我的口袋里 - incorrect
+- 是的，它在我的口袋里 - correct
+
+123.  不，在我的包里
+- Non, est dans mon sac - incorrect
+- Non, dans mon sac - correct
+
+124.  你有点迟到了
+- Tu est un peu retard - incorrect
+- Tu es un peu en retard - correct
+
+125.  Elle est toujours un peu en retard
+- 她总是迟到 - incorrect
+- 她总是有点迟到 - correct

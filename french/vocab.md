@@ -172,6 +172,9 @@ joli - pretty
 
 # l
 
+lourde - heavy
+- lour duh
+
 là-bas - over there
 
 loin - far
@@ -229,6 +232,9 @@ ours - bear
 - (r silent)
 
 # p
+
+(un) peu -  a little bit
+- poo
 
 parfait - 太好了
 

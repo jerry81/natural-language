@@ -150,3 +150,6 @@ x "y"　と言いました
 
 - x wants to do y
 - x は y したがっている
+
+- when x happens, then y
+- x たら, y
