@@ -1214,3 +1214,15 @@
 239.  She runs in the forest without gym shoes
 - Sie laufe im Wald ohne Turnschuhe - incorrect
 - Sie lauft ohne Turnschuhe im Wald - correct
+
+240.  the laptop
+- das laptop - incorrect
+- der laptop - correct
+
+241.  Why do you only sleep until midnight?
+- Warum schläfst du nur bis miternachts - incorrect
+- Warum schläfst du nur bis Mitternacht - correct
+
+242.  How can you sleep less than six hours?
+- Wie kannst du weniger sechs Stunden schlafen - incorrect
+- Wie kannst du weniger als sechs Stunden schlafen - correct

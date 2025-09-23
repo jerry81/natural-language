@@ -278,3 +278,11 @@
 69.  We don't work here.
 - Nosotras no trabajan aquí - incorrect
 - Nosotras no trabajamos aquí - correct
+
+70.  The train station is close to the parks
+- La estación de tren esta cerca de las parques - incorrect
+- La estación de tren está cerca de los parques - correct
+
+71.  I need a bank now
+- Yo necesito un banque ahora - incorrect
+- Yo necesito un banco ahora - correct
