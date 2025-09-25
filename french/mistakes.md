@@ -472,3 +472,7 @@
 125.  Elle est toujours un peu en retard
 - 她总是迟到 - incorrect
 - 她总是有点迟到 - correct
+
+126.  你有点迟到了
+- Tu est un peu en retard - incorrect
+- Tu es un peu en retard - correct
