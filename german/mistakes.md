@@ -1226,3 +1226,18 @@
 242.  How can you sleep less than six hours?
 - Wie kannst du weniger sechs Stunden schlafen - incorrect
 - Wie kannst du weniger als sechs Stunden schlafen - correct
+
+243.  He can maybe visit us in February
+- Er kann veilleicht uns besuchen im Februar - incorrect
+- Er kann uns vielleicht im Februar besuchen - correct
+
+244.  (L) Triffst du deine reundinin freitags - incorrect
+- Triffst du deine Freundinnen freitags - correct
+
+245.  My children are very well-behaved
+- Meine kindern sind sehr brav - incorrect
+- Meine kinder sind sehr brav - correct
+
+246.  The baby is nineteen months old
+- Das baby ist neunsehn monat alt - incorrect
+- Das baby ist neunzehn Monate alt - correct

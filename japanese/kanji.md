@@ -141,6 +141,8 @@
 
 ## ふ
 
+再び　→ ふたたび
+
 複　→ ふく
 
 風至　→ ふげし
@@ -944,6 +946,8 @@ islam教　→ きょう
 
 ## し
 
+将来　→ しょうらい　
+
 趣味　→ しゅみ
 
 出張　→ しゅっちょう　→ business travel
@@ -1163,6 +1167,8 @@ islam教　→ きょう
 - review, (usually not in kanji form)
 
 ## て
+
+適切　→ てきせつ　→ appropriate, fitting
 
 典型　→ てんけい
 
