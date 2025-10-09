@@ -1241,3 +1241,6 @@
 246.  The baby is nineteen months old
 - Das baby ist neunsehn monat alt - incorrect
 - Das baby ist neunzehn Monate alt - correct
+
+247.  (L) Sind deiner eltern reich - incorrect
+- Sind deine Eltern reich? - correct

@@ -286,3 +286,8 @@
 71.  I need a bank now
 - Yo necesito un banque ahora - incorrect
 - Yo necesito un banco ahora - correct
+
+72.  Do you buy the newspaper?
+- ¿Ustedes compren el periódico? - incorrect
+- ¿Ustedes compran el periódico? - correct
+
