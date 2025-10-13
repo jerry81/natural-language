@@ -1244,3 +1244,8 @@
 
 247.  (L) Sind deiner eltern reich - incorrect
 - Sind deine Eltern reich? - correct
+
+248.  My dog sleeps the whole day
+- Mein Hund den ganzen Tag schalft - incorrect
+- Mein Hund schlaft den ganzen Tag - correct
+- subject-verb-rest
