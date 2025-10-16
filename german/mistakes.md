@@ -1249,3 +1249,13 @@
 - Mein Hund den ganzen Tag schalft - incorrect
 - Mein Hund schlaft den ganzen Tag - correct
 - subject-verb-rest
+
+249.  How can you sleep less than six hours?
+- Wie kannst du weniger als sechs uhr schlafen - incorrect
+- Wie kannst du weniger als sechs Stunden schlafen?  - correct
+
+250.  It is midnight, the moon is bright, are you sleeping?
+- Es ist mittnach, der Mond ist hell, schläfst du? - incorrect
+- Es ist Mitternacht der Mond ist hell, schläfst du? - correct
+
+251.
