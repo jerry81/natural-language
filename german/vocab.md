@@ -2,6 +2,8 @@
 
 # A
 
+auszustellen - to issue
+
 Ein Aufseher - an attendant
 
 auf jeden Fall - definitely
@@ -885,6 +887,8 @@ praktisch - practical
 
 # R
 
+ruh dich aus - (you) rest up
+
 rosafarbenen - pink
 
 rienkommen - come
@@ -933,6 +937,10 @@ Ruhe - quiet
 Die Rückkehr - return trip
 
 # S
+
+schrecklich - terrible
+
+Seit wann?  - since when
 
 Spind - locker
 
