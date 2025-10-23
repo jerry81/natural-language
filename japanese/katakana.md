@@ -100,3 +100,9 @@ Review
 ## ラ
 
 ラッシュ　→ rush (rush hour)
+
+# s
+
+## サ
+
+サイト　→ site

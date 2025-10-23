@@ -1258,4 +1258,10 @@
 - Es ist mittnach, der Mond ist hell, schläfst du? - incorrect
 - Es ist Mitternacht der Mond ist hell, schläfst du? - correct
 
-251.
+251. Mr. Smith, you have to stay in bed today.
+- Herr Smith, Sie müssen heute in bett bleiben - incorrect
+- Herr Smith, Sie müssen heute im bett bleiben - correct
+
+252.  Is Vienna in Austria?
+- Ist Wien im osterreich? - incorrect
+- Ist Wien in Österreich? - correct
