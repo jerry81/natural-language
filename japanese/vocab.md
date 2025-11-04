@@ -23,6 +23,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 ## あ
 
+あけましておめでとうございます　→ happy new year
+
 あごひげ - beard
 
 あっちこっち　→ here and there
@@ -121,6 +123,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 # o
 
 ## お
+
+おしゃれ　→ fashionable
 
 ~おいて　→ (auxillary verb) ~ for later
 

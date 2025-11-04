@@ -23,6 +23,10 @@ Review
 
 # d
 
+## ダ
+
+ダサかった　→ tacky
+
 ## デ
 
 デット　→　date
