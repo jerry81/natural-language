@@ -307,6 +307,7 @@ une valise - luggage
 
 veut - want
 voulons - (we) want
+voudrais - (i) want
 
 viande - meat
 
