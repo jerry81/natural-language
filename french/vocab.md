@@ -311,3 +311,5 @@ voudrais - (i) want
 
 viande - meat
 
+viens de - am from
+

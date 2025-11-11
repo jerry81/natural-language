@@ -291,3 +291,6 @@
 - ¿Ustedes compren el periódico? - incorrect
 - ¿Ustedes compran el periódico? - correct
 
+73.  I also want to go to the park
+- Yo quiero ir al la parque - incorrect
+- Yo tambien quiero ir al parque - correct

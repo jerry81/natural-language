@@ -97,6 +97,8 @@ Review
 
 ## ピ
 
+ピーマン　→ pepper
+
 ピュア - pure
 
 # r

@@ -165,6 +165,10 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 めちゃくちゃ　-> excessive
 
+## む
+
+迎え　→ むかえ　→ pick up
+
 # n
 
 ## の
@@ -216,6 +220,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 # s
 
 ## さ
+
+さっき　→ first
 
 (傘を)さします　- open an umbrella
 
