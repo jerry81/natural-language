@@ -717,6 +717,8 @@ islam教　→ きょう
 
 ## む
 
+昔　→ むかし　→ from the past
+
 向いて　→ むいて　→ towards
 
 娘　→ むすめ　→ daughter
@@ -988,6 +990,8 @@ islam教　→ きょう
 
 ## し
 
+知り合い　→ しりあい　→ acquaintance
+
 調べた　→ しらべた
 
 将来　→ しょうらい　
@@ -1190,6 +1194,8 @@ islam教　→ きょう
 撮る - とる - to take picture
 
 ## つ
+
+- 連れてきます　→ つれてきます　→ to bring
 
 -　続け　→ つずけ　→ continue
 
