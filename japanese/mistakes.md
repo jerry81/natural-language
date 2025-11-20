@@ -2284,4 +2284,18 @@
 - 我和狗一起游泳了 - incorrect
 - 我和狗一起在河里游泳了 - correct
 
-643.
+643.  バーベキューの前に火をつけます
+- 烧烤之前点火吧 - incorrect
+- 烧烤之前点火 - correct
+
+644.  ちょっと塩を取りますか
+- 加碘盐 - incorrect
+- 你要不要稍微加碘盐 - correct
+
+645.  お茶を取ります
+- 喝茶 - incorrect
+- 我要喝茶 - correct
+
+646.  もう火をつけますか
+- 点火了吗 - incorrect
+- 要开始点火了吗 - correct

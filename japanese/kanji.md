@@ -745,6 +745,8 @@ islam教　→ きょう
 
 ## ぬ
 
+脱ぎます　→ ぬぎます　→ take off (shoes)
+
 抜く　(ぬく)
 
 濡れて　→ ぬれて　→ make wet

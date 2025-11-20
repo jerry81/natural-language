@@ -287,6 +287,8 @@ Das geht - that works
 
 # E
 
+einpacken - pack
+
 einzugrenzen - limit
 
 einbauen - install

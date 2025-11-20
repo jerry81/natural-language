@@ -1265,3 +1265,7 @@
 252.  Is Vienna in Austria?
 - Ist Wien im osterreich? - incorrect
 - Ist Wien in Österreich? - correct
+
+253.  I never wear a jacket
+- Ich trage eine Jacke nie - incorrect
+- Ich trage nie eine Jacke - correct
