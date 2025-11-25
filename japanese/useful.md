@@ -153,3 +153,7 @@ x "y"　と言いました
 
 - when x happens, then y
 - x たら, y
+
+- i want to do X, but...
+- X-たいんですけど
+- ask for help without actually asking
