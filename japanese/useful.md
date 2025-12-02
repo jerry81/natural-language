@@ -157,3 +157,6 @@ x "y"　と言いました
 - i want to do X, but...
 - X-たいんですけど
 - ask for help without actually asking
+
+- maybe x
+- x かも

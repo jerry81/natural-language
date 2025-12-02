@@ -266,6 +266,8 @@
 
 ## ひ
 
+表示　→ ひょうじ　→ display, expression
+
 非常　→ ひじょう　→ emergency
 
 必死　→ ひっし　→ desperately
@@ -350,6 +352,8 @@
 # j
 
 ## じ
+
+情報　→ じょうほう　→ information
 
 次回　→ じかい - next time
 
@@ -1356,6 +1360,8 @@ islam教　→ きょう
 # z
 
 ## ざ
+
+材料　→ ざいりょう
 
 残業　→ ざんぎょう　→ overtime
 
