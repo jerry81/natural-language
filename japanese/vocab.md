@@ -135,7 +135,11 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 おねがいします - please
 
 # i
+
 ## い
+
+いくつ　→ how many
+
 いっぱい　- full
 
 いつでも → whenever
