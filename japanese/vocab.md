@@ -297,6 +297,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 ## や
 
+やっと　→ finally
+
 やかん　→ kettle
 
 ## よ
