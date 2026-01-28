@@ -173,6 +173,8 @@
 
 ## が
 
+画面　→ がめん　→ monitor, screen
+
 側　→ がわ　→ side
 
 癌　 → がん
