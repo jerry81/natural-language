@@ -160,3 +160,6 @@ x "y"　と言いました
 
 - maybe x
 - x かも
+
+- whether or not x
+- xかどうか
