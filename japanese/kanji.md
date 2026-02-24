@@ -1235,6 +1235,8 @@ islam教　→ きょう
 
 ## つ
 
+- 通訳します　→ つうやくします　→ to translate
+
 - 連れてきます　→ つれてきます　→ to bring
 
 -　続け　→ つずけ　→ continue
@@ -1275,6 +1277,8 @@ islam教　→ きょう
 # u
 
 ## う
+
+受付　→ うけつけ　→ reception
 
 運転免許　→ うんてんめんきょ　→ driver's license
 
