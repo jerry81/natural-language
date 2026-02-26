@@ -115,4 +115,6 @@ Review
 
 ## ス
 
+- スマホ　→ smartphone
+
 - スライド　→ slide
