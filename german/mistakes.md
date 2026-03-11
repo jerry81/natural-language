@@ -1269,3 +1269,15 @@
 253.  I never wear a jacket
 - Ich trage eine Jacke nie - incorrect
 - Ich trage nie eine Jacke - correct
+
+254.  My grandma bakes an apple cake every Sunday
+- Meine mutter becke jeden Sonntag einen Apfelkuchen - incorrect
+- Meine Oma backt jeden Sonntag einen Apfelkuchen - correct
+
+255.  Excuse me, I still need a moment
+- Entschuldigung, ich brauche noch ein moment - incorrect
+- Entschuldigung, ich brauche noch einen Moment - correct
+
+256.  Neuschwanstein Castle is old and beautiful
+- Neuschwanstein schloss und schön - incorrect
+- Neuschwanstein ist alt und schön - correct

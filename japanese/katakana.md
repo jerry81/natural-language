@@ -21,6 +21,10 @@ Review
 
 バッタ　→ locust
 
+## べ
+
+ベタベタ　→ sticky
+
 # d
 
 ## ダ
