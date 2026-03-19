@@ -213,6 +213,8 @@ une maison - the house
 
 # n
 
+neveau - nephew
+
 nouveau - new
 
 Nous - our/we

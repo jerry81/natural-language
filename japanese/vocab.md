@@ -332,3 +332,7 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 ## ざ
 
 座席　→ ざせき　→ seat
+
+## ぜ
+
+ぜひ　→ definitely
