@@ -1,5 +1,7 @@
 # a
 
+aussi - also
+
 allons - (we) go to
 
 aime - to like
@@ -210,6 +212,8 @@ mari - husband
 - marry
 
 une maison - the house
+
+- magasin - store
 
 # n
 
