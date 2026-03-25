@@ -77,6 +77,8 @@ Review
 
 ## コ
 
+コーデ　→ coordinated
+
 コッソリ　→ secretly
 
 コンロ　→ stove
