@@ -876,6 +876,8 @@ islam教　→ きょう
 
 ## お
 
+降ります　→ おります　→ get off (car)
+
 お洒落　→ おしゃれ　→ stylish
 
 遅く　→ おそく　→ late
