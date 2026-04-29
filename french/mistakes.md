@@ -476,3 +476,6 @@
 126.  你有点迟到了
 - Tu est un peu en retard - incorrect
 - Tu es un peu en retard - correct
+
+127.  C'e una parque qui, vero? - incorrect
+- C'e una biblioteca qui, vero? - correct

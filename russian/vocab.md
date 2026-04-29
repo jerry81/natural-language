@@ -384,6 +384,8 @@ morning, utro, utroman
 
 # т
 
+тетради - notebooks
+
 толстел -> tolstyel -> got fat
 
 тёща -> tyoshsha

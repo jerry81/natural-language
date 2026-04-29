@@ -84,6 +84,9 @@ una chouette - owl
 
 chanson - song
 
+cassée - broken
+- "can't say it... it's broken"
+
 # d
 
 devant - in front of

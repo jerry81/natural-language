@@ -22,6 +22,8 @@
 
 # ㅓ
 
+어때요 - how
+
 얼마 -> "eolma" - how much
 
 얼글 -> "eolgeul" -> face
@@ -44,6 +46,10 @@
 - pang (badly pronounced pan)
 
 # ㅂ
+
+버블티 - bubble tea
+
+비싼 - expensive
 
 부엌 -> bueok -> kitchen
 
@@ -101,6 +107,8 @@
 
 의자 -> wija -> seat/chair
 
+의 - possessive particle
+
 # ㅣ
 
 있다 -> itda -> has/there is
@@ -118,6 +126,8 @@
 
 # ㅊ
 
+차 - tea
+
 침 -> "chim" -> saliva
 
 찾다 -> "chatda" -> find
@@ -127,6 +137,8 @@
 - jake likes to read books
 
 # ㄷ
+
+단 - sweet
 
 다섯 -> daseot -> five
 
@@ -336,6 +348,13 @@
 
 # ㅅ
 
+생일 죽하해요 - 生日快乐
+
+사장(님) - boss(honorific)
+
+선물 - present
+- send mall (send somethign nice from the mall)
+
 식당 -> sigdang -> restaurant
 
 식탁 -> sigtag -> table
@@ -373,7 +392,14 @@
 
 떡 -> "tteog" -> rice cake
 
+떡볶이  - fried rice cakes
+
+뜨거운 - to be hot
+- to go food = hot
+
 # ㅆ
+
+씨 - honorific (mr)
 
 씨의 -> "ssi wae" -> possessive ('s)
 

@@ -1281,3 +1281,22 @@
 256.  Neuschwanstein Castle is old and beautiful
 - Neuschwanstein schloss und schön - incorrect
 - Neuschwanstein ist alt und schön - correct
+
+257.  Yes, you love this dress!
+- Ja du liebst diese Kleid! - incorrect
+- Ja, du liebst dieses Kleid! - correct
+
+258.  We are taking a vacation in Germany again.
+- Wir machen urlaub in Deutschland Urlaub - incorrect
+- Wir machen wieder in Deutschland Urlaub - correct
+
+259.  I need a carpet for the living room.
+- Ich brauche ein teppich fur das wohnzimmer - incorrect
+- Ich brauche einen Teppich für das Wohnzimmer. - correct
+
+260.  Tim möchte das Brandenburger Tor besichtigt - incorrect
+- Tim möchte das Brandenburger Tor besichtigen - correct
+
+261.  Would you also like to go to the bar?
+- Möchtest du auch ins bar gehen? - incorrect
+- Möchtest du auch in die Bar gehen? - correct

@@ -175,6 +175,9 @@ ragno - spider
 
 # s
 
+- sorella - sister
+- similar to sorority
+
 scuola - school
 
 sei - are

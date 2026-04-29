@@ -294,3 +294,7 @@
 73.  I also want to go to the park
 - Yo quiero ir al la parque - incorrect
 - Yo tambien quiero ir al parque - correct
+
+74.  The woman does not feel well
+- La mujer no se siento bien - incorrect
+- La mujer no se siente bien - correct

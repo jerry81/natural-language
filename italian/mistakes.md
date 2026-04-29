@@ -331,3 +331,9 @@
 79.  你说西班牙语吗
 - Tu parli spanolo vero - incorrect
 - Parli spagnolo? - correct
+
+80.  Matteo, c'e un farmacia qui, vero? - incorrect
+- Matteo, c'è un panifcio qui, vero? - correct
+
+81.  (L) Io studio in una arte scuola - incorrect
+- Io studio arte in una scuola - correct

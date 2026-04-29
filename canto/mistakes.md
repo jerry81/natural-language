@@ -75,3 +75,7 @@
 20.  我而家做緊工程師
 - 我现在正在当设计师 - incorrect
 - 我现在正在当工程师 - correct
+
+21.  划算
+- 佢 - incorrect
+- 低 - correct
