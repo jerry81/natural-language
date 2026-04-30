@@ -1300,3 +1300,19 @@
 261.  Would you also like to go to the bar?
 - Möchtest du auch ins bar gehen? - incorrect
 - Möchtest du auch in die Bar gehen? - correct
+
+262.  You definitely have to buy this hat!
+- Du auf jeden Fall musst diesen Hut kaufen - incorrect
+- Du musst auf jeded Fall diesen Hut kaufen - correct
+
+263.  The tourists are visiting the Brandenburg Gate
+- Die Touristen besuchen der Brandenburg Tur - incorrect
+- Die Touristen besuchen das Brandenburger Tor - correct
+
+264.  My colleague wants to take a vacation
+- Meine kollege willt Urlaub machen - incorrect
+- Mein Kollege will Urlaub machen - correct
+
+265.  I am going to the bar now, bye!
+- Ich gehe in die Bar jetzt tschüss - incorrect
+- Ich gehe jetzt in die Bar, tschüss! - correct
