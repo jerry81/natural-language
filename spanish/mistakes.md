@@ -299,3 +299,6 @@
 - La mujer no se siento bien - incorrect
 - La mujer no se siente bien - correct
 
+75.  Sometimes I feel a little tired in the morning
+- A veces me siento un poco cansada en la mañana - incorrect
+- A veces me siento un poco cansado en la mañana - correct

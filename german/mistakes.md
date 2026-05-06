@@ -1316,3 +1316,7 @@
 265.  I am going to the bar now, bye!
 - Ich gehe in die Bar jetzt tschüss - incorrect
 - Ich gehe jetzt in die Bar, tschüss! - correct
+
+266.  Which bag do you like?
+- Welche tasche mochtest du? - incorrect
+- Welche Tasche magst du?  - correct

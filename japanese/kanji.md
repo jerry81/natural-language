@@ -145,6 +145,8 @@
 
 ## え
 
+演劇　→ えんげき　→ theater
+
 得る　 → える
 
 演奏　 → えんそう
@@ -673,6 +675,8 @@ islam教　→ きょう
 # m
 
 ## ま
+
+纏めます　→ まとめます - to summarize
 
 貧しい　→ まずしい
 
@@ -1232,8 +1236,6 @@ islam教　→ きょう
 ## と
 
 (お)得　→ とく　→ great value, bargain
-
-纏めた　→ まとめた　→ fixed
 
 通り　→ とおり　→ to be the same
 
