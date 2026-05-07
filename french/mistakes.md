@@ -479,3 +479,22 @@
 
 127.  C'e una parque qui, vero? - incorrect
 - C'e una biblioteca qui, vero? - correct
+
+128.  啊， 售货员在哪里
+- Ah, le vendeur est bas la - incorrect
+- Ah, le vendeur est la-bas - correct
+
+129.  Oh non, le boulangerie est fermée - incorrect
+- Oh non, la boulangerie est fermée - correct
+
+130.  那个法国售货员今天在这里
+- La vendeur françcaise est ici aujourd'hui - incorrect
+- La vendeuse française est ici ajourd'hui - correct
+
+131.  是的， 那家银行今天开着
+- Oui, la banque est ouvert aujourd'hui - incorrect
+- Oui, la banque est ouverte aujourd'hui - correct
+
+132.  对不起，银行在这里附近吗
+- Excusez moi est la banque d'ici - incorrect
+- Excusez moi, la banque est près d'ici? - correct
