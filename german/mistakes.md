@@ -1320,3 +1320,11 @@
 266.  Which bag do you like?
 - Welche tasche mochtest du? - incorrect
 - Welche Tasche magst du?  - correct
+
+267.  I wear this dress only on vacation
+- Ich trage diese Kleid nur im Urlaub - incorrect
+- Ich trage dieses Kleid nur im Urlaub - correct
+
+268.  I only wear sandals on vacation
+- Ich trage mein Sandalen nur im Urlaub - incorrect
+- Ich trage im Urlaub nur Sandalen - correct
