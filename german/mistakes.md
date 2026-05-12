@@ -1328,3 +1328,19 @@
 268.  I only wear sandals on vacation
 - Ich trage mein Sandalen nur im Urlaub - incorrect
 - Ich trage im Urlaub nur Sandalen - correct
+
+269.  Yes, I am definitely coming!
+- Ja, ich auf jeden Fall komme - incorrect
+- Ja, ich komme auf jeden Fall! - correct
+
+270.  I want to invite you for breakfast, are you coming?
+- Ich will zum Frühstück du einladen, kommst dich? - incorrect
+- Ich will dich zum Frühstück einladen, kommst du? - correct
+
+271.  I wear this dress only on vacation
+- Ich trage diese Kleid nur im Urlaub - incorrect
+- Ich trage dieses Kleid nur im Urlaub - correct
+- dieser - m
+- dieses - n
+- diese - f
+- diese - pl

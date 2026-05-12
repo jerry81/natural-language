@@ -99,6 +99,8 @@ die Anzahl - the numer
 
 # B
 
+den bioladen - the organic food store
+
 besichtigen - tour
 
 bekommt - to get
@@ -757,6 +759,8 @@ Lösung - solution
 Luft - air
 
 # M
+
+die Metzgerei - butcher shop
 
 der Mond - the moon
 
