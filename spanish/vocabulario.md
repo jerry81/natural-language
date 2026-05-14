@@ -60,6 +60,8 @@ negocios - businesses
 
 ## p
 
+pidele - ask
+
 parada - stop
 
 pagar - pay
@@ -88,6 +90,8 @@ soprendido - surprised
 tanta - so much
 
 la taza - cup
+
+tallas - sizes
 
 # v
 
