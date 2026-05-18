@@ -64,3 +64,4 @@ Gern geschehen - you're welcome
 
 Vielen Dank - thank you very much
 
+Einen schonen Tag noch - have a nice day

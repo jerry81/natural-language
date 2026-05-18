@@ -1344,3 +1344,14 @@
 - dieses - n
 - diese - f
 - diese - pl
+
+272.  die buche - incorrect
+- das Buch - correct
+
+273.  Es ist mittnoch, warum schläfst du nicht - incorrect
+- Es ist Mitternacht, warum schläfst du nicht? - correct
+
+274.  Bob und Linda, arbeiten euer Kinder auch hier im Büro - incorrect
+- Bob und Linda, arbeiten eure Kinder auch hier im Büro? - correct
+
+275.

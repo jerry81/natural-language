@@ -618,6 +618,8 @@ Der Husten - cough
 
 # I
 
+Ihre - your (formal)
+
 ihm - him
 
 ihr - her
@@ -647,6 +649,8 @@ jedoch - however
 jetzt - now (pronounced "yetz")
 
 # K
+
+Der Kassenzettel - the receipt
 
 kugelschriber - the pen
 
@@ -877,6 +881,8 @@ oder - or
 
 # P
 
+Die Packung - packaging
+
 Pause - break
 
 Polizist - police officer
@@ -1093,6 +1099,8 @@ sucht - seeks
 
 # T
 
+Die Tüte - bag
+
 Die Turnschuhe - the gym shoes
 
 Die Treppe - stairs
@@ -1265,6 +1273,8 @@ Vorsicht - careful
 vorstellung - performance
 
 # W
+
+waschen ab - to wash the dishes
 
 weniger - less
 

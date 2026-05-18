@@ -145,6 +145,8 @@
 
 ## え
 
+栄養　→ えいよう
+
 演劇　→ えんげき　→ theater
 
 得る　 → える
@@ -280,13 +282,15 @@
 
 ## ひ
 
+控えます　→ ひかえます　→ to refrain from
+
 表示　→ ひょうじ　→ display, expression
 
 非常　→ ひじょう　→ emergency
 
 必死　→ ひっし　→ desperately
 
-拾う　→ ひろう　→ call (taxi)
+拾う　→ ひろう　→ to pick up
 
 被害 → ひがい
 
@@ -945,6 +949,8 @@ islam教　→ きょう
 # r
 
 ## り
+
+量　→ りょう
 
 理解　→ りかい
 
