@@ -1354,4 +1354,6 @@
 274.  Bob und Linda, arbeiten euer Kinder auch hier im Büro - incorrect
 - Bob und Linda, arbeiten eure Kinder auch hier im Büro? - correct
 
-275.
+275.  I eat two packs of strawberries for breakfast
+- Ich esse zwei packung Erdbeeren zum Frühstuck - incorrect
+- Ich esse zwei Packungen Erdbeeren zum Frühstuck - correct
