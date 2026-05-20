@@ -21,6 +21,8 @@ una cita - date
 
 ## d
 
+dibujar - to draw
+
 desculpa - excuse me
 
 disfruta - enjoy - the fruits
@@ -84,6 +86,8 @@ salgo - I have a date
 siempre - always
 
 soprendido - surprised
+
+la silla - chair
 
 # t
 
