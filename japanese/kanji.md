@@ -605,6 +605,8 @@ islam教　→ きょう
 
 ## こ
 
+混んでいました　→ こんでいました　→ crowded
+
 転びました　→ ころびました　→ fell, stumbled
 
 交換します　→ こうかんします　→ exchange

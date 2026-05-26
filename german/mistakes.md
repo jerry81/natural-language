@@ -1357,3 +1357,27 @@
 275.  I eat two packs of strawberries for breakfast
 - Ich esse zwei packung Erdbeeren zum Frühstuck - incorrect
 - Ich esse zwei Packungen Erdbeeren zum Frühstuck - correct
+
+276.  Max never eats muesli for breakfast
+- Max isst musli nie fur fruhstuck - incorrect
+- Max isst nie Müsli zum Frühstuck - correct
+
+277.  Mark and Karl, would you like to go to the movie theater?
+- Mark und Karl, möchtet ihr gehen ins Kino? - incorrect
+- Mark und Karl, möchtet ihr inst Kino gehen? - correct
+
+278.  My parents are German
+- Meine eltern sind deutschen - incorrect
+- Meine Eltern sind Deutsche - correct
+
+279.  Do you meet your boss every Wednesday?
+- Treffst du mit dein jefe jeden Mittwoch? - incorrect
+- Triffst du deinen Chef jeden Mittwoch? - correct
+
+280.  I have a toothache, I can't ride a bicycle
+- Ich habe Zahnschmerzen, ich kann kein Fahrrad fahre - incorrect
+- Ich habe Zahnschmerzen, ich kann kein Fahrrad fahren - correct
+
+290.  Excuse me, I need three bags
+- Entschuldigung, ich brauche drei tute - incorrect
+- Entschuldigung, ich brauche drei Tüten - correct
