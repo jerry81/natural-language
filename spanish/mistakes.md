@@ -302,3 +302,11 @@
 75.  Sometimes I feel a little tired in the morning
 - A veces me siento un poco cansada en la mañana - incorrect
 - A veces me siento un poco cansado en la mañana - correct
+
+76.  This town has no pools
+- Este pueblo no tiene las piscinas - incorrect
+- Este pueblo no tiene piscinas - correct
+
+77.  She wants this coffee because it has milk
+- Ella quiere café porque este tiene leche - incorrect
+- Ella quiere este café porque tiene leche - correct

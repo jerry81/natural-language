@@ -62,6 +62,8 @@ negocios - businesses
 
 ## p
 
+pastel - cake
+
 pidele - ask
 
 parada - stop
