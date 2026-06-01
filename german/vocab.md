@@ -1034,6 +1034,8 @@ selbstständig - independent
 
 sich - themselves
 
+stück - piece
+
 sich - himself
 
 sicher - for sure

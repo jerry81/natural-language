@@ -654,6 +654,8 @@ islam教　→ きょう
 
 ## く
 
+癖　→ くせ　→ bad habit, but also "quirk"
+
 口に合い　→ くちにあい　→ 合胃口 -> palatable
 
 呉れる　→ くれる　→ to do a favor for
@@ -1410,6 +1412,8 @@ islam教　→ きょう
 野菜　 → やさい
 
 ## よ
+
+横に　→ よこに　→ sideways
 
 予定　→ よてい　→ plan
 

@@ -270,6 +270,10 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 ## た
 
+通りに　→ とおりに　→ as expected, as usual
+
+ただです　→ it's free
+
 たった今　→ just now
 
 たがる　→ to want to

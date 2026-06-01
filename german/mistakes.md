@@ -1381,3 +1381,19 @@
 290.  Excuse me, I need three bags
 - Entschuldigung, ich brauche drei tute - incorrect
 - Entschuldigung, ich brauche drei Tüten - correct
+
+291.  How many bananas do we need for the week?
+- Wie viel bananen brauchen wir für die woche - incorrect
+- Wie viele Bananen brauchen wir für die Woche? - correct
+
+292.  I want flowers, I have to go to the florist
+- Ich will Blumen, ich muss in die blumenladen gehen - incorrect
+- Ich will Blumen, ich muss in den Blumenladen gehen - correct
+
+293.  We are baking a pizza for your parents
+- Wir backen eine pizza für deinen deltern - incorrect
+- Wir backen eine Pizza für deine Eltern - correct
+
+294.  We don't have any cucumbers, go to the health food store!
+- Wir haben keine Gurken, geh zu den Bioladen! - incorrect
+- Wir haben keine Gurken, geh in den Bioladen! - correct
