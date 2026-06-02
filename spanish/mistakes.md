@@ -310,3 +310,11 @@
 77.  She wants this coffee because it has milk
 - Ella quiere café porque este tiene leche - incorrect
 - Ella quiere este café porque tiene leche - correct
+
+78.  Why does Juan feel sad today?
+- porque juan se siente cansado hoy - incorrect
+- porque juan se sente triste hoy - correct
+
+79.  Duo never feels tired
+- Duo nunca se sienta cansado - incorrect
+- Duo nunca se siente cansado - correct

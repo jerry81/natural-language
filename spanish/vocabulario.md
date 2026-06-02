@@ -29,6 +29,8 @@ disfruta - enjoy - the fruits
 
 ## g
 
+gracioso - funny
+
 genial - great
 
 ## h
