@@ -84,6 +84,8 @@
 
 ## ち
 
+注文します　→ ちゅうもんします　→  to order (food)
+
 地位　→ ちい
 
 地理　→ ちり
@@ -1065,6 +1067,8 @@ islam教　→ きょう
 背　→ せ　→ physique, body
 
 ## し
+
+調べます　→ しらべます　→ to investigate, to look into
 
 知り合い　→ しりあい　→ acquaintance
 
