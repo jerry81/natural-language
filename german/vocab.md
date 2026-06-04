@@ -457,6 +457,8 @@ fußgängerzone - pedestrian zone
 
 # G
 
+ganz bestimmt - definitely
+
 Geschwister - siblings
 
 Ein Genie - genius
