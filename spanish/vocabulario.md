@@ -2,6 +2,8 @@
 
 # a
 
+a menudo - often
+
 aprendar - learn
 
 acá - same as aqui, but informal
