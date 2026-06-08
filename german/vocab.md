@@ -586,6 +586,8 @@ guten - good
 
 # H
 
+hole .. ab - pick up
+
 Haft - detention
 
 habe - have

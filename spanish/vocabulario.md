@@ -23,6 +23,8 @@ una cita - date
 
 ## d
 
+me ducho - shower
+
 dibujar - to draw
 
 desculpa - excuse me
@@ -45,6 +47,8 @@ juntas - together
 - junting (hunting) together
 
 ## l
+
+- me levanto  - get up
 
 lloviendo - raining
 
