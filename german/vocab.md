@@ -1362,6 +1362,8 @@ wurden - would
 
 # Z
 
+zuerst - first
+
 der zoll - customs
 
 zäöhlen - count

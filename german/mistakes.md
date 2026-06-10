@@ -1397,3 +1397,15 @@
 294.  We don't have any cucumbers, go to the health food store!
 - Wir haben keine Gurken, geh zu den Bioladen! - incorrect
 - Wir haben keine Gurken, geh in den Bioladen! - correct
+
+395.  My son plays hockey and swims every week
+- Mein Sohn jede Woche spielt Hockey und schwimmt - incorrect
+- Mein Sohn spielt Hockey und schwimmt jede Woche - correct
+
+396.  Ihr musst euren Hund zuerst abholen
+- You have to first pick up his dog - incorrect
+- You have to pick up your dog first - correct
+
+397.  Ed kommt gleich vom Bahnhof zur Party
+- Ed is coming shortly from the party to the train station - incorrect
+- Ed is coming shortly from the train station to the party - correct
