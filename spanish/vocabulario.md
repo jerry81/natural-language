@@ -64,6 +64,8 @@ mascotas - pets
 
 ## n
 
+nariz - nose
+
 novia - girlfriend
 
 negocios - businesses
@@ -87,6 +89,8 @@ Qué hago - what do i do
 
 ## r
 
+el retrato - portrait
+
 la reserva - reservation
 
 ## s
@@ -100,6 +104,8 @@ soprendido - surprised
 la silla - chair
 
 # t
+
+tan - so
 
 tanta - so much
 
