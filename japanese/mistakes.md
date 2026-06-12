@@ -2526,3 +2526,4 @@
 
 704.  今日は寝ませと思います → incorrect
 - 今日は寝ないと思います　→ correct
+- reason: before と思います　use simple form
