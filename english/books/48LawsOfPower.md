@@ -274,3 +274,26 @@ Love never dies of starvation, but often dies of indigeston
   - be all things to all people
 
 - reversal - once you have the power, you don't have to feign powerlessness anymore
+
+# 45 - preach the need for change, but never reform too much at once
+
+- people naturally resist change, so do not push too much at once. make a show of respecting the old way of doing things, but make it seem like ou are implementing gentle improvements on the past
+
+- transgression: henry VIII of england, 1520s
+  - thomas cromwell tried to push too much change too quickly when henry VIII wanted to divorce his wife
+
+- observance: mao zedong
+  - mao liked 水浒传
+  - chinese robin hood
+  - mao wanted to be like 诸葛亮
+  - 林彪 - chinese commander of communist party - main foe of MZD
+
+- keys to power
+  - people generally know change is necessary
+  - but irritated when change is forced on them
+  - watch the zeitgeist
+
+- 王莽 of xin dynasty
+  - 9 AD
+  - usurped the throne
+  - tried to change everything at once, and was overthrown in 14 AD
