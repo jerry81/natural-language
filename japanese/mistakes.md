@@ -2527,3 +2527,7 @@
 704.  今日は寝ませと思います → incorrect
 - 今日は寝ないと思います　→ correct
 - reason: before と思います　use simple form
+
+705.  制服の色がちょっと明るいともっといいですね
+- 如果制服颜色亮一点就更好了 - incorrect
+- 制服的颜色如果稍微亮一点就更好了 - correct

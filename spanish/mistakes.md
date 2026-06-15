@@ -318,3 +318,7 @@
 79.  Duo never feels tired
 - Duo nunca se sienta cansado - incorrect
 - Duo nunca se siente cansado - correct
+
+80.  The boy reads a book every night
+- El niño lee un libro las noches - incorrect
+- El niño lee un libro todas las noches - correct

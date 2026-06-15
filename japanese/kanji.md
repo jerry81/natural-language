@@ -1026,6 +1026,8 @@ islam教　→ きょう
 
 ## せ
 
+制服　→ せいふく　→ uniform (school)
+
 お節　→ おせいち　→　Japanese new year
 
 戦争　→ せんそう
@@ -1199,6 +1201,8 @@ islam教　→ きょう
 # t
 
 ## た
+
+体操服　→ たいそうふく　→ gym clothes
 
 棚　→ たな　→ shelf
 
