@@ -1409,3 +1409,7 @@
 397.  Ed kommt gleich vom Bahnhof zur Party
 - Ed is coming shortly from the party to the train station - incorrect
 - Ed is coming shortly from the train station to the party - correct
+
+398.  My horse's birthday is soon, we are having a party
+- Der geburtstag vom mein pferd ist gleich, wir machen eine party - incorrect
+- Mein Pferd hat bald Geburtstag, wir machen eine Party - correct

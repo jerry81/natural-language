@@ -586,6 +586,8 @@ guten - good
 
 # H
 
+hochsten - highest
+
 hole .. ab - pick up
 
 Haft - detention
@@ -653,6 +655,8 @@ jedoch - however
 jetzt - now (pronounced "yetz")
 
 # K
+
+kaputtgeht - break
 
 Der Kassenzettel - the receipt
 
@@ -953,6 +957,8 @@ Ruhe - quiet
 Die Rückkehr - return trip
 
 # S
+
+spinnst - are you crazy
 
 schrecklich - terrible
 
