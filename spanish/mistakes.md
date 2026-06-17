@@ -322,3 +322,11 @@
 80.  The boy reads a book every night
 - El niño lee un libro las noches - incorrect
 - El niño lee un libro todas las noches - correct
+
+81.  Sometimes I get up a little tired
+- A veces yo levanto un poco cansado - incorrect
+- A veces me levanto un poco cansado - correct
+
+82.  On Sundays I don't shower
+- Los domingos yo no ducho - incorrect
+- Los domingos no me ducho - correct
