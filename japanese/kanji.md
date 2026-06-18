@@ -56,6 +56,8 @@
 
 ## ぶ
 
+部活　→ ぶかつ　→ club activities
+
 文法　→ ぶんぽ　→ grammar
 
 分野　→ ぶんや
@@ -128,6 +130,8 @@
 - review
 
 ## ど
+
+動画　→ どうが　→ video
 
 泥棒　→ どろぼう　→ thief
 
@@ -259,6 +263,8 @@
 
 ## ほ
 
+放課後　→ ほうかご
+
 法律　→　ほうりつ
 
 歩道　→ ほどう
@@ -378,6 +384,9 @@
 # j
 
 ## じ
+
+塾　→ じゅく　→ cram school
+- original chinese character 塾 shu2 meaning place of learning
 
 順番　→ じゅんばん　→ order
 
@@ -764,6 +773,8 @@ islam教　→ きょう
 
 ## も
 
+戻らない　→ もどらない　→ won't return
+
 申し訳ありません　→ 申し訳ありません　→ there's no excuse for what i did (sorry)
 
 燃え　→ もえ
@@ -837,6 +848,8 @@ islam教　→ きょう
 
 ## な
 
+並びます　→ ならびます　→ to line up
+
 並べて　→ ならべて　→ to line up
 
 眺め　→ ながめ　→ look at
@@ -905,6 +918,8 @@ islam教　→ きょう
 # o
 
 ## お
+
+屋上　→ おくじょう　→ rooftop
 
 お祝い　→ おいわい　→ celebration
 
@@ -1472,5 +1487,7 @@ islam教　→ きょう
 在留　→ ざいりゅう　→ resident
 
 ## ぜ
+
+是非　→ ぜひ　→ by all means
 
 全額給付　 → ぜんがくきゅうふ
