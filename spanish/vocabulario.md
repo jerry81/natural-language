@@ -56,6 +56,8 @@ lejos - far
 
 ## m
 
+miedo - fear
+
 manzanas - apples
 
 menudo - often
@@ -104,6 +106,8 @@ soprendido - surprised
 la silla - chair
 
 # t
+
+tener ganas de - to feel like doing something
 
 tan - so
 

@@ -1413,3 +1413,7 @@
 398.  My horse's birthday is soon, we are having a party
 - Der geburtstag vom mein pferd ist gleich, wir machen eine party - incorrect
 - Mein Pferd hat bald Geburtstag, wir machen eine Party - correct
+
+399.  Can you bring yhour piano along to the party?
+- Kannst du dein Klavier zur Party mit - incorrect
+- Kannst du dein Klavier zur Party mitbringen? - correct

@@ -163,3 +163,6 @@ x "y"　と言いました
 
 - whether or not x
 - xかどうか
+
+- not only x, but also y
+- x ですし、y ですし
