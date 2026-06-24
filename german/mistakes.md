@@ -1417,3 +1417,7 @@
 399.  Can you bring yhour piano along to the party?
 - Kannst du dein Klavier zur Party mit - incorrect
 - Kannst du dein Klavier zur Party mitbringen? - correct
+
+400.  Who is picking your grandpa up?
+- Wer hole euren Opa ab? - incorrect
+- Wer holt euren Opa ab? - correct
