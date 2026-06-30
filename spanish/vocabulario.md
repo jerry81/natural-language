@@ -21,6 +21,8 @@ la cartera - purse
 
 una cita - date
 
+la cama - bed
+
 ## d
 
 me ducho - shower
@@ -31,6 +33,12 @@ desculpa - excuse me
 
 disfruta - enjoy - the fruits
 
+el dormitorio - bedroom
+
+## e
+
+- escultura - sculpture
+
 ## g
 
 gracioso - funny
@@ -40,6 +48,8 @@ genial - great
 ## h
 
 hornear - baking/to bake
+
+habitacion - bedroom
 
 ## j
 
@@ -72,7 +82,11 @@ novia - girlfriend
 
 negocios - businesses
 
+la nevera - the fridge
+
 ## p
+
+el polvo - dust
 
 pastel - cake
 
@@ -96,6 +110,10 @@ el retrato - portrait
 la reserva - reservation
 
 ## s
+
+el suelo - floor
+
+la sala - living room
 
 salgo - I have a date
 

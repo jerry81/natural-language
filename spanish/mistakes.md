@@ -331,3 +331,6 @@
 - Los domingos yo no ducho - incorrect
 - Los domingos no me ducho - correct
 
+83.  The boy always wants to watch television
+- El niño siempre quiere mirar el television - incorrect
+- El niño siempre quiere mirar televisión - correct
