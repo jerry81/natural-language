@@ -316,6 +316,8 @@
 
 ## へ
 
+返品　→ へんぴん　→ return (goods)
+
 返事　→ へんじじ　→ respond
 
 減る　→ へる　→ decrease
@@ -749,6 +751,8 @@ islam教　→ きょう
 
 ## み
 
+見つける　→ みつける　→ to find
+
 水着 →　みずぎ　→ swimsuit
 
 見つかり　→ みつかり　→ to find
@@ -980,6 +984,10 @@ islam教　→ きょう
 # r
 
 ## り
+
+両方　→ りょうほう　→ both
+
+両立　→ りょうりつ　→ coexistence
 
 量　→ りょう
 
@@ -1282,6 +1290,8 @@ islam教　→ きょう
 
 ## と
 
+撮る予定　→ とるよてい　→ plan to take (a picture)
+
 (お)得　→ とく　→ great value, bargain
 
 通り　→ とおり　→ to be the same
@@ -1358,6 +1368,8 @@ islam教　→ きょう
 # u
 
 ## う
+
+打ちました　→ うちました　→ hit
 
 受付　→ うけつけ　→ reception
 
