@@ -1421,3 +1421,23 @@
 400.  Who is picking your grandpa up?
 - Wer hole euren Opa ab? - incorrect
 - Wer holt euren Opa ab? - correct
+
+401.  The Brandenburg Gate is very old.
+- Der Brandenburger Tor ist sehr alt - incorrect
+- Das Brandenburger Tor ist sehr alt - correct
+
+402.  I have a laptop in the suitcase
+- Ich habe einen Laptop in der koffer - incorrect
+- Ich habe einen Laptop im Koffer - correct
+
+403.  The blouse is too small, I need size large
+- Die Bluse ist zu klein, ich brauche einen grosse gross - incorrect
+- Die Bluse ist zu klein, ich brauche Größe L - correct
+
+404.  The sandwich cost nine euros
+- Das sandwich koster neun euro - incorrect
+- Das Sandwich kostet neun euro - correct
+
+405.  I surf in the summer
+- Ich surfe in der sommer - incorrect
+- Ich surfe im Sommer - correct
