@@ -16,6 +16,8 @@ boleta - ticket
 
 ## c
 
+la cama - bed
+
 la cartera - purse
 - cards go into the purse
 
@@ -36,6 +38,8 @@ disfruta - enjoy - the fruits
 el dormitorio - bedroom
 
 ## e
+
+- la estanteria - bookcase
 
 - escultura - sculpture
 
@@ -86,6 +90,8 @@ la nevera - the fridge
 
 ## p
 
+pintar - to paint
+
 el polvo - dust
 
 pastel - cake
@@ -110,6 +116,8 @@ el retrato - portrait
 la reserva - reservation
 
 ## s
+
+la silla - the chair
 
 el suelo - floor
 
