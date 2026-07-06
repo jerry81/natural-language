@@ -111,6 +111,8 @@ Qué hago - what do i do
 
 ## r
 
+redes sociales - social media
+
 el retrato - portrait
 
 la reserva - reservation
@@ -148,3 +150,5 @@ tallas - sizes
 el vestido - dress
 
 vete - go away
+
+ver - to see
