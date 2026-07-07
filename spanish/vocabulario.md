@@ -16,6 +16,8 @@ boleta - ticket
 
 ## c
 
+cómodo - comfortable
+
 la cama - bed
 
 la cartera - purse

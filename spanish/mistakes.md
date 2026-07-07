@@ -334,3 +334,12 @@
 83.  The boy always wants to watch television
 - El niño siempre quiere mirar el television - incorrect
 - El niño siempre quiere mirar televisión - correct
+
+84.  Mamá, Nicolás quiere comprar esa estanteria grande, ¡Pero yo creo que es horrible!  Es vieja y no me gusta el color.
+- La estanteria es muy bonita - incorrect
+- La estanteria no es nueva - correct
+
+85.  Juan, necesito ir al baño.  ¿Dónde está? ¿A la derecha o a la izquierda?  ¡Es urgente!
+- El amigo de Juan está en el baño - incorrect
+- El amigo de Juan quiere usar el baño - correct
+
