@@ -289,6 +289,8 @@ Das geht - that works
 
 # E
 
+echt - really
+
 einpacken - pack
 
 einzugrenzen - limit
@@ -958,6 +960,8 @@ Die Rückkehr - return trip
 
 # S
 
+Schatz - sweetheart
+
 spinnst - are you crazy
 
 schrecklich - terrible
@@ -1367,6 +1371,8 @@ wurde - would
 wurden - would
 
 # Z
+
+ziemlich - seemingly, fairly, pretty, reasonably
 
 zuerst - first
 
