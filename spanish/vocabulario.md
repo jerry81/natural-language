@@ -92,6 +92,8 @@ la nevera - the fridge
 
 ## p
 
+el pájaro - bird
+
 pintar - to paint
 
 el polvo - dust
