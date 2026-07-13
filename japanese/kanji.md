@@ -440,6 +440,8 @@
 
 ## か
 
+快速　→ かいそく　→ express train
+
 完璧　→ かんぺき　→ perfect
 
 借りた　→ かりた
@@ -705,6 +707,8 @@ islam教　→ きょう
 
 ## ま
 
+間に合います　→ まにあいます　→ to be in time
+
 纏めます　→ まとめます - to summarize
 
 貧しい　→ まずしい
@@ -837,6 +841,8 @@ islam教　→ きょう
 濡れて　→ ぬれて　→ make wet
 
 ## の
+
+乗り換え　→ のりかえ　→ transfer (train)
 
 飲み放題　→ のみほうだい　→ all you can drink
 
@@ -1463,6 +1469,8 @@ islam教　→ きょう
 野菜　 → やさい
 
 ## よ
+
+優先席　→ ゆうせんせき　→ priority seat
 
 横に　→ よこに　→ sideways
 

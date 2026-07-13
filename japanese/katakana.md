@@ -55,6 +55,12 @@ Review
 
 ゴールデンウィーク　→ golden week
 
+# h
+
+## ホ
+
+- ホーム　→ home/platform
+
 # i
 
 ## イ
