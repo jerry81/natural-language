@@ -280,3 +280,34 @@ p. 42
 
 - 安西先輩あの男なんですが
 - Coach Anzai, about that guy…
+
+- p 54
+- まだバスケット始めたばかりでし人間的にも少々問題がありまして
+- でし　→ softened version of ですが
+- ばかり → just/only
+- 人間的　→ personality-wise
+
+- 面白そうじゃないですか　出しておげなさい　赤木くん
+- 出しておげなさい　→　please let him play
+
+- p.55
+- おおっじゃ
+- oh yea, alright then!
+
+- p.56
+-　コラ！お前ら仲間だって事を忘れるな
+- Hey! Don’t forget you’re teammates!
+- 仲間　→ なかま　→ companion, comrade, friend
+- お前ら　→ you guys
+- 全く　→ まったく　→ completely
+
+- コンビじゃないか
+- Aren’t we a team?
+- コンビ　→ team, pair, combo
+
+- 桜木くん出てる?!
+- Is hanamichi playing?!
+
+- さあ残り二分気合いれていくぞ
+- 残り　→ のこり　→ remaining
+- 気合い　→ きあい　→ spirit, energy
