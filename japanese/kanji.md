@@ -1111,6 +1111,10 @@ islam教　→ きょう
 
 ## し
 
+商店街　→ しょうてんがい　→ shopping street
+
+終電　→ しゅうでん　→ last train
+
 調べます　→ しらべます　→ to investigate, to look into
 
 知り合い　→ しりあい　→ acquaintance
@@ -1364,6 +1368,8 @@ islam教　→ きょう
 - review, (usually not in kanji form)
 
 ## て
+
+展示　→ てんじ　→ exhibit
 
 店長　→ てんちょう
 
