@@ -459,6 +459,8 @@ fußgängerzone - pedestrian zone
 
 # G
 
+gar nicht - not at all
+
 ganz bestimmt - definitely
 
 Geschwister - siblings
@@ -839,6 +841,10 @@ muss nur - just have to
 
 # N
 
+nach Hause - at home/home
+
+noten - grades
+
 neblig - foggy
 
 nach - after
@@ -959,6 +965,8 @@ Ruhe - quiet
 Die Rückkehr - return trip
 
 # S
+
+Schere - scissors
 
 Schatz - sweetheart
 
@@ -1371,6 +1379,10 @@ wurde - would
 wurden - would
 
 # Z
+
+zeigen - show
+
+Zeugnis - report card
 
 ziemlich - seemingly, fairly, pretty, reasonably
 

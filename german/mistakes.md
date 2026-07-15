@@ -1441,3 +1441,11 @@
 405.  I surf in the summer
 - Ich surfe in der sommer - incorrect
 - Ich surfe im Sommer - correct
+
+406.  We understand the professor
+- Wir verstehen die Professor - incorrect
+- Wir verstehen die Professorin - correct
+
+407.  Wait, do you have your jacket?
+- Warst, hast du deine Jacke? - incorrect
+- Warte, hast du deine Jacke? - correct
