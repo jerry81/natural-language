@@ -311,4 +311,38 @@ p. 42
 - さあ残り二分気合いれていくぞ
 - 残り　→ のこり　→ remaining
 - 気合い　→ きあい　→ spirit, energy
--
+
+- p. 57
+- おおでかいのが二人に　なうと　やっぱり　威圧感が　違うな
+- おおでかい　→ big/huge/large (casual)
+- two huge guys
+- になると → to become
+- 威圧感　→ いあつかん　→ intimidating presence
+- the feeling of intimidation these two guys give is different
+
+- 流川と桜木のコンビがこんなに早く見られるなんて
+- 見られる　→ can be seen
+- なんて　→ expresses surprise or unexpectedness
+- "I can't believe we're seeing the Rukawa-Sakuragi duo this early."
+
+- あっでも桜木まだバスケ始めてまもないからミスとかしないかしら
+- 始めてまもない　→ just started
+- ミス　→ mistake
+- かしないかしら　→ I wonder if he will xyz or not
+- "Ah, but since Hanamichi just started playing basketball, I wonder if he'll make mistakes."
+
+- そりゃ　するわよ
+- そりゃ　→ that　→ contraction of それは
+- するわよ　→ will do
+- "Of course he will."
+
+- だけど　まあ残り時間も少ないし　ほとんど　何もできずに終わるでしょ
+- だけど　→ yea, but
+- まあ　→ well
+- 残り時間も少ないし　→ since there's not much time left
+　　- the し　at end →　reason marker
+- Verb-ずに終わる　→ to end without doing something
+- since there's not much time left, well, he'll probably end up doing almost nothing, right?
+
+- 経験よ経験
+- 経験　→ けいけん　→ experience
