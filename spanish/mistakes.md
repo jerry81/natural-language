@@ -343,3 +343,18 @@
 - El amigo de Juan está en el baño - incorrect
 - El amigo de Juan quiere usar el baño - correct
 
+86.  My books are under the desk
+- Mis libros están debajo de el escritorio - incorrect
+- Mis libros están debajo del escritorio - correct
+
+87.  Renato, necesitas limpiar la __.  ¡Ahora!
+- taza - incorrect
+- casa - correct
+
+88.  These living rooms are very modern and pretty
+- Estas salas son muy moderna y bonitas - incorrect
+- Estas salas son muy modernas y bonitas - correct
+
+89.  How many bedrooms does the house have?
+- ¿Cauntos habitaciones tiene la casa? - incorrect
+- ¿Cuántos dormitorios tiene la casa? - correct
