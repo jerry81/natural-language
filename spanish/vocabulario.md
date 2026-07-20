@@ -2,6 +2,10 @@
 
 # a
 
+aspiradora - vacuum cleaner
+
+armario - closet
+
 a menudo - often
 
 aprendar - learn
@@ -15,6 +19,8 @@ el abrigo - coat
 boleta - ticket
 
 ## c
+
+coger - to grab
 
 cómodo - comfortable
 
@@ -91,6 +97,8 @@ negocios - businesses
 la nevera - the fridge
 
 ## p
+
+piso - floor
 
 el pájaro - bird
 
