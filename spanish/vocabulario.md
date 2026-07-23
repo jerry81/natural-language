@@ -20,6 +20,10 @@ boleta - ticket
 
 ## c
 
+la cuchara - the spoon
+
+el cuchillo - the knife
+
 coger - to grab
 
 cómodo - comfortable
@@ -98,6 +102,8 @@ la nevera - the fridge
 
 ## p
 
+postres - desserts
+
 piso - floor
 
 el pájaro - bird
@@ -119,6 +125,14 @@ pájaro - bird
 
 ## q
 
+quisiera - i would like
+  - imperfect subjunctive of querer
+    - other e.g.
+      - pudiera - if i could
+      - debiera - if i should
+      - fuera - if i were
+  - quise - i wanted - preterite
+
 Qué hago - what do i do
 
 ## r
@@ -130,6 +144,8 @@ el retrato - portrait
 la reserva - reservation
 
 ## s
+
+sal - salt
 
 la silla - the chair
 
@@ -147,6 +163,8 @@ la silla - chair
 
 # t
 
+el tenedor - fork
+
 tener ganas de - to feel like doing something
 
 tan - so
@@ -158,6 +176,8 @@ la taza - cup
 tallas - sizes
 
 # v
+
+el vaso - glass
 
 el vestido - dress
 
