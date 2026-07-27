@@ -51,6 +51,8 @@ el dormitorio - bedroom
 
 ## e
 
+empiezar - to start
+
 - la estanteria - bookcase
 
 - escultura - sculpture
@@ -101,6 +103,8 @@ negocios - businesses
 la nevera - the fridge
 
 ## p
+
+para de x - stop x-ing
 
 postres - desserts
 

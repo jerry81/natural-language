@@ -1449,3 +1449,7 @@
 407.  Wait, do you have your jacket?
 - Warst, hast du deine Jacke? - incorrect
 - Warte, hast du deine Jacke? - correct
+
+408.  My friends hate the band
+- Meine Freunde hasst die Band - incorrect
+- Meine Freunde hassen die Band - correct

@@ -99,6 +99,8 @@ die Anzahl - the numer
 
 # B
 
+beschäftigt - busy/occupied
+
 den bioladen - the organic food store
 
 besichtigen - tour
@@ -399,6 +401,8 @@ evtl - possibly
 
 # F
 
+Fliegst - fly
+
 feierabend - end of the workday
 
 ich freue mich so auf ... - i'm looking forward to
@@ -628,6 +632,8 @@ Der Husten - cough
 
 # I
 
+im Angebot - on sale
+
 Ihre - your (formal)
 
 ihm - him
@@ -659,6 +665,8 @@ jedoch - however
 jetzt - now (pronounced "yetz")
 
 # K
+
+Kunden - customers
 
 kaputtgeht - break
 
@@ -726,6 +734,8 @@ Künstlicher - artificial
 kurz/kurzen - short
 
 # L
+
+leer - empty
 
 lebenslauf - resume
 
@@ -965,6 +975,12 @@ Ruhe - quiet
 Die Rückkehr - return trip
 
 # S
+
+streng - strict
+
+der Stift - pen
+
+schwach - weak
 
 Schere - scissors
 
@@ -1220,6 +1236,8 @@ untersuchen - checkup
 
 # V
 
+vorbei - over/past/by
+
 verwandten - relatives
 
 visum - visa
@@ -1379,6 +1397,8 @@ wurde - would
 wurden - would
 
 # Z
+
+zurückgeben - return
 
 zeigen - show
 
