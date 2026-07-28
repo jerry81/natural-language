@@ -53,6 +53,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 ## だ
 
+だから言いましたよ　→ that's why I said it/told you so
+
 だと　→ shorthand for であると → meaning "to be"
 
 ## ど

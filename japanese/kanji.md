@@ -442,6 +442,8 @@
 
 ## か
 
+怪獣　→ かいじゅう　→ monster
+
 快速　→ かいそく　→ express train
 
 完璧　→ かんぺき　→ perfect
@@ -595,6 +597,8 @@
 規則　→ きそく → rules
 
 着る　→ きる　→ to wear
+
+着き前ん　→ つきまえん　→ to arrive
 
 islam教　→ きょう
 
@@ -933,6 +937,9 @@ islam教　→ きょう
 
 ## お　
 
+奢り　→ おごり　→ treat
+- note 奢　is luxury
+
 屋上　→ おくじょう　→ rooftop
 
 お祝い　→ おいわい　→ celebration
@@ -1241,6 +1248,8 @@ islam教　→ きょう
 
 ## た
 
+経ちます　→ たちます　→ to pass (time)
+
 対決　→ たいけつ　→ confrontation
 
 体操服　→ たいそうふく　→ gym clothes
@@ -1477,6 +1486,8 @@ islam教　→ きょう
 野菜　 → やさい
 
 ## よ
+
+寄ります　→ よります　→ to stop by
 
 優先席　→ ゆうせんせき　→ priority seat
 
