@@ -1453,3 +1453,10 @@
 408.  My friends hate the band
 - Meine Freunde hasst die Band - incorrect
 - Meine Freunde hassen die Band - correct
+
+409.  Fliegst du nach Deustland - incorrect
+- Fliegst du nach Deutschland - correct
+
+410.  Do you have to return the book next week?
+- Musst du das Buch nächste Woche zurucken - incorrect
+- Musst du das Buch nächste Woche zurückgeben? - correct

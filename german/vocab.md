@@ -203,6 +203,8 @@ büchlein - booklet
 
 # D
 
+dringend - urgently
+
 denn - because
 
 draußen - outside
@@ -463,6 +465,8 @@ fußgängerzone - pedestrian zone
 
 # G
 
+guck mal - look
+
 gar nicht - not at all
 
 ganz bestimmt - definitely
@@ -631,6 +635,8 @@ horen - hear
 Der Husten - cough
 
 # I
+
+Der Imbiss - deli
 
 im Angebot - on sale
 
@@ -850,6 +856,8 @@ muss - got to
 muss nur - just have to
 
 # N
+
+nervig - annoying
 
 nach Hause - at home/home
 
