@@ -1460,3 +1460,17 @@
 410.  Do you have to return the book next week?
 - Musst du das Buch nächste Woche zurucken - incorrect
 - Musst du das Buch nächste Woche zurückgeben? - correct
+
+411.  Do you speak spanish, ms. cruz?
+- Spricht du spanish frau cruz? - incorrect
+- Sprechen Sie Spanish Frau Cruz? - correct
+
+412.  Thanks, I already have two calendars
+- Danke, ich habe schon zwei kalendern - incorrect
+- Danke, ich habe schon zwei Kalender - correct
+
+413.  (L) Iche werde Kekse probieren - incorrect
+- Ich will die Kekse probieren - correct
+
+414.  Die Planze; iche finde den Pflanze schön - incorrect
+- Die Pflanze; ich finde die Pflanze schön - correct

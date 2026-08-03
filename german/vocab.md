@@ -99,6 +99,8 @@ die Anzahl - the numer
 
 # B
 
+
+
 beschäftigt - busy/occupied
 
 den bioladen - the organic food store
@@ -914,6 +916,8 @@ oben - upper, top, over
 oder - or
 
 # P
+
+Probieren - try
 
 Die Packung - packaging
 
