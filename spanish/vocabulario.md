@@ -2,6 +2,8 @@
 
 # a
 
+aceite - oil
+
 aspiradora - vacuum cleaner
 
 armario - closet
@@ -50,6 +52,8 @@ disfruta - enjoy - the fruits
 el dormitorio - bedroom
 
 ## e
+
+enseñar - to teach
 
 empiezar - to start
 
@@ -104,6 +108,8 @@ la nevera - the fridge
 
 ## p
 
+la pimienta - (black) pepper
+
 para de x - stop x-ing
 
 postres - desserts
@@ -140,6 +146,8 @@ quisiera - i would like
 Qué hago - what do i do
 
 ## r
+
+receta - recipe
 
 redes sociales - social media
 

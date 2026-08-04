@@ -358,3 +358,21 @@
 89.  How many bedrooms does the house have?
 - ¿Cauntos habitaciones tiene la casa? - incorrect
 - ¿Cuántos dormitorios tiene la casa? - correct
+
+90.  Carlos, do you like my new dress?
+- Carlos, te gustas mi vestido nuevo? - incorrect
+- Carlos, te gusta mi vestido nuevo? - correct
+
+91.  Sir, are you reading the letters now?
+- Senor, usted lee las carteras ahora? - incorrect
+- Senor, usted lee las cartas ahora? - correct
+
+92.  I'm sorry, they don't live here.
+- Lo siento, ellos no trabajan aqui - incorrect
+- Lo siento, ellos no viven aqui - correct
+
+93.  Los sábados comemos comida bueno con un vivo muy italiana - incorrect
+- Los sábados comemos comida italiana con un vino muy bueno - correct
+
+94.  Los sábados trabajo mucho y los domingos me levanto alta - incorrect
+- Los sábados trabajo mucho y los domingos me levanto cansada - correct
