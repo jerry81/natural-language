@@ -346,3 +346,17 @@ p. 42
 
 - 経験よ経験
 - 経験　→ けいけん　→ experience
+
+- p. 58
+-　なんて　→ incredible
+- 瞬発力　→ しゅんぱつりょく　→ explosive power
+
+- p 59
+- なかなか　→ quite, fairly
+- スムースだぞ　→ smooth
+
+- 基礎練習　→ きそれんしゅう　→ basic practice
+- 賜物だわ　→ たまもの　→ result of, fruit of
+
+- 思ったより上達してるな　→　he's improving more than I thought
+  - 上達　→ じょうたつ　→ improvement, progress
