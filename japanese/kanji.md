@@ -937,6 +937,8 @@ islam教　→ きょう
 
 ## お　
 
+お知らせ　→ おしらせ　→ notice/announcement
+
 奢り　→ おごり　→ treat
 - note 奢　is luxury
 

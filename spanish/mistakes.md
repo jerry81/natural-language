@@ -376,3 +376,5 @@
 
 94.  Los sábados trabajo mucho y los domingos me levanto alta - incorrect
 - Los sábados trabajo mucho y los domingos me levanto cansada - correct
+
+95.
