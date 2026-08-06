@@ -360,3 +360,23 @@ p. 42
 
 - 思ったより上達してるな　→　he's improving more than I thought
   - 上達　→ じょうたつ　→ improvement, progress
+
+- p 60
+- 空いてるよ　→ he's open
+- どうしたんだ　→ what's wrong
+- 早く出さないとマークがついちゃうぞ　→ if you don't pass it quickly, he'll get marked
+- あんにやろう　→ that guy
+
+- p 61
+- ナメてんのがてめえら　→ you guys are underestimating me
+- ナメる　→ なめる　→ to underestimate, to make light of
+- てめえら　→ you guys (rude)
+- 仲間割れなんかして　俺たちに勝てると　でも思ってんのか　→ do you think you can win against us by fighting among yourselves?
+- 仲間割れ　→ なかまわれ　→ internal conflict, infighting
+- 俺たち　→ we/us (male)
+- 勝てる　→ かてる　→ can win
+
+- 全くもうあの子は　→ geez, that kid
+
+- バカめ　流川　誰が　てめーなんかにパスするもんか　→ idiot Rukawa, who would pass to a guy like you
+- 俺がゴリの上からスラムダンクを決めてやる　見てるか　→ I'm going to slam dunk over Gori, watch me
