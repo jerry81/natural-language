@@ -295,6 +295,8 @@ Das geht - that works
 
 # E
 
+erschöpft - exhausted
+
 echt - really
 
 einpacken - pack
@@ -674,6 +676,8 @@ jetzt - now (pronounced "yetz")
 
 # K
 
+Kaninchen - rabbit
+
 Kunden - customers
 
 kaputtgeht - break
@@ -742,6 +746,8 @@ Künstlicher - artificial
 kurz/kurzen - short
 
 # L
+
+liber - about, on, over
 
 leer - empty
 
@@ -987,6 +993,10 @@ Ruhe - quiet
 Die Rückkehr - return trip
 
 # S
+
+schreien - scream
+
+selten - rarely
 
 streng - strict
 
@@ -1327,6 +1337,9 @@ Vorsicht - careful
 vorstellung - performance
 
 # W
+
+was ist los - what's going on
+  - los - particle - means loose, free, detached
 
 waschen ab - to wash the dishes
 
