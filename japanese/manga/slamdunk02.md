@@ -380,3 +380,12 @@ p. 42
 
 - バカめ　流川　誰が　てめーなんかにパスするもんか　→ idiot Rukawa, who would pass to a guy like you
 - 俺がゴリの上からスラムダンクを決めてやる　見てるか　→ I'm going to slam dunk over Gori, watch me
+
+p. 62
+- でえいっ
+- Heeey!
+
+p 63
+- 跳んだ　→ とんだ　→ jumped
+-　ナメんなクソガキ　→ don't underestimate me, you little brat
+- くそガキ　→ little brat
