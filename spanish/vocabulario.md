@@ -133,6 +133,8 @@ pagar - pay
 pájaro - bird
 - but not parrot
 
+el postre - the dessert
+
 ## q
 
 quisiera - i would like
