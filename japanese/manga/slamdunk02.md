@@ -389,3 +389,33 @@ p 63
 - 跳んだ　→ とんだ　→ jumped
 -　ナメんなクソガキ　→ don't underestimate me, you little brat
 - くそガキ　→ little brat
+
+p. 64
+- イヤ　→ no
+- 一つだけ言っておきたいことがある　→ there's one thing I want to say
+
+- ワザとじゃないよ　→ it wasn't on purpose
+- ワザと　→ わざと　→ on purpose
+
+p 65
+- 貴様　今度というもう許さんぞ　→ You, I won't forgive you next time
+- きさま　→ you (rude)
+- 許さんぞ　→ ゆるさんぞ　→ won't forgive
+
+- ワザじゃないつってんだろ　→ I said it wasn't on purpose
+- つってんだろ　→ colloquial form of 言っているんだろう
+
+- いい気味だ　→ serves you right
+
+- 出さない方が良かったかなアイツ　→ maybe it would have been better not to pass to that guy
+- アイツ　→ that guy
+
+- 赤木の奴　先生がいる　ことぞ完全に忘れてるぞ　→ Akagi, that guy, has completely forgotten that the coach is here
+- 奴　→ やつ　→ that guy
+- 完全　→ かんぜん　→ completely
+
+- どーもそうみたい　→ it seems so
+- めちゃくちゃだ　→ chaotic, messy
+
+p 69
+- ある雨の日　→ on a rainy day
