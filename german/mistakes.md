@@ -1474,3 +1474,11 @@
 
 414.  Die Planze; iche finde den Pflanze schön - incorrect
 - Die Pflanze; ich finde die Pflanze schön - correct
+
+415.  Where are the calendars, please?
+- Wo sind die Kalendern, bitte? - incorrect
+- Wo sind die Kalender, bitte? - correct
+
+416.  The interns are helping today
+- Die Praktikanten hilfen heute - incorrect
+- Die Praktikanten helfen heute - correct

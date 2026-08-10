@@ -2,6 +2,8 @@
 
 # A
 
+anziehen - put on (clothes)
+
 auszustellen - to issue
 
 Ein Aufseher - an attendant
@@ -406,6 +408,8 @@ eurem - your
 evtl - possibly
 
 # F
+
+furchtbar - terrible
 
 Fliegst - fly
 
