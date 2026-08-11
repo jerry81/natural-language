@@ -419,3 +419,28 @@ p 65
 
 p 69
 - ある雨の日　→ on a rainy day
+
+p. 70
+- まだ来ねーのか奴は! → that guy still hasn't come yet!
+- もう三時間めが始めるぞ → the third period is about to start
+
+- もしかして　→ perhaps, maybe
+- もう学校にいるんじゃねーのか - aren't you already at school?
+  - じゃねーのか　→ colloquial form of ではないのか
+
+- 俺達が奴を見逃しちまっててよ → we let that guy get away
+
+- 馬鹿野郎　→ ばかやろう　→ idiot, fool
+- あんな奴を見逃すわけねーだろ　→ there's no way we would let a guy like that get away
+- あのばかけた　→ that idiot
+
+p. 71
+- 家を出る時はあわてていたがこんだけ遅れりや　→ when he left the house he was in a hurry, but being this late
+- 今さら急いでも同じだと開き直りことさら　ゆっくり歩きている　→ even if he hurries now, it's the same, so he has resigned himself and is walking slowly
+- 開き直り　→ ひらきなおり　→ resignation, to resign
+- ことさら　→ deliberately, intentionally
+
+- まだ首が痛えゴリのやつ思いっきり絞めやがって　→ my neck still hurts, that Gori guy really choked me hard
+  - 首　→ くび　→ neck
+  - 思いっきり　→ with all one's might, really
+  - 絞めやがって　→ しめやがって　→ choked (colloquial, rude)
