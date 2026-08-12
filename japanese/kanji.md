@@ -791,6 +791,8 @@ islam教　→ きょう
 
 ## も
 
+紅葉　→ もみじ　→ autumn leaves
+
 戻らない　→ もどらない　→ won't return
 
 申し訳ありません　→ 申し訳ありません　→ there's no excuse for what i did (sorry)
