@@ -444,3 +444,28 @@ p. 71
   - 首　→ くび　→ neck
   - 思いっきり　→ with all one's might, really
   - 絞めやがって　→ しめやがって　→ choked (colloquial, rude)
+
+p. 73
+- それじゃこの英文を　→ then, this English sentence
+- 訳してみろ　→ try translating it
+- 訳す　→ やくす　→ to translate
+
+- 彼は言った　→ he said
+- 朝それは希望に道溢れた一日のはじまり　→ that morning was the beginning of a day filled with hope
+- 希望　→ きぼう　→ hope
+- じまり　→ beginning
+- 溢れた　→ あふれた　→ filled with, overflowing
+
+- 人人はそのすき通るようなまぶしい光を仰ぎそして願う色とりどりの幸福を　→ people look up at the dazzling light that seems to pass through them, and wish for colorful happiness
+- 仰ぎ　→ あおぎ　→ to look up at, to gaze at
+- 願う　→ ねがう　→ to wish, to hope
+- 幸福　→ こうふく　→ happiness
+- まぶしい　→ dazzling, bright
+
+- うむ　→ yes, indeed
+- ほぼ完璧だよろしい　→ almost perfect, good
+- ほぼ　→ almost
+- 完璧　→ かんぺき　→ perfect
+
+- さっすが　→ as expected
+- 今のとこかなり難しかったのに　→ as expected, even though it was quite difficult this time
