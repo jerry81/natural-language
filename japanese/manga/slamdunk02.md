@@ -469,3 +469,40 @@ p. 73
 
 - さっすが　→ as expected
 - 今のとこかなり難しかったのに　→ as expected, even though it was quite difficult this time
+
+- p.74
+-　全くかなわねえなアイツには　→ I can't compete with that guy at all
+- 全く　→ まったく　→ completely, really
+
+- バスケ部の方は　→ as for the basketball team
+- キャプテンがだいぶ板についてきたじゃない　→ the captain has really gotten the hang of it, hasn't he?
+- 板についてきた　→ いたについてきた　→ to get the hang of something, to become proficient
+
+- いやまだまだだな　→ no, not yet
+
+- 厳しくしなくちゃいけないんだがどうしてもつい甘さが出ちゃうんだよな　→ I have to be strict, but I can't help being a bit lenient
+- 厳しくしなくちゃ　→ きびしくしなくちゃ　→ must be strict
+- 甘さ　→ あまさ　→ leniency, sweetness
+
+- どーもいかんわ　→ I can't help it
+
+- 十分厳しいよ　→ it's strict enough
+- そだ厳しくする気か　→ so you're going to be strict
+
+- でも　今年のバスケ部は行けそうじゃないか　→ but it seems like this year's basketball team can go far, doesn't it?
+
+- そうそう学校中の評判だぜ赤木　→ yes, yes, it's the talk of the school, Akagi
+- 評判　→ ひょうばん　→ reputation, popularity
+
+- 一年にもいいのが入ったらしいじゃねーか　→ it seems like a good first-year has joined, hasn't he?
+
+- どうだかな　→ I wonder, I don't know
+
+- 問題児ばっかっでな　→ it's full of troublemakers
+- 問題児　→ もんだいじ　→ troublemaker
+
+- p. 75
+- 起こしてあげたら → if you wake him up
+
+- ホラ小池のあの目絶対気づいてるってやパイよ　→ hey, Koike's eyes are definitely noticing it, it's scary
+- ヤバいよ　→ ヤバいよ　→ it's bad, it's dangerous, it's scary
