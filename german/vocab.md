@@ -2,6 +2,8 @@
 
 # A
 
+alles gute für - good luck with
+
 anziehen - put on (clothes)
 
 auszustellen - to issue
@@ -473,6 +475,8 @@ fußgängerzone - pedestrian zone
 
 # G
 
+günstig - reasonably priced
+
 guck mal - look
 
 gar nicht - not at all
@@ -643,6 +647,8 @@ horen - hear
 Der Husten - cough
 
 # I
+
+in Eile - in a hurry
 
 Der Imbiss - deli
 
@@ -946,6 +952,8 @@ Po - bottom, butt
 praktisch - practical
 
 # R
+
+der Rock - skirt
 
 ruh dich aus - (you) rest up
 
