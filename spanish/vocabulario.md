@@ -88,6 +88,11 @@ lejos - far
 
 ## m
 
+mayores - older
+menores - younger
+
+marido - husband
+
 miedo - fear
 
 manzanas - apples
