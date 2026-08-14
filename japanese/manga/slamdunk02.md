@@ -506,3 +506,44 @@ p. 73
 
 - ホラ小池のあの目絶対気づいてるってやパイよ　→ hey, Koike's eyes are definitely noticing it, it's scary
 - ヤバいよ　→ ヤバいよ　→ it's bad, it's dangerous, it's scary
+
+- p 76
+- くおらあ　→ kuoraa (an exclamation of anger, like "damn it!")
+
+- 貴様は　→ you (rude)
+
+- いつもいつも熟睡しおって　→ you always sleep so soundly
+- 熟睡　→ じゅくすい　→ deep sleep
+
+- 私の授業はそんなにつまらんか　→ is my class really that boring?
+
+- p 77
+- 何人たりとも俺の眠りを妨げる
+- 何人　→ なんびとたりとも　→ no one, anyone
+- 妨げる　→ さまたげる　→ to disturb, to hinder
+
+- やつは許さん　→ I won't forgive that guy
+- 許す　→ ゆるす　→ to forgive
+
+- 何をするか　- what are you doing?
+- 流川が寝ぼけてるぞ　→   Rukawa is half asleep
+
+- 流川を止める　→ to stop Rukawa
+
+- おい水戸　→ hey Mito
+
+今日は桜木はどうしたんだ　→ what's up with Hanamichi today?
+サボりか　→ skipping class?
+
+- もうサボり出したか　→ has he started skipping already?
+
+- 知りませんよなんで推しに聞くんですだな　→ I don't know, why are you asking me?
+
+- 何度いっても髪は黒くしてこんし　→ no matter how many times I tell him, he won't keep his hair black
+
+- こういう奴が3ヶ月くらいで学校辞めちまうんだよな　→ guys like this quit school in about 3 months
+辞めちまう　→ やめちまう　→ to quit, to drop out (colloquial)
+
+- 全くパッタンだ　→ geez, what a pattern
+
+- お前ほんとんに知らんのか　→ do you really not know?
