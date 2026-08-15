@@ -166,3 +166,5 @@ x "y"　と言いました
 
 - not only x, but also y
 - x ですし、y ですし
+
+- 食べてばかりだね　→ you just keep eating

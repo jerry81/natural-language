@@ -130,3 +130,10 @@ Review
 - スマホ　→ smartphone
 
 - スライド　→ slide
+
+# t
+
+## タ
+
+- タダ　→ free of charge
+

@@ -173,6 +173,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 ## め
 
+めんどくさい　→ troublesome
+
 めちゃくちゃ　-> excessive
 
 ## む
@@ -255,6 +257,7 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 それとも　→ or
 
 ## し
+
 
 しかありません　→ can only
 
