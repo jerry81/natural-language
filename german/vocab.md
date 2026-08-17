@@ -2,6 +2,10 @@
 
 # A
 
+älter - older
+
+ausfüllen - fill out
+
 alles gute für - good luck with
 
 anziehen - put on (clothes)
@@ -103,7 +107,7 @@ die Anzahl - the numer
 
 # B
 
-
+Brettspiel - board game
 
 beschäftigt - busy/occupied
 
@@ -1006,6 +1010,8 @@ Die Rückkehr - return trip
 
 # S
 
+Spiegel - mirror
+
 schreien - scream
 
 selten - rarely
@@ -1349,6 +1355,8 @@ Vorsicht - careful
 vorstellung - performance
 
 # W
+
+wahrscheinlich - probably
 
 was ist los - what's going on
   - los - particle - means loose, free, detached
