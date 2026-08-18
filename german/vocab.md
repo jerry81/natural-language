@@ -1179,6 +1179,8 @@ sucht - seeks
 
 # T
 
+tarea - homework
+
 Die Tüte - bag
 
 Die Turnschuhe - the gym shoes

@@ -377,4 +377,6 @@
 94.  Los sábados trabajo mucho y los domingos me levanto alta - incorrect
 - Los sábados trabajo mucho y los domingos me levanto cansada - correct
 
-95.
+95.  The school wants to buy some computers
+- La escuela quiere comprar algas computadoras - incorrect
+- La escuela quiere comprar unas computadoras - correct
