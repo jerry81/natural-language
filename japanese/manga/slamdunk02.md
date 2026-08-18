@@ -547,3 +547,22 @@ p. 73
 - 全くパッタンだ　→ geez, what a pattern
 
 - お前ほんとんに知らんのか　→ do you really not know?
+
+- p. 78
+- 全くイヤな生徒だな　→ geez, what an unpleasant student
+
+- やってんだろな　→ he's doing it, isn't he?
+
+- p. 79
+- なるほどいい体してやがるぜ　→ I see, he's got a good body, doesn't he?
+
+- なんだてめーら待ち伏せなんかしやがって　→ what the hell, you guys are ambushing me or something?
+- 待ち伏せ　→ まちぶせ　→ ambush, lie
+- てめーら　→ you guys (rude)
+- しやがって　→ colloquial form of する, often used to express anger or contempt
+
+- 何言ってやがる　→ what the hell are you saying?
+- 元々完全な遅刻じゃねーか　→ wasn't it a complete tardiness from the start?
+- 元々　→ もともと　→ originally, from the start
+
+- 人のせいにすんな　→ don't blame others
