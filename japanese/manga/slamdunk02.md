@@ -566,3 +566,49 @@ p. 73
 - 元々　→ もともと　→ originally, from the start
 
 - 人のせいにすんな　→ don't blame others
+
+- p 80
+- おいつのセリフにいちいちこたえんじゃねーよオメーラ　→ don't answer every line of his, you guys
+- いちいち　→ one by one, every single time
+- こたえんじゃねーよ　→ don't answer (colloquial)
+
+- 何おう　→ what the hell
+
+- 誰なんだてめーら　→ who the hell are you guys?
+
+- てめーらなんか知らねーぞオレは - I don't know you guys at all
+
+- 会ったこともねえ　→ I've never met you
+
+- 個人的には恨みはねーが　→ personally, I have no grudge
+- 個人的　→ こじんてき　→ personal, individual
+- 恨み　→ うらみ　→ grudge, resentment
+
+- 上からの命令でな　悪く思うな　→ it's an order from above, don't take it the wrong way
+- 命令　→ めいれい　→ order, command
+- 上から　→ from above, from the top
+
+- p 81
+- 今年こそいい線行けるわよきっと　→ this year for sure, we can go far, I'm sure
+- 今年こそ　→ this year for sure
+- セン　→ finals, championship
+- 線　→　せん　→ line, path, course
+
+- 目標はどのくらいなの　インターハイ出場とか　→ what's the goal, like participating in the inter-high school competition?
+- 出場　→ しゅつじょう　→ participation, appearance
+- インターハイ　→ inter-high school competition
+- 目標　→ もくひょう　→ goal, target
+- とか　→ like, such as
+
+- 全国制覇だ　→ the goal is to conquer the whole nation
+- 全国制覇　→ ぜんこくせいは　→ national domination
+
+- 全国制覇は中学時からのお前の口癖だからな　→ national domination has been your catchphrase since middle school
+- 中学時　→ ちゅうがくじ　→ middle school days
+- 口癖　→ くちぐせ　→ catchphrase, habit of saying
+
+- 小学校からだ　→ since elementary school
+
+- やめよう　→ let's stop it
+- こういう話をしてると現れるんだヤツが　→ when we talk about this kind of stuff, that guy shows up
+- 現れた　→ あらわれた　→ appeared, showed up
