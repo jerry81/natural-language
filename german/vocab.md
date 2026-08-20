@@ -761,6 +761,8 @@ kurz/kurzen - short
 
 # L
 
+leihen - lend
+
 liber - about, on, over
 
 leer - empty

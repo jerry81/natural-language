@@ -1482,3 +1482,11 @@
 416.  The interns are helping today
 - Die Praktikanten hilfen heute - incorrect
 - Die Praktikanten helfen heute - correct
+
+417.  Yes I can lend him something
+- Ja, ich kann ihm etwas liehen - incorrect
+- Ja, ich kann ihm etwas leihen - correct
+
+418.  She lends him a jacket
+- Sie ihm eine Jacke leiht - incorrect
+- Sie leiht ihm eine Jacke - correct
