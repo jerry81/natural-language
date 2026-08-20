@@ -612,3 +612,14 @@ p. 73
 - やめよう　→ let's stop it
 - こういう話をしてると現れるんだヤツが　→ when we talk about this kind of stuff, that guy shows up
 - 現れた　→ あらわれた　→ appeared, showed up
+
+p. 83
+- そいつはおれが先だ赤木よ　→ I'm ahead of you, red one
+- 先　→ さき　→ ahead, first
+
+- 俺たち柔道部かな　→ are we in the judo club?
+- 柔道部　→ じゅうどうぶ　→ judo club
+
+- きたよやっぱり　→ here it comes, as expected
+
+- お前この話をするたびに隣のクラスから切るのやめろよな　→ you always cut in from the next class every time we talk about this, don't do that
