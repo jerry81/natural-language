@@ -380,3 +380,7 @@
 95.  The school wants to buy some computers
 - La escuela quiere comprar algas computadoras - incorrect
 - La escuela quiere comprar unas computadoras - correct
+
+96.  We like to watch movies at the movie theatre
+- Nos mirar mis gusta peliculas en el cine - incorrect
+- Nos gusta mirar peliculas en el cine - correct

@@ -623,3 +623,71 @@ p. 83
 - きたよやっぱり　→ here it comes, as expected
 
 - お前この話をするたびに隣のクラスから切るのやめろよな　→ you always cut in from the next class every time we talk about this, don't do that
+
+- p. 84
+- フン　籠球などといううわついたスポーツにうつつを寝かしおって　→ hmph, to be caught up in a flashy sport like basketball
+- 籠球　→ ろうきゅう　→ basketball
+- うわついた　→ flashy, superficial
+- うつつを寝かしおって　→ to be caught up in, to be absorbed in
+
+- オレは情けないぜ赤木よ　→ I'm pathetic, Akagi
+- 情けない　→ なさけない　→ pathetic, pitiful
+
+- なんでバスケットがうわついたスポーツなんだよく知りもせんくせにわかったようなことねかすな　→ why is basketball a flashy sport, you don't even know, yet you act like you do
+- 知りもせん　→ don't even know
+
+- いったいキサマは何年間　同じセリフをいえば気が住むんだ青田よ　→ how many years are you going to say the same line before you're satisfied, Aota
+- 何年間 → なんねんかん　→ how many years
+- キサマ　→ きさま　→ you (rude)
+- 同じセリフ　→ same line, same phrase
+- 気が住む　→ きがすむ　→ to be satisfied
+
+- 主将　→ しゅしょう　→ captain
+
+- あの二人は小学校時代からの親友でありライバル同士でもあるんだ　→ those two have been close friends and rivals since elementary school
+- 親友　→ しんゆう　→ close friend, best friend
+- ライバル　→ rival
+- 同士　→ どうし　→ fellow, companion
+
+- いきなり対決ムードだわ　→ suddenly it's a showdown mood
+- 対決　→ たいけつ　→ showdown, confrontation
+
+- いつもああさことあるごとにはりあってるんだあの二人　→ those two are always competing with each other over everything
+- ことあるごとに　→ at every opportunity, whenever possible
+
+- p. 85
+- 時に春子ちゃんは元気か　→ by the way, how is Haruko-chan?
+
+- 触るな　→ さわるな　→ don't touch
+
+- そして小学校の時に赤木の妹の春子ちゃんに一目ボレしたらしい　→ and apparently he fell in love at first sight with Akagi's little sister Haruko-chan when they were in elementary school
+- 一目ボレ　→ ひとめぼれ　→ love at first sight
+
+- まあいい俺たち柔道部はすでにインターハイ制覇へむけての強化を図っている → well, it's fine, our judo club is already planning for strengthening towards conquering the inter-high school competition
+- 図っている　→ はかっている　→ to plan, to aim for
+- 強化　→ きょうか　→ strengthening, reinforcement
+- すでに　→ already
+
+- 先に全国制覇を成し遂げるのは俺たちだ！→ the first to accomplish national domination will be us!
+- 成し　→ なし　→ to accomplish, to achieve
+- 遂げる　→ とげる　→ to accomplish, to achieve
+
+- 青田俺たちもマジで今年は狙ってるぜ　→ Aota, we're seriously aiming for it this year too!
+- 狙って　→ ねらって　→ aiming for, targeting
+
+- 一年にいいのが入ったんだ　→ a good first-year has joined
+- 入った　→ はいった　→ joined, entered
+
+- ほううちもだ　→ oh, us too
+
+- 百年に一人の逸材が入ることになっている　→ it is said that a rare talent, one in a hundred years, has joined
+- 逸材　→ いつざい　→ rare talent, exceptional talent
+
+- はっはっは大げさだなどんなヤツなんだ　→ hahahaha, that's exaggerated, what kind of guy is he?
+- 大げさだ　→ おおげさだ　→ exaggerated, over the top
+
+- p 86
+- 一年７組　→ class 1-7
+- 組　→ くみ　→ class, group
+- なんだと　→ what the hell
+
