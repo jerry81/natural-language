@@ -384,3 +384,7 @@
 96.  We like to watch movies at the movie theatre
 - Nos mirar mis gusta peliculas en el cine - incorrect
 - Nos gusta mirar peliculas en el cine - correct
+
+97.  I need to write in Spanish
+- Yo necesito escribo en español - incorrect
+- Yo necesito escribir en español - correct

@@ -119,7 +119,7 @@ para de x - stop x-ing
 
 postres - desserts
 
-piso - floor
+el piso - floor
 
 el pájaro - bird
 
