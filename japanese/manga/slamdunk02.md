@@ -724,3 +724,6 @@ p. 83
 
 - 三人組を　やっつけたら　腹が減ったので　ラーメン頼んだらなんだかだんだん　学校はどうでも良くなってきた　→ after we beat the trio, we got hungry and ordered ramen, and gradually school didn't matter anymore
 - 腹が減ったので　→ はらがへったので　→ because we got hungry
+
+p. 89
+- 実力者　→ じつりょくしゃ　→ a person of ability, a capable person
