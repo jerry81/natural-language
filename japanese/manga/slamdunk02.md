@@ -691,3 +691,36 @@ p. 83
 - 組　→ くみ　→ class, group
 - なんだと　→ what the hell
 
+- ちょっと待て　どういうことだ　→ wait a minute, what do you mean?
+
+-  どうもこうも　ねえよ木暮言葉通りだ　→ there's nothing to it, Kogure, it's just as you said
+- 言葉通り　→ ことばどおり　→ just as said
+- どうもこうも　→ there's nothing to it, no matter what
+
+- すでにウチの精鋭部隊が勧誘にいっている　→ our elite unit has already gone to recruit him
+- 精鋭部隊　→ せいえいぶたい　→ elite unit
+- 勧誘　→ かんゆう　→ recruitment, solicitation
+
+- アイツら荒っぽいから　ムチャしてなけりゃいいが　→ those guys are rough, so I hope they don't overdo it
+- 荒っぽい　→ あらっぽい　→ rough, violent
+- ムチャして　→ doing something reckless, overdoing it
+- なけりゃいいが　→ I hope they don't, I hope they won't
+
+- なんだって　→ what the hell, what did you say
+
+- 二年生のお客さんよ　→ a second-year student guest
+- 話はついたようだ　→ it seems the matter has been settled
+
+- だめでした　→ it was no good, it didn't work out
+
+- ウチの猛者どもを相手に　→ against our fierce veterans
+- 猛者　→ もうさ　→ fierce person, veteran, expert
+- 相手　→ あいて　→ opponent, the other party
+
+- ますますホレた　桜木は絶対にうちがもらうぜ赤木よ　→ I'm even more impressed, Sakuragi will definitely be ours, Akagi
+- ホレた　→ ほれた　→ fell in love, impressed
+
+- 学生さ学校は　→ it's a school, after all
+
+- 三人組を　やっつけたら　腹が減ったので　ラーメン頼んだらなんだかだんだん　学校はどうでも良くなってきた　→ after we beat the trio, we got hungry and ordered ramen, and gradually school didn't matter anymore
+- 腹が減ったので　→ はらがへったので　→ because we got hungry
