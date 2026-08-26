@@ -727,3 +727,16 @@ p. 83
 
 p. 89
 - 実力者　→ じつりょくしゃ　→ a person of ability, a capable person
+
+p. 90
+- イカス　→　cool, awesome
+- まぶしよな　→  dazzling, bright
+
+p. 91
+- なんだアイツらは授業中に　→ what the hell are those guys doing in class?
+- 春子ちゃんが気づいたぞ　→ Haruko-chan noticed
+
+-　手を振ってみろ手を　→ try waving your hand, wave your hand
+- 振ってみろ　→ ふってみろ　→ try waving
+
+- 応えるな　→ こたえるな　→ don't respond
