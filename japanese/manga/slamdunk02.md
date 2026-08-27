@@ -740,3 +740,35 @@ p. 91
 - 振ってみろ　→ ふってみろ　→ try waving
 
 - 応えるな　→ こたえるな　→ don't respond
+
+p. 92
+- やろう　→ let's do it, bastard (context-dependent)
+
+- 貴様ら授業中にのぞきとはいい根性だ　→ you guys are peeping during class, what guts you have
+- 貴様ら　→ you guys (rude)
+- 根性　→ こんじょう　→ guts, spirit, determination
+
+-　ちょっと体育教官室まで来い
+
+p. 93
+- マズイ　→ bad, not good
+- 捕まった　→ caught, got caught
+
+- 逃げろ　→ run away, escape
+- 白状者たちめ　→ はくじょうしゃたちめ　→ those who confess, confessor (derogatory)
+
+- ホラ共犯者が逃げる　→ Look, the accomplices are running away
+- 共犯者　→ きょうはんしゃ　→ accomplice, co-conspirator
+
+- てめえ　→ you (rude)
+- 仲間を売る気が　→ do you intend to betray your comrades?
+- 仲間　→ なかま　→ companion, comrade, friend
+- 売る　→ うる　→ to sell, to betray (context-dependent)
+
+- ふりむくな大楠　→　 don't look back, Okusu
+- 大楠　→ おおくす　→ Okusu (a name)
+
+- コラア　大人しくしろ　→ Hey, behave yourself
+- 大人しくしろ　→ おとなしくしろ　→ behave yourself, be quiet
+
+- ふぬう　→ ugh, grr (sound of frustration or anger)
