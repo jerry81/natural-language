@@ -1494,3 +1494,6 @@
 419.  Oops, that's not the right address
 - Ups das ist die richtige adrese nicht - incorrect
 - Ups, das ist nicht die richtige Adresse - correct
+
+420.  Konnen Sie vegetarich sein?  - incorrect
+- Konnen Sie leise sein - correct

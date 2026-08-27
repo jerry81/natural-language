@@ -107,6 +107,10 @@ die Anzahl - the numer
 
 # B
 
+besorgt - worried
+
+bloß - just, only
+
 Brettspiel - board game
 
 beschäftigt - busy/occupied
@@ -281,7 +285,7 @@ dies, diese - this
 
 direktnacrichten - notify directly
 
-doch - but, indeed
+doch - but, indeed, actually
 
 Dolmetscher - Interpreter
 
@@ -478,6 +482,8 @@ fuhrt es dazu - it leads to
 fußgängerzone - pedestrian zone
 
 # G
+
+Ein Gesetz - law
 
 günstig - reasonably priced
 
@@ -1012,6 +1018,10 @@ Die Rückkehr - return trip
 
 # S
 
+stimmt - is true
+
+schauren - look
+
 Spiegel - mirror
 
 schreien - scream
@@ -1280,6 +1290,8 @@ untersuchen - checkup
 
 # V
 
+Verstecken - hide and seek
+
 vorbei - over/past/by
 
 verwandten - relatives
@@ -1359,6 +1371,8 @@ Vorsicht - careful
 vorstellung - performance
 
 # W
+
+weil - because
 
 wahrscheinlich - probably
 
