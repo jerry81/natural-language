@@ -388,3 +388,15 @@
 97.  I need to write in Spanish
 - Yo necesito escribo en español - incorrect
 - Yo necesito escribir en español - correct
+
+98.  My husband plays the guitar very well
+- Mi manrido toca la gitarra muy bueno - incorrect
+- Mi marido toca la guitarra muy bien - correct
+
+99.  My sisters' names are Isabel and Laura
+- Mis hermanas se llamen Isabel y Laura - incorrect
+- Mis hermanas se llaman Isabel y Laura - correct
+
+100.  Are your parents american?
+¿Tus padres son americano? - incorrect
+¿Tus padres son americanos? - correct
