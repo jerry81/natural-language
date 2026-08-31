@@ -113,6 +113,12 @@ la nevera - the fridge
 
 ## p
 
+precios - prices
+
+probadores -  fitting rooms
+
+probar - to try on
+
 la pimienta - (black) pepper
 
 para de x - stop x-ing
@@ -181,6 +187,8 @@ soprendido - surprised
 la silla - chair
 
 # t
+
+talla - size
 
 el tenedor - fork
 

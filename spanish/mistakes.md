@@ -400,3 +400,7 @@
 100.  Are your parents american?
 ¿Tus padres son americano? - incorrect
 ¿Tus padres son americanos? - correct
+
+101.  Where can i try on this shirt?
+- Dónde puedo me probar esta camisa? - incorrect
+- Dónde me puedo probar esta camisa? - correct
