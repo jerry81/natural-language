@@ -772,3 +772,42 @@ p. 93
 - 大人しくしろ　→ おとなしくしろ　→ behave yourself, be quiet
 
 - ふぬう　→ ugh, grr (sound of frustration or anger)
+
+p. 94
+- ただじゃ済まさんぞ貴様　→ I won't let you get away with this, you bastard
+- じゃ済まさん　→ won't get away with it, won't be forgiven
+
+- 全くメチャクチャだな　→ It's completely chaotic, a total mess
+
+- あのパワフルな体育教師二人をいとも簡単に投げとばしてしまうあの怪力　→ that incredible strength that effortlessly threw the two powerful gym teachers during their conversation
+- 怪力　→ かいりょく　→ incredible strength, superhuman strength
+- 投げ　→ なげ
+- いとも　→ effortlessly, easily
+
+- あのパワだけでも相当な戦力になる　→ Even just that power alone would make a considerable fighting force
+- やはりオレの目に狂いは中つた　→ As I thought, there was no mistake in my eyes
+- 中つた　→ なかつた　→ was in the middle, was among (context-dependent)
+- 狂い　→ くるい
+- 桜ぎお前は柔道をやるために生まれてきた男だ　→ Sakuragi, you are a man who was born to practice judo
+- 生まれてきた　→ うまれてきた　→ was born (to do something)
+
+- バスケットなとやめて柔道部に入るんだ　→ Quit basketball and join the judo club
+- など　→ etc., and so on
+
+- 何をぶっぷっいっとるか青田　→ What the hell are you blabbering about, Aota?
+- ぶっぷっいっとる　→ ぶっぷっいっとる　→ blabbering, talking nonsense
+
+- さあこい　全くお前はもう三年だろうがしっ狩り戦か　→ Come on, do your best and achieve results, even though you are already a third-year student
+- しっ狩り戦か　→ しっかり戦か　→ fight properly, fight seriously
+
+- 綺麗になったなあ　→ You've become beautiful, haven't you?
+
+- お兄さんの幼馴染みの龍ちゃん
+- 幼馴染み　→ おさななじみ　→ childhood friend
+
+- あの桜木軍団といい今の青田って人といいはろこの知り合いって変な人ばっかりね　→ Both the Sakuragi gang and the current Aota person, Haruko's acquaintances are all weird people, aren't they?
+
+- 怖いし　→ こわいし　→ scary, frightening
+
+- そんなことないわようみんないい人よ　→ That's not true, everyone is a good person, you know?
+- お兄ちゃんは怖いかもしんないけど　→ My older brother might be scary, but...
