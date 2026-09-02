@@ -811,3 +811,68 @@ p. 94
 
 - そんなことないわようみんないい人よ　→ That's not true, everyone is a good person, you know?
 - お兄ちゃんは怖いかもしんないけど　→ My older brother might be scary, but...
+
+- p. 96
+- 一時間正座だったらしいな青田　→ I heard you had to sit formally on the floor for an hour, Aota
+- 正座　→ せいざ　→ sitting formally on the floor with legs folded under the thighs
+
+- 全く柔道部の大将は何やってんだか　→ I have no idea what the captain of the judo club is doing
+- 大将　→ たいしょう　→ captain (of a team, especially in martial arts context)
+- 下の部員がかわいそうだ　→ I feel sorry for the lower-ranking members of the club
+- かわいそう　→ かわいそう　→ pitiful, unfortunate
+
+- うるせよ　→ うるせよ　→ Shut up, noisy (rude)
+
+- あの桜木は絶対にウチがもらうぜ　→ I will definitely take that Sakuragi for myself
+- もう決めた　→ I've already decided
+
+- またそんなこと言ってんのか　→ Are you saying that again?
+
+- アイツは柔道をやるために生まれてきた男だ　→ That guy was born to practice judo
+- 男だ　→ おとこだ　→ man
+
+- あの体格あのパワそして　あの度胸のよさ　→ That physique, that power, and that courage
+- 度胸　→ どきょう　→ courage, guts, bravery
+- 体格　→ たいかく　→ physique, build, body structure
+
+- 想像図　→ そうぞうず　→ imagined illustration, conceptual drawing
+
+- アイツは球技なんかをやってて満足する男じゃねえ　→ That guy is not the type of man who would be satisfied just by playing ball games
+- 球技　→ きゅうぎ　→ ball game, ball sports
+
+- アイツに向いてるのは格闘技だ　→ What suits that guy is martial arts
+- 格闘技　→ かくとうぎ　→ martial arts, combat sports
+- 向いてる　→ むいてる　→ is suited for, is fit for
+
+- おいおい勝手に決めるな　→ Hey, don't decide things on your own
+- 勝手　→ かって　→ selfish, arbitrary, without permission
+
+- いや、格闘技だ　→ No, it's martial arts
+
+- それに一番大事なのはアイツの気持ちだ　→ Moreover, the most important thing is that guy's feelings
+- 気持ち　→ きもち　→ feelings, emotions
+
+- アイツが本当に好きでバスケットなどやってると思うか　→ Do you think that guy is really playing basketball because he likes it?
+
+p. 98
+
+- アイツが好きなのはバスケットじゃなくて春子ちゃんだ　→ That guy likes Haruko-chan, not basketball
+- 違うか　→ Am I wrong?
+
+- バスケットをしたくてやってるんじゃない　春子ちゃんに気に入られたいからやってるんだ　→ He's not playing basketball because he wants to, he's doing it because he wants to be liked by Haruko-chan
+
+-　ムリもない春子ちゃんは綺麗になったぜ　→ It's no wonder, Haruko-chan has become beautiful
+
+- しばらく見ないうちにすっかり大人になって　→ In the time I haven't seen her, she has completely grown up
+- 大人　→ おとな　→ adult, grown-up
+- しばらく　→ しばらく　→ for a while, for some time
+
+- しかもこの湘北に入ってくるとは　オレはついてる　→ Moreover, the fact that he is joining this Shōhoku team means I'm lucky
+- しかも　→ しかも　→ moreover, besides, what's more
+- ついてる　→ ついてる　→ lucky, fortunate
+
+- 何が言いてえんだ　→ What are you trying to say?
+
+- 赤木よ　春子ちゃんをエサに桜木をバスケ部にシャバリつけるようなマネしていいと思ってるのか　→ Akagi, do you think it's okay to use Haruko-chan as bait to get Sakuragi into the basketball club?
+- シャバリつける　→ しゃばりつける　→ to get involved, to meddle, to attach oneself to
+- エサに　→ えさに　→ as bait, as lure
