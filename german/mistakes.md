@@ -1497,3 +1497,18 @@
 
 420.  Konnen Sie vegetarich sein?  - incorrect
 - Konnen Sie leise sein - correct
+
+421.  I'll lend you my coat
+- Ich liehe dir meinen Mantel - incorrect
+- Ich leihe dir meinen Mantel - correct
+
+422.  Can you show me the socks?
+- Kannst du zeigen mir die Socken - incorrect
+- Kannst du mir die Socken zeigen - correct
+
+423.  Kannst du das Hemd leihen - incorrect
+Kannst du das Hemd anziehen - correct
+
+424.  Max has friends in Vienna and he visists them often
+- Max hat Freunde in Wien, er sie oft besucht - incorrect
+- Max hat Freunde in Wien, er besucht sie oft - correct

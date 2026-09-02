@@ -217,6 +217,8 @@ büchlein - booklet
 
 # D
 
+dran - on it, at it
+
 dringend - urgently
 
 denn - because
@@ -418,6 +420,10 @@ eurem - your
 evtl - possibly
 
 # F
+
+Farbenladen - paint shop
+
+Farbdose - paint tin
 
 furchtbar - terrible
 
@@ -1017,6 +1023,13 @@ Ruhe - quiet
 Die Rückkehr - return trip
 
 # S
+
+streichen - to paint
+
+stolpert - trips (fall)
+
+steht - stands/suits (clothing)
+- steht dir gut -  this suits you well
 
 stimmt - is true
 
