@@ -854,7 +854,7 @@ p. 94
 
 - アイツが本当に好きでバスケットなどやってると思うか　→ Do you think that guy is really playing basketball because he likes it?
 
-p. 98
+p. 97
 
 - アイツが好きなのはバスケットじゃなくて春子ちゃんだ　→ That guy likes Haruko-chan, not basketball
 - 違うか　→ Am I wrong?
@@ -876,3 +876,34 @@ p. 98
 - 赤木よ　春子ちゃんをエサに桜木をバスケ部にシャバリつけるようなマネしていいと思ってるのか　→ Akagi, do you think it's okay to use Haruko-chan as bait to get Sakuragi into the basketball club?
 - シャバリつける　→ しゃばりつける　→ to get involved, to meddle, to attach oneself to
 - エサに　→ えさに　→ as bait, as lure
+
+p. 99
+- あれはどの素質もった男　→ That guy has all the qualities
+- 素質　→ そしつ　→ talent, aptitude, potential
+
+- 自分に一番合った　自分が心からやりたい　ことを　やらせるべきじゃないのか　→ Shouldn't he be allowed to do what suits him best and what he truly wants to do?
+- 合った　→ あった　→ suited, fit, matched
+
+- 別にオレはアイツにバスケ部にいてくれなんて頼んだことはねえよ　→ It's not like I ever asked him to stay in the basketball club
+- 頼んだ　→ たのんだ　→ asked, requested
+
+- そうかつまりバスケ部の大将としては　→ So, in other words, as the captain of the basketball club
+- つまり　→ つまり　→ in other words, that is to say
+
+- 柔道部が桜木を引き抜いても別に奴を引き止めはしねえってことだな　→ Even if the judo club poaches Sakuragi, it means I won't particularly try to stop him
+- 引き抜い　→ ひきぬい　→ to poach/recruit away
+
+p 99
+- アイツの自分だ　→ That guy is his own person
+
+- そうか　→ I see, is that so?
+
+- 副キャプテンはゆるさんぞそんなこと　→ As for the vice-captain, I won't forgive such a thing
+- 副　→ ふく　→ vice, deputy
+- ゆるさん　→ ゆるさん　→ to not forgive, to not allow, to not tolerate
+
+- キャプテン様が許したんだ副キャプテンのたわごとなど聞こえんな　→ The captain has allowed it, so I won't listen to the vice-captain's nonsense
+- 戯言　→ たわごと　→ nonsense, foolish talk
+- など　→ など　→ and so on, and the like
+
+- いいのか　→ Is it okay?
