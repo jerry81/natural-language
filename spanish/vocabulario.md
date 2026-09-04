@@ -53,6 +53,8 @@ el dormitorio - bedroom
 
 ## e
 
+efectivo - in cash
+
 enseñar - to teach
 
 empiezar - to start
