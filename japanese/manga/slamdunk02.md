@@ -907,3 +907,37 @@ p 99
 - など　→ など　→ and so on, and the like
 
 - いいのか　→ Is it okay?
+
+- p. 100
+- お前はさっきの　→ You, just now...
+
+- 柔道部主将青田だ　→ I'm Aota, the captain of the judo club
+
+- p. 101
+- いよ　やけにモテるじゃねーが　→ Hey, you're unusually popular, aren't you?
+- やけに　→ やけに　→ unusually, excessively
+- モテる　→ もてる　→ to be popular, to be well-liked
+
+- ゴツい男にばっかり　→ Only with burly men
+- ゴツい　→ ごつい　→ burly, rugged, tough-looking
+
+- うるせい　→ うるせい　→ noisy, annoying
+
+- このハクジョー軍団　→ This heartless gang...
+- ハクジョー　→ はくじょう　→ heartless, cold-hearted
+
+- 人をミゴロシにしやがって　→ Killing people, huh?
+- しやがって　→ しやがって　→ doing (in a contemptuous or derogatory manner)
+- ミゴロシ　→ みごろし　→ killing, murder
+
+p. 102
+- 自然だ　→ It's natural
+- 自然　→ しぜん　→ natural, spontaneous
+
+- ごく自然に言えたぞ今のセリフ　→ I said that line very naturally
+- ごく　→ ごく　→ very, extremely
+
+- こやつは一体　→ Does this guy really
+- 一体　→ いったい　→ really, actually, on earth
+
+- じゃあオレちょっと桜木と話があるからこれで　→ Well, I have to talk to Sakuragi for a bit, so I'll be going now
