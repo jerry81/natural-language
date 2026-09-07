@@ -1512,3 +1512,11 @@ Kannst du das Hemd anziehen - correct
 424.  Max has friends in Vienna and he visists them often
 - Max hat Freunde in Wien, er sie oft besucht - incorrect
 - Max hat Freunde in Wien, er besucht sie oft - correct
+
+425.  Mia and Anna, I'll show you my dress
+- Mia und Anna, ich zeige eure mein kleid - incorrect
+- Mia und Anna, ich zeige euch mein Kleid - correct
+
+426.  I don't like the color
+- Ich nicht mag die farbe - incorrect
+- Ich mag die farbe nicht - correct
