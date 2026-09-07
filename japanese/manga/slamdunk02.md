@@ -941,3 +941,19 @@ p. 102
 - 一体　→ いったい　→ really, actually, on earth
 
 - じゃあオレちょっと桜木と話があるからこれで　→ Well, I have to talk to Sakuragi for a bit, so I'll be going now
+
+p. 104
+- あれは青田に桜木だ　→ That's Aota and Sakuragi
+- さあこれを着るんだ桜木　→ Now, put this on, Sakuragi
+
+- おまえは柔道をやるために生まれてきた男だ　→ You were born to do judo
+- 柔道部に入れ　→ Join the judo club
+
+-　フン　なんだ　いきなりそんなことよりてめ　春子さんとどーゆー知り合いだ　→ Hmph, what is it? Rather than suddenly bringing that up, what kind of acquaintance are you with Haruko?
+
+- なんて呼ばれやがって　→ What do you call yourself?
+
+- 羨ましいか　→ Are you jealous?
+- 羨ましい　→ うらやましい　→ jealous, envious
+
+p. 106
