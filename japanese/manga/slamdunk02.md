@@ -957,3 +957,54 @@ p. 104
 - 羨ましい　→ うらやましい　→ jealous, envious
 
 p. 106
+- お前はせいぜい「桜木君」止まりだろう　→ At best, you'll only be called "Sakuragi-kun"
+
+- 呼び方ひとつで二人の親密度がわかるってもんだぜ　→ You can tell the closeness of the two people just by how they address each other
+- 親密　→ しんみつ　→ intimacy, closeness
+
+- 何おう　→ What did you say?
+
+- オレはこんなのぞくようなマネは性にあわん帰るぞ　→ I can't stand behavior like peeping, I'm going home
+- コソコソ　→ こそこそ　→ to do something secretly, stealthily
+- マネ　→ まね　→ behavior, action, act
+- 除く　→ のぞく　→ to peep, to look into secretly
+- 合わん → あわん　→ to not suit, to not match, to be incompatible
+
+- いやだめだ　→ No, that's not allowed
+
+- 桜木を柔道部にやるわけにはいかん　→ I can't let Sakuragi join the judo club
+
+- みろ　青田のやつ柔道着なんかきて　→ Look, Aota is wearing a judo uniform
+
+- まさか腕ずくで桜木を入れるつもりじゃ　リンチとかな　→ No way, you intend to force Sakuragi in by strength, like a lynching or something, huh?
+- まさか　→ No way, it can't be
+- リンチ　→ りんち　→ lynching, mob attack
+-　腕ずくで　→ うでずくで　→ by force, using physical strength
+
+- ばか　ああ見えても青田は二段県下でも名の通った実力者だぞ　→ Idiot, even though he looks like that, Aota is a well-known expert with a second-degree black belt in the prefecture
+- ばか　→ ばか　→ idiot, fool
+- 二段　→ にだん　→ second-degree black belt
+- 県下　→ けんか　→ in the prefecture
+- 名の通った　→ なのとおった　→ well-known, famous
+- 実力者　→ じつりょくしゃ　→ expert, person of ability
+
+- シロート相手にそんなことするか心配症だなお前は　→ You wouldn't do such a thing to an amateur, you're such a worrier, huh?
+- 心配症　→ しんぱいしょう　→ worrier, anxious person
+- シロート　→ しろーと　→ amateur, novice
+
+- つい　この前　そのシロート相手にムキになって勝負したバスケの実力者はどこのどいつだ　→ Just the other day, who was that basketball expert who got all worked up and challenged an amateur?
+- ムキ　→ むき　→ getting worked up, becoming serious
+- 勝負　→ しょうぶ　→ match, contest, challenge
+
+- p. 107
+- 　これが何かわかるか　→ Do you know what this is?
+
+- よく見てみろこれが誰か　→ Take a good look, who is this?
+
+- そのとおり　→ Exactly, that's right
+- とおり　→ とおり　→ way, manner, as expected
+- これは春子ちゃんの小学校時代の写真だ　→ This is a photo of Haruko-chan from her elementary school days
+- 小学校時代　→ しょうがっこうじだい　→ elementary school days
+- 写真　→ しゃしん　→ photo, picture
+
+- p. 108
