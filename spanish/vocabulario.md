@@ -53,6 +53,8 @@ el dormitorio - bedroom
 
 ## e
 
+extraño - strange
+
 efectivo - in cash
 
 enseñar - to teach
@@ -81,6 +83,8 @@ juntas - together
 - junting (hunting) together
 
 ## l
+
+llegar tarde - to be late
 
 - me levanto  - get up
 
