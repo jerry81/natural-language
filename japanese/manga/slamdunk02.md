@@ -1008,3 +1008,36 @@ p. 106
 - 写真　→ しゃしん　→ photo, picture
 
 - p. 108
+- そして　これが中学の卒業式だ　→ And then, this is the graduation ceremony from middle school
+- そして　→ and then, and also
+
+- 卒業式まで　→　そつぎょうしきまで　→ graduation ceremony
+
+- これが中国の時の春子さん　→ This is Haruko-san from her time in China
+
+- なんて可愛い中学生だろう　→ What a cute middle school student
+
+- 柔道部に入部すれば　これを全てお前にやるといったらどうする　→ If I said that if you join the judo club, I would give all of this to you, what would you do?
+
+p. 109
+- あの野郎　→ That bastard
+- 春子をエサにしてるのはテメーじゃねーか　→ Aren't you the one using Haruko as bait?
+- エサ　→ えさ　→ bait, lure　
+
+- 散々　→ さんざん　→ thoroughly, completely, to the utmost
+- かっこいいこと言っときながら　→ While saying such cool things
+
+- あんのヒキヨーモンが　→ That cowardly bastard
+- ヒキヨーモン　→ ひきよーもん　→ coward, weakling, someone who is easily intimidated
+
+- まずいぞ赤木桜木のあの顔　→ It's bad, Akagi, that face of Sakuragi
+
+- なんですと　→ What did you say?
+
+- かなり傾いている　→ It's leaning quite a bit
+- 傾いている　→ かたむいている　→ leaning, tilting
+
+- アイツは　ああいう　男だ　→ That guy is that kind of man
+
+p. 112
+-
