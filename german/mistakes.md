@@ -1520,3 +1520,11 @@ Kannst du das Hemd anziehen - correct
 426.  I don't like the color
 - Ich nicht mag die farbe - incorrect
 - Ich mag die farbe nicht - correct
+
+427.  Can you give her the hat?
+- Kannst du gibt ihr den Hut? - incorrect
+- Kannst du ihr den Hut geben? - correct
+
+428.  That's right, the bread is warm.
+- Das ist stimmt, das Brot ist warm - incorrect
+- Stimmt, das Brot ist warm - correct
