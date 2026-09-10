@@ -1040,4 +1040,42 @@ p. 109
 - アイツは　ああいう　男だ　→ That guy is that kind of man
 
 p. 112
--
+- 写真に踊らされている　→ Being manipulated by the photo, being swayed by the photo
+- 踊らされている　→ おどらされている　→ being manipulated, being swayed
+
+- この　小学校から中学校までの春子ちゃんの写真　→ This is a photo of Haruko-chan from elementary school to middle school
+
+- オレだってこれを手放すのは惜しい　→ Even I would be reluctant to part with this
+- 手放す　→ てばなす　→ to let go of, to part with
+- 惜しい　→ おしい　→ regrettable, reluctant to part with
+
+- 実に口惜しいのだ　→ It's really frustrating, it's really regrettable
+- 口惜しい　→ くちおしい　→ frustrating, regrettable
+
+- お前ならわかるだろう　→ You would understand, wouldn't you?
+
+- この気持ち　→ This feeling
+
+- 同じ春子ちゃんに思いをよせる者として　→ As someone who has feelings for the same Haruko-chan
+- よせる　→ よせる　→ to have feelings for, to be attracted to
+
+p. 113
+- 妙な連帯感が生まれてるぞ　→ A strange sense of solidarity is being born
+- 連帯感　→ れんたいかん　→ sense of solidarity, sense of unity
+- 妙　→ みょう　→ strange, unusual, peculiar
+
+- ペテン　→ へてん　→ fraud, deception, trickery
+
+- 師め　→ しめ　→ teacher, master
+
+- ここまで揃えるのに実に5年をかけたこの苦労　この気合　→ The effort and determination it took to gather all of this over five years
+- 揃える　→ そろえる　→ to gather, to assemble
+- 苦労　→ くろう　→ effort, hardship, trouble
+- 気合　→ きあい　→ determination, fighting spirit
+
+- お前ならわかるだろう　→ You would understand, wouldn't you?
+
+- それほどお前を必要としているということだ　→ It means that I need you that much
+
+- だから柔道部に入れ　→ Therefore, join the judo club
+
