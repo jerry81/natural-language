@@ -1079,3 +1079,29 @@ p. 113
 
 - だから柔道部に入れ　→ Therefore, join the judo club
 
+p. 115
+
+- ちょっと待てじゃあ　→ Wait a minute, then
+
+- この写真はいらんのか　→ Don't you need this photo?
+
+- おれの宝物ぞ
+
+- そうだろう　じゃあ柔道部に入るんだな　→ That's right, then join the judo club, okay?
+
+p. 116
+- お前を信じてたよ　→ I believed in you
+
+p. 117
+- コラあっ　そんなわがままはこの青田には通用せんぞ　→ Hey! Such selfishness won't work on this Aota
+- 通用せん　→ つうようせん　→ won't work, won't be accepted
+
+- フん　いいよじゃあ　→ Hmph, fine then
+
+- 実力で　撮る　→ I'll take it with skill
+
+- 柔道部に入らん　→ I won't join the judo club
+
+- 写真はもらう　→ I'll take the photo
+
+-
