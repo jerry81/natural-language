@@ -1104,4 +1104,30 @@ p. 117
 
 - 写真はもらう　→ I'll take the photo
 
--
+p. 118
+- 桜木の性格把握してなかったな青田　→ I hadn't grasped Sakuragi's personality, Aota
+- 性格　→ せいかく　→ personality, character
+- 把握　→ はあく　→ grasp, understanding
+
+- 桜木そんな汚い取引に応じるようなやつじゃないんだ　→ Sakuragi is not the kind of guy who would go along with such a dirty deal
+- 応じる　→ おうじる　→ to respond to, to comply with
+
+- 超わがままなだけだ　→ He's just extremely selfish
+- わがまま　→ わがまま　→ selfish, self-centered
+
+- 子供だ　→ He's just a child
+
+- 今度のわがままばかりは　相手が悪い　→ This time's selfishness is the other person's fault
+- ばかり　→ ばかり　→ only, just
+
+p. 119
+- このおれにそんな口を聞いたのは赤木以外にはお前が初めてだ　→ You're the first person besides Akagi to speak to me like that
+
+- てめー　ゴリの知り合いか　柔道男　→ You bastard, are you Gori's acquaintance, judo guy?
+
+- 知り合いか　→ Are you an acquaintance?
+- やつ以外の知り合いはいねえ　→ I don't have any acquaintances besides him
+
+- やつとは小学校時代からの因縁の仲だ　→ I've had a grudge with him since elementary school
+- 因縁　→ いんねん　→ grudge, fate, karmic relationship
+- 仲　→ なか　→ relationship, connection
