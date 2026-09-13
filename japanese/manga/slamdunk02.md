@@ -1131,3 +1131,71 @@ p. 119
 - やつとは小学校時代からの因縁の仲だ　→ I've had a grudge with him since elementary school
 - 因縁　→ いんねん　→ grudge, fate, karmic relationship
 - 仲　→ なか　→ relationship, connection
+
+p. 120
+- あれは忘れもしねえ　→ I will never forget that
+- 小学ごねんの時俺はすでにその頃　柔道部のレギュラーになり　試合でも負け知らずで
+- 柔道が面白くて仕方なかった　→ I found judo so interesting that I couldn't help it
+- 仕方なかって　→ しかたなかって　→ couldn't help it
+- 負け知らずで　→ まけしらずで　→ I was undefeated in matches
+
+- そおでやつに行ったんだ　→ So I went to him
+
+- お前なら絶対オレみたいに強くなるぜ　→ You'll definitely become as strong as me
+- そしたら絶対柔道が面白くなるからよ　→ Then judo will definitely become interesting
+
+- オレは自分の喜びをやつにも味わってもらいたくて言ったんだ　→ I said it because I wanted him to experience my joy as well
+- 喜び　→ よろこび　→ joy, delight
+
+- 純粋な善意からな　→ It was from pure goodwill
+- 善意　→ ぜんい　→ good will, kindness
+- 純粋　→ じゅんすい　→ pure, genuine
+
+- 友情さ　→ ゆうじょうさ　→ It's friendship
+
+- そしたらあの男なんて言ったと思う　→ Then, guess what that guy said
+
+- やだよ　→ No way
+- カッコワリイ　→ It's uncool, lame
+
+- なんってやろーだ　→ I wonder what he said
+
+- いたいけな少年の好意を踏み躙るとは　→ To trample on the goodwill of an innocent boy
+- 踏み躙る　→ ふみにじる　→ to trample on, to crush
+
+- そう思うだろ　→ You think so too, right?
+
+- いや　あんまりそうは思わなかった　→ No, I didn't really think so
+- やつはおれの心に傷をつけたのだ　→ That guy hurt my heart
+
+p. 121
+- とにかく　→ Anyway, in any case
+- その時だな　→ It was that moment
+- オレと奴の間に亀裂生じたのは　→ The rift between me and that guy occurred when
+- 亀裂　→ きれつ　→ crack, rift, fissure
+- 生じた　→ しょうじた　→ occurred, happened
+
+- 全てアイツが悪いんだ　→ It's all that guy's fault
+
+- 覚えてる　→ I remember
+
+- まだ根にもってやがったのか　→ He still held a grudge, huh?
+- 根　→ ね　→ root, basis (in this context, it refers to holding a grudge)
+
+- いや待てゴリはオレにはもっとひどいぞ　→ No, wait, Gori was even worse to me
+
+- ゴリの頭にダンクかましたら首絞められた　→ When I dunked on Gori's head, he choked me
+- 首絞められた　→ I was choked
+
+- いやそれは誰だって怒るだろう　→ No, anyone would get angry at that
+- 怒る　→ おこる　→ to get angry, to be mad
+
+- わざとじゃないんだぞ　→ I didn't do it on purpose
+
+- オレなんか危うく息を引き取りそうになったとゆうほどの大事件だった　→ It was such a major incident that I almost breathed my last
+- 息を引き取りそうになった　→ いきをひきとりそうになった　→ almost breathed my last
+- 危うく　→ あやうく　→ almost, nearly (in this context, it implies "I almost...")
+
+- 待てまだあるんだオレには　→ Wait, I still have more to say
+- やつによる苦い思い出が　→ It's a bitter memory caused by that guy
+- 苦い　→ にがい　→ bitter (in this context, it implies an unpleasant or painful memory)
