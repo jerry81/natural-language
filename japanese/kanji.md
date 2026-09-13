@@ -2,6 +2,8 @@
 
 ## あ
 
+預かります　→ あずかります　→ to take care of, to keep in custody
+
 挙げる　→ あげる
 
 暗記　→ あんき　→ to memorize
@@ -155,6 +157,8 @@
 
 ## え
 
+絵具　→ えのぐ　→ paint
+
 栄養　→ えいよう
 
 演劇　→ えんげき　→ theater
@@ -228,6 +232,10 @@
 # h
 
 ## は
+
+鋏　→ はさみ　→ scissors
+
+計ります　→ はかります　→ to measure
 
 離れましょう　→　離れましょう →　get away from
 
@@ -846,6 +854,8 @@ islam教　→ きょう
 
 ## ぬ
 
+塗ります　→ ぬります　→ to paint, to apply
+
 脱ぎます　→ ぬぎます　→ take off (shoes)
 
 抜く　(ぬく)
@@ -853,6 +863,8 @@ islam教　→ きょう
 濡れて　→ ぬれて　→ make wet
 
 ## の
+
+糊　→ のり　→ glue
 
 乗り換え　→ のりかえ　→ transfer (train)
 
@@ -942,6 +954,8 @@ islam教　→ きょう
 # o
 
 ## お　
+
+お釣り　→ おつり　→ change (money returned after a purchase)
 
 お知らせ　→ おしらせ　→ notice/announcement
 
@@ -1403,6 +1417,10 @@ islam教　→ きょう
 # u
 
 ## う
+
+売り切り　→ うりきり　→ sold out
+
+上手くいきます　→ うまくいきます　→ to go well
 
 運　→ うん　→ luck
 
