@@ -1199,3 +1199,54 @@ p. 121
 - 待てまだあるんだオレには　→ Wait, I still have more to say
 - やつによる苦い思い出が　→ It's a bitter memory caused by that guy
 - 苦い　→ にがい　→ bitter (in this context, it implies an unpleasant or painful memory)
+
+p. 122
+- あれは忘れもしねえ小学6年の時　→ I will never forget that it was in the 6th grade of elementary school
+- その日は身体測定の日だった　→ That day was the day of the physical examination
+- 身体測定　→ しんたいそくてい　→ physical examination, body measurement
+
+- 俺たち二人はその頃から特別体がデカくてな　→ The two of us had been particularly big-bodied since that time
+
+- 身長体重も二人で競い合っていた　→ We were also competing in height and weight
+- 競い合っていた　→ きそいあっていた　→ were competing
+
+- だがやつの身長はその頃急激に伸び始めオレは明らかに負けていた　→ However, his height began to grow rapidly at that time, and I was clearly losing
+- 伸び始め　→ のびはじめ　→ began to grow
+- 急激　→ きゅうげき　→ sudden, rapid
+- 明らかに　→ あきらかに　→ clearly, obviously
+
+- しかしそれだけならまだ上がった　→ However, if it were just that, it would have been fine
+
+- なんとおれは座高で勝ってしまったのだ　→ Amazingly, I ended up winning in sitting height
+- 座高　→ ざこう　→ sitting height
+
+- やっぱり、柔道なんてやってるからお前は短足なんだよ　→ As expected, because you do judo, you have short legs
+- 短足　→ たんそく　→ short legs
+
+- 嫌なガキだ　→ What an annoying kid
+- あんなこと言わなくたっていいだろう　→ You didn't have to say something like that
+
+- トドメの一撃を　　→ I delivered the finishing blow
+- トドメ　→ とどめ　→ finishing blow
+- 一撃　→ いちげき　→ blow, strike
+
+- それにオレの足が短いのは柔道のせいじゃない　生まれつきなんだ　→ Besides, my short legs are not because of judo; it's just the way I was born
+- 生まれつき　→ うまれつき　→ by nature, from birth
+- 短い　→ みじかい　→ short
+
+- ひどいと思わんか　→ Don't you think it's terrible?
+
+p. 123
+- 言ったかな　→ Did I say it?
+
+- とにかく　→ Anyway, in any case
+- その時だな　→ It was that moment
+
+- それにゴリのやつ　おれにきそばかりやらせるよーな　→ Besides, that guy Gori always made me compete
+- 競わせる　→ きそわせる　→ to make someone compete
+
+- それは当り前に　→ That's obviously the case
+- 当り前に　→ あたりまえに　→ obviously, naturally
+
+- いいか桜木一番やつかいなのは　→ Listen, Sakuragi, the most important thing is
+- やつが春子ちゃんの兄貴であるということだ　→ The important thing is that he is Haruko-chan's older brother
