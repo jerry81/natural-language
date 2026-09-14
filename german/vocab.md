@@ -893,6 +893,8 @@ muss nur - just have to
 
 # N
 
+nachher - later
+
 nervig - annoying
 
 nach Hause - at home/home
@@ -945,6 +947,8 @@ Nutzerseite - user side
 
 # O
 
+Ofen - oven
+
 oben - upper, top, over
 
 oder - or
@@ -970,6 +974,8 @@ Po - bottom, butt
 praktisch - practical
 
 # R
+
+das Rezept - the recipe
 
 der Rock - skirt
 
@@ -1384,6 +1390,8 @@ Vorsicht - careful
 vorstellung - performance
 
 # W
+
+Wettbewerb - competition
 
 weil - because
 
