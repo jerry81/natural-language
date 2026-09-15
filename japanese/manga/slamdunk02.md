@@ -1250,3 +1250,47 @@ p. 123
 
 - いいか桜木一番やつかいなのは　→ Listen, Sakuragi, the most important thing is
 - やつが春子ちゃんの兄貴であるということだ　→ The important thing is that he is Haruko-chan's older brother
+
+p. 124
+- なぜあんなゴツい男が春子ちゃんの兄貴なんだ　→ Why is such a burly guy Haruko-chan's older brother?
+- ゴツい　→ ごつい　→ burly, muscular
+
+- こんなに似てない兄妹がいていいものか　→ Is it okay for siblings to be so dissimilar?
+- 兄妹　→ きょうだい　→ siblings
+- 似てない　→ にてない　→ dissimilar, not resembling
+
+- まさに目の上のタンコブ　→ A real pain in the eye
+- 目の上　→ めのうえ　→ above the eye
+- タンコブ　→ たんこぶ　→ bump, swelling (usually on the head)
+- まさに　→ まさに　→ exactly, truly
+
+- 落ち着けよ赤木アイツに悪気はないんだ　多分　→ Calm down, Akagi. He probably doesn't mean any harm.
+- 落ち着け　→ おちつけ　→ calm down
+
+- どうだ手を組マンか桜木　→ How about we join forces, Sakuragi?
+- 手を組む　→ てをくむ　→ to join forces, to team up
+
+- 俺たちには共通の目標がある　→ We have a common goal
+- 共通　→ きょうつう　→ common, shared
+
+- 打倒赤木だ　→ Our goal is to defeat Akagi
+
+p. 125
+- よし　じゃあここにボ印を　→ Alright, let's put a mark here
+- ボ印　→ ぼいん　→ mark, symbol
+
+- なんじゃこりや　→ What the heck is this?
+- てめえ　→ You (rude, confrontational)
+
+- この 卑怯 者　→ You coward
+- 卑怯者　→ ひきょうしゃ　→ coward, dishonorable person
+
+- 勝ってに人の名前を書きやがって　→ You went ahead and wrote someone's name without permission
+- 勝手に　→ かってに　→ without permission, arbitrarily
+- 書く　→ かく　→ to write
+- やがる　→ やがる　→ (auxiliary verb indicating contempt)
+
+- この写真がいらんのか　→ You don't need this photo?
+
+- 振り出しに戻ったか　→ Back to square one?
+-  振り出し　→ ふりだし　→ starting point, square one
