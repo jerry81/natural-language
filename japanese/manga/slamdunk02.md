@@ -1294,3 +1294,41 @@ p. 125
 
 - 振り出しに戻ったか　→ Back to square one?
 -  振り出し　→ ふりだし　→ starting point, square one
+
+- p. 126
+- だから　実力でとるつっただろ　→ That's why I said we'd win with our skills
+- 実力　→ じつりょく　→ ability, skill
+- とる　→ とる　→ to take, to win
+- つった　→ つった　→ said (colloquial past form of 言った)
+
+- めんどくせーのは嫌いだ　→ I hate troublesome things
+- めんどくせー　→ めんどくさい　→ troublesome, annoying
+- 嫌い　→ きらい　→ dislike, hate
+
+- やはり話し合いの通じる相手ではなかったか　→ As expected, he wasn't someone who could be reasoned with
+- 話し合い　→ はなしあい　→ discussion, talk
+- 通じる　→ つうじる　→ to be understood, to get through to someone
+- 相手　→ あいて　→ partner, opponent, the other person
+
+- いつ話し合いをした　→ When did we have a discussion?
+
+- だが　それでこそ　オレの見込んだ男よ　→ But that's exactly why he's a man I respect
+- だが　→ だが　→ but
+- それでこそ　→ それでこそ　→ that's exactly why
+- 見込んだ　→ みこんだ　→ to regard as promising, to have confidence in
+- 男　→ おとこ　→ man
+- よ　→ よ　→ (sentence-ending particle for emphasis)
+- 込み　→ including
+
+p. 127
+
+- この青田龍彦逃げも隠れもせん　→ This Aota Tatsuhiko won't run or hide
+- 逃げる　→ にげる　→ to run away
+- 隠れる　→ かくれる　→ to hide
+- せん　→ せん　→ (colloquial negative form of する, meaning "won't do")
+
+- かかってこい桜木　→ Bring it on, Sakuragi
+
+p. 132
+-
+
