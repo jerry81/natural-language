@@ -309,6 +309,10 @@ Das geht - that works
 
 # E
 
+error - Fehler - mistake
+
+der empfänger - recipient
+
 erschöpft - exhausted
 
 echt - really
@@ -420,6 +424,8 @@ eurem - your
 evtl - possibly
 
 # F
+
+fix und fertig - exhausted, completely done
 
 Farbenladen - paint shop
 
@@ -947,6 +953,8 @@ Nutzerseite - user side
 
 # O
 
+Oje - oh dear, expression of concern or dismay
+
 Ofen - oven
 
 oben - upper, top, over
@@ -954,6 +962,8 @@ oben - upper, top, over
 oder - or
 
 # P
+
+puh - expression of relief or exhaustion
 
 Probieren - try
 
@@ -1029,6 +1039,8 @@ Ruhe - quiet
 Die Rückkehr - return trip
 
 # S
+
+sogar - even
 
 streichen - to paint
 
@@ -1390,6 +1402,8 @@ Vorsicht - careful
 vorstellung - performance
 
 # W
+
+Weinen - to weep, cry
 
 Wettbewerb - competition
 

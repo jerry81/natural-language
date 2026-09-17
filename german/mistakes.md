@@ -1528,3 +1528,7 @@ Kannst du das Hemd anziehen - correct
 428.  That's right, the bread is warm.
 - Das ist stimmt, das Brot ist warm - incorrect
 - Stimmt, das Brot ist warm - correct
+
+429.  Sie müssen sehr dunkel sein
+- They need to be very dark - incorrect
+- They must be very dark - correct
