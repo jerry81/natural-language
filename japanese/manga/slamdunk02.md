@@ -1330,5 +1330,32 @@ p. 127
 - かかってこい桜木　→ Bring it on, Sakuragi
 
 p. 132
--
+- いて　→ Ouch, it hurts
+
+- あれは桜木じゃねえか　→ Isn't that Sakuragi?
+
+- 俺たちをこんなにした桜木だ　→ It's Sakuragi who did this to us
+
+p. 133
+- 青田さんやった　→ Aota-san did it
+
+- 俺たちの仇を取ってくれたんですね　→ You avenged us, didn't you?
+
+- 一本　→ One point (in basketball context)
+
+- さすが青田さん　→ As expected of Aota-san
+- ザマーミロ　→ Serves you right
+
+- うるさい　→ Shut up, noisy
+
+- すいません　→ Excuse me, I'm sorry
+
+- 行って　→ Go, go ahead
+
+- 思わず投げてしまった　→ I ended up throwing it without thinking
+
+- 組んでられなかった　→ I couldn't keep them together (colloquial past negative form of 組んでいる)
+
+- なんだ今の殺気は　→ What was that murderous intent just now?
+- 殺気　→ さっき　→ murderous intent, killing intent
 
