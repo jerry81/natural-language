@@ -498,3 +498,6 @@
 132.  对不起，银行在这里附近吗
 - Excusez moi est la banque d'ici - incorrect
 - Excusez moi, la banque est près d'ici? - correct
+
+133.  (L) Il habite ou à Tokyo - incorrect
+- Il habite à Londres ou à Tokyo? - correct

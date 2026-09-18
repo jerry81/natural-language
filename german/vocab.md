@@ -107,6 +107,8 @@ die Anzahl - the numer
 
 # B
 
+die Bühne - stage
+
 besorgt - worried
 
 bloß - just, only
@@ -308,6 +310,10 @@ Durchsage - broadcast
 Das geht - that works
 
 # E
+
+Ergebnis - result
+
+eigentlich - actually
 
 error - Fehler - mistake
 
@@ -834,6 +840,8 @@ Luft - air
 
 # M
 
+Mal sehen - let's see
+
 die Metzgerei - butcher shop
 
 der Mond - the moon
@@ -1040,6 +1048,10 @@ Die Rückkehr - return trip
 
 # S
 
+Schulwettbewerb - school competition
+
+Schlagzeug - drum set
+
 sogar - even
 
 streichen - to paint
@@ -1221,6 +1233,8 @@ soll - should
 sucht - seeks
 
 # T
+
+Ton - note (music)
 
 tarea - homework
 
