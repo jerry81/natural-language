@@ -501,6 +501,8 @@ fußgängerzone - pedestrian zone
 
 # G
 
+gemütlicher - cozier, more comfortable
+
 Ein Gesetz - law
 
 günstig - reasonably priced

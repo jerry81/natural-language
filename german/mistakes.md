@@ -1532,3 +1532,11 @@ Kannst du das Hemd anziehen - correct
 429.  Sie müssen sehr dunkel sein
 - They need to be very dark - incorrect
 - They must be very dark - correct
+
+430.  Can you give me the recipe?
+- Kannst du der Rezept mir geben? - incorrect
+- Kannst du mir das Rezept geben? - correct
+
+431.  My recipe is better
+- Mein recipe ist besser - incorrect
+- Mein Rezept ist besser - correct
