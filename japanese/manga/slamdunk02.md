@@ -1359,3 +1359,37 @@ p. 133
 - なんだ今の殺気は　→ What was that murderous intent just now?
 - 殺気　→ さっき　→ murderous intent, killing intent
 
+p. 136
+- 組んだ瞬間まるで野獣と組んだかのような殺気を感じて思わず投げてしまった　→ The moment I joined, I felt a murderous intent as if I had joined a beast, and I ended up throwing it without thinking
+- 組んだ　→ くんだ　→ to join forces, to team up (past tense)
+- 瞬間　→ しゅんかん　→ moment, instant
+- まるで　→ まるで　→ as if, just like
+- 野獣　→ やじゅう　→ beast
+- 殺気　→ さっき　→ murderous intent, killing intent
+- 感じて　→ かんじて　→ feeling, sensing
+- 思わず　→ おもわず　→ unintentionally, without thinking
+- 投げてしまった　→ なげてしまった　→ ended up throwing
+
+- このやろう　→ You bastard, damn it (colloquial expression of anger or frustration)
+
+- 柔道技を使いやがったな上等だ　→ You used a judo technique, huh? Fine by me
+- 柔道技　→ じゅうどうわざ　→ judo technique
+- 使いやがった　→ つかいやがった　→ (colloquial, contemptuous form of "used")
+- 上等だ　→ じょうとうだ　→ fine, all right, very well
+
+- おい赤木　投げられたぞ　もう止めよう　→ Hey Akagi, he got thrown. Let's stop already.
+
+- ケガでもしたら　→ If you get injured
+
+p. 137
+- よしもう一度確かめてやる　→ Alright, I'll check it once more
+
+- もしかしたらオレの男なのか　→ Maybe he's my man after all
+- もしかしたら　→ もしかしたら　→ maybe, perhaps
+- オレ　→ おれ　→ I, me (colloquial)
+- 男　→ おとこ　→ man
+- なのか　→ なのか　→ (sentence-ending particle indicating speculation or questioning)
+
+- 行くぞ　→ Let's go (colloquial, often used to indicate readiness or determination)
+
+- 柔道は組んだ瞬間に相手の強さがわかるんだ　→ In judo, you can understand your opponent's strength the moment you join forces with them.
