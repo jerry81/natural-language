@@ -1393,3 +1393,22 @@ p. 137
 - 行くぞ　→ Let's go (colloquial, often used to indicate readiness or determination)
 
 - 柔道は組んだ瞬間に相手の強さがわかるんだ　→ In judo, you can understand your opponent's strength the moment you join forces with them.
+
+p. 139
+-　ちっくしょう　→ Damn it, shoot (colloquial expression of frustration or anger)
+- 汚ねえぞ　→ That's dirty, filthy (colloquial expression of disgust or anger)
+- 柔道で勝負せんか　→ Won't you compete in judo? (colloquial negative form of する, meaning "won't do")
+
+- 頭突きは反則だ　→ Headbutting is a foul
+- 頭突き　→ ずつき　→ headbutt
+- 反則　→ はんそく　→ foul, violation
+
+- 何言ってんだ　→ What are you talking about? (colloquial expression of disbelief or confusion)
+
+- 桜木は素人なんだぞ　柔道部め　→ Sakuragi is an amateur, you judo club guys!
+- 素人　→ しろうと　→ amateur, novice
+
+- メチャクチャ言ってやがる　→ He's talking nonsense (colloquial, contemptuous expression)
+
+- あった, オレの知らない春子さんがこんなに　→ There she is, the Haruko-san I didn't know this much about
+
