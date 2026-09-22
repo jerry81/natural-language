@@ -404,3 +404,19 @@
 101.  Where can i try on this shirt?
 - Dónde puedo me probar esta camisa? - incorrect
 - Dónde me puedo probar esta camisa? - correct
+
+102.  The dress costs fourteen pesos
+- El vestido cuesta catorce - incorrect
+- El vestido cuesta catorce pesos - correct
+
+103.  thirteen
+- diecitres - incorrect
+- trece - correct
+
+104.  We have big and small sizes
+- Tenemos tallas grande y pequeño - incorrect
+- Tenems tallas grandes y pequeñas - correct
+
+105.  The shop doesn't open on Sundays
+- La tienda no abre domingos - incorrect
+- La tienda no abre los domingos - correct
