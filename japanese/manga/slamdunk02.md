@@ -1412,3 +1412,25 @@ p. 139
 
 - あった, オレの知らない春子さんがこんなに　→ There she is, the Haruko-san I didn't know this much about
 
+- p. 140
+- これさえ　手に入ればてめーらなんかに用はねえ　→ If I can get this, I won't need you guys at all (colloquial, contemptuous expression)
+- 用はねえ　→ ようはねえ　→ don't need, have no use for (colloquial, contemptuous expression)
+- 手に入れば　→ てにいれれば　→ if (I) can get, if (I) obtain
+
+p. 141
+- 青田さんやった　→ Aota-san did it
+
+- 起死回生の　→ きしかいせいの　→ desperate, last-ditch effort, turning the tables
+
+- 腕ひしぎ十字固め　→ うでひしぎじゅうじがため　→ armbar (judo technique)
+
+- さあさあ　→ Come on, come on (colloquial expression to urge or encourage action)
+
+- 柔道にはこんな技もあるんだ　→ In judo, there are techniques like this too
+- 技　→ わざ　→ technique, skill
+
+- 柔道部に入りたくなったろう　→ You probably want to join the judo club now, huh? (colloquial, rhetorical)
+
+- よけい　入りたくなくなるわい　→ I feel even less like joining now (colloquial, emphatic)
+
+- さあ　柔道部に入るんだろう　→ Come on, you're going to join the judo club, right? (colloquial, rhetorical)
