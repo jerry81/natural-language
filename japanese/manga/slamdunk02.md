@@ -1434,3 +1434,28 @@ p. 141
 - よけい　入りたくなくなるわい　→ I feel even less like joining now (colloquial, emphatic)
 
 - さあ　柔道部に入るんだろう　→ Come on, you're going to join the judo club, right? (colloquial, rhetorical)
+
+p. 142
+- いててててて　→ Ouch, ouch, ouch, ouch, ouch (colloquial expression of pain)
+
+- 今日も部活だがんばるぞっと　→ Today is club activities again, let's do our best (colloquial, enthusiastic expression)
+
+p. 143
+- 何やってんすか　→ What are you doing? (colloquial expression)
+- 二人とも柔道部なんか　のぞいちゃって　→ Both of you are peeking into the judo club, huh? (colloquial, teasing)
+
+- たわけ　→ Fool, idiot (colloquial, derogatory expression)
+
+- 大変なんだよ　→ It's tough, you know (colloquial expression of difficulty or hardship)
+
+- いって　放せ　→ It hurts, let go (colloquial expression of pain and demand)
+- 放せ　→ はなせ　→ let go (colloquial command)
+
+- 何やってんのまたあの子は　→ What is she doing again? (colloquial expression of curiosity or concern)
+
+- 全く　→ Really, seriously (colloquial expression of exasperation or disbelief)
+
+- バスケ部は辞めて柔道部に入れ　→ Quit the basketball club and join the judo club (colloquial command)
+
+- 青田は桜木を百年に一人の逸材と言ってるんだ　→ Aota says Sakuragi is a once-in-a-century talent (colloquial expression of admiration)
+- 逸材　→ いつざい　→ exceptional talent, prodigy
