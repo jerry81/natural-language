@@ -142,6 +142,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 ## い
 
+いかが　→ how about, how is it (polite expression)
+
 いくつ　→ how many
 
 いっぱい　- full
