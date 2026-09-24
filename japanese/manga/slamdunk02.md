@@ -1459,3 +1459,31 @@ p. 143
 
 - 青田は桜木を百年に一人の逸材と言ってるんだ　→ Aota says Sakuragi is a once-in-a-century talent (colloquial expression of admiration)
 - 逸材　→ いつざい　→ exceptional talent, prodigy
+
+p. 144
+- 大変じゃない　はやく止めなくちゃ木暮先輩　→ It's not good, I have to stop it quickly, Kogure-senpai (colloquial expression of urgency)
+
+- そうだ　早く止めないと腕を折られるぞ赤木　→ That's right, if we don't stop it quickly, your arm will be broken, Akagi (colloquial expression of urgency and concern)
+- 折られる　→ おられる　→ to be broken (passive form, colloquial expression of concern)
+
+- オレには無理だ　→ It's impossible for me (colloquial expression of inability)
+
+- あの二人と渡り合えるのはお前だけだ　→ You're the only one who can match up against those two (colloquial expression of encouragement)
+- 渡り合える　→ わたりあえる　→ can match up against, can compete with (colloquial expression of encouragement)
+
+- お前しかあの二人は止められん　→ You're the only one who can stop those two (colloquial expression of encouragement)
+
+- 心配するな　→ Don't worry (colloquial command)
+
+- 青田は桜木を柔道部にはしがってんだ腕をおったりなんかするもんか　→ Aota is pushing Sakuragi into the judo club, there's no way he'd break his arm or anything like that (colloquial expression of disbelief or denial)
+
+- しかし　じゃあ桜木を柔道部に取られたどうするんだ　→ But then, what if Sakuragi is taken by the judo club? (colloquial expression of concern or hypothetical scenario)
+
+- せっかくバスケ部員らしかくなってきたところなのに　→ Just when he was starting to look like a basketball club member (colloquial expression of frustration or disappointment)
+
+p. 145
+- それは　桜木が決めることだ　→ That's something Sakuragi will decide (colloquial expression of resignation or acceptance)
+
+- バスケットは他人にやらされるもんじゃないだろ　→ Basketball is not something you do because someone else makes you (colloquial expression of personal conviction)
+
+- ここまで粘るとはさすがだな　→ To persist this far, as expected (colloquial expression of admiration or respect)
