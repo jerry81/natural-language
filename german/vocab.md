@@ -311,6 +311,8 @@ Das geht - that works
 
 # E
 
+entspanne - relax
+
 Ergebnis - result
 
 eigentlich - actually
@@ -909,6 +911,8 @@ muss nur - just have to
 
 # N
 
+nichts tun - do nothing
+
 nachher - later
 
 nervig - annoying
@@ -1049,6 +1053,8 @@ Ruhe - quiet
 Die Rückkehr - return trip
 
 # S
+
+die Seite - the page
 
 Schulwettbewerb - school competition
 
@@ -1235,6 +1241,8 @@ soll - should
 sucht - seeks
 
 # T
+
+tun - to do
 
 Ton - note (music)
 
