@@ -1523,3 +1523,43 @@ p 147
 
 - さあ今度はこっちから行くぞ　→ Now it's our turn to go (colloquial expression of determination or action)
 
+p. 149
+- 肩車　→ かたぐるま　→ piggyback ride (colloquial expression of a playful or supportive action)
+
+p. 152
+- 写真をよこせ　→ Give me the photo (colloquial command)
+
+- どうだ　柔道は面白いだろう　→ How is it? Judo is interesting, isn't it? (colloquial expression of seeking agreement or confirmation)
+
+p. 153
+- 　お前がバスケをお前がやったところで春子ちゃんに気に入れられたいからだろう　→ Even if you play basketball, it's because you want to be liked by Haruko-chan (colloquial expression of observation or opinion)
+
+- だがそんな動機で好きでもないバスケをやってもしょせん長続きはしないぞ　→ But if you play basketball with such a motive, it won't last long anyway (colloquial expression of observation or advice)
+-　動機　→ どうき　→ motive, reason (colloquial expression of observation or advice)
+- しょせん　→ しょうせん　→ in the end, ultimately (colloquial expression of inevitability)
+- 長続き　→ ながつづき　→ lasting long, continuation (colloquial expression of inevitability)
+
+- 柔道部に入れ　→ If you join the judo club (colloquial expression of suggestion or command)
+- 処して全国制覇を目指そうぜ　→ Let's aim for national domination by handling it (colloquial expression of determination and ambition, informal
+
+-　それに好きでもないバスケをお前がやったところではるこちゃんも嬉しくはないだろう　→ Moreover, even if you play basketball that you don't like, Haruko-chan won't be happy (colloquial expression of observation or opinion)
+
+- 意地をはるな　→ Don't be stubborn (colloquial expression of advice or command)
+- 意地　→ いじ　→ stubbornness, pride (colloquial expression of advice or command)
+
+p. 155
+- 馬鹿馬鹿しい　→ ばかばかしい　→ ridiculous, absurd (colloquial expression of frustration or disbelief)
+
+時間を無駄にしたわ　→ I wasted my time (colloquial expression of frustration or regret)
+
+- ムダ　→ むだ　→ useless, waste (colloquial expression of frustration or regret)
+
+- 練習だ試合は近いぞ　→ It's practice, the game is near (colloquial expression of urgency or motivation)
+
+- 赤木よオレは諦めんぞ　→ Akagi, I won't give up (colloquial expression of determination and resolve)
+- 諦めん　→ あきらめん　→ won't give up (colloquial expression of determination and resolve)
+
+p. 157
+
+- ゴリ上機嫌　→ ごりうえきげん　→ Gori is in a good mood (colloquial expression of observation)
+- 機嫌　→ きげん　→ mood, temper (colloquial expression of observation)
