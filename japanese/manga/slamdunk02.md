@@ -1487,3 +1487,39 @@ p. 145
 - バスケットは他人にやらされるもんじゃないだろ　→ Basketball is not something you do because someone else makes you (colloquial expression of personal conviction)
 
 - ここまで粘るとはさすがだな　→ To persist this far, as expected (colloquial expression of admiration or respect)
+
+p. 146
+- ゴリ直伝首しめ　→ Gori's direct chokehold (colloquial expression of a specific judo technique)
+- 直伝首しめ　→ じきでんくびしめ　→ direct chokehold (colloquial expression of a specific judo technique)
+
+- 春子さんの写真をよこせ　→ Give me Haruko-san's photo (colloquial command)
+
+- この腕力　→ This arm strength (colloquial expression of physical power)
+- 腕力　→ うでりょく　→ arm strength (colloquial expression of physical power)
+
+- お前はやはり　柔道部に入るべきなのだ　→ You really should join the judo club (colloquial expression of strong recommendation)
+
+p 147
+
+- また　柔道技を野郎　→ That guy is using judo techniques again (colloquial expression of frustration or observation)
+
+- もう完全に怒った　→ I'm completely angry now (colloquial expression of frustration or anger)
+- 怒った　→ おこった　→   I'm angry (colloquial expression of frustration or anger)
+- 完全　→ かんぜん　→ complete, totally (colloquial expression of emphasis)
+
+- ワクワクするぜ　→ I'm excited (colloquial expression of anticipation or excitement)
+- ワクワク　→ わくわく　→ excited, thrilled (colloquial expression of anticipation or excitement)
+
+- お前なら真剣に　やればすぐにウチのナンバーツーだ　→ If you seriously give it a try, you'll quickly become our number two (colloquial expression of encouragement and confidence)
+- 真剣　→ しんけん　→ serious, earnest (colloquial expression of encouragement and confidence)
+
+- 写真をよこせ　→ Give me the photo (colloquial command)
+
+- きいてないな　→ You're not listening, huh (colloquial expression of frustration or observation)
+
+- そして来年はエースだ　→ And next year, you'll be the ace (colloquial expression of prediction or expectation)
+
+- バスケ部は辞めて柔道にはいれば写真はやる　→ If you quit the basketball club and join the judo club, you'll get the photo (colloquial expression of cause and effect)
+
+- さあ今度はこっちから行くぞ　→ Now it's our turn to go (colloquial expression of determination or action)
+
