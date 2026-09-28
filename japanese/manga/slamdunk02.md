@@ -1563,3 +1563,14 @@ p. 157
 
 - ゴリ上機嫌　→ ごりうえきげん　→ Gori is in a good mood (colloquial expression of observation)
 - 機嫌　→ きげん　→ mood, temper (colloquial expression of observation)
+
+p. 158
+- あの柔道男めなんだったんだ一体　→ What was that judo guy all about? (colloquial expression of confusion or curiosity)
+- 一体　→ いったい　→ what on earth, in the world (colloquial expression of confusion or curiosity)
+
+- はっしまった　→ I messed up (colloquial expression of realization or regret)
+- 春子さんとどうゆう関係か聞くのを忘れた　→ I forgot to ask what kind of relationship you have with Haruko-san (colloquial expression of realization or regret)
+
+- たっちゃんなんて呼ばれていばってやがったが　→ He was being arrogant while being called Tacchan (colloquial expression of observation or opinion)
+
+-
