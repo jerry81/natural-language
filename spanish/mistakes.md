@@ -420,3 +420,11 @@
 105.  The shop doesn't open on Sundays
 - La tienda no abre domingos - incorrect
 - La tienda no abre los domingos - correct
+
+106.  Fourteen pesos is not much money
+- Catorce pesos es mucho dinero - incorrect
+- Catorce pesos no es much dinero - correct
+
+107.  The dress costs fourteen pesos
+- El vestido cuesta catorce - incorrect
+- El vestido cuesta catorce pesos - correct

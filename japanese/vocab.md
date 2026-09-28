@@ -152,6 +152,10 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 # m
 
+## み
+
+みがん　→ 橘子
+
 ## ま
 
 まあまあ　→ 马马虎虎的

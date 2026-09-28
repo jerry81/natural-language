@@ -337,3 +337,6 @@
 
 81.  (L) Io studio in una arte scuola - incorrect
 - Io studio arte in una scuola - correct
+
+82.  (L) Cappuccino o un tè　ーincorrect
+- Un cappuccino o un tè - correct

@@ -2,6 +2,8 @@
 
 # A
 
+aufräumen - clean up
+
 älter - older
 
 ausfüllen - fill out

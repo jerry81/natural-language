@@ -1540,3 +1540,7 @@ Kannst du das Hemd anziehen - correct
 431.  My recipe is better
 - Mein recipe ist besser - incorrect
 - Mein Rezept ist besser - correct
+
+432.  No, the other coat is too small
+- Nein der anderer mantel ist zu klein - incorrect
+- Nein, der andere Mantel ist zu klein - correct
