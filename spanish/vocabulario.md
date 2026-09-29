@@ -41,6 +41,8 @@ la cama - bed
 
 ## d
 
+duraznos - peaches
+
 me ducho - shower
 
 dibujar - to draw
@@ -52,6 +54,8 @@ disfruta - enjoy - the fruits
 el dormitorio - bedroom
 
 ## e
+
+en realidad - actually
 
 extraño - strange
 
@@ -193,6 +197,8 @@ soprendido - surprised
 la silla - chair
 
 # t
+
+temprano - early
 
 talla - size
 
