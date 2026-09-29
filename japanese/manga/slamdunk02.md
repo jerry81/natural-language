@@ -1573,4 +1573,13 @@ p. 158
 
 - たっちゃんなんて呼ばれていばってやがったが　→ He was being arrogant while being called Tacchan (colloquial expression of observation or opinion)
 
--
+p. 159
+- まあいいや　→ Well, whatever (colloquial expression of resignation or acceptance)
+- あんな変なやつはどうせフラれるに決まってる　→ That weird guy will definitely get rejected anyway (colloquial expression of resignation or acceptance)
+
+- ザマーミロ柔道男の末路　→ Serves you right, judo guy's fate (colloquial expression of schadenfreude or satisfaction)
+- ザマーミロ　→ Serves you right (colloquial expression of schadenfreude or satisfaction)
+
+- あれは本物の春子さん　→ That is the real Haruko-san (colloquial expression of observation or realization)
+
+- やっぱり本物はいい　→ The real thing is the best (colloquial expression of observation or realization)
