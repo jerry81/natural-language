@@ -1583,3 +1583,24 @@ p. 159
 - あれは本物の春子さん　→ That is the real Haruko-san (colloquial expression of observation or realization)
 
 - やっぱり本物はいい　→ The real thing is the best (colloquial expression of observation or realization)
+
+p. 160
+- 遅いぞ　→ You're late (colloquial expression of admonishment or observation)
+
+- 練習始めるぞ　→ Let's start practice (colloquial expression of motivation or command)
+- 集合　→　しゅうごう　→   Assemble (colloquial expression of command or instruction)
+
+p. 162
+- ダッシュ　→ だっしゅ　→ Dash (colloquial expression of command or instruction)
+
+- なんだゴリのやつ妙に張り切ってんな　→ What's with Gori being unusually enthusiastic? (colloquial expression of observation or curiosity)
+- 妙に　→ みょうに　→ unusually, strangely (colloquial expression of observation or curiosity)
+
+- なんかいいことあったのか　→ Did something good happen? (colloquial expression of curiosity or inquiry)
+
+p.  163
+- お前のひど言が赤木をやる気にさせてんだぜ　→ Your harsh words are motivating Akagi (colloquial expression of observation or opinion)
+
+- お　うやっとるかあ　→ Oh, you're doing it, huh? (colloquial expression of observation or acknowledgment)
+- チワース　→ ちわーす　→ Hey there! (colloquial expression of greeting)
+
