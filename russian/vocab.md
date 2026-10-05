@@ -44,6 +44,7 @@
 - my house is the cathedral
 
 девочка -> dyevochka -> girl
+- девоцки -> dyevotski -> girls (informal)
 - malchik is "boy", so ending is similar
 
 десять -> desyat' -> ten
@@ -429,6 +430,8 @@ morning, utro, utroman
 здесь -> zdes' -> here  -> like german "dies" (this)
 
 # ж
+
+женщины -> zhenshchiny -> women
 
 жлеб -> zhlyeb -> bread
 - slop it up with bread

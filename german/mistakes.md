@@ -1545,3 +1545,9 @@ Kannst du das Hemd anziehen - correct
 - Nein der anderer mantel ist zu klein - incorrect
 - Nein, der andere Mantel ist zu klein - correct
 
+433.  I want more chocolate cake
+- Ich will mehr shokoladekuchen - incorrect
+- Ich will mehr Schokokuchen - correct
+
+434.  (L) Weiss du max? - incorrect
+- Weinst du Max - correct

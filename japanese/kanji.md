@@ -74,6 +74,8 @@
 
 ## び
 
+美術　→ びじゅつ　→ art
+
 貧乏　→ びんぼう → poor
 
 ## べ
@@ -206,6 +208,8 @@
 外食　→ がいしょく
 
 ## げ
+
+劇　→ げき　→ drama, play
 
 言語　→ げんご
 
@@ -1407,6 +1411,8 @@ islam教　→ きょう
 - review, (usually not in kanji form)
 
 ## て
+
+手形　→ てがた　→ promissory note, bill of exchange
 
 展示　→ てんじ　→ exhibit
 

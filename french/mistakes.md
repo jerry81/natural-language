@@ -501,3 +501,11 @@
 
 133.  (L) Il habite ou à Tokyo - incorrect
 - Il habite à Londres ou à Tokyo? - correct
+
+134.  那个领居为什么在这里
+- Por quoi la voisine est ici? - incorrect
+- Pourquoi la voisine est ici? - correct
+
+135.  哦，公交车来了
+- Oh, voilà sont venus bus! - incorrect
+- Oh, voilà le bus! - correct

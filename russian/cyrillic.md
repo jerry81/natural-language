@@ -11,3 +11,5 @@
 - ы -> 'uiee'
 
 - у -> 'glue'
+
+- ж -> 'zh' typed with ']'

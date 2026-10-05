@@ -55,6 +55,8 @@ el dormitorio - bedroom
 
 ## e
 
+entrena - he/she trains
+
 en realidad - actually
 
 extraño - strange
@@ -87,6 +89,8 @@ juntas - together
 - junting (hunting) together
 
 ## l
+
+un lugar - a place
 
 llegar tarde - to be late
 
