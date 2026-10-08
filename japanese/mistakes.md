@@ -2583,4 +2583,10 @@
 - 是总共四千日元 - incorrect
 - 是的总共是四千日元 - correct
 
-717.
+717.  午後までに売り切れになると思います
+- 觉得在下午会卖完 - incorrect
+- 我juedehuizai下午之前卖完 - correct
+
+718. 　ポスターは田中さんが書きます
+- 田中先生画海报了 - incorrect
+- 海报由田中先生画 - correct

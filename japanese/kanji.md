@@ -1428,6 +1428,8 @@ islam教　→ きょう
 
 ## う
 
+上手く　→ うまく　→ skillfully
+
 売り切り　→ うりきり　→ sold out
 
 上手くいきます　→ うまくいきます　→ to go well
