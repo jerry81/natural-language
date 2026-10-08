@@ -1604,3 +1604,10 @@ p.  163
 - お　うやっとるかあ　→ Oh, you're doing it, huh? (colloquial expression of observation or acknowledgment)
 - チワース　→ ちわーす　→ Hey there! (colloquial expression of greeting)
 
+p. 164
+- 挨拶が気合入っとらん　→ Your greeting lacks spirit (colloquial expression of observation or criticism)
+
+- なんだおればっかい　→ What's with all the me's? (colloquial expression of observation or complaint)
+
+p.  165
+- なんなんだ一体　→ What on earth is going on? (colloquial expression of confusion or curiosity)
