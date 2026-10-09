@@ -1612,4 +1612,20 @@ p. 164
 p.  165
 - なんなんだ一体　→ What on earth is going on? (colloquial expression of confusion or curiosity)
 
--
+p.  166
+- ここからオレだけ　スミッコに行くんだよな　→ From here on, I'm the only one going to the corner (colloquial expression of resignation or acceptance)
+- スミッコ　→ すみっこ　→ corner (colloquial expression of location or position)
+
+- 一体いつになったらオレのスラムダンクが炸裂する日が来るんだ　→ When will the day come for my slam dunk to explode? (colloquial expression of frustration or anticipation)
+- 炸裂する　→ さくれつする　→ to explode, to burst (colloquial expression of intensity or impact)
+
+- ブツブツ　→ ぶつぶつ　→ muttering to oneself (colloquial expression of frustration or complaint)
+
+- 言わない　→ I won't say (colloquial expression of determination or refusal)
+
+- 桜木にもそろそろ　シュートを教えようと思うんですが　→ I'm thinking of teaching Sakuragi how to shoot soon (colloquial expression of intention or consideration)
+- 教え → おしえ　→ to teach (colloquial expression of instruction or guidance)
+
+- どうしたんだ今日のゴリは　→ What's up with Gori today? (colloquial expression of curiosity or concern)
+
+- 自分からあんなことを言うとは　→ I can't believe he said something like that on his own (colloquial expression of surprise or disbelief)
