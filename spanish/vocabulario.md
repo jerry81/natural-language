@@ -20,6 +20,8 @@ el abrigo - coat
 
 boleta - ticket
 
+bastante - quite
+
 ## c
 
 la cuchara - the spoon
@@ -201,6 +203,8 @@ soprendido - surprised
 la silla - chair
 
 # t
+
+trajes - suits
 
 temprano - early
 
