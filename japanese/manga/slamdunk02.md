@@ -1629,3 +1629,24 @@ p.  166
 - どうしたんだ今日のゴリは　→ What's up with Gori today? (colloquial expression of curiosity or concern)
 
 - 自分からあんなことを言うとは　→ I can't believe he said something like that on his own (colloquial expression of surprise or disbelief)
+
+p. 167
+- 本物だ　→ That is the real thing (colloquial expression of observation or realization)
+
+- どうでしょう先生　→ How about it, Sensei? (colloquial expression of inquiry or seeking opinion)
+
+p.  168
+- そうか　ゴリめついにオレの天才的センスに気が付いたな　→ I see, Gori has finally noticed my genius sense (colloquial expression of realization or pride)
+- ついに　→ ついに　→ finally (colloquial expression of realization or emphasis)
+
+- そうゆことか　→ I see, that's how it is (colloquial expression of realization or understanding)
+
+- いいでしょ　→ It's good, right? (colloquial expression of seeking approval or confirmation)
+
+- おっしゃ　→ Alright! (colloquial expression of agreement or enthusiasm)
+
+- おれもとうとうスラムダンクをやれる　→ I can finally do a slam dunk too (colloquial expression of excitement or anticipation)
+
+- 春子さんついにおれの見せ場がやってきました → Haruko-san, my moment to shine has finally arrived (colloquial expression of excitement or anticipation)
+
+- もう春子さんの目線に流川なんか入れきせないぞ　→ I won't let someone like Rukawa get into Haruko-san's line of sight anymore (colloquial expression of determination or possessiveness)
