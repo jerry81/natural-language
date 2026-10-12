@@ -1650,3 +1650,23 @@ p.  168
 - 春子さんついにおれの見せ場がやってきました → Haruko-san, my moment to shine has finally arrived (colloquial expression of excitement or anticipation)
 
 - もう春子さんの目線に流川なんか入れきせないぞ　→ I won't let someone like Rukawa get into Haruko-san's line of sight anymore (colloquial expression of determination or possessiveness)
+
+p. 169
+- あの桜木くんてどうして　ああ　単純なのかしら　→ Why is that Sakuragi-kun so simple-minded? (colloquial expression of curiosity or observation)
+- 単純　→ たんじゅん　→ simple-minded, straightforward (colloquial expression of observation)
+
+-  頭悪いのよあの赤いかみミリャわかるじゃん　→　That red-haired guy is so dumb, you can tell just by looking at him (colloquial expression of observation or judgment)
+- 頭悪い　→ あたまわるい　→ dumb, not smart (colloquial expression of judgment)
+
+- 変よね　→ That's strange, isn't it? (colloquial expression of observation or judgment)
+- 変　→ へん　→ strange, unusual (colloquial expression of observation or judgment)
+
+- それで　いつも流川くんに張り合おうとしてんのよね　→ So that's why you're always trying to compete with Rukawa, right? (colloquial expression of observation or judgment)
+
+- 叶うわけないのに　バッカみたい　→ It's ridiculous, even though it's impossible (colloquial expression of judgment or disbelief)
+
+-　さっさと辞めちゃえばいいのに　→ You should just quit quickly (colloquial expression of judgment or advice)
+
+- 　ちょっとあなたたち　→ Hey, you guys (colloquial expression of calling attention or addressing a group)
+
+- そうゆう言い方は良くないわ　→ That's not a good way to say it (colloquial expression of correction or disapproval)
