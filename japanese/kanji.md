@@ -346,6 +346,8 @@
 
 ## い
 
+一台　→ いちだい　→ counter for machines
+
 息を吐きます　→ いきをはきます　→ to exhale
 
 祝います　→ いわいます
@@ -870,6 +872,8 @@ islam教　→ きょう
 
 ## の
 
+載せましょう　→ のせましょう　→ let's put on/top
+
 糊　→ のり　→ glue
 
 乗り換え　→ のりかえ　→ transfer (train)
@@ -1147,6 +1151,8 @@ islam教　→ きょう
 背　→ せ　→ physique, body
 
 ## し
+
+芝生　→ しばふ　→ lawn, grass
 
 商店街　→ しょうてんがい　→ shopping street
 
