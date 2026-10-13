@@ -435,6 +435,8 @@ evtl - possibly
 
 # F
 
+der Friseur - hairdresser
+
 fix und fertig - exhausted, completely done
 
 Farbenladen - paint shop
@@ -504,6 +506,8 @@ fuhrt es dazu - it leads to
 fußgängerzone - pedestrian zone
 
 # G
+
+geschieden - divorced
 
 gemütlicher - cozier, more comfortable
 
@@ -643,6 +647,8 @@ gute besserung - get well soon
 guten - good
 
 # H
+
+Haare - hair
 
 hochsten - highest
 
@@ -1426,6 +1432,8 @@ vorgestern - day before yesterday
 Vorsicht - careful
 
 vorstellung - performance
+
+vorstellen - to introduce, to imagine
 
 # W
 

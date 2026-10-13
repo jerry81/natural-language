@@ -1670,3 +1670,26 @@ p. 169
 - 　ちょっとあなたたち　→ Hey, you guys (colloquial expression of calling attention or addressing a group)
 
 - そうゆう言い方は良くないわ　→ That's not a good way to say it (colloquial expression of correction or disapproval)
+
+p. 170
+- 一生懸命やってる人に対して失礼でしょう　→ It's rude to someone who is doing their best (colloquial expression of judgment or correction)
+- 一生懸命　→ いっしょうけんめい　→ with all one's might, diligently (colloquial expression of effort or determination)
+
+- ドリブルシュートの手本を見せてやれ　→ Show them an example of a dribble shot (colloquial expression of instruction or demonstration)
+- 手本　→ てほん　→ example, model (colloquial expression of instruction or demonstration)
+
+- キャ　→ Kya! (colloquial expression of surprise or excitement)
+
+- ドキなさよ　→ My heart is pounding (colloquial expression of excitement or nervousness)
+
+- 全くもう　→ Good grief! (colloquial expression of exasperation or frustration)
+-　ファンとしての最低限のマナーは守ってほしいわ　→ I want you to at least follow the basic manners as a fan (colloquial expression of expectation or admonition)
+
+p. 171
+- ちつ　キャーキャー　うるせーよ　→ Shut up, you're so noisy (colloquial expression of annoyance or frustration)
+
+- ちゃんと見てろよ　→ Watch properly (colloquial expression of instruction or command)
+
+- ふん　こけやがれ　流川　→ Hmph, go fall down, Rukawa (colloquial expression of disdain or challenge)
+
+- やめんか　→ Stop it! (colloquial expression of command or admonition)
