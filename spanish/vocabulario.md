@@ -2,6 +2,12 @@
 
 # a
 
+a pie - on foot
+
+ahora mismo - right now
+
+aguacate - avocado
+
 aceite - oil
 
 aspiradora - vacuum cleaner
@@ -24,6 +30,10 @@ bastante - quite
 
 ## c
 
+cado - each one
+
+cuadras - city blocks
+
 la cuchara - the spoon
 
 el cuchillo - the knife
@@ -43,6 +53,8 @@ la cama - bed
 
 ## d
 
+descansar - to rest
+
 duraznos - peaches
 
 me ducho - shower
@@ -56,6 +68,8 @@ disfruta - enjoy - the fruits
 el dormitorio - bedroom
 
 ## e
+
+un estacionamiento - parking lot
 
 entrena - he/she trains
 
@@ -75,6 +89,8 @@ empiezar - to start
 
 ## g
 
+gorra - cap
+
 gracioso - funny
 
 genial - great
@@ -84,6 +100,10 @@ genial - great
 hornear - baking/to bake
 
 habitacion - bedroom
+
+## i
+
+invitada - guest (female)
 
 ## j
 
@@ -129,6 +149,10 @@ la nevera - the fridge
 
 ## p
 
+Pasear - to go for a walk
+
+por aquí - around here
+
 precios - prices
 
 probadores -  fitting rooms
@@ -163,6 +187,8 @@ pájaro - bird
 el postre - the dessert
 
 ## q
+
+qué pena - what a shame
 
 quisiera - i would like
   - imperfect subjunctive of querer
@@ -204,6 +230,7 @@ la silla - chair
 
 # t
 
+traje - suit
 trajes - suits
 
 temprano - early
