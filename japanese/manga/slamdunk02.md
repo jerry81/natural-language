@@ -1693,3 +1693,33 @@ p. 171
 - ふん　こけやがれ　流川　→ Hmph, go fall down, Rukawa (colloquial expression of disdain or challenge)
 
 - やめんか　→ Stop it! (colloquial expression of command or admonition)
+
+p. 173
+- さあ　わかったか桜木お前もやってみろ　→ Come on, did you get it, Sakuragi? You try it too (colloquial expression of instruction or challenge)
+
+- ふん　なんであんなの　→ Hmph, why is it like that? (colloquial expression of disdain or questioning)
+
+- やだよあんな庶民のやることは　→ I don't want to do something that commoners do (colloquial expression of disdain or refusal)
+- 庶民　→ しょみん　→ commoners, ordinary people (colloquial expression of social distinction or disdain)
+
+- この天才桜木にはスラムダンクが似合うんだ　→ Slam Dunk suits this genius Sakuragi (colloquial expression of self-assertion or pride)
+- 似合う　→ にあう　→ to suit, to look good on (colloquial expression of self-assertion or pride)
+
+- また余計なことを　→ Doing unnecessary things again (colloquial expression of criticism or admonition)
+- 余計　→ よけい　→ unnecessary, superfluous (colloquial expression of criticism or admonition)
+
+- あの子は　→ That child is (colloquial expression of reference or description)
+
+- バカ者　→ Fool, idiot (colloquial expression of insult or disdain)
+- 者　→ もの　→ person (colloquial expression of reference or description)
+
+- ドリブルやパスに基本があるようにシュートにも基本があるんだ　→ Just as there are basics in dribbling and passing, there are also basics in shooting (colloquial expression of instruction or explanation)
+- 基本　→ きほん　→ basics, fundamentals (colloquial expression of instruction or explanation)
+
+- また基礎か　→ Basics again? (colloquial expression of questioning or reluctance)
+- 基礎　→ きそ　→ basics, fundamentals (colloquial expression of questioning or reluctance)
+
+- シュートなんて入れりゃあなんでもいいんだろ　→ As long as you make the shot, anything goes, right? (colloquial expression of casual reasoning or justification)
+
+- あんな地味なシュートよりスラムダンクの方がかっこ良くていいのにな　→ Slam Dunk is cooler and better than such a plain shot, isn't it? (colloquial expression of preference or opinion)
+- 地味　→ じみ　→ plain, dull (colloquial expression of description or criticism)
