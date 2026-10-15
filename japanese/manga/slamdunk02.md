@@ -1723,3 +1723,22 @@ p. 173
 
 - あんな地味なシュートよりスラムダンクの方がかっこ良くていいのにな　→ Slam Dunk is cooler and better than such a plain shot, isn't it? (colloquial expression of preference or opinion)
 - 地味　→ じみ　→ plain, dull (colloquial expression of description or criticism)
+
+p. 174
+- 試合では　いつも　相手のデイフェンスがいるんだ。。そうそうダンクを打てるチャンスなどない
+→ In a game, the opposing defense is always there... You rarely get a chance to dunk (colloquial expression of explanation or observation)
+
+- 前にも言ったが基本を知らんやつは試合では何もできんのだ
+→ As I said before, those who don't know the basics can't do anything in a game (colloquial expression of explanation or admonition)
+
+- わかった読もう　バスケットマンは辛いぜ
+→ Got it, let's read. Being a basketball player is tough (colloquial expression of acknowledgment and reflection)
+
+- そうだ　バスケットマンにはまず基本が大事なんだ
+→ That's right, for basketball players, the basics are important first (colloquial expression of explanation or assertion)
+
+- ほんじゃ　行きますよ
+→ Well then, let's go (colloquial expression of determination or readiness)
+
+- ドリブルシュート
+→ Dribble shot (colloquial expression of instruction or demonstration)
