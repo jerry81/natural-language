@@ -112,6 +112,8 @@ juntas - together
 
 ## l
 
+lindo - lovely
+
 un lugar - a place
 
 llegar tarde - to be late
@@ -209,6 +211,8 @@ redes sociales - social media
 el retrato - portrait
 
 la reserva - reservation
+
+relajarse - to relax
 
 ## s
 
