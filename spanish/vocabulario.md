@@ -216,6 +216,8 @@ relajarse - to relax
 
 ## s
 
+suéter - sweater
+
 sal - salt
 
 la silla - the chair

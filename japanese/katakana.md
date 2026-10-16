@@ -115,6 +115,10 @@ Review
 
 # r
 
+## レ
+
+レジャシート　→ leisure seat
+
 ## ラ
 
 ラッシュ　→ rush (rush hour)

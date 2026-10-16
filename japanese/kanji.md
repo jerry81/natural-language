@@ -462,6 +462,8 @@
 
 ## か
 
+缶　→ かん　→ can (container)
+
 怪獣　→ かいじゅう　→ monster
 
 快速　→ かいそく　→ express train
