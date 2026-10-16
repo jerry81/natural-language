@@ -1742,3 +1742,14 @@ p. 174
 
 - ドリブルシュート
 → Dribble shot (colloquial expression of instruction or demonstration)
+
+p. 175
+
+- 見せかけて　→ Pretending, feigning (colloquial expression of deception or misdirection)
+
+- 春子さんの前でそんなダセーことやってられっかよ
+→ I can't be doing such lame things in front of Haruko-san (colloquial expression of refusal or embarrassment)
+
+p. 176
+
+- このバカタレが　→ You idiot (colloquial expression of anger or frustration)
