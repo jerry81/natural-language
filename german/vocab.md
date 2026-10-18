@@ -131,6 +131,8 @@ bar - cash
 
 bis - until
 
+bis dann - see you later
+
 Mein Bär - bear (Mein both masculine and neuter)
   - meinen for accusative, nominative
 
@@ -796,6 +798,8 @@ Künstlicher - artificial
 kurz/kurzen - short
 
 # L
+
+lügen - to lie
 
 leihen - lend
 
