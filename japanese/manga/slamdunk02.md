@@ -1753,3 +1753,24 @@ p. 175
 p. 176
 
 - このバカタレが　→ You idiot (colloquial expression of anger or frustration)
+
+p. 177
+- 何しやがる　→ What are you doing? (colloquial expression of surprise or questioning)
+
+- 結局こうなるのね　→ In the end, it turns out like this, huh? (colloquial expression of realization or resignation)
+- 結局　→ けっきょく　→ after all, in the end (colloquial expression of conclusion or summary)
+
+- 黙れ　→ だまれ　→  Shut up (colloquial expression of command or admonition)
+-　貴様はいまだに何もわかっとらん　→ You still don't understand anything (colloquial expression of admonition or frustration)
+- いまだに　→ いまだに　→ still, even now (colloquial expression of emphasis or continuation)
+
+- なんなんだこの男は機嫌が良かったり悪かったり　→ What's with this guy? His mood swings between good and bad (colloquial expression of confusion or observation)
+- 機嫌　→ きげん　→ mood, temper (colloquial expression of description or observation)
+
+- ゴリラの気持ちは人間にはわからん　→ Humans can't understand a gorilla's feelings (colloquial expression of observation or limitation)
+
+- 誰がゴリラだコラ　→ Who are you calling a gorilla, hey? (colloquial expression of indignation or challenge)
+
+- ほらただのバカよ　→ See, you're just an idiot (colloquial expression of insult or dismissal)
+
+- ドアホ　→ どあほ　→ idiot, fool (colloquial expression of insult or dismissal)
