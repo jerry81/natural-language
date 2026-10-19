@@ -2,6 +2,8 @@
 
 # a
 
+allí - there
+
 a pie - on foot
 
 ahora mismo - right now
@@ -24,11 +26,17 @@ el abrigo - coat
 
 ## b
 
+bolso - bag
+
+barrio - neighborhood
+
 boleta - ticket
 
 bastante - quite
 
 ## c
+
+compañera - female companion/classmate
 
 cado - each one
 
@@ -68,6 +76,8 @@ disfruta - enjoy - the fruits
 el dormitorio - bedroom
 
 ## e
+
+esquiar - to ski
 
 un estacionamiento - parking lot
 
@@ -125,6 +135,8 @@ lloviendo - raining
 lejos - far
 
 ## m
+
+manejar - to drive
 
 mayores - older
 menores - younger
@@ -215,6 +227,8 @@ la reserva - reservation
 relajarse - to relax
 
 ## s
+
+solamente - only
 
 suéter - sweater
 
