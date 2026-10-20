@@ -141,3 +141,6 @@ Review
 
 - タダ　→ free of charge
 
+## ト
+
+トランク　→ trunk (car trunk)

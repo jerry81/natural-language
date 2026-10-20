@@ -173,6 +173,8 @@
 
 ## ふ
 
+拭きます　→ ふきます　→ to wipe
+
 腹筋　→ ふっきん　→ abdominal muscles
 
 再び　→ ふたたび
@@ -967,6 +969,8 @@ islam教　→ きょう
 
 ## お　
 
+お絞り　→ おしぼり　→ wet towel (provided at restaurants)
+
 お釣り　→ おつり　→ change (money returned after a purchase)
 
 お知らせ　→ おしらせ　→ notice/announcement
@@ -1266,6 +1270,8 @@ islam教　→ きょう
 
 ## す
 
+水筒　→ すいとう　→ water bottle, flask
+
 過ぎる　→ すぎる　→ too much
 
 空いています　→ すいています　→ not crowded
@@ -1285,6 +1291,8 @@ islam教　→ きょう
 # t
 
 ## た
+
+畳みます　→ たたみます　→ to fold (tatami mats)
 
 経ちます　→ たちます　→ to pass (time)
 
