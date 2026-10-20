@@ -1774,3 +1774,21 @@ p. 177
 - ほらただのバカよ　→ See, you're just an idiot (colloquial expression of insult or dismissal)
 
 - ドアホ　→ どあほ　→ idiot, fool (colloquial expression of insult or dismissal)
+
+p. 183
+- 才能ねーんだよ　きっと　→ You have no talent, for sure (colloquial expression of assertion or criticism)
+- 才能　→ さいのう　→ talent (colloquial expression of description or criticism)
+
+- だめだな花道　全然入りんね　じゃねーか　→ You're hopeless, Hanamichi. You can't make any shots at all, huh? (colloquial expression of criticism or frustration)
+
+- うるせいさっさと帰れこのひま人軍団　→ Shut up and go home quickly, you idle group (colloquial expression of command or admonition)
+
+- ようやく　バスケ部員らしく　なってきた桜木花道　どこがや → Finally, Hanamichi Sakuragi is starting to look like a basketball club member, huh? (colloquial expression of observation or reflection)
+- ようやく　→ finally (colloquial expression of emphasis or conclusion)
+
+- ドリブルパスなどの基礎練習を経て　→ After going through basic practices such as dribbling and passing (colloquial expression of progression or development)
+
+- ついに念願のシュートを打たせてもらえることになったが　→ Finally, I was allowed to take the long-awaited shot, but... (colloquial expression of anticipation or mixed emotions)
+- 念願　→ ねんがん　→ long-cherished desire, aspiration (colloquial expression of emphasis or importance)
+
+- スラムダンクしか頭にない彼はそれ以外の基礎的なシュートを　庶民のシュートと言ってバカにしていたのだった　→ He, who only had Slam Dunk in his mind, mocked other basic shots as "common people's shots." (colloquial expression of disdain or superiority)
