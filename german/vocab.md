@@ -1066,6 +1066,8 @@ Die Rückkehr - return trip
 
 # S
 
+schwächer - weaker
+
 die Seite - the page
 
 Schulwettbewerb - school competition
@@ -1356,6 +1358,8 @@ unser, unserem - ours
 untersuchen - checkup
 
 # V
+
+verdiene - to earn
 
 Verstecken - hide and seek
 

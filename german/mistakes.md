@@ -1551,3 +1551,19 @@ Kannst du das Hemd anziehen - correct
 
 434.  (L) Weiss du max? - incorrect
 - Weinst du Max - correct
+
+435.  Your hair is very beautiful
+- deine haare ist sehr schon - incorrect
+- ihre haare sind sehr schon - correct
+
+436.  Paul's hair is purple
+- Pauls haare ist lila - incorrect
+- Pauls Haare sind lila - correct
+
+437.  Are you working on Saturday
+- arbeitest du an samstag?  - incorrect
+- Arbeitest du am Samstag - correct
+
+438.  The recipient is missing
+- Der Empfänger ist fehlt - incorrect
+- Der Empfänger fehlt - correct
