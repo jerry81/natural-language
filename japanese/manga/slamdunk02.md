@@ -1792,3 +1792,24 @@ p. 183
 - 念願　→ ねんがん　→ long-cherished desire, aspiration (colloquial expression of emphasis or importance)
 
 - スラムダンクしか頭にない彼はそれ以外の基礎的なシュートを　庶民のシュートと言ってバカにしていたのだった　→ He, who only had Slam Dunk in his mind, mocked other basic shots as "common people's shots." (colloquial expression of disdain or superiority)
+
+p. 185
+- どうした　→ What's wrong? (colloquial expression of concern or inquiry)
+
+- 庶民のシュートも出来んようじゃだめだな　→ If you can't even make the common people's shots, it's no good, huh? (colloquial expression of criticism or admonition)
+- 庶民　→ しょみん　→ common people, ordinary people (colloquial expression of description or emphasis)
+
+- 思わんかった　→ I didn't think so (colloquial expression of reflection or realization)
+
+- おかしいななぜ入らんのだろう　→ That's strange, why can't I make it? (colloquial expression of confusion or self-reflection)
+
+- ホラ　全然みっともないじゃない桜木くんなんて　→ Look, you're completely disgraceful, Hanamichi-kun, aren't you? (colloquial expression of criticism or admonition)
+- みっともない　→ みっともない　→ disgraceful, shameful (colloquial expression of criticism or admonition)
+
+- ただのヤンキーやってやいいのよあんな人　→ He's just a delinquent, that's all (colloquial expression of dismissal or criticism)
+
+- そんなこと言うもんじゃないわ　→ You shouldn't say such things (colloquial expression of admonition or correction)
+
+- 初めから上手くできる人なんていないんだから　→ No one can do well from the beginning, after all (colloquial expression of encouragement or reassurance)
+
+- 流川くんだって最初は下手だったのよきっと　→ Even Rukawa-kun was bad at first, I'm sure (colloquial expression of reassurance or encouragement)
