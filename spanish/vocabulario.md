@@ -26,6 +26,10 @@ el abrigo - coat
 
 ## b
 
+un bigote - mustache
+
+batido - milkshake
+
 bolso - bag
 
 barrio - neighborhood
@@ -35,6 +39,10 @@ boleta - ticket
 bastante - quite
 
 ## c
+
+compartir - to share
+
+cepillar - to brush
 
 compañera - female companion/classmate
 
@@ -77,6 +85,10 @@ el dormitorio - bedroom
 
 ## e
 
+escritor - writer
+
+empresa - company
+
 esquiar - to ski
 
 un estacionamiento - parking lot
@@ -98,6 +110,8 @@ empiezar - to start
 - escultura - sculpture
 
 ## g
+
+grosera - rude
 
 gorra - cap
 
@@ -136,6 +150,8 @@ lejos - far
 
 ## m
 
+el mesero - waiter
+
 manejar - to drive
 
 mayores - older
@@ -153,6 +169,8 @@ mascotas - pets
 
 ## n
 
+ní idea - no idea
+
 nariz - nose
 
 novia - girlfriend
@@ -162,6 +180,8 @@ negocios - businesses
 la nevera - the fridge
 
 ## p
+
+una peluquería - hair salon
 
 Pasear - to go for a walk
 
@@ -227,6 +247,8 @@ la reserva - reservation
 relajarse - to relax
 
 ## s
+
+saludable - healthy
 
 solamente - only
 
