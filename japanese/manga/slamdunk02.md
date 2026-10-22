@@ -1813,3 +1813,25 @@ p. 185
 - 初めから上手くできる人なんていないんだから　→ No one can do well from the beginning, after all (colloquial expression of encouragement or reassurance)
 
 - 流川くんだって最初は下手だったのよきっと　→ Even Rukawa-kun was bad at first, I'm sure (colloquial expression of reassurance or encouragement)
+
+p. 186
+- 流川君が下手ですって　→ They say Rukawa-kun was bad at first (colloquial expression of hearsay or reflection)
+
+- いい加減なこと言うんじゃないわよこの小娘　→ Don't say such irresponsible things, you little girl (colloquial expression of admonition or scolding)
+- いい加減な　→ いいかげんな　→ irresponsible, careless (colloquial expression of criticism or admonition)
+
+- 暴力反対　→ Oppose violence (colloquial expression of stance or declaration)
+- 暴力　→ ぼうりょく　→ violence (colloquial expression of description or emphasis)
+- 反対　→ はんたい　→ opposition, resistance (colloquial expression of stance or declaration)
+
+- 全くもう　→ Good grief; Honestly (colloquial expression of exasperation or frustration)
+
+- スポーツというものがわかってないんだからただキャーキャー言えばいいってもんじゃないのよ　→ You don't understand what sports are, so you can't just go "kyaa kyaa" (colloquial expression of admonition or correction)
+
+- これだからミーハーファンは困るよの　→ This is why mi-ha fans are troublesome (colloquial expression of frustration or exasperation)
+-　ミーハーファン　→ mi-ha fan (fair weather fan)
+
+- もう一度手本を見せてやれ　→ Show them the example once more (colloquial expression of instruction or encouragement)
+- 手本　→ てほん　→ example, model (colloquial expression of instruction or encouragement)
+
+- 春子さんもういいよ流川の手本なんかくそうだ　→ Haruko-san, it's fine already, I don't care about Rukawa's example (colloquial expression of dismissal or frustration)
