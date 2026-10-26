@@ -1835,3 +1835,18 @@ p. 186
 - 手本　→ てほん　→ example, model (colloquial expression of instruction or encouragement)
 
 - 春子さんもういいよ流川の手本なんかくそうだ　→ Haruko-san, it's fine already, I don't care about Rukawa's example (colloquial expression of dismissal or frustration)
+
+p. 187
+- 桜木が庶民のシュートと呼んでいるのはこれである　→ This is what Sakuragi calls the "commoner's shot" (colloquial expression of explanation or description)
+
+- 速攻などの時によく使うシュートでもっともゴール成功率の高い基本的なシュートと言える　→ It can be said to be the most basic shot with the highest success rate, often used during fast breaks
+- もっとも　→ もっとも　→ most, extremely
+- 速攻　→ そっこう　→ fast break
+
+- ちなみに試合でノーマークのランニングシュートを外すと味方からため息が　もれる　→ By the way, if you miss an open running shot in a game, your teammates will sigh
+- もれる　→ もれる　→ to leak out, to escape
+- 外す　→ はずす　→ to miss (a shot)
+- 味方　→ みかた　→ teammate, ally
+- ノーマーク　→ のーまーく　→ open, unguarded
+- ため息　→ ためいき　→ sigh
+- ちなみに　→ ちなみに　→ by the way, incidentally
