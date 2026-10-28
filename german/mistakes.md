@@ -1567,3 +1567,7 @@ Kannst du das Hemd anziehen - correct
 438.  The recipient is missing
 - Der Empfänger ist fehlt - incorrect
 - Der Empfänger fehlt - correct
+
+439.  I help Grandma more often than you do
+- Ich hilfe Oma öfter als du - incorrect
+- Ich helfe Oma öfter als du - correct
