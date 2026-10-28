@@ -1850,3 +1850,44 @@ p. 187
 - ノーマーク　→ のーまーく　→ open, unguarded
 - ため息　→ ためいき　→ sigh
 - ちなみに　→ ちなみに　→ by the way, incidentally
+
+p. 188
+
+
+- 手が滑った　→ My hand slipped
+- 滑る　→ すべる　→ to slip
+
+- コラお前のためにやってんだぞ　→ Hey, I'm doing this for you
+
+- ようし　→ Alright!
+
+- 今度こそ　→ This time I'll definitely make it
+
+- 外すなよ　→ Don't miss
+
+p. 189
+- こんな庶民シュートがこのおれにできないわけがね　今度こそ　→ There's no way I can't make this commoner's shot, this time for sure
+
+p. 190
+- いい気味だ　→ Serves you right; That's what you get
+
+<!-- Suggest the wording only. Don’t add parenthetical labels such as “colloquial.” -->
+
+p. 191
+- おお今のは痛いぞ　→ Oh, that hurt
+
+- 力みすぎだぜ全く　→ You're too tense, seriously
+
+- なぜこんなシュートが出来んのだ　→ Why can't I make such a shot?
+
+- 　桜木花道に何がアドバイスをしてあげたら　→ What advice should I give to Hanamichi Sakuragi?
+
+- 赤木に任せてありますから　大丈夫ですよ　→ It's fine, I've left it to Akagi
+
+- どーだ　目が覚めたか　→ How about it, are you awake now?
+- 覚め　→ さめ　→ to wake up, to become sober
+
+- バスケットを舐めてるとそうゆう目に会うんだ　→ If you underestimate basketball, you'll end up like this
+- 舐める　→ なめる　→ to underestimate, to make light of
+- そうゆう　→ そういう　→ like that, such
+- 目に会うんだ　→ You'll end up like this, you'll face such consequences
