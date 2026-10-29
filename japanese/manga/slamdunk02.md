@@ -1891,3 +1891,18 @@ p. 191
 - 舐める　→ なめる　→ to underestimate, to make light of
 - そうゆう　→ そういう　→ like that, such
 - 目に会うんだ　→ You'll end up like this, you'll face such consequences
+
+p. 192
+- よく見てろよ　→ Watch closely
+
+- 頼む　→ Please, I beg you; I'm counting on you
+
+- またか　なんであのど阿呆のためにこんなことをしなきゃならんのだ　→ Again? Why do I have to do this for that idiot?
+
+- 手が滑った　→ My hand slipped
+
+p. 193
+
+- ようし今までのは練習だ　→ Alright, everything up to now was just practice
+
+- 今今度こそ本番だ　→ This time, it's the real thing
