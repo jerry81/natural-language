@@ -1906,3 +1906,25 @@ p. 193
 - ようし今までのは練習だ　→ Alright, everything up to now was just practice
 
 - 今今度こそ本番だ　→ This time, it's the real thing
+
+p. 195
+- さあさあこれであいこだケンカはやめろ　→ Alright, it's a tie now, stop fighting
+
+- 二人とも　→ Both of you
+
+- いいか桜木肩の力をねいてもっと柔らかくシュートしなくちゃ　→ Listen, Sakuragi, you have to relax your shoulders and shoot more softly
+
+- そんだけの身長とジャンプ力があるんだから　→ With that height and jumping ability
+
+- 軽ーくボールを置いてくる気持ちでやればいいんだ　→ You should do it with the feeling of lightly placing the ball
+- 軽ーく　→ かるーく　→ lightly
+
+- いいカッコしようとしすぎだ全く　→ You're trying too hard to look good, seriously
+
+- バカタレが　→ You idiot
+- タレ　→ たれ　→ idiot, fool
+
+- それに人の夜のをちゃんと見てないとダメだ　流川が怒るのも無理ないぞ　→ Besides, you have to properly watch what others are doing at night, so it's no wonder Rukawa gets angry
+- 無理ないぞ　→ むりないぞ　→ no wonder, understandable
+
+- 流川のフォームは綺麗だから手本になるからな　→ Rukawa's form is beautiful, so it can serve as a model
