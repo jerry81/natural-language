@@ -348,6 +348,8 @@
 
 ## い
 
+一文目　→ いちぶんめ　→ first sentence
+
 一台　→ いちだい　→ counter for machines
 
 息を吐きます　→ いきをはきます　→ to exhale

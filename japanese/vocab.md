@@ -299,6 +299,8 @@ So, "着きました" (tsukimashita) means "arrived" or "came." The sentence "�
 
 ## と
 
+ところで　→ by the way, incidentally
+
 とも　- same
 
 とよく - often
