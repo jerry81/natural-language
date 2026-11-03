@@ -236,6 +236,10 @@ Qué hago - what do i do
 
 ## r
 
+repasar - review
+
+refresco - soda
+
 receta - recipe
 
 redes sociales - social media

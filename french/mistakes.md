@@ -509,3 +509,15 @@
 135.  哦，公交车来了
 - Oh, voilà sont venus bus! - incorrect
 - Oh, voilà le bus! - correct
+
+136.  那就是公园
+- Il est parc - incorrect
+- Voilà le parc - correct
+
+137.  为什么那只猫在我的房间里
+- Por quoi le chat est dans mon quartier - incorrect
+- Pourquoi le chat est dans ma chambre - correct
+
+138.  哪个地铁站今天关门
+- La métro aujourd'hui est fermée - incorrect
+- La station de métro est fermée aujourd'hui - correct

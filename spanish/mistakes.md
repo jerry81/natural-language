@@ -428,3 +428,7 @@
 107.  The dress costs fourteen pesos
 - El vestido cuesta catorce - incorrect
 - El vestido cuesta catorce pesos - correct
+
+108.  Well, my wife always exercises
+- Bueno mi esposa ejercicio siempre - incorrect
+- Bueno, mi esposa siempre hace ejercicio - correct
