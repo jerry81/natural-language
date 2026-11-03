@@ -1928,3 +1928,23 @@ p. 195
 - 無理ないぞ　→ むりないぞ　→ no wonder, understandable
 
 - 流川のフォームは綺麗だから手本になるからな　→ Rukawa's form is beautiful, so it can serve as a model
+
+p. 196
+
+- 悪かった　→ My bad, sorry about that
+
+- シュートがうまくいかなくてイライラしてたんだ　→ I was frustrated because my shots weren't going well
+- イライラ　→ いらいら　→ frustration, irritation
+- うまくいかなくて　→ うまくいかなくて　→ not going well, not succeeding
+
+- すまん　→ Sorry, my bad
+
+p. 197
+
+- もう一回お手本を見せてくれよ　→ Show me the example one more time
+- 一回　→ いっかい　→ one time, once
+
+- いいけど　→ Alright, but...
+
+- エライわ　→ You're amazing, impressive
+
