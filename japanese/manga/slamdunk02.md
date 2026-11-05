@@ -1948,3 +1948,20 @@ p. 197
 
 - エライわ　→ You're amazing, impressive
 
+p. 198
+- あっと体全体が滑った　→ Oh, my whole body slipped
+
+- バカ目るかわ　→ You idiot, Rukawa
+
+- ぎろり　→ Glare, scowl
+
+p. 199
+- 言ってえな　→ Say it, will you?
+
+- てめー流川　→ You bastard, Rukawa
+
+- いい加減にせんかい　→ Cut it out already, will you?
+
+- この日　桜木はもうシュートは打たせてもらえなかった　→ On this day, Sakuragi was no longer allowed to take shots
+- バスケットマンの道は険しく遠い　→ The path of a basketball player is steep and long
+- 険しい　→ けわしい　→ steep, rugged, difficult
