@@ -40,6 +40,8 @@ bastante - quite
 
 ## c
 
+crudo - raw
+
 compartir - to share
 
 cepillar - to brush
@@ -85,6 +87,10 @@ el dormitorio - bedroom
 
 ## e
 
+extranjera - foreigner
+
+entrada - ticket
+
 escritor - writer
 
 empresa - company
@@ -110,6 +116,8 @@ empiezar - to start
 - escultura - sculpture
 
 ## g
+
+galleta - cookie
 
 grosera - rude
 
@@ -297,6 +305,8 @@ tallas - sizes
 
 # v
 
+vender - to sell
+
 el vaso - glass
 
 el vestido - dress
@@ -304,3 +314,7 @@ el vestido - dress
 vete - go away
 
 ver - to see
+
+# z
+
+zanahorias - carrots
