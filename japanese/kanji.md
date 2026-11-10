@@ -466,6 +466,8 @@
 
 ## か
 
+雷　→ かみなり　→ thunder
+
 缶　→ かん　→ can (container)
 
 怪獣　→ かいじゅう　→ monster

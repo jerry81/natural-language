@@ -1571,3 +1571,11 @@ Kannst du das Hemd anziehen - correct
 439.  I help Grandma more often than you do
 - Ich hilfe Oma öfter als du - incorrect
 - Ich helfe Oma öfter als du - correct
+
+440.  My. brother loves this color very much
+- Mein Bruder sehr liebt diese Farbe- incorrect
+- Mein Bruder liebt diese Farbe sehr - correct
+
+441.  A partner
+- eine partner - incorrect
+- eine Partnerin - correct

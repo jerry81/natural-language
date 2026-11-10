@@ -87,6 +87,8 @@ el dormitorio - bedroom
 
 ## e
 
+encima - on top of
+
 extranjera - foreigner
 
 entrada - ticket
