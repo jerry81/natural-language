@@ -1965,3 +1965,14 @@ p. 199
 - この日　桜木はもうシュートは打たせてもらえなかった　→ On this day, Sakuragi was no longer allowed to take shots
 - バスケットマンの道は険しく遠い　→ The path of a basketball player is steep and long
 - 険しい　→ けわしい　→ steep, rugged, difficult
+
+p.  201
+- 中学の頃はもっと行けたんだけどな　→ I could do better back in middle school, though
+
+- やっぱり現役の頃とは違うな　→ As expected, it's different from when I was active
+- 現役　→ げんえき　→ active, currently in service
+
+- いまだに一発も入らんとは　→ I still haven't made a single shot
+- 一発　→ いっぱつ　→ one shot, one try
+
+p.  203
