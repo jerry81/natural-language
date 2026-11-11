@@ -1579,3 +1579,13 @@ Kannst du das Hemd anziehen - correct
 441.  A partner
 - eine partner - incorrect
 - eine Partnerin - correct
+
+442.  They are looking for their dog, but it is gone.
+- Sie suchen ihren hunde, aber es ist weg - incorrect
+- Sie suchen ihren Hund, aber er ist weg - correct
+
+443.  You're waiting here
+- Du warst hier - incorrect
+- Du wartest hier - correct
+
+444.

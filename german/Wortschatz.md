@@ -437,6 +437,8 @@ evtl - possibly
 
 # F
 
+ferien - holidays
+
 der Friseur - hairdresser
 
 fix und fertig - exhausted, completely done
@@ -1013,6 +1015,8 @@ praktisch - practical
 
 # R
 
+reiten - to ride (a horse)
+
 das Rezept - the recipe
 
 der Rock - skirt
@@ -1361,6 +1365,8 @@ untersuchen - checkup
 
 # V
 
+Verstecken - hide-and-seek
+
 verdiene - to earn
 
 Verstecken - hide and seek
@@ -1540,11 +1546,15 @@ wurden - would
 
 # Z
 
+Zeitschriften - magazines
+
 zurückgeben - return
 
 zeigen - show
 
 Zeugnis - report card
+- zeug - things
+- nis - suffix forming nouns
 
 ziemlich - seemingly, fairly, pretty, reasonably
 
