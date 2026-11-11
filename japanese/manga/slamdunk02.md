@@ -1975,4 +1975,32 @@ p.  201
 - いまだに一発も入らんとは　→ I still haven't made a single shot
 - 一発　→ いっぱつ　→ one shot, one try
 
+p.  202
+
+- この感覚　→ このかんかく　→ this feeling, this sensation
+
 p.  203
+
+- びっくりしちゃった　→ I was surprised
+- しちゃった　→ しちゃった　→ did (something) inadvertently, ended up doing
+
+- この朝早くに桜木君が練習してるなんて　→ I can't believe Sakuragi is practicing this early in the morning
+
+- いいや　→ No way, really?
+
+- 練習だなんて　→ I can't believe it's just practice
+
+- 昨日うまくいかなかったレイアップシュートの練習をしてたのね　→ You were practicing the layup shots that didn't go well yesterday, huh?
+
+- 努力家なのね桜木君て感心しちゃった　→ You're such a hard worker, Sakuragi, I'm impressed
+- 感心しちゃった　→ かんしんしちゃった　→ impressed, amazed
+- 努力　→ どりょく　→ effort, hard work
+- 感心　→ かんしん　→ admiration, being impressed
+
+- エライわ　→ You're amazing, impressive
+
+- ははははまさか　→ No way, really?
+
+- この天才バスケットマンが努力などするはずがない　→ There's no way this genius basketball player would make an effort
+
+- 遊びですよ遊び　→ It's just for fun, just playing around
