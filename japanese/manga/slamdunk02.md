@@ -2004,3 +2004,25 @@ p.  203
 - この天才バスケットマンが努力などするはずがない　→ There's no way this genius basketball player would make an effort
 
 - 遊びですよ遊び　→ It's just for fun, just playing around
+
+p. 204
+- レイアップだったら私も少しは教えてあげられるわ　→ If it's a layup, I can teach you a little too
+- 教えてあげられる　→  おしえてあげられる　→ can teach (for someone's benefit)
+
+- 中学の頃　私このシュートだけは得意だったのよ　→ Back in middle school, I was good at this shot
+- 得意　→ とくい　→ good at, strong point
+
+- 桜木君人に教えてもらったりとかは嫌いかしら　→ Sakuragi, do you dislike being taught by others?
+
+- いや！まさか　→ No! No way
+
+- バスケットマンは人の意見を聞くのが大事ですから　→ Because it's important for basketball players to listen to others' opinions
+
+- そうよね　→ That's right, isn't it?
+
+- おお　ここれは二人だけの秘密特訓というやつでは　→ Oh, this is what they call a secret training session for just the two of us
+- 特訓　→ とっくん　→ special training, intensive practice
+
+- 幸せの予感　→ A premonition of happiness
+
+- 行きます　→ Here I go
