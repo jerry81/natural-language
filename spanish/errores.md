@@ -432,3 +432,7 @@
 108.  Well, my wife always exercises
 - Bueno mi esposa ejercicio siempre - incorrect
 - Bueno, mi esposa siempre hace ejercicio - correct
+
+109.  Is it hot in January?
+- Hace color en enero? - incorrect
+- Hace calor en enero? - correct

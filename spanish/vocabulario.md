@@ -40,6 +40,8 @@ bastante - quite
 
 ## c
 
+cita - date
+
 crudo - raw
 
 compartir - to share
@@ -191,6 +193,8 @@ la nevera - the fridge
 
 ## p
 
+patinar - to skate
+
 una peluquería - hair salon
 
 Pasear - to go for a walk
@@ -245,6 +249,8 @@ quisiera - i would like
 Qué hago - what do i do
 
 ## r
+
+rico - tasty
 
 repasar - review
 
