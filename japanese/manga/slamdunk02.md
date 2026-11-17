@@ -2036,3 +2036,31 @@ p. 204
 - 私のことトロイオンあと思ってるてしよう　→ You probably think I'm slow, don't you?
 - トロイ　→ とろい　→ slow, clumsy
 - 思ってるでしょう　→ おもってるでしょう　→ probably, I guess
+
+p. 205
+- やっぱりねみんないつもそうゆうんだから　→ As expected, everyone always says that
+
+- いやいやそのようなことはないわ　→ No, no, that's not the case
+
+- でも大丈夫本当に得意なんだから　→ But it's okay, I'm really good at it
+
+- 中学時代ね　私何にも取り柄がなかったのよ　→ Back in middle school, I didn't have any particular strengths
+
+- 桜木君みたいに背が高いわけじゃないし　→ I'm not tall like Sakuragi, you know
+
+- 3点シュートは届かないし　→ I can't reach three-point shots either
+
+- ドリブルはすぐとられるし　→ My dribbling gets stolen immediately too
+
+- 相手にパスしちゃうし　→ I end up passing to the opponent too
+
+- だけど走ることだけなら私にもできるから　→ But if it's just running, I can do it too
+
+- 速攻で真っ先に走ることだけはやろうと決めたの　→ I decided that at least I would run first in fast breaks
+
+- だからランニングシュートだけは外さないように練習したわお兄ちゃんに教えてもらって　→ So I practiced so that I wouldn't miss running shots, and I had my older brother teach me
+- 外さない　→  はずさない　→ not miss, not fail to hit
+
+- あのお兄ちゃんに向かって行ける人は桜木君くらいよ　→ The only person who can go up to that older brother is probably Sakuragi
+
+- だから今でもランニングシュートは得意なのよ　→ That's why I'm still good at running shots even now
