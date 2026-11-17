@@ -29,6 +29,8 @@ Un Bicchiere - a cup
 
 # c
 
+cetriolo - cucumber
+
 certo - of course
 
 il cibo - the food
@@ -139,6 +141,8 @@ nello - in
 nel - inside
 
 # o
+
+- ora - now
 
 - l'orso - bear
 

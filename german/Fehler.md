@@ -1588,4 +1588,23 @@ Kannst du das Hemd anziehen - correct
 - Du warst hier - incorrect
 - Du wartest hier - correct
 
-444.
+444. Next year I will visit you more often
+- Nächstes Jahr ich dich besuche öfter - incorrect
+- Nächstes Jahr besuche ich dich öfter - correct
+
+445.  Where do you all work?
+- Wo arbeiten ihr? - incorrect
+- Wo arbeitet ihr? - correct
+- special group form for addressing a group informally, ihr (-t verb ending)
+
+446.  Alex, you always snore!
+- Alex, du scharcht immer! - incorrect
+- Alex, du schnarchst immer! - correct
+
+447.  I never snore
+- Ich schnarcht nie - incorrect
+- Ich schnarche nie - correct
+
+448.  Our grandma doesn't snore
+- Unsere Oma schnart nicht - incorrect
+- Unsere Oma schnarcht nicht - correct

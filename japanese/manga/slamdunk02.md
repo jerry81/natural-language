@@ -2026,3 +2026,13 @@ p. 204
 - 幸せの予感　→ A premonition of happiness
 
 - 行きます　→ Here I go
+
+p. 204
+- 今度こそ　→ This time for sure
+
+- いやもいっすよ　→ No, it's fine, really
+- いっすよ　→ いっすよ　→ it's fine, really
+
+- 私のことトロイオンあと思ってるてしよう　→ You probably think I'm slow, don't you?
+- トロイ　→ とろい　→ slow, clumsy
+- 思ってるでしょう　→ おもってるでしょう　→ probably, I guess

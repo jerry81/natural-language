@@ -173,6 +173,8 @@
 
 ## ふ
 
+布巾　→ ふきん　→ dishcloth
+
 拭きます　→ ふきます　→ to wipe
 
 腹筋　→ ふっきん　→ abdominal muscles
