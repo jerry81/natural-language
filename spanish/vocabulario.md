@@ -162,6 +162,8 @@ lejos - far
 
 ## m
 
+morado - purple
+
 el mesero - waiter
 
 manejar - to drive
@@ -236,6 +238,8 @@ el postre - the dessert
 
 ## q
 
+querido diario - dear diary
+
 qué pena - what a shame
 
 quisiera - i would like
@@ -249,6 +253,8 @@ quisiera - i would like
 Qué hago - what do i do
 
 ## r
+
+rubio - blond
 
 rico - tasty
 
