@@ -2064,3 +2064,20 @@ p. 205
 - あのお兄ちゃんに向かって行ける人は桜木君くらいよ　→ The only person who can go up to that older brother is probably Sakuragi
 
 - だから今でもランニングシュートは得意なのよ　→ That's why I'm still good at running shots even now
+
+p.  208
+- 入った?　→ Did it go in?
+
+- そうか 努力したんだな　春子さん　→ I see, you made an effort, Haruko-san
+- 努力　→ どりょく　→ effort, hard work
+
+- 俺も努力しよう　→ I will make an effort too
+
+- さあ今度は桜木君の番よ　→ Now it's your turn, Sakuragi
+
+- 私がコーチしてあげるわ　→ I will coach you (for your benefit)
+
+p. 210
+- くそっ　→ Damn it
+- 先客か　→ Someone's already here, huh?
+- 先客　→ せんキャく　→ someone who arrived first
