@@ -2081,3 +2081,26 @@ p. 210
 - くそっ　→ Damn it
 - 先客か　→ Someone's already here, huh?
 - 先客　→ せんキャく　→ someone who arrived first
+
+p. 212
+- おかしいな　→ That's strange, isn't it?
+
+- 何が悪いんだろう　→ I wonder what went wrong
+
+- なぜ入らん　→ Why didn't it go in?
+
+- てが悪い　→ It's the hand's fault
+
+- 桜木君最初は誰だってうまくいかない者よう　→ Sakuragi, at first, no one succeeds immediately
+
+- そうすか　→ I see, is that so?
+
+- そうよ　気にすることないわよ　→ That's right, there's nothing to worry about
+
+- 優しいな　→ You're so kind
+
+- ようし　→ Alright, let's do this
+
+- 絶対に決めるぞ　→ I will definitely make it
+- 決めるぞ　→ I will make it (for sure)
+- 絶対　→ ぜったい　→ absolutely, definitely
