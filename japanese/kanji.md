@@ -468,6 +468,8 @@
 
 ## か
 
+籠　→ かご　→ basket
+
 雷　→ かみなり　→ thunder
 
 缶　→ かん　→ can (container)
