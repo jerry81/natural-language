@@ -314,6 +314,8 @@
 
 ## ひ
 
+膝　→ ひざ　→ knee(s)
+
 控えます　→ ひかえます　→ to refrain from
 
 表示　→ ひょうじ　→ display, expression

@@ -2137,3 +2137,43 @@ p. 213
 
 - よし高くジャンプしてみよう　→ Alright, let's try jumping high
 
+p. 214
+- 高くジャンプ　→ Jump high
+
+- あっ　いい感じ　→ Ah, good feeling
+- いい感じ　→ いいかんじ　→ good feeling, good sense
+
+- しまった　→ Darn it, I messed up
+
+- 今のすごくいい感じだったわ　→ That just now felt really good
+
+- うん　今のはいい　→ Yeah, that was good
+
+- いや！春子さん　今のは高く跳ぶことに気を取られて手がほったらかしに　→ No! Haruko-san, just now I was so focused on jumping high that I neglected my hands
+- ほったらかし　→ ほったらかし　→ neglect, leave alone
+
+- 手がほったらかしに　→ My hands were neglected
+
+p. 215
+- それでいいの　手を使いすぎてたのよ　→ That's fine, you were using your hands too much
+
+- お兄ちゃんの言ってた　「置いてくる」ってこういうことだったのね　→ So that's what it meant when you said "put it there"
+- 言ってた　→ いってた　→ was saying, said
+
+- 置いてくる　→ おいてくる　→ to put (something) there, to leave behind
+
+- ねー　お兄ちゃんランニングシュートのコツを教えてよ　→ Hey, big brother, teach me the trick to running shots
+- 教えてよ　→ おしえてよ　→ teach me, tell me (casual)
+
+- そう　だな　→ Yeah, that's right
+- お前のはヒザが固いよ　→ Your knees are stiff
+- ヒザが固い　→ ひざがかたい　→ knees are stiff
+
+- まず　膝を　柔らかくして　→ First, loosen up your knees
+- 膝を　柔らかくして　→ ひざを　やわらかくして　→ loosen up your knees
+- 柔らかくして　→ やわらかくして　→ loosen up, make soft
+
+- 体全体で跳んで　→ からだぜんたいでとんで　→ jump with your whole body
+
+- ボールはリングに置いてくるような感覚だな　→ It feels like putting the ball on the ring
+
