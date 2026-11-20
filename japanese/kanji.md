@@ -241,6 +241,8 @@
 
 ## は
 
+筈　→ はず　→ should be, expected to be
+
 鋏　→ はさみ　→ scissors
 
 計ります　→ はかります　→ to measure
@@ -665,6 +667,8 @@ islam教　→ きょう
 聴　 → き
 
 ## こ
+
+骨　→ こつ　→ bone/trick
 
 混んでいました　→ こんでいました　→ crowded
 

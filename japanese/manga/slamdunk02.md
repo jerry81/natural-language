@@ -2104,3 +2104,36 @@ p. 212
 - 絶対に決めるぞ　→ I will definitely make it
 - 決めるぞ　→ I will make it (for sure)
 - 絶対　→ ぜったい　→ absolutely, definitely
+
+p. 213
+
+- なんかコツがあるはずだ　→ There must be some trick to it
+- コツ　→ こつ　→ trick, knack, secret to success
+- はずだ　→ はずだ　→ should be, must be, expected to be
+
+- それさえ掴めばこの俺に出来ないはずはない　→ If I can grasp that, there's no way I can't do it
+- 掴めば　→ つかめば　→ if I can grasp
+- 出来ないはずはない　→ できないはずはない　→ there's no way I can't do it
+- それさえ　→ それさえ　→ if only that, as long as that
+
+- ううむ　それは一体　→ Hmmm, what on earth is that?
+
+- 何が行けないのかしら　→ I wonder what is wrong
+
+- フォームはそんなおかしくないと思うけど　→ I think the form isn't that strange, but...
+
+- 迫力あるし　→ It has impact, and...
+- 迫力　→ はくりょく　→ impact, force, intensity
+
+- そういえば　→ Now that you mention it, come to think of it
+
+- 流川はもっとフワッと跳んでだような　→ I think Rukawa used to jump more lightly
+- フワッと　→ ふわっと　→ lightly, softly, fluffily
+  - the と　turns it into an adverb
+- 跳んで　→ とんで　→ jump
+
+- ジャンプが足りねえのかも　→ Maybe I'm not jumping enough
+- 足りねえ　→ たりねえ　→ not enough, insufficient
+
+- よし高くジャンプしてみよう　→ Alright, let's try jumping high
+

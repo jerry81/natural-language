@@ -150,6 +150,8 @@ nel - inside
 
 # p
 
+poi - then
+
 pranzo - lunch
 - prawns for lunch
 
@@ -202,6 +204,8 @@ spaiacente - sorry
 il succho - the juice
 
 # t
+
+tre - three
 
 tedesco - German
 
