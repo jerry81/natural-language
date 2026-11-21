@@ -2177,3 +2177,34 @@ p. 215
 
 - ボールはリングに置いてくるような感覚だな　→ It feels like putting the ball on the ring
 
+p.  216
+- そうか　手の力はいらないのか　→ I see, I don't need hand strength after all
+
+- なるほど　→ I see, I understand
+
+- 何かを掴んだような気がする　→ I feel like I've grasped something
+
+- いいなあ　→ I like it, that's nice
+
+- 高く跳べる人は　→ People who can jump high
+
+- 私にはそんな感覚全然わかんなかった　→ I had no idea about that feeling at all
+
+- ちょっと悔しいな　→ I feel a little frustrated
+- 悔しい　→ くやしい　→ frustrated, vexed, regretful
+
+- 膝を柔らかくして　→ Loosen up your knees
+
+- 高く跳んで　→ Jump high
+
+- 置いてくる　→ Put it there, leave it behind
+
+- 行きますよ　春子さん　今度はバッチリ　→ Here I go, Haruko-san, this time perfectly
+- バッチリ　→ perfectly, spot on
+
+- これが彼が初めて入れた　「庶民のシュート」であった　→ This was the first "commoner's shot" he made
+
+- 終わったんなら　早く帰れよな　→ If you're done, go home quickly
+
+- 早起きしてよかったな　→ I'm glad I woke up early
+- 早起き　→ はやおき　→ waking up early
