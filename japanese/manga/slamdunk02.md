@@ -2208,3 +2208,20 @@ p.  216
 
 - 早起きしてよかったな　→ I'm glad I woke up early
 - 早起き　→ はやおき　→ waking up early
+
+p.  222
+- 桜木君どうしたんだろ今日はやけに機嫌がいいな　→ I wonder what's up with Sakuragi-kun, he's in an unusually good mood today
+- 機嫌がいい　→ きげんがいい　→ in a good mood
+
+- いよ　花道同士たヘラヘラして　→ Yo, Hanamichi, you're grinning with each other
+- ヘラヘラして　→ へらへらして　→ grinning, smirking
+
+- 女にフラれすぎてとうとう頭にきたかあ　→ Did he finally get mad after being rejected by too many girls?
+- フラれすぎて　→ ふられすぎて　→ being rejected too much
+
+- いよ　高宮相変わらず丸いな　→ Yo, Takamiya, you're still round as ever
+
+- バスケ部の親父といい勝負だ　→ He's a good match for the basketball club's old man
+- 勝負　→ しょうぶ　→ match, contest, competition
+
+-
