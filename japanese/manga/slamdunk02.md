@@ -2224,4 +2224,30 @@ p.  222
 - バスケ部の親父といい勝負だ　→ He's a good match for the basketball club's old man
 - 勝負　→ しょうぶ　→ match, contest, competition
 
+p. 223
+- 放せ　→ はなせ　→ Let go, release
+
+- ダイエットしなさい　→ だいえっとしなさい　→ Go on a diet, lose weight
+
+- これが16歳のハラか　→ So this is the belly of a 16-year-old
+- ハラ　→ はら　→ belly, stomach
+
+- このビール腹が　→ This beer belly
+- ビール腹　→ びーるばら　→ beer belly
+
+- スポーツをしなさい　→ すぽーつをしなさい　→ Do sports, exercise
+
+- スポーツはいいよキミたち　→ Sports are good for you guys
+
+- なんなんだ一体くそ　→ What the hell is going on, damn it
+
+- 洋平　花道　なんか　あったのか　→ Yohei, Hanamichi, did something happen?
+- なんか　あったのか　→ なにか　あったのか　→ Did something happen?
+
+- ヤケにじょう機嫌じゃねーか　→ You're in an unusually good mood, huh
+- じょう機嫌　→ じょうきげん　→ unusually good mood
+- ヤケに　→ やけに　→ unusually, excessively
+
+- なんかさ　→ You know, something like that
+
 -
