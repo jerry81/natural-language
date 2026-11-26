@@ -193,6 +193,10 @@ negocios - businesses
 
 la nevera - the fridge
 
+## o
+oferta - offer/deal
+en oferta - on sale
+
 ## p
 
 patinar - to skate
