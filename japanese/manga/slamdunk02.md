@@ -2250,4 +2250,39 @@ p. 223
 
 - なんかさ　→ You know, something like that
 
--
+p.  224
+- 春子ちゃんと朝練をした　→ I practiced in the morning with Haruko-chan
+- 朝練　→ あされん　→ morning practice
+
+- 二人っきりで　→ ふたりっきりで　→ just the two of us
+
+- きみは春子さんの友達　→ You are Haruko-san's friend, right?
+
+- はい　藤井です　→ Yes, I'm Fujii
+- 藤井　→ ふじい　→ Fujii
+
+- しかしいつの間に春子ちゃんとそこまでの仲に　→ But when did you become that close with Haruko-chan?
+- 仲に　→ なかに　→ relationship, closeness
+
+- でも　よく考えたら　単なる偶然だろそれ　→ But when I think about it, it's probably just a coincidence
+- 単なる偶然　→ たんなるぐうぜん　→ mere coincidence
+
+- そうだよな　たまたま　会っただけのことだもんな　進展とは言えねえな　→ That's right, it was just a chance meeting, so I can't call it progress
+- 進展　→ しんてん　→ progress, development
+- だもんな　→ だもんな　→ after all, isn't it?
+- たまたま　→ たまたま　→ by chance, coincidentally
+
+- 進展するわけがない　→ There's no way it could progress
+
+- その通り　→ That's right, exactly
+- 通り　→ とおり　→ way, manner, exactly as stated
+
+- でも　そんな偶然でアスこまで幸せに慣れるやつも珍しい　→ But it's rare for someone to become this happy just by such a coincidence
+- 幸せに慣れる　→ しあわせになれる　→ to become happy
+
+- 単純の極致だな　→ He's the epitome of simplicity
+- 極致　→ きょくち　→ extreme, pinnacle, epitome
+- 単純　→ たんじゅん　→ simple, straightforward
+
+- 単純王だな　→ He's the king of simplicity
+- 王　→ おう　→ king
