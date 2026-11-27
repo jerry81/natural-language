@@ -127,6 +127,8 @@ Review
 
 ## サ
 
+サークル　→ circle (club or group)
+
 サイト　→ site
 
 ## ス
