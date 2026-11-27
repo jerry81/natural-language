@@ -2286,3 +2286,40 @@ p.  224
 
 - 単純王だな　→ He's the king of simplicity
 - 王　→ おう　→ king
+
+p.  225
+-　この男も堂々と寝おって　→ This guy is also boldly sleeping
+- 寝おって　→ ねおって　→ sleeping boldly
+- 堂々　→ どうどう　→ boldly, confidently
+
+- わしの授業はそんなにつまらんか　→ Is my class really that boring?
+- つまらんか　→ つまらんか　→ boring, uninteresting
+- わし　→ わし　→ I (used by elderly men)
+
+- 春子さんムニャムニャ　→ Haruko-san mumbles in her sleep
+- ムニャムニャ　→ むにゃむにゃ　→ mumbling in sleep
+
+- むまさに単純王　→ Indeed, the king of simplicity
+- むまさに　→ むまさに　→ indeed, truly
+
+- ほっとけ　→ Leave me alone, forget it
+
+p.  229
+- このくらい　→ こんなくらい　→ this much, this level
+
+p. 231
+- 不吉な　→ ふきつな　→ ominous, unlucky
+
+p.  232
+- たわけ　→ ばか　→ fool, idiot
+
+- 全くレイアップが一度入ったくらいでうかれててどうする　→ How can you get so excited just because you made a layup once?
+- うかれてて　→ うかれてて　→ getting excited, being elated
+
+- いやあしかしまあ　大した進歩だよ　→ Well, it's quite an improvement
+- 大した　→ たいした　→ considerable, significant
+
+- まだ習ったばかりなのになあ桜木　→ It's only been a short time since you learned it, Hanamichi
+- 習った　→ ならった　→ learned, studied
+
+-
