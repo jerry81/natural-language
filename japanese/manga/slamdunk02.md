@@ -2322,4 +2322,15 @@ p.  232
 - まだ習ったばかりなのになあ桜木　→ It's only been a short time since you learned it, Hanamichi
 - 習った　→ ならった　→ learned, studied
 
--
+p.  233
+- ばかもの、シュートは毎日の反復練習が一番大事なんだ　→ You fool, the most important thing for shooting is daily repetitive practice
+- ばかもの　→ ばかもの　→ fool, idiot
+- 反復練習　→ はんぷくれんしゅう　→ repetitive practice
+
+- しかしこんなに成長の早いやつは初めて見たよ　→ I've never seen someone grow this fast before
+- 成長　→ せいちょう　→ growth, development
+
+- その調子で頑張れよ　→ Keep it up, do your best
+
+- 名物アメとムチ　→ The famous carrot and stick approach
+- アメとムチ　→ あめとむち　→ carrot and stick (literally "candy and whip")
